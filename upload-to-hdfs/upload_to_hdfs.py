@@ -10,14 +10,14 @@ hdfs_directory = "/user/dataPipeline/collectedData/"
 upload_log = "/Users/data-project/data-pipeline-project/upload_log.txt"
 
 # 로그 파일을 확인하고 업로드 기록이 없는 파일만 업로드
-def upload_to_hdfs():
+def upload_to_hdfs(local_directory):
     if not os.path.exists(upload_log):
         open(upload_log, 'w').close()  # 로그 파일이 없으면 생성
 
     with open(upload_log, 'r') as f:
         uploaded_files = f.read().splitlines()
 
-    for filename in os.listdir(local_directories):
+    for filename in os.listdir(local_directory):
         local_file_path = os.path.join(local_directories, filename)
         
         if filename not in uploaded_files:

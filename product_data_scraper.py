@@ -19,7 +19,7 @@ chrome_options.add_argument("--window-size=1920x1080")
 # ChromeDriver 실행
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-# 암묵적 대기
+# 다 로드 될때까지 기다리기
 driver.implicitly_wait(10)
 
 # 셀별 데이터를 저장할 리스트
@@ -48,7 +48,7 @@ def collect_data_from_page(page_num, category_num):
             time_info = product.find_element(By.XPATH, ".//a/div[2]/div[2]/div[2]").text
             location = product.find_element(By.XPATH, ".//a/div[3]").text
 
-            #현재 날짜와 시간
+            # 현재 날짜와 시간
             current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
             product_data = {
@@ -93,8 +93,12 @@ def collect_all(category_num):
 
 collect_all(320) #남자
 collect_all(310) #여자
-# schedule.every(3).hours.do(lambda: collect_all(320))
-# schedule.every(3).hours.do(lambda: collect_all(310))
+# schedule.every(7).hours.do(lambda: collect_all(320))
+# schedule.every(7).hours.do(lambda: collect_all(310))
+# schedule.every(14).hours.do(lambda: collect_all(320))
+# schedule.every(14).hours.do(lambda: collect_all(310))
+
+
 
 # 스케줄이 실행되도록 유지
 try:

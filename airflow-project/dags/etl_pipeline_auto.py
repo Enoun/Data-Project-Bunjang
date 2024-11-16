@@ -1,6 +1,6 @@
 from airflow import DAG
 from airflow.operators.bash import BashOperator
-from airflow.operators.puthon import PythonOperator
+from airflow.operators.python import PythonOperator
 from airflow.utils.dates import days_ago
 from datetime import timedelta
 import os
@@ -28,10 +28,10 @@ with DAG(
     # 1. 데이터 수집
     collect_data = BashOperator(
         task_id = 'collect_data',
-        bash_command = 'python /path/to/your/selenium_script.py',
+        bash_command = 'python /Users/data-project/data-pipeline-project/product_data_scraper.py',
     )
 
-    # HDFS에 업로드    
+    # HDFS에 업로드
     def upload_to_hdfs():
         os.system("hdfs dfs -put /local.data/path.csv /user/dataPipeline/collectedData")
 
@@ -43,7 +43,7 @@ with DAG(
     # 3. spark 전처리 작업
     spark_processing = BashOperator(
         task_id = 'spark_processing',
-        bash_command = 'spark-submit --master local /path/to/yousparkr',
+        bash_command = 'spark-submit --master local /Users/data-project/data-pipeline-project/etl-saprk/etl_pipeline.py',
     )
 
     # 작업 순서 정의

@@ -4,29 +4,17 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime
 import pandas as pd
-import os
 import time as t
 import schedule
+import threading
 
-# ChromeDriver 경로 설정
-service = Service('/Users/data-project/chromedriver-mac-arm64/chromedriver')
-
-# Chrome 옵션 설정
-chrome_options = Options()
-chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("--window-size=1920x1080")
-
-# ChromeDriver 실행
-driver = webdriver.Chrome(service=service, options=chrome_options)
-
-# 다 로드 될때까지 기다리기
-driver.implicitly_wait(10)
+chrome_driver_path = '/Users/data-project/chromedriver-mac-arm64/chromedriver'
 
 # 셀별 데이터를 저장할 리스트
 product_data_list = []
 
 # 페이지 수집 함수 정의
-def collect_data_from_page(page_num, category_num):
+def collect_data_from_page(page_num, category_num, driver):
     page_url = f"https://m.bunjang.co.kr/categories/{category_num}?page={page_num}&req_ref=popular_category"
     driver.get(page_url)
 
@@ -38,6 +26,7 @@ def collect_data_from_page(page_num, category_num):
 
     # 상품 리스트가 로드될 때까지 대기
     products = driver.find_elements(By.XPATH, "//*[@id='root']/div/div/div[4]/div/div[4]/div/div")  # 상품 셀의 XPATH
+    product_data_list = []
 
     # 상품 정보 추출 및 저장
     for product in products:
@@ -67,16 +56,25 @@ def collect_data_from_page(page_num, category_num):
     return product_data_list
 
 def collect_all(category_num):
-    print("데이터 수집을 시작.")
-    global product_data_list
+    print(f"{category_num}번 데이터 수집 시작")
 
-    product_data_list = []
-    for page_num in range(1, 291):
-        collect_data_from_page(page_num, category_num)
+    # ChromeDriver 경로 설정
+    service = Service('/Users/data-project/chromedriver-mac-arm64/chromedriver')
+    # Chrome 옵션 설정
+    chrome_options = Options()
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920x1080")
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    # 다 로드 될때까지 기다리기
+    driver.implicitly_wait(10)
+
+    all_data = []
+    for page_num in range(1, 301):
+        page_data = collect_data_from_page(page_num, category_num, driver)
+        all_data.extend(page_data)
         print(f"{page_num}번 페이지 추출 성공")
 
-    df = pd.DataFrame(product_data_list)
-
+    df = pd.DataFrame(all_data)
     if category_num == 320:
         sex_category = "mans_category"
     else:
@@ -89,16 +87,21 @@ def collect_all(category_num):
     # 파일이 존재하는지 확인하여 헤더 설정
     df.to_csv(file_path, mode='w', header=True, encoding="utf-8-sig", index=False)
     print("데이터 수집 및 저장 완료")
-    print(datetime.now().strftime('x%x %X'))
 
-collect_all(320) #남자
-collect_all(310) #여자
-# schedule.every(7).hours.do(lambda: collect_all(320))
-# schedule.every(7).hours.do(lambda: collect_all(310))
-# schedule.every(14).hours.do(lambda: collect_all(320))
-# schedule.every(14).hours.do(lambda: collect_all(310))
+    driver.quit()
 
+def collect_both():
+    threads = [
+        threading.Thread(target=collect_all, args=(320,)),
+        threading.Thread(target=collect_all, args=(310,))
+    ]
+    for thread in threads:
+        thread.start()
+    for thread in threads:
+        thread.join()
 
+collect_both()
+schedule.every(6).hours.do(collect_both)
 
 # 스케줄이 실행되도록 유지
 try:
@@ -107,4 +110,3 @@ try:
         t.sleep(60)
 except KeyboardInterrupt:
     print("브라우저 종료")
-    driver.quit()

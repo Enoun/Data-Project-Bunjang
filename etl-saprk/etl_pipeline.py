@@ -41,6 +41,7 @@ def get_recent_files(hdfs_base_path, start_date, end_date):
 def process_and_save_data(category_name, hdfs_base_path):
     # 최근 7일치 파일 목록 가져오기
     recent_files = get_recent_files(hdfs_base_path, start_date, end_date)
+    print("7일치 목록 가져오기 성공")
 
     if recent_files:
         df = spark.read.csv(recent_files, header=True, inferSchema=True)
@@ -54,19 +55,20 @@ def process_and_save_data(category_name, hdfs_base_path):
             .dropDuplicates()
 
         df_filtered = df.filter(df["time"] != "AD")
-        df_filtered = df_filtered.filter(~df["product_name"].rlike("구합니다|구함|원합니다|원함"))
+        df_filtered = df_filtered.filter(~df["product_name"].rlike("구합니다|구함|원합니다|원함|삽니다|삼|사요|구매"))
         df_filtered = df_filtered.drop("time")
 
         # 저장 경로 설정 및 저장
-        output_path = f"hdfs://localhost:9000/user/dataPipeline/processedData/{category_name}_processedData_{end_date.strftime('%Y%m%d')}.csv"
+        output_path = f"hdfs://localhost:9000/user/dataPipeline/processedData/{category_name}/{category_name}_processed_{end_date.strftime('%Y%m%d')}.csv"
         df_filtered.write.csv(output_path, mode="overwrite", header=True)
         print(f"{category_name} 데이터 전처리 및 저장 완료")
 
 
 # 남성 및 여성 데이터 각각 처리
-process_and_save_data("mans", "hdfs://localhost:9000/user/dataPipeline/collectedData/mans_cat/")
-process_and_save_data("woman", "hdfs://localhost:9000/user/dataPipeline/collectedData/woman_cat/")
-
+process_and_save_data("mans", "hdfs://localhost:9000/user/dataPipeline/collectedData/mans_category/")
+print("성공-MAN")
+process_and_save_data("woman", "hdfs://localhost:9000/user/dataPipeline/collectedData/woman_category/")
+print("성공-WOMAN")
 # SUCCESS 파일 제거
 subprocess.run(["hdfs", "dfs", "-rm", "-f", "/user/dataPipeline/processedData/_SUCCESS"])
 

@@ -64,8 +64,8 @@ def process_and_save_data(category_name, hdfs_base_path):
 
 
 # 남성 및 여성 데이터 각각 처리
-process_and_save_data("mans", "hdfs://localhost:9000/user/dataPipeline/collectedData/mans_category/")
-process_and_save_data("woman", "hdfs://localhost:9000/user/dataPipeline/collectedData/woman_category/")
+process_and_save_data("mans", "hdfs://localhost:9000/user/dataPipeline/collectedData/mans_cat/")
+process_and_save_data("woman", "hdfs://localhost:9000/user/dataPipeline/collectedData/woman_cat/")
 
 # SUCCESS 파일 제거
 subprocess.run(["hdfs", "dfs", "-rm", "-f", "/user/dataPipeline/processedData/_SUCCESS"])

@@ -11,36 +11,36 @@ default_args = {
     'email_on_retry': False,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
+    'execution_timeout': timedelta(minutes=20),
 }
-
-venv_activated = "/Users/data-project/data-pipeline-project/.venv/bin/activate"
 
 # DAG 정의
 with DAG(
-    'data_pipeline_etl',
-    default_args = default_args,
-    description = 'An ETL pipeline with HDFS and Spark',
-    schedule_interval = "0 7, 15, 23 * * *", #매일 7시, 15시, 23시
-    start_date = days_ago(1),
-    catchup = False,
+        dag_id = 'data_pipeline_etl',
+        default_args=default_args,
+        description='An ETL pipeline with HDFS and Spark',
+        schedule_interval="@once",  # 한 번만 실행
+        start_date=days_ago(1),
+        catchup=False,
+        max_active_runs=1,
 ) as dag:
-    
     # 1. 데이터 수집
     collect_data = BashOperator(
-        task_id = 'collect_data',
-        bash_command = f'source {venv_activated} && python /Users/data-project/data-pipeline-project/product_data_scraper.py',
+        task_id='collect_data',
+        bash_command='python /opt/airflow/data-pipeline-project/product_data_scraper.py',
+        execution_timeout=timedelta(minutes=10)  # 실행 시간 제한을 10분으로 설정
     )
 
     # HDFS에 업로드
     upload_to_hdfs = BashOperator(
-        task_id = 'upload_to_hdfs',
-        python_callable = 'python /Users/data-project/data-pipeline-project/upload-to-hdfs/upload_to_hdfs.py'
+        task_id='upload_to_hdfs',
+        bash_command='python /opt/airflow/data-pipeline-project/upload_to_hdfs.py',
     )
 
-    # 3. spark 전처리 작업
+    # 3. Spark 전처리 작업
     spark_processing = BashOperator(
-        task_id = 'spark_processing',
-        bash_command = 'python //Users/data-project/data-pipeline-project/etl-saprk/etl_pipeline.py'
+        task_id='spark_processing',
+        bash_command='spark-submit --master local /opt/airflow/data-pipeline-project/etl_pipeline.py',
     )
 
     # 작업 순서 정의

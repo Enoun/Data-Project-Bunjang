@@ -5,38 +5,80 @@ services:
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
+      TZ: Asia:Seoul
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
+      - /etc/localtime:/etc/localtime:ro
+    networks:
+      - airflow-network
+
+  selenium:
+      container_name: remote_chromedriver
+      image: seleniarm/standalone-chromium:latest
+      ports:
+         - 4444:4444
+      restart: always
+      networks:
+        - airflow-network
   
   webserver:
-    image: apache/airflow:2.10.3
-    restart: always
+    build: .
+    image: custom-airflow:2.10.3
+    user: "${AIRFLOW_UID}:0"  # 로컬 UID를 컨테이너에 전달
+    restart: always      
     depends_on:
       - postgres
+      - selenium
     environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW_UID: ${AIRFLOW_UID}
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
+      SELENIUM_URL: "http://selenium:4444/wd/hub"  # 잘못된 공백 제거
     ports:
       - "8081:8080"
     volumes:
+      - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
+      - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
       - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
       - /Users/data-project/data-pipeline-project/airflow-project/logs:/opt/airflow/logs
       - /Users/data-project/data-pipeline-project/airflow-project/plugins:/opt/airflow/plugins
+      - ./airflow.cfg:/opt/airflow/airflow.cfg
+      - /etc/localtime:/etc/localtime:ro
+    networks:
+      - airflow-network
     command: webserver
+    
 
   scheduler:
-    image: apache/airflow:2.10.3
+    build: .
+    image: custom-airflow:2.10.3
+    user: "${AIRFLOW_UID}:0"
     restart: always
     depends_on:
       - postgres
       - webserver
     environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW_UID: ${AIRFLOW_UID}
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
     volumes:
+      - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
+      - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
       - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
       - /Users/data-project/data-pipeline-project/airflow-project/logs:/opt/airflow/logs
       - /Users/data-project/data-pipeline-project/airflow-project/plugins:/opt/airflow/plugins
+      - ./airflow.cfg:/opt/airflow/airflow.cfg
+      - /etc/localtime:/etc/localtime:ro
+    networks:
+      - airflow-network
     command: scheduler
 
 volumes:
   postgres-db-volume:
+
+networks:
+  airflow-network:
+    driver: bridge

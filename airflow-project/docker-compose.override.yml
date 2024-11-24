@@ -1,0 +1,9 @@
+services:
+  webserver:
+    build:
+      context: .
+      dockerfile: Dockerfile
+  scheduler:
+    build:
+      context: .
+      dockerfile: Dockerfile

@@ -21,6 +21,7 @@ def collect_data_from_page(page_num, category_num, driver):
     products = driver.find_elements(By.XPATH, "//*[@id='root']/div/div/div[4]/div/div[4]/div/div")
     product_data_list = []
 
+    print(f"데이터 수집중{page_num}")
     for product in products:
         try:
             item_name = product.find_element(By.XPATH, ".//a/div[2]/div[1]").text
@@ -44,24 +45,28 @@ def collect_data_from_page(page_num, category_num, driver):
 def collect_all(category_num):
     print(f"{category_num}번 데이터 수집 시작")
     SELENIUM_URL = os.getenv('SELENIUM_URL', 'http://selenium:4444/wd/hub')
-    chrome_options = Options()
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920x1080")
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-
-    driver = webdriver.Remote(
-        command_executor=SELENIUM_URL,
-        options=chrome_options
-    )
 
     def fetch_page(page_num):
-        return collect_data_from_page(page_num, category_num, driver)
+        # 각 스레드마다 독립적인 WebDriver 생성
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+
+        driver = webdriver.Remote(
+            command_executor=SELENIUM_URL,
+            options=chrome_options
+        )
+        try:
+            data = collect_data_from_page(page_num, category_num, driver)
+        finally:
+            driver.quit()  # 각 드라이버 인스턴스 종료
+        return data
 
     all_data = []
-    with ThreadPoolExecutor(max_workers=2) as executor:  # 최대 2개의 스레드 병렬 실행
-        results = executor.map(fetch_page, range(1, 301))  # 페이지 1~20 처리
+    with ThreadPoolExecutor(max_workers=2) as executor:  # 최대 2개의 스레드
+        results = executor.map(fetch_page, range(1, 3))  # 1~300 페이지 처리
         for page_data in results:
             all_data.extend(page_data)
 
@@ -72,7 +77,6 @@ def collect_all(category_num):
     os.makedirs(file_dir, exist_ok=True)
     file_path = f"{file_dir}/{sex_category}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
     df.to_csv(file_path, mode='w', header=True, encoding="utf-8-sig", index=False)
-    driver.quit()
     print({file_path})
     print("데이터 수집 및 저장 완료")
 

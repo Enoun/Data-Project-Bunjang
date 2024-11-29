@@ -25,23 +25,25 @@ with DAG(
         max_active_runs=1,
 ) as dag:
     # 1. 데이터 수집
-    collect_data = BashOperator(
-        task_id='collect_data',
-        bash_command='python /opt/airflow/data-pipeline-project/product_data_scraper.py',
-        execution_timeout=timedelta(minutes=10)  # 실행 시간 제한을 10분으로 설정
-    )
+    # collect_data = BashOperator(
+    #     task_id='collect_data',
+    #     bash_command='python /opt/airflow/data-pipeline-project/product_data_scraper.py',
+    #     execution_timeout=timedelta(minutes=10)  # 실행 시간 제한을 10분으로 설정
+    # )
 
     # HDFS에 업로드
     upload_to_hdfs = BashOperator(
         task_id='upload_to_hdfs',
-        bash_command='python /opt/airflow/data-pipeline-project/upload_to_hdfs.py',
+        bash_command='python /opt/airflow/data-pipeline-project/upload-to-hdfs/upload_to_hdfs.py',
     )
 
     # 3. Spark 전처리 작업
     spark_processing = BashOperator(
         task_id='spark_processing',
-        bash_command='spark-submit --master local /opt/airflow/data-pipeline-project/etl_pipeline.py',
+        bash_command='spark-submit --master local /opt/airflow/data-pipeline-project/etl-spark/etl_pipeline.py',
     )
 
     # 작업 순서 정의
-    collect_data >> upload_to_hdfs >> spark_processing
+    upload_to_hdfs >> spark_processing
+
+    # collect_data >>

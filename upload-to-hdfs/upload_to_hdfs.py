@@ -3,14 +3,14 @@ import subprocess
 
 # 업로드 할 데이터가 있는 파일과 HDFS 경로 설정
 local_directories = {
-    "mans_category": "/Users/data-project/data-pipeline-project/collectedData/mans_category/",
-    "woman_category": "/Users/data-project/data-pipeline-project/collectedData/woman_category/"
+    "mans_category": "/opt/airflow/data-project/data-pipeline-project/collectedData/mans_category/",
+    "woman_category": "/opt/airflow/data-project/data-pipeline-project/collectedData/woman_category/"
 }
 
 mans_category_path = "/user/dataPipeline/collectedData/mans_category"
 woman_category_path = "/user/dataPipeline/collectedData/woman_category"
 
-upload_log = "/Users/data-project/data-pipeline-project/upload_log.txt"
+upload_log = "/opt/airflow/data-project/data-pipeline-project/upload_log.txt"
 
 
 # 로그 파일을 확인한 후 업로드 기록이 없는 파일만 업로드

@@ -66,7 +66,7 @@ def collect_all(category_num):
 
     all_data = []
     with ThreadPoolExecutor(max_workers=2) as executor:  # 최대 2개의 스레드
-        results = executor.map(fetch_page, range(1, 3))  # 1~300 페이지 처리
+        results = executor.map(fetch_page, range(1, 301))  # 1~300 페이지 처리
         for page_data in results:
             all_data.extend(page_data)
 

@@ -21,17 +21,28 @@ def upload_to_hdfs(local_directory, category_path):
     with open(upload_log, 'r') as f:
         uploaded_files = f.read().splitlines()
 
+    subprocess.run(["hdfs", "dfs", "-mkdir", "-p", category_path], check=True)
+
     for filename in os.listdir(local_directory):
         local_file_path = os.path.join(local_directory, filename)  # 수정된 부분
 
         if filename not in uploaded_files:
-            hdfs_path = os.path.join(category_path, filename) # HDFS에 파일 업로드
-            subprocess.run(["hdfs", "dfs", "-put", local_file_path, hdfs_path])
+            try:
+                hdfs_path = os.path.join(category_path, filename) # HDFS에 파일 업로드
+                result = subprocess.run(
+                    ["hdfs", "dfs", "-put", local_file_path, hdfs_path],
+                    check=True, capture_output=True, text=True
+                )
+                print(result.stdout)
 
-            # 로그 파일에 업로드한 파일 기록
-            with open(upload_log, 'a') as log:
-                log.write(filename + "\n")
-            print(f"Uploaded {filename} to {hdfs_path}")
+                # 로그파일에 업로드한 파일 기록
+                with open(upload_log, 'a') as log:
+                    log.write(filename + "\n")
+                print(f"업로드 성공 {filename} to {hdfs_path}")
+            except subprocess.CalledProcessError as e:
+                print(f"업로드 실패 {filename} to HDFS, Error: {e.stderr}")
+                continue
+
 
 upload_to_hdfs(local_directories["mans_category"], mans_category_path)
 upload_to_hdfs(local_directories["woman_category"], woman_category_path)

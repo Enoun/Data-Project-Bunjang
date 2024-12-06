@@ -7,16 +7,18 @@ ARG AIRFLOW_UID=501
 RUN groupmod -g 0 airflow || echo "Group airflow already set to GID 0" && \
     usermod -u 501 -g 0 airflow || echo "User airflow already set"
 
-# 필요한 시스템 패키지 설치
 RUN apt-get update && apt-get install -y \
     python3-pip \
     wget \
     curl \
     unzip \
-    Hadoop-client \
+    default-jdk \
     && apt-get clean
 
-
+ENV DEBIAN_FRONTEND=noninteractive
+ENV HADOOP_HOME=/usr/local/hadoop
+ENV HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+ENV PATH=$HADOOP_HOME/bin:$PATH
 
 USER airflow
 

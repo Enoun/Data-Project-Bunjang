@@ -16,16 +16,43 @@ services:
       container_name: remote_chromedriver
       image: seleniarm/standalone-chromium:latest
       ports:
-         - 4444:4444
+        - 4444:4444
       restart: always
       networks:
         - airflow-network
+
+  namenode:
+    image: apache/hadoop:3.4.0
+    container_name: namenode
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - HDFS_SITE_dfs_replication=1
+      - HDFS_SITE_dfs_namenode_name_dir=/hadoop/dfs/name
+    command: ["hdfs", "namenode"]
+    ports:
+      - "9870:9870"
+    networks:
+      - airflow-network
+    volumes:
+      - namenode-data:/hadoop/dfs/namenode
+
+  datanode:
+    image: apache/hadoop:3.4.0
+    container_name: datanode
+    environment:
+      - CLUSTER_NAME=hadoop-cluster
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - HDFS_SITE_dfs_datanode_data_dir=/hadoop/dfs/data
+    command: ["hdfs", "datanode"]
+    networks:
+      - airflow-network
+    volumes:
+      - datanode-data:/hadoop/dfs/datanode
   
   webserver:
     build: .
-    image: custom-airflow:2.10.3
     user: "${AIRFLOW_UID}:0"  # 로컬 UID를 컨테이너에 전달
-    restart: always      
+    restart: always
     depends_on:
       - postgres
       - selenium
@@ -35,10 +62,15 @@ services:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
-      SELENIUM_URL: "http://selenium:4444/wd/hub"  # 잘못된 공백 제거
+      SELENIUM_URL: "http://selenium:4444/wd/hub"
+      PATH: $PATH:/home/airflow/.local/bin
+      HADOOP_CONF_DIR: /usr/local/hadoop/etc/hadoop
     ports:
       - "8081:8080"
+     
+
     volumes:
+      - ./hadoop/etc/hadoop:/usr/local/hadoop/etc/hadoop
       - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
       - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
       - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
@@ -64,7 +96,10 @@ services:
       AIRFLOW_UID: ${AIRFLOW_UID}
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
+      PATH: $PATH:/home/airflow/.local/bin
+
     volumes:
+      - ./hadoop/etc/hadoop:/usr/local/hadoop/etc/hadoop
       - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
       - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
       - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
@@ -78,6 +113,8 @@ services:
 
 volumes:
   postgres-db-volume:
+  namenode-data:  # NameNode 볼륨 정의
+  datanode-data:  # DataNode 볼륨 정의
 
 networks:
   airflow-network:

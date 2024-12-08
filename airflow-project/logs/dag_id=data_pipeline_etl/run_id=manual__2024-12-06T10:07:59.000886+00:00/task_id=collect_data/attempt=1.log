@@ -1,0 +1,229 @@
+[2024-12-06T10:07:59.763+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-12-06T10:07:59.775+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_etl.collect_data manual__2024-12-06T10:07:59.000886+00:00 [queued]>
+[2024-12-06T10:07:59.781+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_etl.collect_data manual__2024-12-06T10:07:59.000886+00:00 [queued]>
+[2024-12-06T10:07:59.781+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2024-12-06T10:07:59.792+0000] {taskinstance.py:2889} INFO - Executing <Task(BashOperator): collect_data> on 2024-12-06 10:07:59.000886+00:00
+[2024-12-06T10:07:59.800+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=297) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-12-06T10:07:59.801+0000] {standard_task_runner.py:72} INFO - Started process 298 to run task
+[2024-12-06T10:07:59.800+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'data_pipeline_etl', 'collect_data', 'manual__2024-12-06T10:07:59.000886+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/etl_pipeline_auto.py', '--cfg-path', '/tmp/tmpfxqirz43']
+[2024-12-06T10:07:59.803+0000] {standard_task_runner.py:105} INFO - Job 8: Subtask collect_data
+[2024-12-06T10:07:59.848+0000] {task_command.py:467} INFO - Running <TaskInstance: data_pipeline_etl.collect_data manual__2024-12-06T10:07:59.000886+00:00 [running]> on host bc5ba5365c69
+[2024-12-06T10:07:59.912+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='data_pipeline_etl' AIRFLOW_CTX_TASK_ID='collect_data' AIRFLOW_CTX_EXECUTION_DATE='2024-12-06T10:07:59.000886+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-12-06T10:07:59.000886+00:00'
+[2024-12-06T10:07:59.912+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-12-06T10:07:59.954+0000] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2024-12-06T10:07:59.955+0000] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'python /opt/***/data-pipeline-project/product_data_scraper.py']
+[2024-12-06T10:07:59.961+0000] {subprocess.py:99} INFO - Output:
+[2024-12-06T10:17:01.975+0000] {subprocess.py:106} INFO - 320번 데이터 수집 시작
+[2024-12-06T10:17:01.981+0000] {subprocess.py:106} INFO - 페이지 2 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.982+0000] {subprocess.py:106} INFO - 데이터 수집중2
+[2024-12-06T10:17:01.982+0000] {subprocess.py:106} INFO - 페이지 2 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.983+0000] {subprocess.py:106} INFO - 페이지 1 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.983+0000] {subprocess.py:106} INFO - 데이터 수집중1
+[2024-12-06T10:17:01.983+0000] {subprocess.py:106} INFO - 페이지 1 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.984+0000] {subprocess.py:106} INFO - 페이지 3 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.984+0000] {subprocess.py:106} INFO - 데이터 수집중3
+[2024-12-06T10:17:01.985+0000] {subprocess.py:106} INFO - 페이지 3 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.985+0000] {subprocess.py:106} INFO - 페이지 4 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.986+0000] {subprocess.py:106} INFO - 데이터 수집중4
+[2024-12-06T10:17:01.986+0000] {subprocess.py:106} INFO - 페이지 4 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.986+0000] {subprocess.py:106} INFO - 페이지 5 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.987+0000] {subprocess.py:106} INFO - 데이터 수집중5
+[2024-12-06T10:17:01.987+0000] {subprocess.py:106} INFO - 페이지 5 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.987+0000] {subprocess.py:106} INFO - 페이지 6 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.987+0000] {subprocess.py:106} INFO - 데이터 수집중6
+[2024-12-06T10:17:01.988+0000] {subprocess.py:106} INFO - 페이지 6 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.988+0000] {subprocess.py:106} INFO - 페이지 7 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.988+0000] {subprocess.py:106} INFO - 데이터 수집중7
+[2024-12-06T10:17:01.988+0000] {subprocess.py:106} INFO - 페이지 7 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.989+0000] {subprocess.py:106} INFO - 페이지 8 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.989+0000] {subprocess.py:106} INFO - 데이터 수집중8
+[2024-12-06T10:17:01.989+0000] {subprocess.py:106} INFO - 페이지 8 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.989+0000] {subprocess.py:106} INFO - 페이지 9 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.989+0000] {subprocess.py:106} INFO - 데이터 수집중9
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 페이지 9 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 페이지 10 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 데이터 수집중10
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 페이지 10 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 페이지 11 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 데이터 수집중11
+[2024-12-06T10:17:01.990+0000] {subprocess.py:106} INFO - 페이지 11 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.991+0000] {subprocess.py:106} INFO - 페이지 12 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.991+0000] {subprocess.py:106} INFO - 데이터 수집중12
+[2024-12-06T10:17:01.991+0000] {subprocess.py:106} INFO - 페이지 12 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.991+0000] {subprocess.py:106} INFO - 페이지 13 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.992+0000] {subprocess.py:106} INFO - 데이터 수집중13
+[2024-12-06T10:17:01.992+0000] {subprocess.py:106} INFO - 페이지 13 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.993+0000] {subprocess.py:106} INFO - 페이지 14 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.993+0000] {subprocess.py:106} INFO - 데이터 수집중14
+[2024-12-06T10:17:01.993+0000] {subprocess.py:106} INFO - 페이지 14 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.994+0000] {subprocess.py:106} INFO - 페이지 15 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.994+0000] {subprocess.py:106} INFO - 데이터 수집중15
+[2024-12-06T10:17:01.994+0000] {subprocess.py:106} INFO - 페이지 15 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.995+0000] {subprocess.py:106} INFO - 페이지 16 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.995+0000] {subprocess.py:106} INFO - 데이터 수집중16
+[2024-12-06T10:17:01.995+0000] {subprocess.py:106} INFO - 페이지 16 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.996+0000] {subprocess.py:106} INFO - 페이지 17 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.996+0000] {subprocess.py:106} INFO - 데이터 수집중17
+[2024-12-06T10:17:01.997+0000] {subprocess.py:106} INFO - 페이지 17 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.997+0000] {subprocess.py:106} INFO - 페이지 18 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.997+0000] {subprocess.py:106} INFO - 데이터 수집중18
+[2024-12-06T10:17:01.997+0000] {subprocess.py:106} INFO - 페이지 18 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.998+0000] {subprocess.py:106} INFO - 페이지 19 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.998+0000] {subprocess.py:106} INFO - 데이터 수집중19
+[2024-12-06T10:17:01.998+0000] {subprocess.py:106} INFO - 페이지 19 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.998+0000] {subprocess.py:106} INFO - 페이지 20 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.998+0000] {subprocess.py:106} INFO - 데이터 수집중20
+[2024-12-06T10:17:01.999+0000] {subprocess.py:106} INFO - 페이지 20 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.999+0000] {subprocess.py:106} INFO - 페이지 21 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.999+0000] {subprocess.py:106} INFO - 데이터 수집중21
+[2024-12-06T10:17:01.999+0000] {subprocess.py:106} INFO - 페이지 21 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:01.999+0000] {subprocess.py:106} INFO - 페이지 22 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:01.999+0000] {subprocess.py:106} INFO - 데이터 수집중22
+[2024-12-06T10:17:02.000+0000] {subprocess.py:106} INFO - 페이지 22 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.000+0000] {subprocess.py:106} INFO - 페이지 23 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.000+0000] {subprocess.py:106} INFO - 데이터 수집중23
+[2024-12-06T10:17:02.001+0000] {subprocess.py:106} INFO - 페이지 23 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.001+0000] {subprocess.py:106} INFO - 페이지 24 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.001+0000] {subprocess.py:106} INFO - 데이터 수집중24
+[2024-12-06T10:17:02.001+0000] {subprocess.py:106} INFO - 페이지 24 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.001+0000] {subprocess.py:106} INFO - 페이지 25 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.001+0000] {subprocess.py:106} INFO - 데이터 수집중25
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 25 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 26 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 데이터 수집중26
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 26 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 27 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 데이터 수집중27
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 27 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 28 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 데이터 수집중28
+[2024-12-06T10:17:02.002+0000] {subprocess.py:106} INFO - 페이지 28 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 29 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 데이터 수집중29
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 29 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 30 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 데이터 수집중30
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 30 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 31 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 데이터 수집중31
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 31 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.003+0000] {subprocess.py:106} INFO - 페이지 32 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 데이터 수집중32
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 페이지 32 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 페이지 33 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 데이터 수집중33
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 페이지 33 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 페이지 34 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 데이터 수집중34
+[2024-12-06T10:17:02.004+0000] {subprocess.py:106} INFO - 페이지 34 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 페이지 35 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 데이터 수집중35
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 페이지 35 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 페이지 36 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 데이터 수집중36
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 페이지 36 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 페이지 37 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.005+0000] {subprocess.py:106} INFO - 데이터 수집중37
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 페이지 37 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 페이지 38 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 데이터 수집중38
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 페이지 38 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 페이지 39 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 데이터 수집중39
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 페이지 39 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 페이지 40 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.006+0000] {subprocess.py:106} INFO - 데이터 수집중40
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 페이지 40 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 페이지 41 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 데이터 수집중41
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 페이지 41 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 페이지 42 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 데이터 수집중42
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 페이지 42 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 페이지 43 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.007+0000] {subprocess.py:106} INFO - 데이터 수집중43
+[2024-12-06T10:17:02.008+0000] {subprocess.py:106} INFO - 페이지 43 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.008+0000] {subprocess.py:106} INFO - 페이지 44 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.008+0000] {subprocess.py:106} INFO - 데이터 수집중44
+[2024-12-06T10:17:02.008+0000] {subprocess.py:106} INFO - 페이지 44 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.008+0000] {subprocess.py:106} INFO - 페이지 45 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.008+0000] {subprocess.py:106} INFO - 데이터 수집중45
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 페이지 45 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 페이지 46 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 데이터 수집중46
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 페이지 46 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 페이지 47 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 데이터 수집중47
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 페이지 47 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.009+0000] {subprocess.py:106} INFO - 페이지 48 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.010+0000] {subprocess.py:106} INFO - 데이터 수집중48
+[2024-12-06T10:17:02.010+0000] {subprocess.py:106} INFO - 페이지 48 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.010+0000] {subprocess.py:106} INFO - 페이지 49 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.010+0000] {subprocess.py:106} INFO - 데이터 수집중49
+[2024-12-06T10:17:02.010+0000] {subprocess.py:106} INFO - 페이지 49 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.010+0000] {subprocess.py:106} INFO - 페이지 50 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 데이터 수집중50
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 페이지 50 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 페이지 51 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 데이터 수집중51
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 페이지 51 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 페이지 52 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 데이터 수집중52
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 페이지 52 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 페이지 53 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.011+0000] {subprocess.py:106} INFO - 데이터 수집중53
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 페이지 53 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 페이지 54 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 데이터 수집중54
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 페이지 54 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 페이지 55 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 데이터 수집중55
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 페이지 55 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.012+0000] {subprocess.py:106} INFO - 페이지 56 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 데이터 수집중56
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 페이지 56 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 페이지 57 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 데이터 수집중57
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 페이지 57 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 페이지 58 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 데이터 수집중58
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 페이지 58 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.013+0000] {subprocess.py:106} INFO - 페이지 59 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.014+0000] {subprocess.py:106} INFO - 데이터 수집중59
+[2024-12-06T10:17:02.014+0000] {subprocess.py:106} INFO - 페이지 59 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:17:02.014+0000] {subprocess.py:106} INFO - 페이지 60 데이터 수집 시작 (카테고리: 320)
+[2024-12-06T10:17:02.014+0000] {subprocess.py:106} INFO - 데이터 수집중60
+[2024-12-06T10:17:02.014+0000] {subprocess.py:106} INFO - 페이지 60 데이터 수집 완료 (카테고리: 320)
+[2024-12-06T10:18:00.071+0000] {timeout.py:68} ERROR - Process timed out, PID: 298
+[2024-12-06T10:18:00.073+0000] {subprocess.py:117} INFO - Sending SIGTERM signal to process group
+[2024-12-06T10:18:00.103+0000] {taskinstance.py:3311} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 762, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 417, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 257, in execute
+    result = self._run_inline_command(bash_path=bash_path, env=env)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 284, in _run_inline_command
+    return self.subprocess_hook.run_command(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/hooks/subprocess.py", line 104, in run_command
+    for raw_line in iter(self.sub_process.stdout.readline, b""):
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: Timeout, PID: 298
+[2024-12-06T10:18:00.111+0000] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=data_pipeline_etl, task_id=collect_data, run_id=manual__2024-12-06T10:07:59.000886+00:00, execution_date=20241206T100759, start_date=20241206T100759, end_date=20241206T101800
+[2024-12-06T10:18:00.123+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-12-06T10:18:00.150+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 2
+[2024-12-06T10:18:00.162+0000] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-12-06T10:18:00.163+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

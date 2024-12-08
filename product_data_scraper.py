@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.wait import WebDriverWait
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 import pandas as pd
@@ -12,16 +13,17 @@ def collect_data_from_page(page_num, category_num, driver):
     page_url = f"https://m.bunjang.co.kr/categories/{category_num}?page={page_num}&req_ref=popular_category"
     driver.get(page_url)
 
-    # 스크롤을 내려 동적 콘텐츠 로드 시도
+    # 스크롤을 내려 동적 콘텐츠 로드 시도 및 다 로드가 될 떄 까지 대기
     scroll_count = 1
     for _ in range(scroll_count):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    wait = WebDriverWait(driver, 4)
 
     # 상품 정보 추출 및 저장
     products = driver.find_elements(By.XPATH, "//*[@id='root']/div/div/div[4]/div/div[4]/div/div")
     product_data_list = []
 
-    print(f"데이터 수집중{page_num}")
+    # print(f"데이터 수집중{page_num}")
     for product in products:
         try:
             item_name = product.find_element(By.XPATH, ".//a/div[2]/div[1]").text
@@ -39,36 +41,46 @@ def collect_data_from_page(page_num, category_num, driver):
             product_data_list.append(product_data)
         except Exception as e:
             print(f"데이터 추출 중 오류 발생: {e}")
-    print(f"페이지 {page_num} 데이터 수집 완료 (카테고리: {category_num})")
+    # print(f"페이지 {page_num} 데이터 수집 완료 (카테고리: {category_num})")
     return product_data_list
+
+def process_pages(category_num, pages):
+    SELENIUM_URL = os.getenv('SELENIUM_URL', 'http://selenium:4444/wd/hub')
+
+    # 각 스레드마다 독립적인 WebDriver 생성
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    driver = webdriver.Remote(
+        command_executor=SELENIUM_URL,
+        options=chrome_options
+    )
+
+    all_data = []
+    try:
+        for page_num in pages:
+            data = collect_data_from_page(page_num, category_num, driver)
+            all_data.extend(data)
+    finally:
+        driver.quit()
+
+    return all_data
 
 def collect_all(category_num):
     print(f"{category_num}번 데이터 수집 시작")
-    SELENIUM_URL = os.getenv('SELENIUM_URL', 'http://selenium:4444/wd/hub')
 
-    def fetch_page(page_num):
-        # 각 스레드마다 독립적인 WebDriver 생성
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--disable-gpu")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
+    # 각 스레드별로 페이지 할당
+    pages_thread1 = range(1, 151)
+    pages_thread2 = range(151, 301)
 
-        driver = webdriver.Remote(
-            command_executor=SELENIUM_URL,
-            options=chrome_options
-        )
-        try:
-            data = collect_data_from_page(page_num, category_num, driver)
-        finally:
-            driver.quit()  # 각 드라이버 인스턴스 종료
-        return data
-
-    all_data = []
     with ThreadPoolExecutor(max_workers=2) as executor:  # 최대 2개의 스레드
-        results = executor.map(fetch_page, range(1, 301))  # 1~300 페이지 처리
-        for page_data in results:
-            all_data.extend(page_data)
+        future1 = executor.submit(process_pages, category_num, pages_thread1)
+        future2 = executor.submit(process_pages, category_num, pages_thread2)
+
+        all_data = future1.result() + future2.result() # 결과를 결합
 
     df = pd.DataFrame(all_data)
     base_path = "/opt/airflow/collectedData"

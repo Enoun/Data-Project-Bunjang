@@ -44,43 +44,39 @@ def collect_data_from_page(page_num, category_num, driver):
     # print(f"페이지 {page_num} 데이터 수집 완료 (카테고리: {category_num})")
     return product_data_list
 
-def process_pages(category_num, pages):
+def collect_all(category_num):
+    print(f"{category_num}번 데이터 수집 시작")
     SELENIUM_URL = os.getenv('SELENIUM_URL', 'http://selenium:4444/wd/hub')
 
-    # 각 스레드마다 독립적인 WebDriver 생성
+    # webDriver 공용 풀 생성 - 매번 생성하지 않고 한번만 생성(스레드 갯수만큼)
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
 
-    driver = webdriver.Remote(
-        command_executor=SELENIUM_URL,
-        options=chrome_options
-    )
+    drivers = [webdriver.Remote(
+            command_executor=SELENIUM_URL,
+            options=chrome_options)]
+
+    def fetch_page(page_num,driver_index):
+        driver = drivers[driver_index]
+        return collect_data_from_page(page_num, category_num, driver)
 
     all_data = []
-    try:
-        for page_num in pages:
-            data = collect_data_from_page(page_num, category_num, driver)
-            all_data.extend(data)
-    finally:
-        driver.quit()
-
-    return all_data
-
-def collect_all(category_num):
-    print(f"{category_num}번 데이터 수집 시작")
-
-    # 각 스레드별로 페이지 할당
-    pages_thread1 = range(1, 151)
-    pages_thread2 = range(151, 301)
+    pages = range(1, 301)
 
     with ThreadPoolExecutor(max_workers=2) as executor:  # 최대 2개의 스레드
-        future1 = executor.submit(process_pages, category_num, pages_thread1)
-        future2 = executor.submit(process_pages, category_num, pages_thread2)
+        futures = [executor.submit(fetch_page, page_num, page_num % len(drivers)) for page_num in pages]
+        for future in futures:
+            try:
+                all_data.extend(future.result())
+            except Exception as e:
+                print(f"크롤링 중 에러발생 {e}")
 
-        all_data = future1.result() + future2.result() # 결과를 결합
+    # 모든 작업이 끝나면 드라이버 종료
+    for driver in drivers:
+        driver.quit()
 
     df = pd.DataFrame(all_data)
     base_path = "/opt/airflow/collectedData"

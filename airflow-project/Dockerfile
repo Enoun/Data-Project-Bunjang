@@ -15,11 +15,28 @@ RUN apt-get update && apt-get install -y \
     default-jdk \
     && apt-get clean
 
-ENV DEBIAN_FRONTEND=noninteractive
+ENV HADOOP_VERSION=3.4.0
 ENV HADOOP_HOME=/usr/local/hadoop
 ENV HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
-ENV PATH=$HADOOP_HOME/bin:$PATH
+ENV JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64
+ENV PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH
+ENV PATH=$JAVA_HOME/bin:$PATH
+
+# Hadoop 설치
+RUN wget https://dlcdn.apache.org/hadoop/common/hadoop-${HADOOP_VERSION}/hadoop-${HADOOP_VERSION}-aarch64.tar.gz && \
+    tar -xvzf hadoop-${HADOOP_VERSION}-aarch64.tar.gz && \
+    mv hadoop-${HADOOP_VERSION} $HADOOP_HOME && \
+    rm hadoop-${HADOOP_VERSION}-aarch64.tar.gz
+
+RUN mkdir -p /usr/local/hadoop/logs && \
+    chown -R airflow:root /usr/local/hadoop/logs
+
+# 기본 설정
+RUN echo '<configuration><property><name>fs.defaultFS</name><value>hdfs://namenode:9000</value></property></configuration>' > $HADOOP_CONF_DIR/core-site.xml && \
+    echo '<configuration><property><name>dfs.replication</name><value>1</value></property></configuration>' > $HADOOP_CONF_DIR/hdfs-site.xml && \
+    echo "export JAVA_HOME=$JAVA_HOME" > $HADOOP_CONF_DIR/hadoop-env.sh
+
+
 
 USER airflow
-
 RUN pip install --no-cache-dir selenium pyspark pandas schedule

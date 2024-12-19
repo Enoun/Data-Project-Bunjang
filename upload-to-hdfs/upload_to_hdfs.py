@@ -10,7 +10,7 @@ local_directories = {
 mans_category_path = "/user/dataPipeline/collectedData/mans_category"
 woman_category_path = "/user/dataPipeline/collectedData/woman_category"
 
-upload_log = "/opt/airflow/data-project/data-pipeline-project/upload_log.txt"
+upload_log = "/opt/airflow/data-project/data-pipeline-project/upload-to-hdfs/upload_log.txt"
 
 
 # 로그 파일을 확인한 후 업로드 기록이 없는 파일만 업로드

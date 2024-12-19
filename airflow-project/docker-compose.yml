@@ -15,6 +15,9 @@ services:
   selenium:
       container_name: remote_chromedriver
       image: seleniarm/standalone-chromium:latest
+      environment:
+        - SE_MAX_SESSIONS=8
+        - SE_NODE_MAX_SESSIONS=8
       ports:
         - 4444:4444
       restart: always
@@ -22,32 +25,44 @@ services:
         - airflow-network
 
   namenode:
-    image: apache/hadoop:3.4.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hadoop-airflow:latest
     container_name: namenode
     environment:
+      - JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64     
+      - HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
       - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
       - HDFS_SITE_dfs_replication=1
       - HDFS_SITE_dfs_namenode_name_dir=/hadoop/dfs/name
-    command: ["hdfs", "namenode"]
+    command: ["bash", "-c", "if [ ! -d /hadoop/dfs/name/current ]; then hdfs namenode -format; fi && hdfs namenode"]
     ports:
       - "9870:9870"
     networks:
       - airflow-network
     volumes:
       - namenode-data:/hadoop/dfs/namenode
+    user: root
+
 
   datanode:
-    image: apache/hadoop:3.4.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hadoop-airflow:latest
     container_name: datanode
     environment:
-      - CLUSTER_NAME=hadoop-cluster
+      - JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64      
       - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
       - HDFS_SITE_dfs_datanode_data_dir=/hadoop/dfs/data
     command: ["hdfs", "datanode"]
     networks:
       - airflow-network
     volumes:
       - datanode-data:/hadoop/dfs/datanode
+
   
   webserver:
     build: .
@@ -67,10 +82,7 @@ services:
       HADOOP_CONF_DIR: /usr/local/hadoop/etc/hadoop
     ports:
       - "8081:8080"
-     
-
     volumes:
-      - ./hadoop/etc/hadoop:/usr/local/hadoop/etc/hadoop
       - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
       - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
       - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
@@ -99,7 +111,6 @@ services:
       PATH: $PATH:/home/airflow/.local/bin
 
     volumes:
-      - ./hadoop/etc/hadoop:/usr/local/hadoop/etc/hadoop
       - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
       - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
       - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags

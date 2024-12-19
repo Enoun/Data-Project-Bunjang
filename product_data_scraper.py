@@ -48,35 +48,32 @@ def collect_all(category_num):
     print(f"{category_num}번 데이터 수집 시작")
     SELENIUM_URL = os.getenv('SELENIUM_URL', 'http://selenium:4444/wd/hub')
 
-    # webDriver 공용 풀 생성 - 매번 생성하지 않고 한번만 생성(스레드 갯수만큼)
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
 
-    drivers = [webdriver.Remote(
-            command_executor=SELENIUM_URL,
-            options=chrome_options)]
+    def create_driver():
+        return webdriver.Remote(command_executor=SELENIUM_URL, options=chrome_options)
 
-    def fetch_page(page_num,driver_index):
-        driver = drivers[driver_index]
-        return collect_data_from_page(page_num, category_num, driver)
+    def fetch_page(page_num):
+        driver = create_driver()
+        try:
+            return collect_data_from_page(page_num, category_num, driver)
+        finally:
+            driver.quit()
 
     all_data = []
     pages = range(1, 301)
 
-    with ThreadPoolExecutor(max_workers=2) as executor:  # 최대 2개의 스레드
-        futures = [executor.submit(fetch_page, page_num, page_num % len(drivers)) for page_num in pages]
+    with ThreadPoolExecutor(max_workers=4) as executor:  # 최대 5개의 스레드
+        futures = [executor.submit(fetch_page, page_num) for page_num in pages]
         for future in futures:
             try:
                 all_data.extend(future.result())
             except Exception as e:
-                print(f"크롤링 중 에러발생 {e}")
-
-    # 모든 작업이 끝나면 드라이버 종료
-    for driver in drivers:
-        driver.quit()
+                print(f"크롤링 중 에러 발생: {e}")
 
     df = pd.DataFrame(all_data)
     base_path = "/opt/airflow/collectedData"
@@ -85,8 +82,7 @@ def collect_all(category_num):
     os.makedirs(file_dir, exist_ok=True)
     file_path = f"{file_dir}/{sex_category}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
     df.to_csv(file_path, mode='w', header=True, encoding="utf-8-sig", index=False)
-    print({file_path})
-    print("데이터 수집 및 저장 완료")
+    print(f"데이터 수집 및 저장 완료: {file_path}")
 
 if __name__ == "__main__":
     collect_all(320)

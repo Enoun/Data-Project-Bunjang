@@ -25,10 +25,7 @@ services:
         - airflow-network
 
   namenode:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: hadoop-airflow:latest
+    image: hadoop-image:latest
     container_name: namenode
     environment:
       - JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64     
@@ -47,10 +44,7 @@ services:
 
 
   datanode:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: hadoop-airflow:latest
+    image: hadoop-image:latest
     container_name: datanode
     environment:
       - JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64      
@@ -65,7 +59,7 @@ services:
 
   
   webserver:
-    build: .
+    image: airflow-image:latest
     user: "${AIRFLOW_UID}:0"  # 로컬 UID를 컨테이너에 전달
     restart: always
     depends_on:
@@ -83,21 +77,18 @@ services:
     ports:
       - "8081:8080"
     volumes:
-      - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
-      - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
-      - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
-      - /Users/data-project/data-pipeline-project/airflow-project/logs:/opt/airflow/logs
-      - /Users/data-project/data-pipeline-project/airflow-project/plugins:/opt/airflow/plugins
-      - ./airflow.cfg:/opt/airflow/airflow.cfg
-      - /etc/localtime:/etc/localtime:ro
+        - /Users/data-project/data-pipeline-project/airflow-project/shared:/shared
+        - ./airflow.cfg:/opt/airflow/airflow.cfg
+        - /etc/localtime:/etc/localtime:ro
+        - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
+
     networks:
       - airflow-network
-    command: webserver
+    command: ["airflow", "webserver"]
     
 
   scheduler:
-    build: .
-    image: custom-airflow:2.10.3
+    image: airflow-image:latest
     user: "${AIRFLOW_UID}:0"
     restart: always
     depends_on:
@@ -111,13 +102,11 @@ services:
       PATH: $PATH:/home/airflow/.local/bin
 
     volumes:
-      - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
-      - /Users/data-project/data-pipeline-project/collectedData:/opt/airflow/collectedData
-      - /Users/data-project/data-pipeline-project/airflow-project/dags:/opt/airflow/dags
-      - /Users/data-project/data-pipeline-project/airflow-project/logs:/opt/airflow/logs
-      - /Users/data-project/data-pipeline-project/airflow-project/plugins:/opt/airflow/plugins
-      - ./airflow.cfg:/opt/airflow/airflow.cfg
-      - /etc/localtime:/etc/localtime:ro
+        - /Users/data-project/data-pipeline-project/airflow-project/shared:/shared
+        - ./airflow.cfg:/opt/airflow/airflow.cfg
+        - /etc/localtime:/etc/localtime:ro
+        - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
+
     networks:
       - airflow-network
     command: scheduler

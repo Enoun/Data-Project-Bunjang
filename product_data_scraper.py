@@ -76,7 +76,7 @@ def collect_all(category_num):
                 print(f"크롤링 중 에러 발생: {e}")
 
     df = pd.DataFrame(all_data)
-    base_path = "/opt/airflow/collectedData"
+    base_path = "/shared/collectedData"
     sex_category = "mans_category" if category_num == 320 else "woman_category"
     file_dir = f"{base_path}/{sex_category}"
     os.makedirs(file_dir, exist_ok=True)

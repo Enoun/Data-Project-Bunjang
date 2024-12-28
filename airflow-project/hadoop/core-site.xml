@@ -21,4 +21,15 @@
         <name>fs.defaultFS</name>
         <value>hdfs://namenode:9000</value>
     </property>
+
+    <!-- WebHDFS를 사용할 기본 파일 시스템 설정 -->
+    <property>
+        <name>fs.webhdfs.impl</name>
+        <value>org.apache.hadoop.hdfs.web.WebHdfsFileSystem</value>
+    </property>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>webhdfs://namenode:9870</value>
+    </property>
+
 </configuration>

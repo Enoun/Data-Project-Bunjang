@@ -5,7 +5,7 @@ ENV HADOOP_VERSION=3.4.0
 ENV HADOOP_HOME=/usr/local/hadoop
 ENV HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 ENV JAVA_HOME=/usr/local/openjdk-17
-ENV PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$JAVA_HOME/bin:$PATH
+ENV PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH
 
 # 필수 패키지 설치
 RUN apt-get update && apt-get install -y \

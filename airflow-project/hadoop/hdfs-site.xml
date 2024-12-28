@@ -29,4 +29,21 @@
         <name>dfs.datanode.data.dir</name>
         <value>/hadoop/dfs/data</value>
     </property>
+
+    <!-- WebHDFS를 활성화 -->
+    <property>
+        <name>dfs.webhdfs.enabled</name>
+        <value>true</value>
+    </property>
+
+    <!-- HTTP 인증을 비활성화 (테스트 환경에서만 사용) -->
+    <property>
+        <name>dfs.web.authentication.kerberos.principal</name>
+        <value> </value>
+    </property>
+    <property>
+        <name>dfs.web.authentication.kerberos.keytab</name>
+        <value> </value>
+    </property>
+
 </configuration>

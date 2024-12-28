@@ -1,20 +1,32 @@
 FROM apache/airflow:2.10.3
 
-USER root/Users/data-project/data-pipeline-project/airflow-project/airflow/Dockerfile
+USER root
 
 # Airflow 그룹과 사용자 ID 변경
 ARG AIRFLOW_UID=501
 RUN groupmod -g 0 airflow || echo "Group airflow already set to GID 0" && \
-    usermod -u 501 -g 0 airflow || echo "User airflow already set"
+   usermod -u 501 -g 0 airflow || echo "User airflow already set"
+
 
 # 추가 패키지 설치
 RUN apt-get update && apt-get install -y \
-    python3-pip \
     wget \
     curl \
     unzip \
     default-jdk \
+    python3-pip \
     && apt-get clean
+
+# Hadoop 설치
+ENV HADOOP_VERSION=3.4.0
+ENV HADOOP_HOME=/usr/local/hadoop
+ENV PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH
+
+RUN wget https://dlcdn.apache.org/hadoop/common/hadoop-${HADOOP_VERSION}/hadoop-${HADOOP_VERSION}-aarch64.tar.gz && \
+    tar -xvzf hadoop-${HADOOP_VERSION}-aarch64.tar.gz && \
+    mv hadoop-${HADOOP_VERSION} $HADOOP_HOME && \
+    rm hadoop-${HADOOP_VERSION}-aarch64.tar.gz
+
 
 # Python 라이브러리 설치
 USER airflow

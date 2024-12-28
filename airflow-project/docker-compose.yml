@@ -106,6 +106,7 @@ services:
         - ./airflow.cfg:/opt/airflow/airflow.cfg
         - /etc/localtime:/etc/localtime:ro
         - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
+        - /Users/data-project/data-pipeline-project/airflow-project/shared/dags:/opt/airflow/dags
 
     networks:
       - airflow-network

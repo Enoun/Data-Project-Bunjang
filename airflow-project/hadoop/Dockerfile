@@ -1,10 +1,10 @@
-FROM openjdk:17-jdk-slim
+FROM openjdk:11-jdk-slim
 
 # Hadoop 환경 변수 설정
 ENV HADOOP_VERSION=3.4.0
 ENV HADOOP_HOME=/usr/local/hadoop
 ENV HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
-ENV JAVA_HOME=/usr/local/openjdk-17
+ENV JAVA_HOME=/usr/local/openjdk-11
 ENV PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH
 
 # 필수 패키지 설치

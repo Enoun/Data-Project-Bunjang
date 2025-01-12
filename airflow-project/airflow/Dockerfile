@@ -20,13 +20,20 @@ RUN apt-get update && apt-get install -y \
 # Hadoop 설치
 ENV HADOOP_VERSION=3.4.0
 ENV HADOOP_HOME=/usr/local/hadoop
-ENV PATH=$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH
+ENV HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+ENV HDFS_NAMENODE_USER=root
+ENV HDFS_DATANODE_USER=root
+ENV HDFS_SECONDARYNAMENODE_USER=root
+ENV PATH="${HADOOP_HOME}/bin:${HADOOP_HOME}/sbin:/home/airflow/.local/bin:${PATH}"
+
 
 RUN wget https://dlcdn.apache.org/hadoop/common/hadoop-${HADOOP_VERSION}/hadoop-${HADOOP_VERSION}-aarch64.tar.gz && \
     tar -xvzf hadoop-${HADOOP_VERSION}-aarch64.tar.gz && \
     mv hadoop-${HADOOP_VERSION} $HADOOP_HOME && \
     rm hadoop-${HADOOP_VERSION}-aarch64.tar.gz
 
+# Hadoop 환경 변수 설정
+RUN echo "export JAVA_HOME=/usr/lib/jvm/default-java" >> $HADOOP_HOME/etc/hadoop/hadoop-env.sh
 
 # Python 라이브러리 설치
 USER airflow

@@ -17,7 +17,7 @@ def collect_data_from_page(page_num, category_num, driver):
     scroll_count = 1
     for _ in range(scroll_count):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    wait = WebDriverWait(driver, 4)
+    wait = WebDriverWait(driver, 5)
 
     # 상품 정보 추출 및 저장
     products = driver.find_elements(By.XPATH, "//*[@id='root']/div/div/div[4]/div/div[4]/div/div")
@@ -41,7 +41,6 @@ def collect_data_from_page(page_num, category_num, driver):
             product_data_list.append(product_data)
         except Exception as e:
             print(f"데이터 추출 중 오류 발생: {e}")
-    # print(f"페이지 {page_num} 데이터 수집 완료 (카테고리: {category_num})")
     return product_data_list
 
 def collect_all(category_num):
@@ -53,6 +52,9 @@ def collect_all(category_num):
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    ) # User-Agent를 설정해 봇으로 보이지 않도록 설정
 
     def create_driver():
         return webdriver.Remote(command_executor=SELENIUM_URL, options=chrome_options)
@@ -60,14 +62,15 @@ def collect_all(category_num):
     def fetch_page(page_num):
         driver = create_driver()
         try:
-            return collect_data_from_page(page_num, category_num, driver)
+            data = collect_data_from_page(page_num, category_num, driver)
+            return data
         finally:
             driver.quit()
 
     all_data = []
     pages = range(1, 301)
 
-    with ThreadPoolExecutor(max_workers=4) as executor:  # 최대 5개의 스레드
+    with ThreadPoolExecutor(max_workers=3) as executor:  # 최대 4개의 스레드 설정 가능
         futures = [executor.submit(fetch_page, page_num) for page_num in pages]
         for future in futures:
             try:

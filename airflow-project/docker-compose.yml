@@ -87,6 +87,7 @@ services:
         - /etc/localtime:/etc/localtime:ro
         - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
         - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
+        - ./core-site.xml:/usr/local/hadoop/etc/hadoop/core-site.xml
     networks:
       - airflow-network
     command: ["airflow", "webserver"]

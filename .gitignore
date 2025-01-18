@@ -1,3 +1,4 @@
 .DS_Store
 .venv/
-.idea/
+./airflow-project/google-chrome.gpg
+./airflow-project/docker-compose.override.yml

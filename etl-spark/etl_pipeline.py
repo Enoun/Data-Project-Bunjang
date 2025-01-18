@@ -58,10 +58,16 @@ def process_and_save_data(category_name, hdfs_base_path):
         df_filtered = df_filtered.drop("time")
 
         # 저장 경로 설정 및 저장
-        output_path = f"hdfs://localhost:9000/user/dataPipeline/processedData/{category_name}/{category_name}_processed_{end_date.strftime('%Y%m%d')}.csv"
+        output_path = f"hdfs://localhost:9000/user/dataPipeline/processedData/{category_name}_processed_{end_date.strftime('%Y%m%d')}.csv"
         df_filtered.write.csv(output_path, mode="overwrite", header=True)
-        print(f"{category_name} 데이터 전처리 및 저장 완료")
 
+        local_file_path = os.path.join(local_output_dir, f"{category_name}_processed_{end_date.strftime('%Y%m%d')}.csv")
+        df_filtered.toPandas().to_csv(local_file_path, mode="W", header=True, encoding="utf-8-sig", index=False)
+        print(f"{category_name} 데이터 전처리 및 저장 완료{local_file_path}")
+
+# 로컬 파일 저장 경로 (shared 폴더)
+local_output_dir = "/Users/data-project/data-pipeline-project/airflow-project/shared/processedData"
+os.makedirs(local_output_dir, exist_ok=True)
 
 # 남성 및 여성 데이터 각각 처리
 process_and_save_data("mans", "hdfs://localhost:9000/user/dataPipeline/collectedData/mans_category/")

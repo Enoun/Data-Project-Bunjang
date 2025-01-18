@@ -20,9 +20,9 @@ with DAG(
         dag_id = 'data_pipeline_etl',
         default_args=default_args,
         description='An ETL pipeline with HDFS and Spark',
-        schedule_interval="@once",  # 한 번만 실행 (테스트 용)
+        # schedule_interval="@once",  # 한 번만 실행 (테스트 용)
         start_date=days_ago(1),
-        # schedule_interval='30 10,22 * * *',
+        schedule_interval='30 10,22 * * *',
         catchup=False,
         max_active_runs=1,
 ) as dag:

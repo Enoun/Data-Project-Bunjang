@@ -317,3 +317,9 @@ mans_category_20250118_022320.csv
 woman_category_20250118_025602.csv
 woman_category_20250119_140849.csv
 woman_category_20250119_044610.csv
+mans_category_20250120_023331.csv
+mans_category_20250120_103116.csv
+woman_category_20250120_025515.csv
+woman_category_20250120_105513.csv
+mans_category_20250120_111923.csv
+woman_category_20250120_114302.csv

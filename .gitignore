@@ -6,5 +6,7 @@ airflow-project/google-chrome.gpg
 airflow-project/docker-compose.override.yml
 airflow-project/.DS_Store
 airflow-project/.env
+airflow-project/core-site.xml
+airflow-project/hdfs-site.xml
 
 .idea/

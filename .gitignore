@@ -2,9 +2,9 @@
 .venv/
 .env/
 
-airflow-project/google-chrome.gpg
-airflow-project/docker-compose.override.yml
-airflow-project/.DS_Store
-airflow-project/.env
+./airflow-project/google-chrome.gpg
+./airflow-project/docker-compose.override.yml
+./airflow-project/.DS_Store
+./airflow-project/.env
 
 .idea/

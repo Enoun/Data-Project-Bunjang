@@ -32,10 +32,10 @@ with DAG(
         execution_timeout=timedelta(minutes=60)
     )
 
-    # 2. HDFS에 업로드
+    # # 2. HDFS에 업로드
     upload_to_hdfs = BashOperator(
         task_id='upload_to_hdfs',
-        bash_command='python /opt/airflow/data-pipeline-project/upload-to-hdfs/upload_to_hdfs.py',
+        bash_command='python /opt/airflow/data-pipeline-project/upload-to-s3/upload_to_hdfs.py',
     )
 
     # 3. Spark 전처리 작업
@@ -47,7 +47,7 @@ with DAG(
             export HADOOP_HOME=/usr/local/hadoop;
             export JAVA_HOME=/usr/lib/jvm/default-java;
             export PATH=$SPARK_HOME/bin:$SPARK_HOME/sbin:$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH;
-            spark-submit --master local /opt/***/data-pipeline-project/etl-spark/spark_etl.py;
+            spark-submit --master local /opt/***/data-pipeline-project/etl-aws-spark/aws_spark_etl.py;
         """
     )
 

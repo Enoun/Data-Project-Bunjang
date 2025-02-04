@@ -1,0 +1,512 @@
+[
+    {
+        "pid": "312700495",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 19fw 더플코트 사이즈 2",
+        "price_updates": [
+            {
+                "1738636343": "980000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312700495_1_1738636338_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "296975189",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "꼼데가르송 후미토간류 15SS자켓",
+        "price_updates": [
+            {
+                "1738622132": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296975189_1_1733615677_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "313527540",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 사루엘팬츠",
+        "price_updates": [
+            {
+                "1738557178": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313527540_1_1738557614_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "314283327",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 (fumito ganryu) ma1 셔츠",
+        "price_updates": [
+            {
+                "1738484035": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314283327_1_1738484048_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "301502702",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 트러커 자켓",
+        "price_updates": [
+            {
+                "1738478156": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301502702_1_1732873646_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "305056588",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 포터블 워크 셔츠",
+        "price_updates": [
+            {
+                "1738542192": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305056588_1_1737009247_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "314530714",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 더플코트 2사이즈 퍼플",
+        "price_updates": [
+            {
+                "1738424593": "1250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314530714_1_1738250534_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "288227923",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 m51 던가리 셔츠자켓 새제품급(1)",
+        "price_updates": [
+            {
+                "1738395487": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288227923_1_1736297737_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "203502867",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "19AW 후미토간류 후드코트 그레이 1사이즈 판매",
+        "price_updates": [
+            {
+                "1738281314": "1800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203502867_1_1723548139_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "299016586",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 22aw ma1 ganryu",
+        "price_updates": [
+            {
+                "1737732639": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299016586_1_1737655865_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "305874172",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 19aw 더플 코트 그레이 1",
+        "price_updates": [
+            {
+                "1737760389": "1700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305874172_1_1734094711_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "258954003",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "2022 후미토간류 더블코트 1사이즈",
+        "price_updates": [
+            {
+                "1737216554": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258954003_1_1732012431_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "237104378",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 2 way M-51 Coat 3사이즈",
+        "price_updates": [
+            {
+                "1737035086": "890000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237104378_1_1732195730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "304849723",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "L) 후미토간류 테이퍼드 링 팬츠 블랙",
+        "price_updates": [
+            {
+                "1736377069": "109000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304849723_1_1733724470_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "309690182",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 더플코트 19aw 블랙 1사이즈",
+        "price_updates": [
+            {
+                "1736417981": "1300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309690182_1_1735964692_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "210520176",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 눈꽃패턴 가디건 3",
+        "price_updates": [
+            {
+                "1735744929": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210520176_1_1672902528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "310898508",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 패딩 다운자켓 2사이즈 XL",
+        "price_updates": [
+            {
+                "1738576536": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310898508_1_1737619198_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "283022491",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 투웨이 풀오버 후디 2",
+        "price_updates": [
+            {
+                "1722777371": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283022491_1_1722777385_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "266879390",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 후드집업",
+        "price_updates": [
+            {
+                "1716805378": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/266879390_1_1716805378_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "257369226",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 파쿠르팬츠",
+        "price_updates": [
+            {
+                "1711012557": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257369226_1_1710927624_w{res}.jpg",
+        "status": "1",
+        "category_id": "320120999"
+    },
+    {
+        "pid": "243477273",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 19AW 오버핏 더플코트 네이비 1",
+        "price_updates": [
+            {
+                "1707561879": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243477273_1_1716818903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "314540792",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 그래피티 다운 3",
+        "price_updates": [
+            {
+                "1738323155": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314540792_1_1738257621_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "304468184",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 ma-1  3사이즈",
+        "price_updates": [
+            {
+                "1737949506": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304468184_1_1737949491_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "248884384",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 빈티지모던 체스터필드 코트ganryu오라리꼼데-G010601",
+        "price_updates": [
+            {
+                "1737697175": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248884384_1_1736501128_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "310173496",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 빈티지 체스터필드 코트 3 베이지",
+        "price_updates": [
+            {
+                "1736964773": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310173496_1_1736209421_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "306084014",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 19aw 더플 코트 그레이 1사이즈",
+        "price_updates": [
+            {
+                "1736984434": "1550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306084014_1_1736294894_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "268518194",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 19FW 더플코트 네이비 1",
+        "price_updates": [
+            {
+                "1736694639": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268518194_1_1736704366_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "305444105",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 20aw ma-1",
+        "price_updates": [
+            {
+                "1736062484": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305444105_1_1736016605_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "305899459",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 더플 코트(사이즈2)",
+        "price_updates": [
+            {
+                "1736209170": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305899459_1_1736240322_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "306755665",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 더플코트 블랙색상 2사이즈",
+        "price_updates": [
+            {
+                "1734868653": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306755665_1_1734502071_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "297637615",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 스탠카라 코트 2",
+        "price_updates": [
+            {
+                "1733751090": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297637615_1_1733886273_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "299431965",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "후미토간류 더플코트 판매 합니다 (가격 제의 환영)",
+        "price_updates": [
+            {
+                "1732947464": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299431965_1_1732889104_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "299016970",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "[2]후미토간류 23aw ma-1",
+        "price_updates": [
+            {
+                "1731784691": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299016970_1_1731827910_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "301198041",
+        "brands": [
+            "후미토간류"
+        ],
+        "name": "(1) 21aw 후미토간류 더플코트 베이지",
+        "price_updates": [
+            {
+                "1732060121": "790000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301198041_1_1731983550_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100"
+    }
+]

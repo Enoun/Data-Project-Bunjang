@@ -1,0 +1,452 @@
+[
+    {
+        "pid": "277372169",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 셔츠 삽니다. L사이즈",
+        "price_updates": [
+            {
+                "1739323524": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277372169_1_1724161540_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "308798154",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 심리스 워크봄버 후드집업 M/L 삽니다",
+        "price_updates": [
+            {
+                "1739323524": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308798154_1_1735488673_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "230496717",
+        "brands": [
+            "r13"
+        ],
+        "name": "알써틴 r13 체크셔츠 플란넬셔츠 남방 크롭 긴팔셔츠",
+        "price_updates": [
+            {
+                "1739321460": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230496717_1_1733714226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "270395501",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 디스트레스 가디건 L",
+        "price_updates": [
+            {
+                "1739277801": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270395501_1_1731400811_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "314526520",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 셔츠 팔아요 작년 라즈베리 입니다.",
+        "price_updates": [
+            {
+                "1739217463": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314526520_1_1738846613_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "250379537",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 알써틴 퍼코트 105",
+        "price_updates": [
+            {
+                "1739236797": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250379537_1_1736209614_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "226923889",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 너바나 스웻셔츠 M",
+        "price_updates": [
+            {
+                "1739150241": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226923889_1_1739150252_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "313659996",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 알써틴 코튼 니트 M",
+        "price_updates": [
+            {
+                "1739112982": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313659996_1_1738503480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "284791728",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 데님 베스트",
+        "price_updates": [
+            {
+                "1738208795": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284791728_1_1723779791_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500"
+    },
+    {
+        "pid": "268842918",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 알써틴 너바나 티셔츠 xs",
+        "price_updates": [
+            {
+                "1737879523": "241000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268842918_1_1724639601_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "285024089",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 데님 베스트",
+        "price_updates": [
+            {
+                "1733361010": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285024089_1_1723897447_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500"
+    },
+    {
+        "pid": "304164195",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 알써틴 데님 청바지(캐피탈 비즈빔 니들스 )",
+        "price_updates": [
+            {
+                "1733317300": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304164195_1_1733317456_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "296279804",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 옐로우 오버라이즈 로지 스컬 프린팅 자켓",
+        "price_updates": [
+            {
+                "1729767556": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296279804_1_1729767556_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "293040752",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 바지",
+        "price_updates": [
+            {
+                "1728306708": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293040752_1_1734240348_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "282685041",
+        "brands": [
+            "r13"
+        ],
+        "name": "[L] r13 블리치 셔츠(하정우 착용 모델)",
+        "price_updates": [
+            {
+                "1723878063": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282685041_1_1722593166_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "271496199",
+        "brands": [
+            "r13"
+        ],
+        "name": "2018년도 r13 알써틴 좀비 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1718124293": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271496199_1_1718158705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "258170175",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 데님 자켓",
+        "price_updates": [
+            {
+                "1711537005": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258170175_1_1711537005_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "315523561",
+        "brands": [
+            "r13"
+        ],
+        "name": "(Cr133)S 폴로 랄프로렌 스카이블루 QR 긴팔 셔츠",
+        "price_updates": [
+            {
+                "1738680015": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315523561_1_1738680015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315306771",
+        "brands": [
+            "r13"
+        ],
+        "name": "(Cr133)S 폴로 랄프로렌 스카이블루 QR 긴팔 셔츠",
+        "price_updates": [
+            {
+                "1738589091": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315306771_1_1738853690_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315522787",
+        "brands": [
+            "r13"
+        ],
+        "name": "(Cr131)M 폴로 랄프로렌 아이보리 하프집업 니트 스웨터",
+        "price_updates": [
+            {
+                "1738679797": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315522787_1_1738679797_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "315305657",
+        "brands": [
+            "r13"
+        ],
+        "name": "(Cr131)M 폴로 랄프로렌 아이보리 하프집업 니트 스웨터",
+        "price_updates": [
+            {
+                "1738588795": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315305657_1_1738588795_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "315523134",
+        "brands": [
+            "r13"
+        ],
+        "name": "(Cr132)XL 폴로 랄프로렌 블루퍼플 옥스포드 긴팔 셔츠",
+        "price_updates": [
+            {
+                "1738679897": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315523134_1_1738679897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315306306",
+        "brands": [
+            "r13"
+        ],
+        "name": "(Cr132)XL 폴로 랄프로렌 블루퍼플 옥스포드 긴팔 셔츠",
+        "price_updates": [
+            {
+                "1738588969": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315306306_1_1738589143_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "312567510",
+        "brands": [
+            "r13"
+        ],
+        "name": "The Calee Wool Hichopper13 Jacket",
+        "price_updates": [
+            {
+                "1737292394": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312567510_1_1737292394_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "311787411",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 셔츠",
+        "price_updates": [
+            {
+                "1736938447": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311787411_1_1736938447_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "308368734",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 알써틴 봄버자켓",
+        "price_updates": [
+            {
+                "1737202800": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308368734_1_1735293046_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "306802602",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 크로스오버 데님 택달린 제품",
+        "price_updates": [
+            {
+                "1735477662": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306802602_1_1735486156_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "305139660",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 fw24 디스트레스 니트 [XL]",
+        "price_updates": [
+            {
+                "1734243882": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305139660_1_1734244847_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "293530851",
+        "brands": [
+            "r13"
+        ],
+        "name": "[S] r13 슈레디드 셔츠 베이지 핑크",
+        "price_updates": [
+            {
+                "1733873525": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293530851_1_1734082797_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "280047134",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 디스트로이드 니트 네고 가능 (스크레이키즈 착용)",
+        "price_updates": [
+            {
+                "1733525481": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280047134_1_1733525456_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700"
+    }
+]

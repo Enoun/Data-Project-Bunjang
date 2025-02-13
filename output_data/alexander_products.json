@@ -1,33 +1,243 @@
 [
     {
-        "pid": "312996642",
+        "pid": "122252677",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 트랙팬츠",
+        "name": "정품 1st 아디다스 알렉산더왕 팬츠 초판 네이비 xs",
         "price_updates": [
             {
-                "1738635217": "90000"
+                "1739100383": "270000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/312996642_1_1738068206_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/122252677_1_1728705955_w{res}.jpg",
         "status": "0",
         "category_id": "320120300"
     },
     {
-        "pid": "133982818",
+        "pid": "315442596",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 코트 팝니다",
+        "name": "(유일매물)아디다스 알렉산더왕 져지 그린",
         "price_updates": [
             {
-                "1738631499": "150000"
+                "1739097205": "240000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/133982818_1_1646011024_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315442596_1_1738734805_w{res}.jpg",
         "status": "0",
-        "category_id": "320300100"
+        "category_id": "320500200"
+    },
+    {
+        "pid": "316455020",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕쭈글이(M)",
+        "price_updates": [
+            {
+                "1739095089": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316455020_1_1739101827_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "259094187",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 도킹 믹스 데님 자켓",
+        "price_updates": [
+            {
+                "1739098395": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259094187_1_1738579980_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "282398181",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 져지 티셔츠 M",
+        "price_updates": [
+            {
+                "1739098775": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282398181_1_1732802273_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "111436918",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 알왕 바람막이 윈드브레이커",
+        "price_updates": [
+            {
+                "1739098928": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/111436918_1_1588571376_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "238147108",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "<세일> 알렉산더왕 레더 콤보 봄버 가죽 자켓(L 사이즈)",
+        "price_updates": [
+            {
+                "1739096390": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238147108_1_1737195405_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "316082834",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 기모 셔츠 자켓",
+        "price_updates": [
+            {
+                "1739091385": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316082834_1_1738934471_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "308933498",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 가죽 자켓 점퍼",
+        "price_updates": [
+            {
+                "1739095664": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308933498_1_1735562266_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "242233860",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 콜라보 후드티",
+        "price_updates": [
+            {
+                "1739089633": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242233860_1_1730449336_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "304870109",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[S] 티 바이 알렉산더왕 봄버 자켓",
+        "price_updates": [
+            {
+                "1739088506": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304870109_1_1735850308_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "312083802",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(아이유착용) 아디다스 알렉산더왕 인앤아웃 집업 L",
+        "price_updates": [
+            {
+                "1739087334": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312083802_1_1737954252_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "290789784",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(XL) 아디다스 알렉산더왕 메쉬 폴로",
+        "price_updates": [
+            {
+                "1739082868": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290789784_1_1736973040_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "316390164",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 벨루어 긴팔",
+        "price_updates": [
+            {
+                "1739078017": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316390164_1_1739078017_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "258353079",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 와이드 팬츠",
+        "price_updates": [
+            {
+                "1739070310": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258353079_1_1739097388_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999"
+    },
+    {
+        "pid": "255366191",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "H&M X 알렉산더왕 니트",
+        "price_updates": [
+            {
+                "1739076119": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255366191_1_1738041551_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
     },
     {
         "pid": "305763582",
@@ -37,12 +247,42 @@
         "name": "알렉산더왕 숄카라 니트",
         "price_updates": [
             {
-                "1738631521": "50000"
+                "1739066096": "50000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/305763582_1_1734056551_w{res}.jpg",
         "status": "0",
         "category_id": "320210700"
+    },
+    {
+        "pid": "312344486",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕xl사이즈 쭈글이",
+        "price_updates": [
+            {
+                "1739063906": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312344486_1_1737200125_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "298653299",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[L]아디다스 알렉산더왕 벨루어 긴팔",
+        "price_updates": [
+            {
+                "1739074312": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298653299_1_1739074611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
     },
     {
         "pid": "285632046",
@@ -52,7 +292,7 @@
         "name": "아디다스 알렉산더왕 져지 티셔츠 블랙 L 95",
         "price_updates": [
             {
-                "1738632449": "86000"
+                "1739072191": "86000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/285632046_1_1737606490_w{res}.jpg",
@@ -60,17 +300,77 @@
         "category_id": "320210100"
     },
     {
-        "pid": "223875618",
+        "pid": "309537631",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 쭈글이 윈드 자켓 추리닝 트랙탑 S M",
+        "name": "아디다스 X 알렉산더왕 쭈글이 반팔티",
         "price_updates": [
             {
-                "1738634534": "690000"
+                "1739070902": "80000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/223875618_1_1698189468_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/309537631_1_1735887539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "281052386",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 나일론팬츠 스키라인 m사이즈",
+        "price_updates": [
+            {
+                "1739068115": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281052386_1_1737630210_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "287682390",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[S] 아디다스 알렉산더왕 벨루어 폴로 pk 반팔",
+        "price_updates": [
+            {
+                "1739067607": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287682390_1_1732068518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "299107151",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[M/M] 알렉산더왕x아디다스 쭈글이 트랙 셋업 블랙",
+        "price_updates": [
+            {
+                "1739080006": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299107151_1_1737708861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "293339123",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 X 알렉산더왕 해외판 희귀 1차 플립 트랙탑 버건디져지 마룬 L",
+        "price_updates": [
+            {
+                "1739079321": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293339123_1_1728479217_w{res}.jpg",
         "status": "0",
         "category_id": "320300400"
     },
@@ -82,12 +382,567 @@
         "name": "알렉산더왕X아디다스 크루넥 맨투맨 (L)",
         "price_updates": [
             {
-                "1738626727": "200000"
+                "1739056616": "190000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/315271767_1_1738579569_w{res}.jpg",
         "status": "0",
         "category_id": "320210500"
+    },
+    {
+        "pid": "316094689",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 X H&M 콜라보레이션 한정판 남성 슬리브리스 M",
+        "price_updates": [
+            {
+                "1739044050": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316094689_1_1738937529_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210300"
+    },
+    {
+        "pid": "300077642",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 밀리터리자켓",
+        "price_updates": [
+            {
+                "1739053305": "820000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300077642_1_1733979836_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "311939641",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[50] 알렉산더왕 카모 자켓",
+        "price_updates": [
+            {
+                "1739019576": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311939641_1_1737522623_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "310367354",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 네오프랜 조거팬츠",
+        "price_updates": [
+            {
+                "1739051814": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310367354_1_1736695379_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "270649776",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 울체크 반바지",
+        "price_updates": [
+            {
+                "1739018325": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270649776_1_1732158413_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700"
+    },
+    {
+        "pid": "242517414",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 벨루어 폴로 티셔츠",
+        "price_updates": [
+            {
+                "1739021979": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242517414_1_1699691083_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "276661041",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 티셔츠 2xl 판매합니다",
+        "price_updates": [
+            {
+                "1739057388": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276661041_1_1726745430_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "291047590",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(S)아디다스x알렉산더왕 쭈글이 트랙탑",
+        "price_updates": [
+            {
+                "1739048313": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291047590_1_1739087928_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "228820350",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 쭈글이 윈드 자켓 추리닝 트랙탑 XS",
+        "price_updates": [
+            {
+                "1739025237": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/228820350_1_1688355616_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "308015186",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "*1회시착* 알렉산더왕 빅로고 엠브로이드 스웨트 셔츠",
+        "price_updates": [
+            {
+                "1739023454": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308015186_1_1735108393_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "295755160",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 pk 셔츠",
+        "price_updates": [
+            {
+                "1738940501": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295755160_1_1729518626_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "312666952",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 x h&m",
+        "price_updates": [
+            {
+                "1738936721": "144000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312666952_1_1737352565_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "313706940",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 모헤어 자켓 48 100",
+        "price_updates": [
+            {
+                "1739001721": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313706940_1_1738577779_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "296071801",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 정품 코듀로이 반집업",
+        "price_updates": [
+            {
+                "1738985938": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296071801_1_1729674607_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "297718397",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 벨루어 긴팔",
+        "price_updates": [
+            {
+                "1738985189": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297718397_1_1738985220_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "293608775",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 X 알렉산더왕 후드티 L",
+        "price_updates": [
+            {
+                "1738969817": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293608775_1_1737319649_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "253338320",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 트레이닝 팬츠 XS (남녀공용)",
+        "price_updates": [
+            {
+                "1738998961": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253338320_1_1727443631_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "254487531",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 포켓 반팔티 판매합니다",
+        "price_updates": [
+            {
+                "1739001117": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254487531_1_1711617475_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "313294230",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "주말할인)알렉산더왕 19FW 스웻셔츠 맨투맨",
+        "price_updates": [
+            {
+                "1738991192": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313294230_1_1738991188_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "240116156",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 반팔티 미착용품 105사이즈",
+        "price_updates": [
+            {
+                "1738975833": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240116156_1_1734478494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "258840262",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스x알렉산더왕 1st 플립 반바지 M",
+        "price_updates": [
+            {
+                "1738990464": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258840262_1_1738571753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700"
+    },
+    {
+        "pid": "253853925",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[L]아디다스x알렉산더왕 쭈글이 트랙탑",
+        "price_updates": [
+            {
+                "1738936889": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253853925_1_1736831334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "292628746",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 x 알렉산더왕 1차 트랙탑 져지(xs)",
+        "price_updates": [
+            {
+                "1739012738": "199500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292628746_1_1735581585_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "280339361",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[XS] 아디다스 알렉산더왕 트랙 반바지",
+        "price_updates": [
+            {
+                "1738907718": "133000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280339361_1_1723282329_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "205835975",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 투인원 덕다운자켓",
+        "price_updates": [
+            {
+                "1738928259": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/205835975_1_1695344935_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "288866396",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 트랙팬츠 M 블랙",
+        "price_updates": [
+            {
+                "1738862231": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288866396_1_1737602497_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "307193098",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[대장급] 알렉산더왕 아디다스 자카드 트랙탑",
+        "price_updates": [
+            {
+                "1738903379": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307193098_1_1738918655_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "258203861",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(M) 아디다스 x 알렉산더왕 1st 트랙팬츠",
+        "price_updates": [
+            {
+                "1738919025": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258203861_1_1723678244_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "306781977",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(땡처리)H&M X 알렉산더왕 이너베스트파카(M) 100-105",
+        "price_updates": [
+            {
+                "1738853236": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306781977_1_1734510683_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "313854360",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[상의(XL),하의(M)]알렉산더왕x아디다스 윈드브레이커",
+        "price_updates": [
+            {
+                "1738773180": "780000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313854360_1_1737899572_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "295808322",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 x 아디다스 후디",
+        "price_updates": [
+            {
+                "1738820042": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295808322_1_1730172709_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "123856762",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 인아웃 자켓",
+        "price_updates": [
+            {
+                "1738795319": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/123856762_1_1685065841_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "303731848",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 메쉬 긴팔",
+        "price_updates": [
+            {
+                "1738828779": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303731848_1_1736293237_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "278552114",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(파정) 아디다스X알렉산더왕 팬츠 S(황금매물)",
+        "price_updates": [
+            {
+                "1738807767": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278552114_1_1721878636_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "129221514",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕x페이지식스 18SS 신문 티셔츠 S",
+        "price_updates": [
+            {
+                "1738774693": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/129221514_1_1699111345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "227987304",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕x페이지식스 18SS 신문 맨투맨 S",
+        "price_updates": [
+            {
+                "1738774690": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/227987304_1_1699111354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315385091",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "티 바이 알렉산더왕 반팔티 라지",
+        "price_updates": [
+            {
+                "1738639376": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315385091_1_1738639376_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
     },
     {
         "pid": "219821437",
@@ -97,7 +952,7 @@
         "name": "아디다스 알렉산더왕 콜라보 롱슬리브",
         "price_updates": [
             {
-                "1738624016": "70000"
+                "1738712502": "70000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/219821437_1_1736559506_w{res}.jpg",
@@ -105,19 +960,109 @@
         "category_id": "320210200"
     },
     {
-        "pid": "298653299",
+        "pid": "167124480",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 벨루어 긴팔 L",
+        "name": "알렉산더왕 패딩 야상 트렌치 코트",
         "price_updates": [
             {
-                "1738626839": "350000"
+                "1738690631": "290250"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/298653299_1_1731902414_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/167124480_1_1707214888_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "305853669",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 X 알렉산더왕 폴라 조거 팬츠",
+        "price_updates": [
+            {
+                "1738754797": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305853669_1_1734088892_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "312020720",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[105]알렉산더왕x아디다스 플리스 로브 코트",
+        "price_updates": [
+            {
+                "1738749825": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312020720_1_1738572503_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "315382998",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "티 바이 알렉산더왕 브라운 반팔 티 사이즈 엑스라지판매",
+        "price_updates": [
+            {
+                "1738638560": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315382998_1_1738638560_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "275629812",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 쭈글이 트랙팬츠 2xs",
+        "price_updates": [
+            {
+                "1738748623": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275629812_1_1720691254_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "315383300",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "티 바이 알렉산더왕 브라운 긴팔 쭉티 사이즈  라지 판매",
+        "price_updates": [
+            {
+                "1738638688": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315383300_1_1738638688_w{res}.jpg",
         "status": "0",
         "category_id": "320210200"
+    },
+    {
+        "pid": "134226982",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕x유니클로 엑스트라웜 크루넥 히트텍",
+        "price_updates": [
+            {
+                "1738680859": "39900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/134226982_1_1640882874_w{res}.jpg",
+        "status": "0",
+        "category_id": "320160800"
     },
     {
         "pid": "314218158",
@@ -135,19 +1080,64 @@
         "category_id": "320210100"
     },
     {
-        "pid": "311609987",
+        "pid": "315312805",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕) 거의새거 공용 구스 다운 패딩- 95",
+        "name": "(95) H.M 알렉산더왕 콜라보 네오프렌 맨투맨 긴팔티",
         "price_updates": [
             {
-                "1738623598": "29900"
+                "1738590929": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/311609987_1_1738470659_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315312805_1_1738590929_w{res}.jpg",
         "status": "0",
-        "category_id": "320300300"
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315125725",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 맨투맨",
+        "price_updates": [
+            {
+                "1738506924": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315125725_1_1738507021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "133982818",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 코트 팝니다",
+        "price_updates": [
+            {
+                "1738631499": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/133982818_1_1646011024_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "311186026",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "S 알렉산더왕 아디다스 알왕 블루 쭈글이 카라 긴팔 티셔츠 폴로",
+        "price_updates": [
+            {
+                "1738722776": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311186026_1_1736671021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
     },
     {
         "pid": "177850867",
@@ -165,6 +1155,21 @@
         "category_id": "320210700"
     },
     {
+        "pid": "130267316",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 x 알렉산더왕 트레이닝 세트",
+        "price_updates": [
+            {
+                "1738653859": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/130267316_1_1715507791_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
         "pid": "205071276",
         "brands": [
             "알렉산더왕"
@@ -180,17 +1185,47 @@
         "category_id": "320210200"
     },
     {
-        "pid": "307803964",
+        "pid": "315091548",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 쭈글이팬츠 S",
+        "name": "아디다스 X 알렉산더왕 벨루어 져지 S",
         "price_updates": [
             {
-                "1738601672": "180000"
+                "1738498513": "240000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/307803964_1_1738308297_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315091548_1_1738498513_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "165071985",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "L / 알렉산더왕 블랙 싱글 캐주얼 데님 코트",
+        "price_updates": [
+            {
+                "1738639565": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/165071985_1_1729762993_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "201509353",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[XS] 아디다스 알렉산더왕 쭈글이 트랙팬츠",
+        "price_updates": [
+            {
+                "1738587312": "525000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201509353_1_1736647759_w{res}.jpg",
         "status": "0",
         "category_id": "320120300"
     },
@@ -210,394 +1245,49 @@
         "category_id": "320210600"
     },
     {
-        "pid": "315189096",
+        "pid": "311609987",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "88)알렉산더왕 지퍼 디테일 밴딩 슬랙스",
+        "name": "알렉산더왕) 거의새거 공용 구스 다운 패딩- 95",
         "price_updates": [
             {
-                "1738552988": "50000"
+                "1738623598": "24900"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315189096_1_1738552988_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311609987_1_1738983274_w{res}.jpg",
         "status": "0",
-        "category_id": "320120200"
+        "category_id": "320300300"
     },
     {
         "pid": "315255694",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 쭈글이 트랙탑 xl삽니다",
+        "name": "알렉산더왕 아디다스 쭈글이 트랙탑L or XL삽니다",
         "price_updates": [
             {
                 "1738574737": "450000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315255694_1_1738574737_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315255694_1_1738873341_w{res}.jpg",
         "status": "0",
         "category_id": "320300400"
     },
     {
-        "pid": "314725743",
+        "pid": "223875618",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "(유일매물)아디다스 알렉산더왕 콜라보 져지",
+        "name": "알렉산더왕 아디다스 쭈글이 윈드 자켓 추리닝 트랙탑 S M",
         "price_updates": [
             {
-                "1738588668": "290000"
+                "1738634534": "690000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314725743_1_1738349649_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
-    },
-    {
-        "pid": "315312805",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(95) H.M 알렉산더왕 콜라보 네오프렌 맨투맨 긴팔티",
-        "price_updates": [
-            {
-                "1738590929": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315312805_1_1738590929_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500"
-    },
-    {
-        "pid": "313706940",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 모헤어 자켓 48 100",
-        "price_updates": [
-            {
-                "1738566577": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313706940_1_1738577779_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/223875618_1_1698189468_w{res}.jpg",
         "status": "0",
         "category_id": "320300400"
-    },
-    {
-        "pid": "313854360",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[상의(XL),하의(M)]알렉산더왕x아디다스 윈드브레이커",
-        "price_updates": [
-            {
-                "1738562903": "780000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313854360_1_1737899572_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "258353079",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 와이드 팬츠",
-        "price_updates": [
-            {
-                "1738577473": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258353079_1_1734506130_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999"
-    },
-    {
-        "pid": "300077642",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 밀리터리자켓",
-        "price_updates": [
-            {
-                "1738553184": "820000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300077642_1_1733979836_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "308933498",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 가죽 자켓 점퍼",
-        "price_updates": [
-            {
-                "1738578821": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308933498_1_1735562266_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "255366191",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "H&M X 알렉산더왕 니트",
-        "price_updates": [
-            {
-                "1738577799": "25000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255366191_1_1738041551_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700"
-    },
-    {
-        "pid": "310367354",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 네오프랜 조거팬츠",
-        "price_updates": [
-            {
-                "1738594901": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310367354_1_1736695379_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "312344486",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕xl사이즈 쭈글이",
-        "price_updates": [
-            {
-                "1738584343": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312344486_1_1737200125_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200"
-    },
-    {
-        "pid": "259094187",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 도킹 믹스 데님 자켓",
-        "price_updates": [
-            {
-                "1738579982": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259094187_1_1738579980_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "304870109",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[S] 티 바이 알렉산더왕 봄버 자켓",
-        "price_updates": [
-            {
-                "1738569395": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304870109_1_1735850308_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200"
-    },
-    {
-        "pid": "201509353",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[XS] 아디다스 알렉산더왕 쭈글이 트랙팬츠",
-        "price_updates": [
-            {
-                "1738587312": "525000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/201509353_1_1736647759_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "290789784",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(XL) 아디다스 알렉산더왕 메쉬 폴로",
-        "price_updates": [
-            {
-                "1738585345": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290789784_1_1736973040_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
-        "pid": "303731848",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 메쉬 긴팔",
-        "price_updates": [
-            {
-                "1738575179": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303731848_1_1736293237_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
-        "pid": "312020720",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[105]알렉산더왕x아디다스 플리스 로브 코트",
-        "price_updates": [
-            {
-                "1738572527": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312020720_1_1738572503_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100"
-    },
-    {
-        "pid": "258840262",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스x알렉산더왕 1st 플립 반바지 M",
-        "price_updates": [
-            {
-                "1738571740": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258840262_1_1738571753_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700"
-    },
-    {
-        "pid": "122252677",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "정품 1st 아디다스 알렉산더왕 팬츠 초판 네이비 xs",
-        "price_updates": [
-            {
-                "1738587701": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/122252677_1_1728705955_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "299107151",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[M/M] 알렉산더왕x아디다스 쭈글이 트랙 셋업 블랙",
-        "price_updates": [
-            {
-                "1738574948": "700000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299107151_1_1737708861_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
-    },
-    {
-        "pid": "238147108",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "<세일> 알렉산더왕 레더 콤보 봄버 가죽 자켓(L 사이즈)",
-        "price_updates": [
-            {
-                "1738576725": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/238147108_1_1737195405_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "312083802",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(아이유착용) 아디다스 알렉산더왕 인앤아웃 집업 L",
-        "price_updates": [
-            {
-                "1738554085": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312083802_1_1737954252_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
-    },
-    {
-        "pid": "311184142",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "XS 알렉산더왕 아디다스 알왕 네온 져지 티셔츠 쭈글이 긴팔",
-        "price_updates": [
-            {
-                "1738568793": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311184142_1_1736670513_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
-        "pid": "315125725",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 맨투맨",
-        "price_updates": [
-            {
-                "1738506924": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315125725_1_1738507021_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500"
-    },
-    {
-        "pid": "315091548",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 벨루어 져지 S",
-        "price_updates": [
-            {
-                "1738498513": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315091548_1_1738498513_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
     },
     {
         "pid": "311673109",
@@ -645,81 +1335,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "242233860",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 콜라보 후드티",
-        "price_updates": [
-            {
-                "1738502822": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242233860_1_1730449336_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600"
-    },
-    {
-        "pid": "295455123",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 스타디움 XL",
-        "price_updates": [
-            {
-                "1738476456": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295455123_1_1730263047_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200"
-    },
-    {
-        "pid": "311939641",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[50] 알렉산더왕 카모 자켓",
-        "price_updates": [
-            {
-                "1738466638": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311939641_1_1737522623_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "297718397",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 벨루어 긴팔",
-        "price_updates": [
-            {
-                "1738540522": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297718397_1_1735368379_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
-        "pid": "282398181",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 져지 티셔츠 M",
-        "price_updates": [
-            {
-                "1738508614": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282398181_1_1732802273_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
         "pid": "305852806",
         "brands": [
             "알렉산더왕"
@@ -735,167 +1350,17 @@
         "category_id": "320500200"
     },
     {
-        "pid": "253338320",
+        "pid": "313850499",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 트레이닝 팬츠 XS (남녀공용)",
+        "name": "알렉산더왕 롱슬리브 한정판",
         "price_updates": [
             {
-                "1738480748": "120000"
+                "1737898525": "190000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/253338320_1_1727443631_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "281052386",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 나일론팬츠 스키라인 m사이즈",
-        "price_updates": [
-            {
-                "1738543628": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/281052386_1_1737630210_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "307193098",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[대장급] 알렉산더왕 아디다스 자카드 트랙탑",
-        "price_updates": [
-            {
-                "1738470639": "260000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307193098_1_1735374310_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
-    },
-    {
-        "pid": "291047590",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(S)아디다스x알렉산더왕 쭈글이 트랙탑",
-        "price_updates": [
-            {
-                "1738541744": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291047590_1_1729744873_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "293339123",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 해외판 희귀 1차 플립 트랙탑 버건디져지 마룬 L",
-        "price_updates": [
-            {
-                "1738551671": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293339123_1_1728479217_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "295755160",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 pk 셔츠",
-        "price_updates": [
-            {
-                "1738427540": "20000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295755160_1_1729518626_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400"
-    },
-    {
-        "pid": "314713093",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "105) 알렉산더왕 봄버자켓",
-        "price_updates": [
-            {
-                "1738339147": "259000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314713093_1_1738339147_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200"
-    },
-    {
-        "pid": "243701951",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 울코트",
-        "price_updates": [
-            {
-                "1738412474": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/243701951_1_1707047247_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100"
-    },
-    {
-        "pid": "227834519",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(115) 알렉산더왕 아디다스 반팔 져지 블랙",
-        "price_updates": [
-            {
-                "1738418559": "289000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/227834519_1_1722093949_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "240116156",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 반팔티 미착용품 105사이즈",
-        "price_updates": [
-            {
-                "1738458237": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/240116156_1_1734478494_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "227834762",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(105) 알렉산더왕 아디다스 긴팔져지 녹색",
-        "price_updates": [
-            {
-                "1738418556": "289000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/227834762_1_1688042894_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/313850499_1_1737898505_w{res}.jpg",
         "status": "0",
         "category_id": "320210200"
     },
@@ -915,64 +1380,49 @@
         "category_id": "320210500"
     },
     {
-        "pid": "246778586",
+        "pid": "295455123",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 가죽 레더 반바지 숏팬츠 램스킨 양가죽",
+        "name": "아디다스 알렉산더왕 스타디움 XL",
         "price_updates": [
             {
-                "1738455575": "400000"
+                "1738476456": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/246778586_1_1702905638_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/295455123_1_1730263047_w{res}.jpg",
         "status": "0",
-        "category_id": "320120700"
+        "category_id": "320300200"
     },
     {
-        "pid": "203037267",
+        "pid": "314317616",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "17F/W 아디다스 알렉산더왕 사이드 버튼 그린 와이드 트랙 팬츠 L",
+        "name": "아디다스 알렉산더왕 스트라이프 오버핏 맨투맨 100 K07088",
         "price_updates": [
             {
-                "1738406378": "200000"
+                "1738152268": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/203037267_1_1707821046_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/314317616_1_1738152268_w{res}.jpg",
         "status": "0",
-        "category_id": "320120300"
+        "category_id": "320210500"
     },
     {
-        "pid": "311182481",
+        "pid": "243701951",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "S 알렉산더왕 아디다스 알왕 콜라보 형광 집업 져지 자켓 쭈글이",
+        "name": "알렉산더왕 울코트",
         "price_updates": [
             {
-                "1738455575": "240000"
+                "1738412474": "210000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/311182481_1_1736670242_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/243701951_1_1707047247_w{res}.jpg",
         "status": "0",
-        "category_id": "320500200"
-    },
-    {
-        "pid": "311184680",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "XS 알렉산더왕 아디다스 알왕 블랙 쭈글이 카라 긴팔 티셔츠 폴로",
-        "price_updates": [
-            {
-                "1738455575": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311184680_1_1736670651_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
+        "category_id": "320300100"
     },
     {
         "pid": "286610898",
@@ -1005,19 +1455,34 @@
         "category_id": "320120100"
     },
     {
-        "pid": "270649776",
+        "pid": "311184142",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 울체크 반바지",
+        "name": "XS 알렉산더왕 아디다스 알왕 네온 져지 티셔츠 쭈글이 긴팔",
         "price_updates": [
             {
-                "1738329621": "80000"
+                "1738568793": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/270649776_1_1732158413_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311184142_1_1736670513_w{res}.jpg",
         "status": "0",
-        "category_id": "320120700"
+        "category_id": "320210200"
+    },
+    {
+        "pid": "227834519",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(115) 알렉산더왕 아디다스 반팔 져지 블랙",
+        "price_updates": [
+            {
+                "1738418559": "289000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/227834519_1_1722093949_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
     },
     {
         "pid": "176509595",
@@ -1035,334 +1500,19 @@
         "category_id": "320210700"
     },
     {
-        "pid": "288866396",
+        "pid": "227834762",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 트랙팬츠 M 블랙",
+        "name": "(105) 알렉산더왕 아디다스 긴팔져지 녹색",
         "price_updates": [
             {
-                "1738299551": "130000"
+                "1738418556": "289000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/288866396_1_1737602497_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "254487531",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 포켓 반팔티 판매합니다",
-        "price_updates": [
-            {
-                "1738305361": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254487531_1_1711617475_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "294532960",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 M-95(실착용L-100)",
-        "price_updates": [
-            {
-                "1738305481": "175000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294532960_1_1738224748_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/227834762_1_1688042894_w{res}.jpg",
         "status": "0",
         "category_id": "320210200"
-    },
-    {
-        "pid": "314317616",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 스트라이프 오버핏 맨투맨 100 K07088",
-        "price_updates": [
-            {
-                "1738152268": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314317616_1_1738152268_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500"
-    },
-    {
-        "pid": "123856762",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 인아웃 자켓",
-        "price_updates": [
-            {
-                "1738214309": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/123856762_1_1685065841_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "227987304",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕x페이지식스 18SS 신문 맨투맨 S",
-        "price_updates": [
-            {
-                "1738248377": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/227987304_1_1699111354_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500"
-    },
-    {
-        "pid": "129221514",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕x페이지식스 18SS 신문 티셔츠 S",
-        "price_updates": [
-            {
-                "1738248381": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/129221514_1_1699111345_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "259913796",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[XS,S] 아디디스 알렉산더왕 1st 스냅 팬츠 블랙",
-        "price_updates": [
-            {
-                "1738286485": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259913796_1_1722223619_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "224249020",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 쭈글이 추리닝 바지 윈드 트랙 팬츠 L사이즈",
-        "price_updates": [
-            {
-                "1738275839": "570000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/224249020_1_1696581704_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "293608775",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 후드티 L",
-        "price_updates": [
-            {
-                "1738183475": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293608775_1_1737319649_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600"
-    },
-    {
-        "pid": "304951263",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 리버시블 플리스 자켓",
-        "price_updates": [
-            {
-                "1738162069": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304951263_1_1733666985_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "257275775",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 플리스 가운 코트 L",
-        "price_updates": [
-            {
-                "1738163261": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257275775_1_1710851339_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100"
-    },
-    {
-        "pid": "253854175",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[M]아디다스x알렉산더왕 쭈글이 팬츠",
-        "price_updates": [
-            {
-                "1738199515": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253854175_1_1736399462_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
-        "pid": "301607997",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 x 알렉산더왕 리버시블 플리스 자켓 판매",
-        "price_updates": [
-            {
-                "1738132645": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301607997_1_1732165019_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "306781977",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(땡처리)H&M X 알렉산더왕 이너베스트파카(M) 100-105",
-        "price_updates": [
-            {
-                "1738161393": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306781977_1_1734510683_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200"
-    },
-    {
-        "pid": "228706496",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 쭈글이 윈드 자켓 추리닝 트랙탑 S M",
-        "price_updates": [
-            {
-                "1738122981": "690000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/228706496_1_1709760611_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "313850499",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 롱슬리브 한정판",
-        "price_updates": [
-            {
-                "1737898525": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313850499_1_1737898505_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
-        "pid": "205835975",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 투인원 덕다운자켓",
-        "price_updates": [
-            {
-                "1738072983": "650000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/205835975_1_1695344935_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300"
-    },
-    {
-        "pid": "290862390",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 메쉬져지 m",
-        "price_updates": [
-            {
-                "1738044236": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290862390_1_1737686975_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "313294230",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 19FW 스웻셔츠 맨투맨",
-        "price_updates": [
-            {
-                "1737637509": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313294230_1_1737637509_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500"
-    },
-    {
-        "pid": "312666952",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 x h&m",
-        "price_updates": [
-            {
-                "1737910346": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312666952_1_1737352565_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600"
-    },
-    {
-        "pid": "313379450",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "H&M알렉산더왕 가죽자켓s(95~슬림100)",
-        "price_updates": [
-            {
-                "1737694298": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313379450_1_1737694298_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
     },
     {
         "pid": "261475608",
@@ -1375,24 +1525,9 @@
                 "1737585758": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/261475608_1_1714996578_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/261475608_1_1738735449_w{res}.jpg",
         "status": "0",
         "category_id": "320210200"
-    },
-    {
-        "pid": "311242955",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 티셔츠 판매합니다. 알렉산더왕 티셔츠 판매합니다.",
-        "price_updates": [
-            {
-                "1738028446": "15000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311242955_1_1736686787_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
     },
     {
         "pid": "263102849",
@@ -1410,6 +1545,36 @@
         "category_id": "320210400"
     },
     {
+        "pid": "257275775",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 플리스 가운 코트 L",
+        "price_updates": [
+            {
+                "1738163261": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257275775_1_1710851339_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "304951263",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 X 알렉산더왕 리버시블 플리스 자켓",
+        "price_updates": [
+            {
+                "1738162069": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304951263_1_1733666985_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
         "pid": "298331611",
         "brands": [
             "알렉산더왕"
@@ -1423,6 +1588,36 @@
         "product_image": "https://media.bunjang.co.kr/product/298331611_1_1737508178_w{res}.jpg",
         "status": "0",
         "category_id": "320210200"
+    },
+    {
+        "pid": "253854175",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[M]아디다스x알렉산더왕 쭈글이 팬츠",
+        "price_updates": [
+            {
+                "1738199515": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253854175_1_1736399462_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "246778586",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 가죽 레더 반바지 숏팬츠 램스킨 양가죽",
+        "price_updates": [
+            {
+                "1738455575": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246778586_1_1702905638_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700"
     },
     {
         "pid": "166703546",
@@ -1455,6 +1650,21 @@
         "category_id": "320120300"
     },
     {
+        "pid": "301607997",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 x 알렉산더왕 리버시블 플리스 자켓 판매",
+        "price_updates": [
+            {
+                "1738132645": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301607997_1_1732165019_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
         "pid": "134772920",
         "brands": [
             "알렉산더왕"
@@ -1485,6 +1695,21 @@
         "category_id": "320210700"
     },
     {
+        "pid": "290862390",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 메쉬져지 m",
+        "price_updates": [
+            {
+                "1738044236": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290862390_1_1737686975_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
         "pid": "72291689",
         "brands": [
             "알렉산더왕"
@@ -1498,21 +1723,6 @@
         "product_image": "https://media.bunjang.co.kr/product/72291689_1_1522227105_w{res}.jpg",
         "status": "0",
         "category_id": "320210100"
-    },
-    {
-        "pid": "279846784",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 쭈글이 팬츠 XL",
-        "price_updates": [
-            {
-                "1737819402": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/279846784_1_1736846691_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
     },
     {
         "pid": "117036576",
@@ -1530,6 +1740,21 @@
         "category_id": "320210500"
     },
     {
+        "pid": "259913796",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[XS,S] 아디디스 알렉산더왕 1st 스냅 팬츠 블랙",
+        "price_updates": [
+            {
+                "1738286485": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259913796_1_1722223619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
         "pid": "219079798",
         "brands": [
             "알렉산더왕"
@@ -1543,21 +1768,6 @@
         "product_image": "https://media.bunjang.co.kr/product/219079798_1_1684474940_w{res}.jpg",
         "status": "0",
         "category_id": "320300400"
-    },
-    {
-        "pid": "258203861",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(M) 아디다스 x 알렉산더왕 1st 트랙팬츠",
-        "price_updates": [
-            {
-                "1737936850": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258203861_1_1723678244_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
     },
     {
         "pid": "194131474",
@@ -1575,94 +1785,19 @@
         "category_id": "320210100"
     },
     {
-        "pid": "134226982",
+        "pid": "203037267",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕x유니클로 엑스트라웜 크루넥 히트텍",
+        "name": "17F/W 아디다스 알렉산더왕 사이드 버튼 그린 와이드 트랙 팬츠 L",
         "price_updates": [
             {
-                "1738030703": "39900"
+                "1738406378": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/134226982_1_1640882874_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/203037267_1_1707821046_w{res}.jpg",
         "status": "0",
-        "category_id": "320160800"
-    },
-    {
-        "pid": "287682390",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[S] 아디다스 알렉산더왕 벨루어 폴로 pk 반팔",
-        "price_updates": [
-            {
-                "1737725143": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287682390_1_1732068518_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "309537631",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 쭈글이 반팔티",
-        "price_updates": [
-            {
-                "1737707921": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309537631_1_1735887539_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "276661041",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 티셔츠 2xl 판매합니다",
-        "price_updates": [
-            {
-                "1737546590": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/276661041_1_1726745430_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100"
-    },
-    {
-        "pid": "292628746",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 x 알렉산더왕 1차 트랙탑 져지(xs)",
-        "price_updates": [
-            {
-                "1737993344": "199500"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292628746_1_1735581585_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
-        "pid": "253853925",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[L]아디다스x알렉산더왕 쭈글이 트랙탑",
-        "price_updates": [
-            {
-                "1737851559": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253853925_1_1736831334_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
+        "category_id": "320120300"
     },
     {
         "pid": "243838705",
@@ -1680,6 +1815,81 @@
         "category_id": "320160700"
     },
     {
+        "pid": "224249020",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 쭈글이 추리닝 바지 윈드 트랙 팬츠 L사이즈",
+        "price_updates": [
+            {
+                "1738275839": "570000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224249020_1_1696581704_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "311182481",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "S 알렉산더왕 아디다스 알왕 콜라보 형광 집업 져지 자켓 쭈글이",
+        "price_updates": [
+            {
+                "1738455575": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311182481_1_1736670242_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
+    },
+    {
+        "pid": "228706496",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 쭈글이 윈드 자켓 추리닝 트랙탑 S M",
+        "price_updates": [
+            {
+                "1738122981": "690000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/228706496_1_1709760611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "313379450",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "H&M알렉산더왕 가죽자켓s(95~슬림100)",
+        "price_updates": [
+            {
+                "1737694298": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313379450_1_1737694298_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "288324974",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 긴팔티셔츠 m 새제품",
+        "price_updates": [
+            {
+                "1737366010": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288324974_1_1737366045_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
         "pid": "284350452",
         "brands": [
             "알렉산더왕"
@@ -1695,17 +1905,17 @@
         "category_id": "320120600"
     },
     {
-        "pid": "288324974",
+        "pid": "311184680",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 긴팔티셔츠 m 새제품",
+        "name": "XS 알렉산더왕 아디다스 알왕 블랙 쭈글이 카라 긴팔 티셔츠 폴로",
         "price_updates": [
             {
-                "1737366010": "150000"
+                "1738455575": "190000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/288324974_1_1737366045_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311184680_1_1736670651_w{res}.jpg",
         "status": "0",
         "category_id": "320210200"
     },
@@ -1725,19 +1935,19 @@
         "category_id": "320300200"
     },
     {
-        "pid": "275629812",
+        "pid": "291475631",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 쭈글이 트랙팬츠 2xs",
+        "name": "T by 알렉산더왕 울 혼방 니트 네이비 M사이즈",
         "price_updates": [
             {
-                "1737500215": "140000"
+                "1737730963": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/275629812_1_1720691254_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/291475631_1_1727571046_w{res}.jpg",
         "status": "0",
-        "category_id": "320120300"
+        "category_id": "320210700"
     },
     {
         "pid": "263570445",
@@ -1755,21 +1965,6 @@
         "category_id": "320120300"
     },
     {
-        "pid": "291475631",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "T by 알렉산더왕 울 혼방 니트 네이비 M사이즈",
-        "price_updates": [
-            {
-                "1737730963": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291475631_1_1727571046_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700"
-    },
-    {
         "pid": "150851388",
         "brands": [
             "알렉산더왕"
@@ -1783,21 +1978,6 @@
         "product_image": "https://media.bunjang.co.kr/product/150851388_1_1692199278_w{res}.jpg",
         "status": "0",
         "category_id": "320210100"
-    },
-    {
-        "pid": "305853669",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 폴라 조거 팬츠",
-        "price_updates": [
-            {
-                "1736905228": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305853669_1_1734088892_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
     },
     {
         "pid": "241203323",
@@ -1815,19 +1995,19 @@
         "category_id": "320120300"
     },
     {
-        "pid": "296071801",
+        "pid": "301805736",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 정품 코듀로이 반집업",
+        "name": "아디다스 알렉산더왕 쭈글이 새상품 S (100)",
         "price_updates": [
             {
-                "1736686614": "200000"
+                "1736958675": "220000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/296071801_1_1729674607_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/301805736_1_1732256893_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500"
+        "category_id": "320500200"
     },
     {
         "pid": "312518090",
@@ -1845,21 +2025,6 @@
         "category_id": "320210500"
     },
     {
-        "pid": "301805736",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 쭈글이 새상품 S (100)",
-        "price_updates": [
-            {
-                "1736958675": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301805736_1_1732256893_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
-    },
-    {
         "pid": "261768063",
         "brands": [
             "알렉산더왕"
@@ -1867,12 +2032,27 @@
         "name": "알렉산더왕 셔츠형자켓 38사이즈 팝니다",
         "price_updates": [
             {
-                "1736855609": "320000"
+                "1736855609": "350000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/261768063_1_1728034334_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/261768063_1_1739030811_w{res}.jpg",
         "status": "0",
         "category_id": "320300400"
+    },
+    {
+        "pid": "224844050",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 쭈글이",
+        "price_updates": [
+            {
+                "1736340582": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224844050_1_1731589493_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
     },
     {
         "pid": "298915861",
@@ -1905,36 +2085,6 @@
         "category_id": "320300400"
     },
     {
-        "pid": "224844050",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 쭈글이",
-        "price_updates": [
-            {
-                "1736340582": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/224844050_1_1731589493_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
-        "pid": "167124480",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 패딩 야상 트렌치 코트",
-        "price_updates": [
-            {
-                "1736436217": "322500"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/167124480_1_1707214888_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100"
-    },
-    {
         "pid": "252176289",
         "brands": [
             "알렉산더왕"
@@ -1963,21 +2113,6 @@
         "product_image": "https://media.bunjang.co.kr/product/309066019_1_1735636280_w{res}.jpg",
         "status": "0",
         "category_id": "320210500"
-    },
-    {
-        "pid": "311186026",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "S 알렉산더왕 아디다스 알왕 블루 쭈글이 카라 긴팔 티셔츠 폴로",
-        "price_updates": [
-            {
-                "1737632939": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311186026_1_1736671021_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
     },
     {
         "pid": "287568346",
@@ -2085,6 +2220,21 @@
         "category_id": "320210600"
     },
     {
+        "pid": "282691528",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 유넥 긴팔",
+        "price_updates": [
+            {
+                "1735708453": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282691528_1_1722592820_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
         "pid": "298453446",
         "brands": [
             "알렉산더왕"
@@ -2100,19 +2250,19 @@
         "category_id": "320120300"
     },
     {
-        "pid": "282691528",
+        "pid": "71967245",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 유넥 긴팔",
+        "name": "[L]아디다스 x 알렉산더왕 레인자켓(알왕 레인코트)",
         "price_updates": [
             {
-                "1735708453": "89000"
+                "1736428911": "849000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/282691528_1_1722592820_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/71967245_1_1736440982_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200"
+        "category_id": "320300100"
     },
     {
         "pid": "309227482",
@@ -2160,17 +2310,17 @@
         "category_id": "320210100"
     },
     {
-        "pid": "111436918",
+        "pid": "308005913",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 알왕 바람막이 윈드브레이커",
+        "name": "알렉산더왕 밀리터리 오버핏 m65 자켓",
         "price_updates": [
             {
-                "1735423814": "180000"
+                "1735104547": "650000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/111436918_1_1588571376_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/308005913_1_1735104547_w{res}.jpg",
         "status": "0",
         "category_id": "320300400"
     },
@@ -2188,21 +2338,6 @@
         "product_image": "https://media.bunjang.co.kr/product/82979504_1_1702116135_w{res}.jpg",
         "status": "0",
         "category_id": "320210600"
-    },
-    {
-        "pid": "308005913",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 밀리터리 오버핏 m65 자켓",
-        "price_updates": [
-            {
-                "1735104547": "650000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308005913_1_1735104547_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
     },
     {
         "pid": "110606824",
@@ -2280,21 +2415,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "280339361",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[XS] 아디다스 알렉산더왕 트랙 반바지",
-        "price_updates": [
-            {
-                "1734408168": "133000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/280339361_1_1723282329_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
         "pid": "306212640",
         "brands": [
             "알렉산더왕"
@@ -2325,19 +2445,19 @@
         "category_id": "320300400"
     },
     {
-        "pid": "130267316",
+        "pid": "224248833",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 x 알렉산더왕 트레이닝 세트",
+        "name": "알렉산더왕 아디다스 쭈글이 추리닝 바지 윈드 트랙 팬츠 XL",
         "price_updates": [
             {
-                "1734323361": "340000"
+                "1735004520": "520000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/130267316_1_1715507791_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/224248833_1_1698192101_w{res}.jpg",
         "status": "0",
-        "category_id": "320500200"
+        "category_id": "320120300"
     },
     {
         "pid": "229075479",
@@ -2355,21 +2475,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "224248833",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 쭈글이 추리닝 바지 윈드 트랙 팬츠 XL",
-        "price_updates": [
-            {
-                "1735004520": "520000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/224248833_1_1698192101_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
         "pid": "305244111",
         "brands": [
             "알렉산더왕"
@@ -2383,21 +2488,6 @@
         "product_image": "https://media.bunjang.co.kr/product/305244111_1_1733809814_w{res}.jpg",
         "status": "1",
         "category_id": "320210200"
-    },
-    {
-        "pid": "295566238",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 X H&M 콜라보레이션 한정판 남성 슬리브리스 M",
-        "price_updates": [
-            {
-                "1734916120": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295566238_1_1734692053_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210300"
     },
     {
         "pid": "292083712",
@@ -2505,21 +2595,6 @@
         "category_id": "320300400"
     },
     {
-        "pid": "228820350",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 쭈글이 윈드 자켓 추리닝 트랙탑 XS",
-        "price_updates": [
-            {
-                "1734446447": "600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/228820350_1_1688355616_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
         "pid": "303732312",
         "brands": [
             "알렉산더왕"
@@ -2580,36 +2655,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "304525845",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 나일론 남성 아노락 점퍼 [새상품]",
-        "price_updates": [
-            {
-                "1733489516": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304525845_1_1733489516_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200"
-    },
-    {
-        "pid": "303413956",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 니트 MEDIUM",
-        "price_updates": [
-            {
-                "1732974270": "21000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303413956_1_1732974270_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200"
-    },
-    {
         "pid": "294244737",
         "brands": [
             "알렉산더왕"
@@ -2623,21 +2668,6 @@
         "product_image": "https://media.bunjang.co.kr/product/294244737_1_1730203925_w{res}.jpg",
         "status": "0",
         "category_id": "320120300"
-    },
-    {
-        "pid": "247646989",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 X H&M 리플렉티브 푸퍼 패딩",
-        "price_updates": [
-            {
-                "1732878419": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/247646989_1_1703671344_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300"
     },
     {
         "pid": "245352631",
@@ -2655,6 +2685,21 @@
         "category_id": "320120700"
     },
     {
+        "pid": "247646989",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 X H&M 리플렉티브 푸퍼 패딩",
+        "price_updates": [
+            {
+                "1732878419": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247646989_1_1703671344_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
         "pid": "302044233",
         "brands": [
             "알렉산더왕"
@@ -2670,21 +2715,6 @@
         "category_id": "320300400"
     },
     {
-        "pid": "278552114",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(파정) 아디다스X알렉산더왕 팬츠 S(황금매물)",
-        "price_updates": [
-            {
-                "1733028244": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/278552114_1_1721878636_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
         "pid": "301250904",
         "brands": [
             "알렉산더왕"
@@ -2698,21 +2728,6 @@
         "product_image": "https://media.bunjang.co.kr/product/301250904_1_1735523303_w{res}.jpg",
         "status": "0",
         "category_id": "320210500"
-    },
-    {
-        "pid": "292287655",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 후드 집업 M",
-        "price_updates": [
-            {
-                "1732076545": "99000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292287655_1_1730459904_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
     },
     {
         "pid": "293364188",
@@ -2775,21 +2790,6 @@
         "category_id": "320300400"
     },
     {
-        "pid": "295808322",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 x 아디다스 후디",
-        "price_updates": [
-            {
-                "1731678759": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295808322_1_1730172709_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600"
-    },
-    {
         "pid": "293348446",
         "brands": [
             "알렉산더왕"
@@ -2835,21 +2835,6 @@
         "category_id": "320210500"
     },
     {
-        "pid": "253206364",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 쭈글이 트랙팬츠 블랙 XS [140204]",
-        "price_updates": [
-            {
-                "1732243857": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253206364_1_1730208433_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300"
-    },
-    {
         "pid": "251661551",
         "brands": [
             "알렉산더왕"
@@ -2863,6 +2848,21 @@
         "product_image": "https://media.bunjang.co.kr/product/251661551_1_1709564782_w{res}.jpg",
         "status": "0",
         "category_id": "320500200"
+    },
+    {
+        "pid": "253206364",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 쭈글이 트랙팬츠 블랙 XS [140204]",
+        "price_updates": [
+            {
+                "1732243857": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253206364_1_1730208433_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
     },
     {
         "pid": "301001459",
@@ -2970,21 +2970,6 @@
         "category_id": "320210500"
     },
     {
-        "pid": "292666737",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕윈터카모후드",
-        "price_updates": [
-            {
-                "1730245600": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292666737_1_1728123758_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600"
-    },
-    {
         "pid": "246513570",
         "brands": [
             "알렉산더왕"
@@ -3030,21 +3015,6 @@
         "category_id": "320300300"
     },
     {
-        "pid": "293250094",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아이다스 알렉산더왕 후리스 집업",
-        "price_updates": [
-            {
-                "1729904129": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293250094_1_1728431982_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
         "pid": "296894274",
         "brands": [
             "알렉산더왕"
@@ -3058,6 +3028,21 @@
         "product_image": "https://media.bunjang.co.kr/product/296894274_1_1730031264_w{res}.jpg",
         "status": "0",
         "category_id": "320210500"
+    },
+    {
+        "pid": "293250094",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아이다스 알렉산더왕 후리스 집업",
+        "price_updates": [
+            {
+                "1729904129": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293250094_1_1728431982_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
     },
     {
         "pid": "297054205",
@@ -3118,21 +3103,6 @@
         "product_image": "https://media.bunjang.co.kr/product/296779166_1_1731988371_w{res}.jpg",
         "status": "0",
         "category_id": "320120300"
-    },
-    {
-        "pid": "165071985",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "L / 알렉산더왕 블랙 싱글 캐주얼 데님 코트",
-        "price_updates": [
-            {
-                "1729823443": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/165071985_1_1729762993_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100"
     },
     {
         "pid": "292482432",
@@ -3240,21 +3210,6 @@
         "category_id": "320120300"
     },
     {
-        "pid": "254955182",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 후드",
-        "price_updates": [
-            {
-                "1727952432": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254955182_1_1709343355_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600"
-    },
-    {
         "pid": "294850901",
         "brands": [
             "알렉산더왕"
@@ -3268,6 +3223,21 @@
         "product_image": "https://media.bunjang.co.kr/product/294850901_1_1729143717_w{res}.jpg",
         "status": "0",
         "category_id": "320120600"
+    },
+    {
+        "pid": "254955182",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 후드",
+        "price_updates": [
+            {
+                "1727952432": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254955182_1_1709343355_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
     },
     {
         "pid": "291480558",
@@ -3420,21 +3390,6 @@
         "category_id": "320120300"
     },
     {
-        "pid": "259248675",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 후드청자켓",
-        "price_updates": [
-            {
-                "1725405660": "263000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259248675_1_1725405815_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
         "pid": "275164069",
         "brands": [
             "알렉산더왕"
@@ -3448,6 +3403,21 @@
         "product_image": "https://media.bunjang.co.kr/product/275164069_1_1722395255_w{res}.jpg",
         "status": "0",
         "category_id": "320210100"
+    },
+    {
+        "pid": "259248675",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 후드청자켓",
+        "price_updates": [
+            {
+                "1725405660": "263000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259248675_1_1725405815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
     },
     {
         "pid": "288076653",
@@ -3510,21 +3480,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "288188521",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 x 알렉산더왕 반팔 싸커 져지 그린 공용95",
-        "price_updates": [
-            {
-                "1725680975": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288188521_1_1725680975_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200"
-    },
-    {
         "pid": "287708058",
         "brands": [
             "알렉산더왕"
@@ -3538,6 +3493,21 @@
         "product_image": "https://media.bunjang.co.kr/product/287708058_1_1725401370_w{res}.jpg",
         "status": "0",
         "category_id": "320210100"
+    },
+    {
+        "pid": "288188521",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 x 알렉산더왕 반팔 싸커 져지 그린 공용95",
+        "price_updates": [
+            {
+                "1725680975": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288188521_1_1725680975_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200"
     },
     {
         "pid": "223611713",
@@ -3600,21 +3570,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "245558153",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 x 알렉산더왕 벨루어 L",
-        "price_updates": [
-            {
-                "1724210855": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245558153_1_1719218889_w{res}.jpg",
-        "status": "1",
-        "category_id": "320210200"
-    },
-    {
         "pid": "285283953",
         "brands": [
             "알렉산더왕"
@@ -3628,6 +3583,21 @@
         "product_image": "https://media.bunjang.co.kr/product/285283953_1_1724068290_w{res}.jpg",
         "status": "0",
         "category_id": "320120600"
+    },
+    {
+        "pid": "245558153",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 x 알렉산더왕 벨루어 L",
+        "price_updates": [
+            {
+                "1724210855": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245558153_1_1719218889_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210200"
     },
     {
         "pid": "246059246",
@@ -3675,21 +3645,6 @@
         "category_id": "320210100"
     },
     {
-        "pid": "163270877",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "티바이 알렉산더왕 블루종 S",
-        "price_updates": [
-            {
-                "1723003143": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/163270877_1_1630410951_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400"
-    },
-    {
         "pid": "274313971",
         "brands": [
             "알렉산더왕"
@@ -3703,6 +3658,21 @@
         "product_image": "https://media.bunjang.co.kr/product/274313971_1_1719039317_w{res}.jpg",
         "status": "1",
         "category_id": "320210700"
+    },
+    {
+        "pid": "163270877",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "티바이 알렉산더왕 블루종 S",
+        "price_updates": [
+            {
+                "1723003143": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/163270877_1_1630410951_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
     },
     {
         "pid": "163340913",
@@ -4335,19 +4305,79 @@
         "category_id": "320210700"
     },
     {
-        "pid": "249938955",
+        "pid": "307803964",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 쭈글이 xs (us/uk s사이즈)",
+        "name": "아디다스 알렉산더왕 쭈글이팬츠 S",
         "price_updates": [
             {
-                "1707111998": "420000"
+                "1738949275": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/249938955_1_1707111993_w{res}.jpg",
-        "status": "0",
+        "product_image": "https://media.bunjang.co.kr/product/307803964_1_1738308297_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "315519793",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스&알렉산더왕 쭈글이 자켓",
+        "price_updates": [
+            {
+                "1738678937": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315519793_1_1738678996_w{res}.jpg",
+        "status": "3",
         "category_id": "320300400"
+    },
+    {
+        "pid": "315431381",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 기모안감 후드 반집업",
+        "price_updates": [
+            {
+                "1738654465": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315431381_1_1738654465_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "315189096",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "88)알렉산더왕 지퍼 디테일 밴딩 슬랙스",
+        "price_updates": [
+            {
+                "1738552988": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315189096_1_1738552988_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "279846784",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 쭈글이 팬츠 XL",
+        "price_updates": [
+            {
+                "1738641649": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279846784_1_1736846691_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300"
     },
     {
         "pid": "306923773",
@@ -4363,6 +4393,21 @@
         "product_image": "https://media.bunjang.co.kr/product/306923773_1_1738587309_w{res}.jpg",
         "status": "3",
         "category_id": "320300300"
+    },
+    {
+        "pid": "311242955",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 티셔츠 판매합니다. 알렉산더왕 티셔츠 판매합니다.",
+        "price_updates": [
+            {
+                "1738028446": "15000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311242955_1_1736686787_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100"
     },
     {
         "pid": "292868588",
@@ -4393,21 +4438,6 @@
         "product_image": "https://media.bunjang.co.kr/product/298332051_1_1736162084_w{res}.jpg",
         "status": "3",
         "category_id": "320210200"
-    },
-    {
-        "pid": "207144304",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 남자슬렉스",
-        "price_updates": [
-            {
-                "1736133254": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/207144304_1_1734424625_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120200"
     },
     {
         "pid": "309045274",
@@ -4695,21 +4725,6 @@
         "category_id": "320210200"
     },
     {
-        "pid": "247510913",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스X알렉산더왕 콜라보 코치자켓",
-        "price_updates": [
-            {
-                "1730865240": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/247510913_1_1730869597_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400"
-    },
-    {
         "pid": "293537439",
         "brands": [
             "알렉산더왕"
@@ -4740,21 +4755,6 @@
         "category_id": "320120300"
     },
     {
-        "pid": "284487691",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(XS) 아디다스 X 알렉산더왕 벨루어",
-        "price_updates": [
-            {
-                "1725177477": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/284487691_1_1731140508_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210100"
-    },
-    {
         "pid": "243497338",
         "brands": [
             "알렉산더왕"
@@ -4768,6 +4768,51 @@
         "product_image": "https://media.bunjang.co.kr/product/243497338_1_1734656164_w{res}.jpg",
         "status": "3",
         "category_id": "320160800"
+    },
+    {
+        "pid": "251943566",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 유니버시티 자켓 48(m)",
+        "price_updates": [
+            {
+                "1706937896": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251943566_1_1738127155_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "107044465",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "alexander wang 알렉산더왕  티셔츠 팝니다",
+        "price_updates": [
+            {
+                "1569660855": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/107044465_1_1739005844_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "103726049",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[S]아디다스x알렉산더왕 쭈글이 팬츠",
+        "price_updates": [
+            {
+                "1560788258": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/103726049_1_1560623724_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300"
     },
     {
         "pid": "96660438",

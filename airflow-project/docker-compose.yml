@@ -12,27 +12,16 @@ services:
     networks:
       - airflow-network
 
-  selenium:
-      container_name: remote_chromedriver
-      image: seleniarm/standalone-chromium:latest
-      environment:
-        - SE_MAX_SESSIONS=8
-        - SE_NODE_MAX_SESSIONS=8
-      ports:
-        - 4444:4444
-      restart: always
-      networks:
-        - airflow-network
-
   namenode:
     image: hadoop-image:latest
     container_name: namenode
     environment:
-      - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-arm64     
+      - JAVA_HOME=/usr/local/openjdk-11  
       - HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
       - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
       - HDFS_SITE_dfs_replication=1
       - HDFS_SITE_dfs_namenode_name_dir=/hadoop/dfs/name
+      - TZ=Asia/Seoul
     command: ["bash", "-c", "if [ ! -d /hadoop/dfs/name/current ]; then hdfs namenode -format; fi && hdfs namenode"]
     ports:
       - "9870:9870"
@@ -42,6 +31,7 @@ services:
       - namenode-data:/hadoop/dfs/namenode
       - /Users/data-project/data-pipeline-project/airflow-project/shared/namenode:/hadoop/dfs/name
       - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
+      - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc:/usr/local/hadoop/etc/hadoop
     user: root
 
 
@@ -49,10 +39,11 @@ services:
     image: hadoop-image:latest
     container_name: datanode
     environment:
-      - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-arm64      
+      - JAVA_HOME=usr/local/openjdk-11
       - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
       - HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
       - HDFS_SITE_dfs_datanode_data_dir=/hadoop/dfs/data
+      - TZ=Asia/Seoul
     command: ["hdfs", "datanode"]
     networks:
       - airflow-network
@@ -60,6 +51,7 @@ services:
       - datanode-data:/hadoop/dfs/datanode
       - /Users/data-project/data-pipeline-project/airflow-project/shared/datanode:/hadoop/dfs/data
       - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
+      - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc:/usr/local/hadoop/etc/hadoop
     user: root
   
   webserver:
@@ -68,16 +60,15 @@ services:
     restart: always
     depends_on:
       - postgres
-      - selenium
     environment:
       AIRFLOW_HOME: /opt/airflow
       AIRFLOW_UID: ${AIRFLOW_UID}
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
-      SELENIUM_URL: "http://selenium:4444/wd/hub"
       HADOOP_CONF_DIR: /usr/local/hadoop/etc/hadoop
       HADOOP_USER_NAME: airflow
+      TZ: Asia:Seoul
       PATH: "/usr/local/hadoop/bin:/usr/local/hadoop/sbin:/home/airflow/.local/bin:${PATH}"
     ports:
       - "8081:8080"
@@ -87,7 +78,7 @@ services:
         - /etc/localtime:/etc/localtime:ro
         - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
         - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
-        - ./core-site.xml:/usr/local/hadoop/etc/hadoop/core-site.xml
+        - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc:/usr/local/hadoop/etc/hadoop
     networks:
       - airflow-network
     command: ["airflow", "webserver"]
@@ -106,12 +97,15 @@ services:
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
       PATH: $PATH:/home/airflow/.local/bin
+      TZ: Asia:Seoul
     volumes:
         - /Users/data-project/data-pipeline-project/airflow-project/shared:/shared
         - ./airflow/airflow.cfg:/opt/airflow/airflow.cfg
         - /etc/localtime:/etc/localtime:ro
         - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
-        - /Users/data-project/data-pipeline-project/airflow-project/shared/dags:/opt/airflow/dags
+        - /Users/data-project/data-pipeline-project/airflow-project/airflow/dags:/opt/airflow/dags
+        - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc/core-site.xml:/usr/local/hadoop/etc/core-site.xml
+        - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc/hdfs-site.xml:/usr/local/hadoop/etc/hdfs-site.xml
     networks:
       - airflow-network
     command: scheduler

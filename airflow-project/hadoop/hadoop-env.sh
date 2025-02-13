@@ -52,6 +52,7 @@
 # The java implementation to use. By default, this environment
 # variable is REQUIRED on ALL platforms except OS X!
 export JAVA_HOME=/usr/local/openjdk-11
+export PATH=$JAVA_HOME/bin:$PATH
 
 # The language environment in which Hadoop runs. Use the English
 # environment to ensure that logs are printed as expected.

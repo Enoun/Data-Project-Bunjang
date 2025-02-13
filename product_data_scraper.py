@@ -1,11 +1,18 @@
 # 번개장터 API를 통해 브랜드별 JSON데이터 수집하는 코드
-from heapq import merge
+from fileinput import filename
 
 import requests
 import json
 import os
 import threading
+import subprocess
 from datetime import datetime
+
+hdfs_base_path = "/user/bunjang"
+local_backup_dir = "/opt/airflow/data-pipeline-project/airflow-project/shared/collectedData"
+
+os.environ["HADOOP_CONF_DIR"] = "/usr/local/hadoop/etc/hadoop"
+os.environ["PATH"] = os.environ["PATH"] + ":/usr/local/hadoop/bin:/usr/local/hadoop/sbin"
 
 def send_api_request(brands, category_id, page):
     base_url = "https://api.bunjang.co.kr/api/1/find_v2.json"
@@ -49,7 +56,6 @@ def get_product_list(brands, category_id, page):
     product_list = parse_product_data(products, brands)
     return product_list
 
-
 def update_products(all_products, new_products):
     all_products_dict = {product["pid"]: product for product in all_products}
 
@@ -90,12 +96,31 @@ def get_updated_products(yesterday_data, today_data):
                 break
         else:
             updated_data.append(today_product)
-
     return updated_data
 
 def save_to_json(data, filename):
     with open(filename, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
+
+def save_to_hdfs(data, hdfs_directory, filename):
+    try:
+        subprocess.run(["hdfs", "dfs", "-mkdir", "-p", hdfs_directory], check=True)
+        print(f"HDFS 디렉터리 생성 성공: {hdfs_directory}")
+    except subprocess.CalledProcessError:
+        print(f"HDFS 디렉터리 이미 존재: {hdfs_directory}")
+
+    local_temp_file = f"/tmp/{filename}"
+    with open(local_temp_file, "w", encoding="utf-8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+
+    hdfs_file_path = f"{hdfs_directory}/{filename}"
+    try:
+        subprocess.run(["hdfs", "dfs", "-put", "-f", local_temp_file, hdfs_file_path], check=True)
+        print(f"업로드 성공: {filename} -> {hdfs_file_path}")
+    except subprocess.CalledProcessError as e:
+        print(f"업로드 실패: {filename}, Error: {e}")
+    finally:
+        os.remove(local_temp_file)
 
 def extract_categories(categories, threshold=30000, include_parent=False):
     result = []
@@ -109,7 +134,7 @@ def extract_categories(categories, threshold=30000, include_parent=False):
             result.append({"id": category["id"], "count": category["count"]})
     return result
 
-def collect_and_filter_data(brands, output_file):
+def collect_and_filter_data(brands, backup_path):
     filtered_products = []
 
     data, _, _ = send_api_request(brands, 320, 0)
@@ -138,10 +163,12 @@ def collect_and_filter_data(brands, output_file):
             if page == 300:
                 break
 
-    save_to_json(filtered_products, output_file)
-    print(f"브랜드 {brands[0]} - 필터링 후 남은 제품 수: {len(filtered_products)}")
-    print()
+    save_to_json(filtered_products, backup_path)
+    backup_filename = os.path.basename(backup_path)
+    hdfs_backup_dir = os.path.join(hdfs_base_path, "backup")
+    save_to_hdfs(filtered_products, hdfs_backup_dir, backup_filename)
 
+    print(f"브랜드 {brands[0]} - 필터링 후 남은 제품 수: {len(filtered_products)}")
 
 def filter_products(products, brand_name):
     """
@@ -165,71 +192,85 @@ def merge_results(input_dir, output_file, lock, brand):
     print(f"Output file: {output_file}")
     print(f"Merging data for brand: {brand}")
 
-    all_products = []
-
+    old_products = []
     # 기존 파일이 있는 경우 읽어옴
     if os.path.exists(output_file):
         print(f"Reading existing file: {output_file}")
         with open(output_file, "r", encoding="utf-8") as file:
             lock.acquire()
             try:
-                all_products = json.load(file)
+                old_products = json.load(file)
+                # 만약 old_products가 딕셔너리라면 리스트로 변환
+                if isinstance(old_products, dict):
+                    old_products = list(old_products.values())
             except json.JSONDecodeError as e:
                 print(f"Failed to parse existing file: {e}")
-                all_products = []
+                old_products = []
             finally:
                 lock.release()
     else:
         print(f"Creating new file: {output_file}")
 
-    # 특정 브랜드 파일 읽어와서 병합
+    # input_dir에서 brand_file(새 데이터) 로드
     brand_file = os.path.join(input_dir, f"{brand}_products.json")
     print(f"Reading brand file: {brand_file}")
-    with open(brand_file, "r", encoding="utf-8") as file:
-        try:
-            brand_products = json.load(file)
-        except json.JSONDecodeError as e:
-            print(f"Failed to parse brand file: {brand_file}, error: {e}")
-            brand_products = []
+    new_products = []
+    if os.path.exists(brand_file):
+        with open(brand_file, "r", encoding="utf-8") as file:
+            try:
+                new_products = json.load(file)  # 리스트라고 가정
+                if isinstance(new_products, dict):
+                    new_products = list(new_products.values())
+            except json.JSONDecodeError as e:
+                print(f"Failed to parse brand file: {brand_file}, error: {e}")
+                new_products = []
+    else:
+        print(f"No backup file found for brand: {brand}")
 
-        # 기존 데이터와 중복되지 않는 제품만 추가
-        for product in brand_products:
-            if product not in all_products:
-                all_products.append(product)
+    # 3) update_products로 병합 처리
+    updated_products = update_products(old_products, new_products)
 
-    # 병합된 데이터를 파일로 저장
+    # 4) 최종 결과 저장
     print(f"Saving merged data to: {output_file}")
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as file:
         lock.acquire()
         try:
-            json.dump(all_products, file, ensure_ascii=False, indent=4)
+            json.dump(updated_products, file, ensure_ascii=False, indent=4)
         except Exception as e:
             print(f"Failed to save merged data: {e}")
         finally:
             lock.release()
 
-    print(f"Merge completed for brand: {brand}")
+    print(f"Merge completed for brand: {brand}\n")
+    # 5) HDFS 업로드 (output)
+    output_filename = os.path.basename(output_file)
+    hdfs_output_dir = os.path.join(hdfs_base_path, "output")
+    save_to_hdfs(updated_products, hdfs_output_dir, output_filename)
+    print(f"Merge completed for brand: {brand}\n")
 
 if __name__ == "__main__":
     # 브랜드 목록을 data파일에서 불러오고 해달 브랜드들의 JSON 불러오기
-    with open("data/brands_test.json", "r", encoding="utf-8") as file:
+    with open("/opt/airflow/data-pipeline-project/airflow-project/shared/data/brands_test.json", "r", encoding="utf-8") as file:
         brand_map = json.load(file)
 
     output_dir = "output_data"
+    backup_dir = "output_data_backup"
     os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(backup_dir, exist_ok=True)
 
+    # 데이터 수집 -> 백업 디렉터리에 저장
     for kor_brand, eng_brand in brand_map.items():
         search_brand = kor_brand
         # 영문명을 출력해 파일명으로 사용
-        output_file = os.path.join(output_dir, f"{eng_brand}_products.json")
-        collect_and_filter_data([search_brand], output_file)
+        backup_file = os.path.join(backup_dir, f"{eng_brand}_products.json")
+        collect_and_filter_data([search_brand], backup_file)
 
     # 각 브랜드별 파일에 해당 브랜드의 정보를 겹치지 않는 데이터만 병합
     # merge_results 함수의 두번째 인자는 각 브랜드 파일 경로이다.
+    # 백업 디렉터리 -> 최종 파일로 병합
     lock = threading.Lock()
     for kor_brand, eng_brand in brand_map.items():
         # 여기서는 각 브랜드의 결과 파일경로가 output_file과 같다
         brand_file = os.path.join(output_dir, f"{eng_brand}_products.json")
-        merge_results(output_dir, brand_file, lock, eng_brand)
-
+        merge_results(backup_dir, brand_file, lock, eng_brand)

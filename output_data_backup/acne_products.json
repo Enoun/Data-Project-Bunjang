@@ -1,0 +1,7292 @@
+[
+    {
+        "pid": "298808644",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48] 아크네스튜디오 브라운 코트",
+        "price_updates": [
+            {
+                "1739102588": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298808644_1_1739102622_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "301074377",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[새상품] 아크네스튜디오 peele 니트",
+        "price_updates": [
+            {
+                "1739102610": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301074377_1_1731914732_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "130793065",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[가격인하]아크네(acne) 페어뷰 맨투맨 로얄블루 s사이즈 판매합니다",
+        "price_updates": [
+            {
+                "1739102314": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/130793065_1_1739102308_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "165733156",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스웻셔츠 please call me girl",
+        "price_updates": [
+            {
+                "1739101802": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/165733156_1_1700976042_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "204256855",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 핑크 도네갈 크루 니트",
+        "price_updates": [
+            {
+                "1739101812": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204256855_1_1738728724_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "303116237",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 베스트",
+        "price_updates": [
+            {
+                "1739101636": "289750"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303116237_1_1732854740_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500"
+    },
+    {
+        "pid": "270797435",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 슬림진 팬츠",
+        "price_updates": [
+            {
+                "1739101681": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270797435_1_1736491328_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999"
+    },
+    {
+        "pid": "290079537",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 네브 가디건 105사이즈",
+        "price_updates": [
+            {
+                "1739101555": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290079537_1_1736766365_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "293890043",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페이스 후드티 그레이 L",
+        "price_updates": [
+            {
+                "1739101622": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293890043_1_1735694701_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "281186210",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 데님 포켓 셔츠자켓48",
+        "price_updates": [
+            {
+                "1739101646": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281186210_1_1721798414_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "307195808",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 후드 버튼업 셔츠 52",
+        "price_updates": [
+            {
+                "1739101654": "670000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307195808_1_1734702041_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "255976415",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 21fw 인디고블루 리버진 31/30 (b00170)",
+        "price_updates": [
+            {
+                "1739101736": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255976415_1_1738758079_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "165672447",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 가죽자켓",
+        "price_updates": [
+            {
+                "1739100815": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/165672447_1_1705679114_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "310499091",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 니마 니트 L",
+        "price_updates": [
+            {
+                "1739101013": "223000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310499091_1_1738816316_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "309403531",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 니마 니트 L",
+        "price_updates": [
+            {
+                "1739101013": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309403531_1_1738816331_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "254070460",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 정품 후드티 오버",
+        "price_updates": [
+            {
+                "1739100977": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254070460_1_1723467463_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "304211100",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맥스 데님 진",
+        "price_updates": [
+            {
+                "1739099573": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304211100_1_1736748319_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "275044677",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 오버사이즈 티셔츠",
+        "price_updates": [
+            {
+                "1739099416": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275044677_1_1723448160_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "186279539",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 chet don니트",
+        "price_updates": [
+            {
+                "1739099663": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/186279539_1_1679068554_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "311259534",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 밀리터리그린 필드자켓",
+        "price_updates": [
+            {
+                "1739099661": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311259534_1_1738051072_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "63782100",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네st 올검 스웨이드무스탕",
+        "price_updates": [
+            {
+                "1739099429": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/63782100_1_1670974442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "255644588",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 acne studio 루즈핏 데님 팬츠 새상품 사이즈48",
+        "price_updates": [
+            {
+                "1739099889": "282000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255644588_1_1722480287_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "316467011",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 채드 코트 46",
+        "price_updates": [
+            {
+                "1739098397": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316467011_1_1739100312_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "316459964",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 / 블루 울 니트 (L)",
+        "price_updates": [
+            {
+                "1739096521": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316459964_1_1739096571_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "315074925",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 데님셔츠 청셔츠 48 새제품",
+        "price_updates": [
+            {
+                "1739097787": "239000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315074925_1_1738494189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "218790083",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네셔츠",
+        "price_updates": [
+            {
+                "1739098875": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218790083_1_1738653601_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "309143586",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 니트 M",
+        "price_updates": [
+            {
+                "1739099338": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309143586_1_1735698090_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "204366215",
+        "brands": [
+            "아크네"
+        ],
+        "name": "정품 아크네 후드티",
+        "price_updates": [
+            {
+                "1739096450": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204366215_1_1709451639_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "313015389",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포바 맨투맨",
+        "price_updates": [
+            {
+                "1739097010": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313015389_1_1738248843_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "249858172",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 리버진 중청 30/30",
+        "price_updates": [
+            {
+                "1739096777": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249858172_1_1705405738_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "315659632",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 오버핏 가디건",
+        "price_updates": [
+            {
+                "1739093242": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315659632_1_1738750174_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "268454008",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 남성 오버사이즈 반팔니트",
+        "price_updates": [
+            {
+                "1739096856": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268454008_1_1717234787_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "301856130",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 공유 대셔 가디건 팔아요",
+        "price_updates": [
+            {
+                "1739095899": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301856130_1_1732273890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "311914717",
+        "brands": [
+            "아크네"
+        ],
+        "name": "정품 아크네스튜디오 형광연두 후드 100사이즈",
+        "price_updates": [
+            {
+                "1739097401": "15000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311914717_1_1737007036_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "310616811",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[Acne studio] 아크네 헌팅 반코트 46사이즈",
+        "price_updates": [
+            {
+                "1739097654": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310616811_1_1738509800_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "271228299",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 청바지 새제품 원가35 특가 실허리 32-34",
+        "price_updates": [
+            {
+                "1739096198": "163000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271228299_1_1718057256_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "302317486",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 채드 블랙 52사이즈 85%울 15%캐시미어 제품",
+        "price_updates": [
+            {
+                "1739096139": "395000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302317486_1_1737612400_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "284957281",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[46] 아크네스튜디오 부츠컷 울 트라우저 그레이 멜란지 (울 슬랙스)",
+        "price_updates": [
+            {
+                "1739096277": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284957281_1_1738572168_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "316156571",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 패딩 판매",
+        "price_updates": [
+            {
+                "1739091346": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316156571_1_1738986148_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "315293074",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 대장급 후드티",
+        "price_updates": [
+            {
+                "1739091857": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315293074_1_1738585559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "308067989",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 셔츠",
+        "price_updates": [
+            {
+                "1739092562": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308067989_1_1735134217_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315250543",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 논카라 청자켓 50",
+        "price_updates": [
+            {
+                "1739091760": "323000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315250543_1_1738573133_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "256880455",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 가디건 블루 m",
+        "price_updates": [
+            {
+                "1739094660": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256880455_1_1736843280_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "298971869",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 이모지 청바지 데님",
+        "price_updates": [
+            {
+                "1739094897": "72000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298971869_1_1738766143_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "291501657",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨 3종 급처",
+        "price_updates": [
+            {
+                "1739093050": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291501657_1_1736138326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "241397067",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 가디건 L(105) 블랙 팝니다",
+        "price_updates": [
+            {
+                "1739094367": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241397067_1_1736398391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "259450600",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 폰바 아이스블루 M사이즈",
+        "price_updates": [
+            {
+                "1739095300": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259450600_1_1736931821_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "311971309",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[50] 아크네 스튜디오 23SS 데님 패딩 봄버 자켓",
+        "price_updates": [
+            {
+                "1739093617": "449000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311971309_1_1737825020_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "201909381",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스웻셔츠",
+        "price_updates": [
+            {
+                "1739091230": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201909381_1_1665483777_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "258693256",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 / 재킷 / 네이비 54",
+        "price_updates": [
+            {
+                "1739089535": "154000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258693256_1_1711959856_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "234540199",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 마키오 50 블랙",
+        "price_updates": [
+            {
+                "1739088878": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234540199_1_1735613442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "291755409",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[새상품] 아크네스튜디오 울블렌드 트라우저 스트링 팬츠 네이비 48",
+        "price_updates": [
+            {
+                "1739095261": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291755409_1_1731688143_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "310240464",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 마키오 ma-1 봄버 46",
+        "price_updates": [
+            {
+                "1739090144": "640000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310240464_1_1739090672_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "244343053",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 스웨이드가죽 트러커 봄버자켓",
+        "price_updates": [
+            {
+                "1739090573": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244343053_1_1738732353_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "306227969",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰 맨투맨 레드 s사이즈",
+        "price_updates": [
+            {
+                "1739091085": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306227969_1_1734254038_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309173650",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네st 차이나 카라 데님 자켓 [M]",
+        "price_updates": [
+            {
+                "1739089608": "58000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309173650_1_1735839937_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "312167857",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 23FW 모헤어 싱글브레스티드 코트 48 마지막 가격ㅍ",
+        "price_updates": [
+            {
+                "1739091332": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312167857_1_1739100584_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "314886599",
+        "brands": [
+            "아크네"
+        ],
+        "name": "100] 아크네 이모지 가디건 블랙 꼼데가르송폴로아페쎄칼하트마르지엘라",
+        "price_updates": [
+            {
+                "1739086675": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314886599_1_1738633285_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "204877805",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 옆지퍼 니트",
+        "price_updates": [
+            {
+                "1739087182": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204877805_1_1668948554_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "313431392",
+        "brands": [
+            "아크네"
+        ],
+        "name": "L) 아크네스튜디오 fluffy 스웨터",
+        "price_updates": [
+            {
+                "1739085400": "207250"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313431392_1_1738844686_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "312848878",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 텐트 데님 자켓 L",
+        "price_updates": [
+            {
+                "1739087677": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312848878_1_1738223172_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "106556330",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 acne 드리프트 블레이저 블레이져 자켓",
+        "price_updates": [
+            {
+                "1739088031": "297000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/106556330_1_1721877361_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "246258366",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 가렛 아비오 블루 46 사이즈",
+        "price_updates": [
+            {
+                "1739087141": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246258366_1_1702479326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "171451451",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[s]아크네스튜디오 날론 니트 블랙",
+        "price_updates": [
+            {
+                "1739085099": "295000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/171451451_1_1692449353_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "227743189",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 패스 생지 데님자켓 48사이즈",
+        "price_updates": [
+            {
+                "1739087141": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/227743189_1_1687435393_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "215627334",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 연청데님셔츠 48사이즈 팝니다",
+        "price_updates": [
+            {
+                "1739086248": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/215627334_1_1730429196_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "84319287",
+        "brands": [
+            "아크네"
+        ],
+        "name": "L 아크네 니트",
+        "price_updates": [
+            {
+                "1739083027": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/84319287_1_1676616214_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "303402555",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 셔츠46",
+        "price_updates": [
+            {
+                "1739082915": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303402555_1_1733317434_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "123885484",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 리버시블 양면바람막이",
+        "price_updates": [
+            {
+                "1739081777": "423000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/123885484_1_1600386306_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "311880578",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 더블페이스 코트",
+        "price_updates": [
+            {
+                "1739083459": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311880578_1_1737247414_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "158542632",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 면바지 새상품",
+        "price_updates": [
+            {
+                "1739081806": "123500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/158542632_1_1719882967_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "301650738",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[44] 아크네 스튜디오 찰스 코트 블랙",
+        "price_updates": [
+            {
+                "1739081564": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301650738_1_1738929769_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "302836780",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 공유 대셔 가디건 팔아요",
+        "price_updates": [
+            {
+                "1739084516": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302836780_1_1732708093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "311650566",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 TOWN BLK CREASE Jean",
+        "price_updates": [
+            {
+                "1739082268": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311650566_1_1737471874_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "311648574",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 TOWN STR VINTAGE Jean",
+        "price_updates": [
+            {
+                "1739082276": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311648574_1_1738288357_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "186385925",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페이스 얇은 긴팔티 M",
+        "price_updates": [
+            {
+                "1739084632": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/186385925_1_1723081811_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "247345107",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페어뷰 페이스 레드 기모 맨투맨  XL",
+        "price_updates": [
+            {
+                "1739084490": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247345107_1_1731979952_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "282399095",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 퍼플 롱코트 팝니다 솔리드옴므 타임옴므 우영미",
+        "price_updates": [
+            {
+                "1739081808": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282399095_1_1738667213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "316350419",
+        "brands": [
+            "아크네"
+        ],
+        "name": "급처) Acne Studios 패딩 점퍼/아크네스튜디오 리버시블 패딩",
+        "price_updates": [
+            {
+                "1739064490": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316350419_1_1739079407_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "315160023",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 자켓 블랙",
+        "price_updates": [
+            {
+                "1739073710": "378000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315160023_1_1738530311_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "315660471",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 라마 자수 맨투맨",
+        "price_updates": [
+            {
+                "1739080908": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315660471_1_1739082852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315866743",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 니트 스웨터 [XL]",
+        "price_updates": [
+            {
+                "1739061107": "179000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315866743_1_1739068531_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "316100768",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XS]아크네 반팔티",
+        "price_updates": [
+            {
+                "1739065052": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316100768_1_1738939292_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "315577840",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포바 맨투맨 L",
+        "price_updates": [
+            {
+                "1739063580": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315577840_1_1738724458_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "316017733",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 가렛코트 아비오블루 44",
+        "price_updates": [
+            {
+                "1739080128": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316017733_1_1738931368_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "315709916",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 포바 페이스 맨투맨(M)",
+        "price_updates": [
+            {
+                "1739073066": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315709916_1_1738764300_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315486256",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 램스킨 가죽자켓 48사이즈",
+        "price_updates": [
+            {
+                "1739074520": "1260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315486256_1_1739074527_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "315509562",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 로고 지퍼 자켓 블랙 48사이즈",
+        "price_updates": [
+            {
+                "1739065660": "620000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315509562_1_1739089926_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "314333155",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 니트",
+        "price_updates": [
+            {
+                "1739076663": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314333155_1_1738879087_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "316096218",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48]아크네 블라쿤스트 패스 데님자켓",
+        "price_updates": [
+            {
+                "1739065071": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316096218_1_1738938711_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "314753572",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 오버롤",
+        "price_updates": [
+            {
+                "1739076543": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314753572_1_1739076538_w{res}.jpg",
+        "status": "0",
+        "category_id": "320400"
+    },
+    {
+        "pid": "314239447",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 치노팬츠 베이지 색상 판매",
+        "price_updates": [
+            {
+                "1739064606": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314239447_1_1738567166_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "316159506",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 해링본 울코트 구매해봅니다 48,46",
+        "price_updates": [
+            {
+                "1739060133": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316159506_1_1738984109_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "311045475",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오",
+        "price_updates": [
+            {
+                "1739065468": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311045475_1_1738332853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "302117766",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1739078557": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302117766_1_1733143945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "258131860",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨",
+        "price_updates": [
+            {
+                "1739069880": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258131860_1_1731829144_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "213428462",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 자켓",
+        "price_updates": [
+            {
+                "1739062298": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/213428462_1_1675316273_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "305701373",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1739076663": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305701373_1_1734009310_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "256303480",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 니트",
+        "price_updates": [
+            {
+                "1739075489": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256303480_1_1737981864_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "307747072",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 니트(xs)",
+        "price_updates": [
+            {
+                "1739081059": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307747072_1_1738564874_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "296449120",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 슬랙스 48",
+        "price_updates": [
+            {
+                "1739078375": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296449120_1_1737189220_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "252337366",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨 S",
+        "price_updates": [
+            {
+                "1739073006": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252337366_1_1733814276_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "293758398",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 리버 청바지",
+        "price_updates": [
+            {
+                "1739069958": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293758398_1_1728660114_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "310657341",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 가죽 자켓",
+        "price_updates": [
+            {
+                "1739066619": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310657341_1_1738804643_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "312440354",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 데님 자켓",
+        "price_updates": [
+            {
+                "1739065842": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312440354_1_1737271849_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "219741215",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 체크셔츠",
+        "price_updates": [
+            {
+                "1739064588": "325000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219741215_1_1735877200_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315042210",
+        "brands": [
+            "아크네"
+        ],
+        "name": "ACNE 아크네 노스 슬림진 33/32 1회 착용",
+        "price_updates": [
+            {
+                "1739061574": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315042210_1_1738486092_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "130287774",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 반팔셔츠",
+        "price_updates": [
+            {
+                "1739073402": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/130287774_1_1596430921_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "307073583",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨쿠맨",
+        "price_updates": [
+            {
+                "1739071383": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307073583_1_1734760382_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "310429110",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 네이비 워크자켓",
+        "price_updates": [
+            {
+                "1739070805": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310429110_1_1736315545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "300334577",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 슬랙스 44",
+        "price_updates": [
+            {
+                "1739070947": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300334577_1_1739023021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "168304150",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 네이비 가디건",
+        "price_updates": [
+            {
+                "1739069723": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168304150_1_1724930102_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "228480151",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(46) 아크네 스튜디오 윈드브레이커",
+        "price_updates": [
+            {
+                "1739072174": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/228480151_1_1718183824_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "283192215",
+        "brands": [
+            "아크네"
+        ],
+        "name": "페이스 아크네 맨투맨",
+        "price_updates": [
+            {
+                "1739064267": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283192215_1_1723420054_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "279648393",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오  남성 가디건",
+        "price_updates": [
+            {
+                "1739061468": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279648393_1_1736911404_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "303302051",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 청바지 30x30",
+        "price_updates": [
+            {
+                "1739076940": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303302051_1_1739076933_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "305757588",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 양가죽 무스탕",
+        "price_updates": [
+            {
+                "1739073616": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305757588_1_1736747528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "209595457",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 후드티 xl 110",
+        "price_updates": [
+            {
+                "1739072935": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/209595457_1_1712969510_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "313873669",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[31] 아크네 중청 데님 일자 슬림핏 판매합니다.",
+        "price_updates": [
+            {
+                "1739074483": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313873669_1_1737906354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "288831506",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 집업 점퍼 XL",
+        "price_updates": [
+            {
+                "1739067530": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288831506_1_1735556747_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "276954776",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 반팔 xl 사이즈",
+        "price_updates": [
+            {
+                "1739065129": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276954776_1_1721912818_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "315085041",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 케베 페이스 브이넥 가디건 그레이 멜란지",
+        "price_updates": [
+            {
+                "1739069194": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315085041_1_1738496875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "257206108",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 코트 사이즈 46",
+        "price_updates": [
+            {
+                "1739062506": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257206108_1_1725244238_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "311829053",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 이안무스탕48",
+        "price_updates": [
+            {
+                "1739076388": "1290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311829053_1_1736950116_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "278907569",
+        "brands": [
+            "아크네"
+        ],
+        "name": "50) 아크네 스튜디오 카고 팬츠 acne studios",
+        "price_updates": [
+            {
+                "1739071646": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278907569_1_1732193466_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "205950822",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 캐시미어 코트(채드)",
+        "price_updates": [
+            {
+                "1739061733": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/205950822_1_1707270539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "314171565",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[29] 아크네 스튜디오 블라 콘스트 리버 클로라인 코듀로이 팬츠",
+        "price_updates": [
+            {
+                "1739080244": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314171565_1_1738069671_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999"
+    },
+    {
+        "pid": "309614039",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포바 맨투맨 L",
+        "price_updates": [
+            {
+                "1739080239": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309614039_1_1735910682_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309098821",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 미소코트(도깨비 공유코트)",
+        "price_updates": [
+            {
+                "1739077263": "680000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309098821_1_1738319126_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "200291161",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨 xs 기모x",
+        "price_updates": [
+            {
+                "1739074525": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200291161_1_1732033181_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "252337118",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰 맨투맨 S",
+        "price_updates": [
+            {
+                "1739073006": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252337118_1_1733814291_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "216547608",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[M] 아크네 핀트페이스 레드",
+        "price_updates": [
+            {
+                "1739071162": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/216547608_1_1677903747_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "308888832",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포바 맨투맨 (그린)",
+        "price_updates": [
+            {
+                "1739070692": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308888832_1_1738821975_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "295749958",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 대셔 가디건 팔아요",
+        "price_updates": [
+            {
+                "1739066566": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295749958_1_1729517287_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "309949208",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 로고 반팔 그레이 멜란지",
+        "price_updates": [
+            {
+                "1739065982": "229900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309949208_1_1737963803_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "313019817",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[M] 아크네 스튜디오 스트라이프 셔츠 블루",
+        "price_updates": [
+            {
+                "1739063572": "359000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313019817_1_1737520826_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "288569577",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[50] 아크네 스튜디오 Dali 코트 네이비",
+        "price_updates": [
+            {
+                "1739063557": "419000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288569577_1_1737185733_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "306018542",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48] 아크네 스튜디오 데님 자켓 블랙",
+        "price_updates": [
+            {
+                "1739076377": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306018542_1_1734166473_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "254242900",
+        "brands": [
+            "아크네"
+        ],
+        "name": "XL] 아크네 스튜디오 페리스 후드",
+        "price_updates": [
+            {
+                "1739075821": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254242900_1_1734181276_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "302624306",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨 네이비 XS 사이즈",
+        "price_updates": [
+            {
+                "1739075434": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302624306_1_1732910640_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "254243134",
+        "brands": [
+            "아크네"
+        ],
+        "name": "XXL] 아크네 스튜디오 페리스 후드",
+        "price_updates": [
+            {
+                "1739075821": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254243134_1_1739002094_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "243111731",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 ACE 블랙인디고 데님",
+        "price_updates": [
+            {
+                "1739074622": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243111731_1_1700128035_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "283032866",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 반팔티셔츠 그레이 xl",
+        "price_updates": [
+            {
+                "1739070230": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283032866_1_1724834036_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "305947740",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[44] 아크네스튜디오 드리프터 수트 블레이저",
+        "price_updates": [
+            {
+                "1739069579": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305947740_1_1736047162_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "308258311",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[정품] 아크네 스튜디오 연청자켓",
+        "price_updates": [
+            {
+                "1739064118": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308258311_1_1738139938_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "203115748",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 / 가렛 코트 아비오 블루 / 46",
+        "price_updates": [
+            {
+                "1739076223": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203115748_1_1671939749_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "243546877",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 2way 청키 립 니트",
+        "price_updates": [
+            {
+                "1739074622": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243546877_1_1716186773_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "254012313",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 몬트리올 패딩 블랙 52사이즈",
+        "price_updates": [
+            {
+                "1739075337": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254012313_1_1738503394_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "157751538",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 스트라이프 롱 슬리브 후디 XXS",
+        "price_updates": [
+            {
+                "1739072737": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/157751538_1_1725357266_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "285339436",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 이안 시어링 무스탕 46사이즈",
+        "price_updates": [
+            {
+                "1739069368": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285339436_1_1736912559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "199798298",
+        "brands": [
+            "아크네"
+        ],
+        "name": "Acne 아크네 스튜디오 더블 집업 로고 다운 패딩",
+        "price_updates": [
+            {
+                "1739064232": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199798298_1_1704786450_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "312084474",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 니트 M - 29G173",
+        "price_updates": [
+            {
+                "1739063110": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312084474_1_1737287854_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "203442197",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[28] 아크네스튜디오 리버 미드블루 데님",
+        "price_updates": [
+            {
+                "1739059894": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203442197_1_1722565246_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "303086793",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XL] 아크네 니마 스트라이프 니트 블랙",
+        "price_updates": [
+            {
+                "1739076174": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303086793_1_1736340855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "296756213",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 로고 패치 가디건 그레이 M",
+        "price_updates": [
+            {
+                "1739075995": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296756213_1_1738917209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "303685945",
+        "brands": [
+            "아크네"
+        ],
+        "name": "vuja de 스튜디오 카고팬츠. 아크네",
+        "price_updates": [
+            {
+                "1739072731": "175000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303685945_1_1737723785_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "305244297",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 핑크 스웻 s(100)",
+        "price_updates": [
+            {
+                "1739067439": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305244297_1_1738493363_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "262015400",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[새상품] 아크네 스튜디오 리버 데님 연청 31",
+        "price_updates": [
+            {
+                "1739069167": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262015400_1_1737884668_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "301119530",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 공유 대셔 가디건 팔아요",
+        "price_updates": [
+            {
+                "1739062049": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301119530_1_1731928528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "309408503",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(L) 아크네스튜디오 페어뷰 페이스 맨투맨",
+        "price_updates": [
+            {
+                "1739060728": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309408503_1_1738944157_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "239764102",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48]아크네스튜디오 19fw 퍼플 후리스",
+        "price_updates": [
+            {
+                "1739069285": "359000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239764102_1_1730278549_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "263140666",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 1996 데님 34사이즈(기장30)",
+        "price_updates": [
+            {
+                "1739080901": "144400"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263140666_1_1722808099_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "303432124",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 오버사이즈 스웨트 블레이저 백 프린트",
+        "price_updates": [
+            {
+                "1739080064": "664000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303432124_1_1733199718_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "223497483",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 나일론 봄버 자켓 블루종 50사이즈",
+        "price_updates": [
+            {
+                "1739072525": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223497483_1_1732448654_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "238883925",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 리버진 진청 28\\30",
+        "price_updates": [
+            {
+                "1739069679": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238883925_1_1737132586_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "160243798",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 pk 카라티 S사이즈 판매",
+        "price_updates": [
+            {
+                "1739064115": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/160243798_1_1631598235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "168350250",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 반집업 긴팔티 XL",
+        "price_updates": [
+            {
+                "1739064272": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168350250_1_1721129361_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "310307377",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 포바 폰바 맨투맨 블랙 M",
+        "price_updates": [
+            {
+                "1739062282": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310307377_1_1738678275_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "312834937",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(마지막 가격)아크네 페이스로고 반팔XL",
+        "price_updates": [
+            {
+                "1739071934": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312834937_1_1737527309_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "307422633",
+        "brands": [
+            "아크네"
+        ],
+        "name": "52 아크네 논카라 데님 자켓",
+        "price_updates": [
+            {
+                "1739076962": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307422633_1_1734796676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "294746043",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 스트라이프 오버핏 셔츠 오버사이즈 50",
+        "price_updates": [
+            {
+                "1739059854": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294746043_1_1732435647_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "291770363",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맥스 중청 청바지 31사이즈 새상품",
+        "price_updates": [
+            {
+                "1739078249": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291770363_1_1736003956_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "199396659",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포토카피 스웻셔츠 L사이즈 (Acne studio)",
+        "price_updates": [
+            {
+                "1739074948": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199396659_1_1724579177_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "232278631",
+        "brands": [
+            "아크네"
+        ],
+        "name": "정품 아크네 U넥 반팔티 S",
+        "price_updates": [
+            {
+                "1739069212": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/232278631_1_1730248592_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "281239946",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 2023 penicillin 배기핏진 새상품",
+        "price_updates": [
+            {
+                "1739071335": "990000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281239946_1_1721815426_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "188581016",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(정품)아크네 스튜디오 검정 진 판매합니다",
+        "price_updates": [
+            {
+                "1739078070": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/188581016_1_1653212438_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "287847282",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 블라콘스트  데님자켓",
+        "price_updates": [
+            {
+                "1739063534": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287847282_1_1738992399_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "306403487",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 마키오 봄버 스틸 블루 ma-1 46",
+        "price_updates": [
+            {
+                "1739079154": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306403487_1_1738900617_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "253357706",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 카브라 롤업 울 슬랙스 50",
+        "price_updates": [
+            {
+                "1739074853": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253357706_1_1738371007_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "257291778",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 가죽 라이더자켓 48 (95~100) 판매",
+        "price_updates": [
+            {
+                "1739072520": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257291778_1_1732448364_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "210125757",
+        "brands": [
+            "아크네"
+        ],
+        "name": "정품)아크네 스튜디오 클래식핏 셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1739078070": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210125757_1_1672571408_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "224850886",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 마키오 블랙 46 /Acne makio Black 46",
+        "price_updates": [
+            {
+                "1739070074": "780000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224850886_1_1737736122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "288514497",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 논카라 청자켓 52 새상품",
+        "price_updates": [
+            {
+                "1739064920": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288514497_1_1737274125_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "305965321",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XL] 아크네스튜디오 플로란가타 자카드 니트",
+        "price_updates": [
+            {
+                "1739063289": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305965321_1_1737439288_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "309559100",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 논카라 데님자켓 50사이즈",
+        "price_updates": [
+            {
+                "1739079424": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309559100_1_1738714680_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "303162590",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(S)아크네 페어뷰 논기모 네이비 팝니다",
+        "price_updates": [
+            {
+                "1739068133": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303162590_1_1738882844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "151365995",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[정품] 아크네 acne 이안 ian 시어링 무스탕 양가죽 자켓",
+        "price_updates": [
+            {
+                "1739079194": "890000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/151365995_1_1721255442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "241162184",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 KAS 공유 니트 브라운 그린 셔틀랜드 울",
+        "price_updates": [
+            {
+                "1739077965": "108000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241162184_1_1736937159_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "174099935",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 17fw 네이비 피코트 48사이즈 팝니다",
+        "price_updates": [
+            {
+                "1739068427": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174099935_1_1674651549_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "312718887",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 탠버튼 시어링 무스탕 자켓 48 (100~105)",
+        "price_updates": [
+            {
+                "1739068977": "2000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312718887_1_1737725152_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "200319593",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 블라 콘스트 18ss 껌 프린팅 셔츠",
+        "price_updates": [
+            {
+                "1739073270": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200319593_1_1698329583_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "287648916",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 19fw 후리스 자켓 44사이즈 한국 105정도",
+        "price_updates": [
+            {
+                "1739068974": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287648916_1_1737978445_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "300622165",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[52] 23FW 아크네 스튜디오 가죽 시어링 스웨이드 무스탕 자켓 블랙",
+        "price_updates": [
+            {
+                "1739065139": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300622165_1_1738846954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "305378790",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 뉴몬트리올 남성덕다운 패딩 자켓 점퍼46(100)",
+        "price_updates": [
+            {
+                "1739073935": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305378790_1_1737687692_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "315383125",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 데님 셔츠",
+        "price_updates": [
+            {
+                "1739037593": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315383125_1_1738638619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315860375",
+        "brands": [
+            "아크네"
+        ],
+        "name": "남자/아크네맨투맨",
+        "price_updates": [
+            {
+                "1739031197": "48000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315860375_1_1739081784_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315411465",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XXS] 아크네 스튜디오 페린 후드 그레이 Acne Studios",
+        "price_updates": [
+            {
+                "1739030447": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315411465_1_1738648530_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "315933395",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 이안 무스탕 50 (100사이즈)",
+        "price_updates": [
+            {
+                "1739027927": "675000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315933395_1_1738863945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "314757812",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨",
+        "price_updates": [
+            {
+                "1739058508": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314757812_1_1739058671_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315977772",
+        "brands": [
+            "아크네"
+        ],
+        "name": "46) 아크네 스튜디오 마키오 봄버 스틸블루 ma-1",
+        "price_updates": [
+            {
+                "1739027421": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315977772_1_1739018559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "314510328",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 니트 M",
+        "price_updates": [
+            {
+                "1739027249": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314510328_1_1738244061_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "315583408",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 코튼자켓 베이지 IT46 판매합니다",
+        "price_updates": [
+            {
+                "1739031886": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315583408_1_1738726680_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "314983128",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 남자 반팔 S",
+        "price_updates": [
+            {
+                "1739057811": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314983128_1_1738635055_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "314709971",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 / 데님 셔츠 / 48",
+        "price_updates": [
+            {
+                "1739039931": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314709971_1_1738337757_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "315025584",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 리버 중청데님 30",
+        "price_updates": [
+            {
+                "1739025438": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315025584_1_1738481576_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "314900375",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 FAIRAH 페이스 맨투맨 S",
+        "price_updates": [
+            {
+                "1739055642": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314900375_1_1738419108_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "314518420",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 가렛 네이비컬러 48사이즈",
+        "price_updates": [
+            {
+                "1739027585": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314518420_1_1738246296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "251817914",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 셔츠",
+        "price_updates": [
+            {
+                "1739057710": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251817914_1_1706843991_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "301712201",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 데님",
+        "price_updates": [
+            {
+                "1739055857": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301712201_1_1732196803_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "179155647",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 청바지",
+        "price_updates": [
+            {
+                "1739051364": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179155647_1_1666090752_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "263551015",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1739057393": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263551015_1_1715778974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "307569102",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 자켓 48 (아크네스튜디오)",
+        "price_updates": [
+            {
+                "1739057937": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307569102_1_1738109317_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "199423524",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 면바지",
+        "price_updates": [
+            {
+                "1739052707": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199423524_1_1673854912_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "187874635",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨L",
+        "price_updates": [
+            {
+                "1739036940": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/187874635_1_1696997446_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "304312596",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨 L",
+        "price_updates": [
+            {
+                "1739042313": "113000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304312596_1_1733392066_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309037874",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 데님 (32)",
+        "price_updates": [
+            {
+                "1739029922": "319000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309037874_1_1735626856_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "292441636",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 남자 셔츠",
+        "price_updates": [
+            {
+                "1739028722": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292441636_1_1736436211_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "284351044",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 모헤어 니트",
+        "price_updates": [
+            {
+                "1739035961": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284351044_1_1737637906_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "311978049",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 스트라이프 니트",
+        "price_updates": [
+            {
+                "1739035962": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311978049_1_1737027476_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "302840654",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네맨투맨xl",
+        "price_updates": [
+            {
+                "1739032529": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302840654_1_1737462627_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "298301682",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[m] 아크네 후드",
+        "price_updates": [
+            {
+                "1739016782": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298301682_1_1730687683_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "303804435",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 캐시미어코트",
+        "price_updates": [
+            {
+                "1739025381": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303804435_1_1733142954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "309882363",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포바 xs",
+        "price_updates": [
+            {
+                "1739040860": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309882363_1_1738381470_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "209214612",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 롱 무스탕 (105)",
+        "price_updates": [
+            {
+                "1739049438": "1550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/209214612_1_1736807411_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "286720791",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[xxs] 아크네 포바",
+        "price_updates": [
+            {
+                "1739030915": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286720791_1_1725179213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "229051551",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 컬렉션 트위드자켓",
+        "price_updates": [
+            {
+                "1739026845": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229051551_1_1735230499_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "209646242",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 크림 가디건 L",
+        "price_updates": [
+            {
+                "1739025351": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/209646242_1_1672133371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "312882286",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 패딩 52 남자",
+        "price_updates": [
+            {
+                "1739030524": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312882286_1_1737475560_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "243847092",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 사이드지퍼 니트",
+        "price_updates": [
+            {
+                "1739029105": "92000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243847092_1_1734482241_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "256159348",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페이스패치 맨투맨 오트밀",
+        "price_updates": [
+            {
+                "1739047926": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256159348_1_1730915512_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309623764",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(46) 아크네 트롱프뢰유 데님 청바지",
+        "price_updates": [
+            {
+                "1739058633": "950000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309623764_1_1738383016_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "307159147",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 마키오 버건디 48 (아크네스튜디오)",
+        "price_updates": [
+            {
+                "1739057937": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307159147_1_1736255864_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "242044028",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[30] 아크네 스튜디오 North 워싱 데님",
+        "price_updates": [
+            {
+                "1739033433": "157000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242044028_1_1725063830_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "310226556",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 데님 청바지 매장정품",
+        "price_updates": [
+            {
+                "1739026867": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310226556_1_1736218424_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "263113766",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨 싸게팝니다",
+        "price_updates": [
+            {
+                "1739023459": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263113766_1_1715437539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "312825690",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오_패딩_L (쉘자켓)",
+        "price_updates": [
+            {
+                "1739023691": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312825690_1_1738407409_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "304482729",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[M] 아크네 핀트페이스 레드",
+        "price_updates": [
+            {
+                "1739033043": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304482729_1_1734669391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "311828501",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 포바 맨투맨 s",
+        "price_updates": [
+            {
+                "1739029193": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311828501_1_1736949969_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "288981368",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 캔버스 보머 자켓 52",
+        "price_updates": [
+            {
+                "1739030148": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288981368_1_1731681024_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "246788395",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 이모지 후드 블랙 L",
+        "price_updates": [
+            {
+                "1739027907": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246788395_1_1712028550_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "305984621",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 이안 무스탕 52 블랙 acne",
+        "price_updates": [
+            {
+                "1739028644": "1600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305984621_1_1738509756_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "250010710",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 버뮤다 데님 쇼츠",
+        "price_updates": [
+            {
+                "1739024280": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250010710_1_1731907085_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700"
+    },
+    {
+        "pid": "269718231",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XS]아크네 모헤어 스트라이프 니트",
+        "price_updates": [
+            {
+                "1739019322": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/269718231_1_1717611744_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "246268647",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XS]아크네 포바 맨투맨",
+        "price_updates": [
+            {
+                "1739019223": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246268647_1_1702489186_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "313525497",
+        "brands": [
+            "아크네"
+        ],
+        "name": "50 아크네스튜디오 뉴몬트리얼 패딩",
+        "price_updates": [
+            {
+                "1739054007": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313525497_1_1737769661_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "168221419",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 패린페이스 후드티 팝니다",
+        "price_updates": [
+            {
+                "1739051848": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168221419_1_1739004255_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "261877583",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 1991 데님 진 30/32",
+        "price_updates": [
+            {
+                "1739033094": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261877583_1_1735914047_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "243033965",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 날론니트 민트M",
+        "price_updates": [
+            {
+                "1739038942": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243033965_1_1710692188_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "300340755",
+        "brands": [
+            "아크네"
+        ],
+        "name": "34) 아크네 스튜디오 olana 봄버 포레스트 그린",
+        "price_updates": [
+            {
+                "1739027420": "987000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300340755_1_1731584940_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "216768079",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오/ 대셔 가디건 멜란지그레이/ M",
+        "price_updates": [
+            {
+                "1739026844": "470000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/216768079_1_1738136923_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "313015903",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[L] 아크네 스튜디오 포바 맨투맨 그레이",
+        "price_updates": [
+            {
+                "1739020033": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313015903_1_1737519353_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "239081625",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 텐트 데님자켓 44사이즈",
+        "price_updates": [
+            {
+                "1739032237": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239081625_1_1701247346_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "228813767",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰 와인 m 사이즈",
+        "price_updates": [
+            {
+                "1739029058": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/228813767_1_1688350735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "216765248",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오/ 가렛 코트 멀티멜란지/ 50",
+        "price_updates": [
+            {
+                "1739026844": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/216765248_1_1738136984_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "181281695",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[M]아크네 페리스 페이스 후드",
+        "price_updates": [
+            {
+                "1739021055": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/181281695_1_1695054086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "254458392",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 포바 맨투맨 라벤더 xs",
+        "price_updates": [
+            {
+                "1739016907": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254458392_1_1717217009_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "197561563",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[M]아크네 페어뷰 맨투맨 핑크",
+        "price_updates": [
+            {
+                "1739019380": "155000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/197561563_1_1737643376_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309747997",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 가죽 스웨이드자켓 200만원",
+        "price_updates": [
+            {
+                "1739051925": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309747997_1_1738762897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "309317692",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 보일드 울 자켓 50",
+        "price_updates": [
+            {
+                "1739053319": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309317692_1_1735787607_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "309697399",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 aleq 18ss 트윌팬츠 라벤더",
+        "price_updates": [
+            {
+                "1739029358": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309697399_1_1738907680_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "292808710",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 플로고 맨투맨 그레이 XS사이즈",
+        "price_updates": [
+            {
+                "1739022699": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292808710_1_1730511668_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "301502191",
+        "brands": [
+            "아크네"
+        ],
+        "name": "새상품) 아크네 스튜디오 오버사이즈 로고 패딩 블루",
+        "price_updates": [
+            {
+                "1739017656": "690000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301502191_1_1734325244_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "254541001",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네/아크네 포바 맨투맨/그레이 회색 xs",
+        "price_updates": [
+            {
+                "1739019762": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254541001_1_1731327372_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "206363248",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[S]아크네 페어뷰 맨투맨 로얄블루",
+        "price_updates": [
+            {
+                "1739019260": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/206363248_1_1669224705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "290079056",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 ACNE 패딩코트 경량패딩 MALTE PAW15",
+        "price_updates": [
+            {
+                "1739055226": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290079056_1_1731076565_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "127568981",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[황금매물]아크네 yara 후드 그레이 s 팝니다",
+        "price_updates": [
+            {
+                "1739031725": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/127568981_1_1669018287_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "291730606",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 블라콘스트 청자켓(50)",
+        "price_updates": [
+            {
+                "1739022230": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291730606_1_1734910003_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "301681034",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 블랙 슬림진 판매해요. Thin carbon",
+        "price_updates": [
+            {
+                "1739049098": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301681034_1_1732188528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "306713762",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 AW16 Pace 울 팬츠 44 사이즈",
+        "price_updates": [
+            {
+                "1739058819": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306713762_1_1737248268_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "225238641",
+        "brands": [
+            "아크네"
+        ],
+        "name": "28)아크네 가죽패치 워싱 스판 일자청바지 명품청바지",
+        "price_updates": [
+            {
+                "1739037924": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/225238641_1_1685117254_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "251912160",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 메탈릭 실버 스파클 우븐 터틀넥 탑",
+        "price_updates": [
+            {
+                "1739022755": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251912160_1_1739022780_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "315473025",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨 L",
+        "price_updates": [
+            {
+                "1739007664": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315473025_1_1738667777_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "316168441",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 양가죽",
+        "price_updates": [
+            {
+                "1738987174": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316168441_1_1738987174_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "316135050",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 다이아몬드 맨투맨",
+        "price_updates": [
+            {
+                "1738972978": "59000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316135050_1_1739095134_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315242440",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 후드티 버건디 110",
+        "price_updates": [
+            {
+                "1738972250": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315242440_1_1738570620_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "316114559",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페어뷰 M",
+        "price_updates": [
+            {
+                "1738944936": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316114559_1_1738944936_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "316266963",
+        "brands": [
+            "아크네"
+        ],
+        "name": "정품 아크네 스튜디오 사선 라이더자켓",
+        "price_updates": [
+            {
+                "1739015247": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316266963_1_1739015314_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "316260372",
+        "brands": [
+            "아크네"
+        ],
+        "name": "남성 아크네 스튜디오 데님 팬츠 acne studio",
+        "price_updates": [
+            {
+                "1739013439": "48000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316260372_1_1739013439_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "316238569",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(택포) 아크네스튜디오 마원 자켓 50",
+        "price_updates": [
+            {
+                "1739007094": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316238569_1_1739007094_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "316233442",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48] 아크네 서플러스 푸퍼 자켓 이동휘 착용",
+        "price_updates": [
+            {
+                "1739008293": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316233442_1_1739005652_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "313996342",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 찰스 코트 46",
+        "price_updates": [
+            {
+                "1738963136": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313996342_1_1737978436_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "316271941",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48]아크네스튜디오 윈드 브레이커 재킷 올리브 그린",
+        "price_updates": [
+            {
+                "1739016490": "720000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316271941_1_1739074962_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "314223134",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 벨티드 코트",
+        "price_updates": [
+            {
+                "1738945376": "720000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314223134_1_1738114926_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "315746432",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 1991 TOJ 루즈핏데님 빈티지블랙(31X32)",
+        "price_updates": [
+            {
+                "1738983124": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315746432_1_1738986939_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "314428610",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[S] 아크네 메탈 포바 블랙",
+        "price_updates": [
+            {
+                "1739003167": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314428610_1_1738218681_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "314456141",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 오버핏 맨투맨 그레이 S사이즈",
+        "price_updates": [
+            {
+                "1738993649": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314456141_1_1738935035_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "129190334",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오",
+        "price_updates": [
+            {
+                "1738966969": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/129190334_1_1683253208_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "281885559",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 반팔",
+        "price_updates": [
+            {
+                "1739001982": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281885559_1_1738728723_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "309894650",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1739011489": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309894650_1_1737413805_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309894650",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1739011489": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309894650_1_1737413805_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "261029231",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네맨투맨",
+        "price_updates": [
+            {
+                "1739009977": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261029231_1_1713779014_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "305457140",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 후드티",
+        "price_updates": [
+            {
+                "1738991858": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305457140_1_1733904684_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "312110650",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 후드티",
+        "price_updates": [
+            {
+                "1739004367": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312110650_1_1737681687_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "309325553",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네니트",
+        "price_updates": [
+            {
+                "1738979441": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309325553_1_1735790801_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "168016018",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨",
+        "price_updates": [
+            {
+                "1738977812": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168016018_1_1721727917_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "313609776",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1738976789": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313609776_1_1737798151_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "194866715",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 후드티",
+        "price_updates": [
+            {
+                "1738976764": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/194866715_1_1736330508_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "281160769",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 반팔",
+        "price_updates": [
+            {
+                "1738977771": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281160769_1_1728444625_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "295566645",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1738943214": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295566645_1_1738289911_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "314772150",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 울&캐시미어 코트 (46) Anthracite Grey",
+        "price_updates": [
+            {
+                "1738981826": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314772150_1_1738642193_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "302606661",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 반팔",
+        "price_updates": [
+            {
+                "1738937619": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302606661_1_1732621161_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "313430234",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨 L",
+        "price_updates": [
+            {
+                "1739016290": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313430234_1_1737712375_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "293165765",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 포켓 반팔",
+        "price_updates": [
+            {
+                "1739008311": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293165765_1_1738654532_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "180256531",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 코치자켓",
+        "price_updates": [
+            {
+                "1739003577": "179000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/180256531_1_1733886159_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "174278219",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨 S",
+        "price_updates": [
+            {
+                "1738982266": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174278219_1_1658269960_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "211818043",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 셔츠자켓",
+        "price_updates": [
+            {
+                "1738982266": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/211818043_1_1728219941_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "309617131",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 알파카 니트",
+        "price_updates": [
+            {
+                "1739001018": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309617131_1_1735911615_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "206320768",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 마일론자켓",
+        "price_updates": [
+            {
+                "1738979697": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/206320768_1_1669198829_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "193136389",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네반팔티",
+        "price_updates": [
+            {
+                "1738976764": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/193136389_1_1735615206_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "309038561",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 데님 (32)",
+        "price_updates": [
+            {
+                "1738985563": "269000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309038561_1_1735627084_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "296990997",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 오버핏셔츠",
+        "price_updates": [
+            {
+                "1738984161": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296990997_1_1736408648_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "298113060",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 무지개 니트",
+        "price_updates": [
+            {
+                "1738976620": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298113060_1_1735951371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "254900572",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 데님자켓",
+        "price_updates": [
+            {
+                "1738966350": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254900572_1_1735976605_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "289727152",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 데님셔츠",
+        "price_updates": [
+            {
+                "1738942771": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289727152_1_1726505685_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "250752617",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XL] 아크네스튜디오 스프라이트 니트",
+        "price_updates": [
+            {
+                "1738998928": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250752617_1_1738731237_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "174439473",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 일자 청바지 30",
+        "price_updates": [
+            {
+                "1738992091": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174439473_1_1640708968_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "300450273",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 벨크로 패치 맨투맨",
+        "price_updates": [
+            {
+                "1739010395": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300450273_1_1738247919_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "148181405",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 가렛 44 size",
+        "price_updates": [
+            {
+                "1738983838": "216000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/148181405_1_1733895003_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "257842008",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(32) 아크네스튜디오 블리치 데님",
+        "price_updates": [
+            {
+                "1739003392": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257842008_1_1738226475_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "243155064",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(M) 아크네스튜디오 모헤어 니트",
+        "price_updates": [
+            {
+                "1739003147": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243155064_1_1717778360_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "221868170",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 후드 (스틸그레이)",
+        "price_updates": [
+            {
+                "1738970078": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221868170_1_1739086799_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "237464912",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 울 니트",
+        "price_updates": [
+            {
+                "1738982198": "188000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237464912_1_1727684419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "260203868",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 리버 스테이블랙",
+        "price_updates": [
+            {
+                "1738963147": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260203868_1_1729901577_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "179624154",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 다운점퍼 급매",
+        "price_updates": [
+            {
+                "1738979694": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179624154_1_1669782851_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "309533537",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 봄버자켓 팝니다",
+        "price_updates": [
+            {
+                "1738977189": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309533537_1_1737339274_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "257937967",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 마원 블루종 봄버",
+        "price_updates": [
+            {
+                "1738970078": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257937967_1_1738583065_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "296908087",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 기모 맨투맨 M",
+        "price_updates": [
+            {
+                "1738970510": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296908087_1_1731294621_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "312119464",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 카멜 핸드메이드 코트",
+        "price_updates": [
+            {
+                "1738941600": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312119464_1_1738248270_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "306352734",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 블랙 가디건 S",
+        "price_updates": [
+            {
+                "1738948660": "160820"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306352734_1_1734317545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "192196420",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 청자켓95",
+        "price_updates": [
+            {
+                "1738947008": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192196420_1_1723698451_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "292642348",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 카벨로 가디건 XL",
+        "price_updates": [
+            {
+                "1738945158": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292642348_1_1728115373_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "298935622",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 벨벳 코듀로이 셔츠",
+        "price_updates": [
+            {
+                "1738937619": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298935622_1_1730968447_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "163908106",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 Banderas 셔츠 46",
+        "price_updates": [
+            {
+                "1739016528": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/163908106_1_1637829671_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "316041962",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오(Acne Studios) 셔츠",
+        "price_updates": [
+            {
+                "1738923840": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316041962_1_1738923840_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "251144084",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 페어뷰 모브 퍼플",
+        "price_updates": [
+            {
+                "1739003025": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251144084_1_1729312724_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "302927016",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 헤링본코트 도깨비공유",
+        "price_updates": [
+            {
+                "1738999002": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302927016_1_1736152394_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "295190564",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(새상품)아크네스튜디오 청자켓 46",
+        "price_updates": [
+            {
+                "1739004948": "279000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295190564_1_1738128381_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "314206323",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 핀트페이스 맨투맨 L 착샷 (105정도 이쁨)",
+        "price_updates": [
+            {
+                "1738983851": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314206323_1_1738464506_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "301329869",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스웻 후드집업",
+        "price_updates": [
+            {
+                "1739005071": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301329869_1_1732020902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "250230842",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 페이스 페일핑크 맨투맨",
+        "price_updates": [
+            {
+                "1738985706": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250230842_1_1710239650_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "276936577",
+        "brands": [
+            "아크네"
+        ],
+        "name": "Acne Studios 아크네 스튜디오 페린 후드 블랙 xs",
+        "price_updates": [
+            {
+                "1739006738": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276936577_1_1731497082_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "188803433",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스웨트 조거 팬츠 S",
+        "price_updates": [
+            {
+                "1738998927": "180500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/188803433_1_1708578357_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300"
+    },
+    {
+        "pid": "313121980",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 대셔 가디건 팔아요",
+        "price_updates": [
+            {
+                "1738977591": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313121980_1_1737552400_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "214077453",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 티셔츠 BL0032 S",
+        "price_updates": [
+            {
+                "1738996532": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/214077453_1_1675783360_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "307660651",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 무스탕 50 백화점판",
+        "price_updates": [
+            {
+                "1738994841": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307660651_1_1738488732_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "304904659",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 가먼트다잉 후드 L",
+        "price_updates": [
+            {
+                "1738971663": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304904659_1_1733655031_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "255002668",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰 s사이즈",
+        "price_updates": [
+            {
+                "1738989600": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255002668_1_1731144814_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "312436029",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[미착용] 아크네 스튜디오 데님 31",
+        "price_updates": [
+            {
+                "1738990530": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312436029_1_1737884371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "285749028",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 / Ryder 버뮤다 팬츠 / 46",
+        "price_updates": [
+            {
+                "1738989745": "209000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285749028_1_1725974149_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700"
+    },
+    {
+        "pid": "223210525",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48]아크네 마키오 봄버",
+        "price_updates": [
+            {
+                "1738997601": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223210525_1_1738834203_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "222218918",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 반팔티 S size",
+        "price_updates": [
+            {
+                "1738982847": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/222218918_1_1731828659_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "304047915",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 남성 와이드 데님팬츠",
+        "price_updates": [
+            {
+                "1738980060": "339000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304047915_1_1733274925_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "237839631",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 리버진 32/32 중청",
+        "price_updates": [
+            {
+                "1738965021": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237839631_1_1731559614_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "297697354",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[L] 아크네 카이 니트 퍼플",
+        "price_updates": [
+            {
+                "1738940719": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297697354_1_1732027395_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "311084052",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 블랙 이안 무스탕 50",
+        "price_updates": [
+            {
+                "1738933693": "1550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311084052_1_1737339383_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "174285629",
+        "brands": [
+            "아크네"
+        ],
+        "name": "21FW ACNE STUDIOS SHIRTS  아크네셔츠",
+        "price_updates": [
+            {
+                "1738954472": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174285629_1_1729740518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "297334680",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페이스로고 후드 M",
+        "price_updates": [
+            {
+                "1738930967": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297334680_1_1730247262_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "179895567",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XS]아크네 컬리지 페이스 맨투맨",
+        "price_updates": [
+            {
+                "1738933197": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179895567_1_1737315275_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "216764817",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오/ 가렛 코트 카멜/ 50",
+        "price_updates": [
+            {
+                "1738943790": "470000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/216764817_1_1738136972_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "238158654",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오/ 찰스 올리브그린/ 48",
+        "price_updates": [
+            {
+                "1738943790": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238158654_1_1738136646_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "298688581",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 송아지가죽 50 초판",
+        "price_updates": [
+            {
+                "1738934987": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298688581_1_1730858957_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "177221795",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 가렛코트 블랙 48사이즈",
+        "price_updates": [
+            {
+                "1739016375": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/177221795_1_1643177719_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "55027968",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[30] 아크네 오션블루 면팬츠",
+        "price_updates": [
+            {
+                "1739001114": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/55027968_1_1464677398_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "295223668",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 몰스킨 셔츠자켓 48 팝니다.",
+        "price_updates": [
+            {
+                "1738998754": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295223668_1_1732029767_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "243703913",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 르네 트윌 팬츠 네이비 44",
+        "price_updates": [
+            {
+                "1738992473": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243703913_1_1700575897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "243712974",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 르네 데님 슬랙스 인디고 44",
+        "price_updates": [
+            {
+                "1738992473": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243712974_1_1709163667_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200"
+    },
+    {
+        "pid": "313372397",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨 S 신세계 백화점 구매",
+        "price_updates": [
+            {
+                "1739011682": "92000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313372397_1_1739099070_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "205430295",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 청바지 27/32 새거",
+        "price_updates": [
+            {
+                "1739007262": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/205430295_1_1668482821_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "283969796",
+        "brands": [
+            "아크네"
+        ],
+        "name": "새상품> acne studio 아크네스튜디오 그래픽 반팔티",
+        "price_updates": [
+            {
+                "1738989299": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283969796_1_1737022695_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "234728904",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네회색패턴맨투맨 100사이즈",
+        "price_updates": [
+            {
+                "1738999188": "48000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234728904_1_1699238533_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "262546067",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 로고 반팔 pk 셔츠 화이트",
+        "price_updates": [
+            {
+                "1738994659": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262546067_1_1738994687_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "282205915",
+        "brands": [
+            "아크네"
+        ],
+        "name": "*아크네스튜디오 남성 립스탑 블레이저 자켓 46",
+        "price_updates": [
+            {
+                "1738981846": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282205915_1_1736468769_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100"
+    },
+    {
+        "pid": "240386575",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 리버 라이트 블루 30x30",
+        "price_updates": [
+            {
+                "1738991934": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240386575_1_1721367187_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "207620772",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 나일론 봄버 카키 EU48",
+        "price_updates": [
+            {
+                "1738988457": "288000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207620772_1_1732234245_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "202807507",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네st 남성 슈렁큰가죽자켓",
+        "price_updates": [
+            {
+                "1738986135": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/202807507_1_1731321978_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "245354283",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 오버 사이즈반팔 셔츠 46",
+        "price_updates": [
+            {
+                "1738953733": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245354283_1_1733857427_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "250451834",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48] 아크네 스튜디오 반팔 셔츠 블랙 네이비",
+        "price_updates": [
+            {
+                "1738940414": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250451834_1_1735448922_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "273058755",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 램스킨 라이더자켓 46",
+        "price_updates": [
+            {
+                "1738931776": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273058755_1_1732977583_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "297745815",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 핀트 페이스 맨투맨 핑크 xs",
+        "price_updates": [
+            {
+                "1738930977": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297745815_1_1730444440_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "277216526",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 울 가디건(M/L)",
+        "price_updates": [
+            {
+                "1738943143": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277216526_1_1734532564_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "244101693",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[44]아크네스튜디오 서플러스패딩 김현우 착용",
+        "price_updates": [
+            {
+                "1738946070": "1050000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244101693_1_1738946161_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "244558935",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[L] 아크네 스튜디오 넥로고 맨투맨 한글텍",
+        "price_updates": [
+            {
+                "1738998767": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244558935_1_1725414951_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "307725543",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 폴카닷 클래식 셔츠 그레이 44",
+        "price_updates": [
+            {
+                "1738992473": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307725543_1_1734944105_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "295947962",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 peele 니트 라일락 라벤더 L 김현우",
+        "price_updates": [
+            {
+                "1738987854": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295947962_1_1731675946_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "195045873",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 울 캐시미어 니트(kael) S",
+        "price_updates": [
+            {
+                "1738986400": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/195045873_1_1725405345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "264101574",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 오일워싱 러프데님 29사이즈",
+        "price_updates": [
+            {
+                "1738985925": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264101574_1_1738761189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "184121250",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 플로고 맨투맨 멜란지 그레이 S",
+        "price_updates": [
+            {
+                "1739006738": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/184121250_1_1731497137_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "311158974",
+        "brands": [
+            "아크네"
+        ],
+        "name": "48 아크네 미니멀 버건디 코치 자켓 경량",
+        "price_updates": [
+            {
+                "1738983099": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311158974_1_1736663545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "298315238",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 오버사이즈 데님 재킷 청자켓",
+        "price_updates": [
+            {
+                "1738999531": "315000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298315238_1_1738805856_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "215162124",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 리버스테이 블랙진 30 (기장수선)",
+        "price_updates": [
+            {
+                "1738980115": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/215162124_1_1729955408_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "195045873",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 울 캐시미어 니트(kael) S",
+        "price_updates": [
+            {
+                "1738986400": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/195045873_1_1725405345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "264101574",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 오일워싱 러프데님 29사이즈",
+        "price_updates": [
+            {
+                "1738985925": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264101574_1_1738761189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "311158974",
+        "brands": [
+            "아크네"
+        ],
+        "name": "48 아크네 미니멀 버건디 코치 자켓 경량",
+        "price_updates": [
+            {
+                "1738983099": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311158974_1_1736663545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "278426035",
+        "brands": [
+            "아크네"
+        ],
+        "name": "Acne 아크네 리버 청바지 30 리지드데님",
+        "price_updates": [
+            {
+                "1738975146": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278426035_1_1720442882_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "315983645",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 슈퍼 배기 진",
+        "price_updates": [
+            {
+                "1738903510": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315983645_1_1739064696_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "261392549",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[S]아크네 페어뷰 로얄블루 맨투맨",
+        "price_updates": [
+            {
+                "1738930208": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261392549_1_1714054853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "248174311",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 핸드메이드 찰스 코트 카멜 46사이즈 판매",
+        "price_updates": [
+            {
+                "1738998801": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248174311_1_1736895540_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "302248460",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 논카라 청자켓(사이즈50)",
+        "price_updates": [
+            {
+                "1738995507": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302248460_1_1732443397_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "245959897",
+        "brands": [
+            "아크네"
+        ],
+        "name": "오르빗 아크네 채드 레드멜란지 핸드메이드 코트 (m)",
+        "price_updates": [
+            {
+                "1738991129": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245959897_1_1733822488_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "263871062",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 바지30-32/허리밴딩/택포",
+        "price_updates": [
+            {
+                "1738981687": "79800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263871062_1_1730247311_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "316048779",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 그레이진 29/32",
+        "price_updates": [
+            {
+                "1738925944": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316048779_1_1738925944_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "309469391",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[정품] 아크네 스튜디오 밀턴 후드 코트 44사이즈 블랙",
+        "price_updates": [
+            {
+                "1738948916": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309469391_1_1737503814_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "220006609",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 에브리띵 레터링 화이트 맨투맨 M사이즈",
+        "price_updates": [
+            {
+                "1738942918": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220006609_1_1680512317_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "257784111",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[XS] 아크네 페어뷰 맨투맨 블루  21ss",
+        "price_updates": [
+            {
+                "1738934797": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257784111_1_1711253769_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315462038",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 23ss 데님 자켓",
+        "price_updates": [
+            {
+                "1738846863": "175500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315462038_1_1738846851_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "193047506",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맥스 인디고 청바지 판매합니다. (중고제품)",
+        "price_updates": [
+            {
+                "1739006075": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/193047506_1_1664190939_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "307353207",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 찰리코트 검정색상 48사이즈 팝니다",
+        "price_updates": [
+            {
+                "1739010345": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307353207_1_1734944904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "283762800",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(새상품)아크네 2003 빈티지 블랙 데님 30x32",
+        "price_updates": [
+            {
+                "1739008052": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283762800_1_1733880882_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "243698100",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맥스 사틴 치노팬츠 블랙, 네이비 44 일괄",
+        "price_updates": [
+            {
+                "1738992473": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243698100_1_1700576021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "302815701",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 연청 데님 31/32 1996 light blue trash",
+        "price_updates": [
+            {
+                "1738998322": "96000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302815701_1_1736852035_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "185791792",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 페이스 로고 그레이 맨투맨 21FW m사이즈",
+        "price_updates": [
+            {
+                "1738982269": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185791792_1_1709643801_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "306304202",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[새상품] 아크네 스튜디오 네이비 셔츠 싸게 팝니다(백화점 택)",
+        "price_updates": [
+            {
+                "1738989358": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306304202_1_1738070667_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "308790707",
+        "brands": [
+            "아크네"
+        ],
+        "name": "시리즈 에피그램 구스다운 패딩 네이비  95 / 아크네 몬트리올",
+        "price_updates": [
+            {
+                "1738988651": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308790707_1_1738847505_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "301679894",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 블랙 슬림진 판매합니다. Ace cash",
+        "price_updates": [
+            {
+                "1738970119": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301679894_1_1732188661_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "303855874",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 더티워싱 데님 팬츠 (31-30) 새상품",
+        "price_updates": [
+            {
+                "1738940363": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303855874_1_1738742961_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "312745016",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[M] 아크네 스튜디오 리보스 로고 후드 Acne Studois",
+        "price_updates": [
+            {
+                "1738938751": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312745016_1_1738114358_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600"
+    },
+    {
+        "pid": "315889538",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨티셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1738845770": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315889538_1_1738845776_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "302690623",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 이안(IAN)48사이즈 시어링 무스탕 판매합니다.",
+        "price_updates": [
+            {
+                "1738988757": "1560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302690623_1_1738738045_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "294143391",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[새상품] 아크네 스튜디오 정품 그레이 가디건 L 사이즈 싸게 팝니다",
+        "price_updates": [
+            {
+                "1738989358": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294143391_1_1738070925_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "245353670",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 소가죽양털 무스탕 (에이든 시어링 쟈켓)",
+        "price_updates": [
+            {
+                "1738981709": "570000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245353670_1_1731415555_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "316032687",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48] 아크네 서플러스 푸퍼 자켓 이동휘 착용",
+        "price_updates": [
+            {
+                "1738921074": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316032687_1_1738986356_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "185074432",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰 맨투맨 자주색 L(100사이즈추천)",
+        "price_updates": [
+            {
+                "1738965831": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185074432_1_1656045798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "316002985",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 후드 파카/50/칠팔구제",
+        "price_updates": [
+            {
+                "1738910152": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316002985_1_1738910152_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "280051822",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 풀톤 립 로고 맨투맨 기모L 판매합니다 (정품)",
+        "price_updates": [
+            {
+                "1739004302": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280051822_1_1739092379_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "309665716",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 네이트클린 양가죽라이더 48사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1738988375": "332500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309665716_1_1735954343_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "257500437",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오디스트레스트 집업 자켓 스윙탑 베이지 xl(105)",
+        "price_updates": [
+            {
+                "1738973037": "295000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257500437_1_1729836534_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "207260522",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 이안 탄 베이지 무스탕 18년 이후버전 48(100)",
+        "price_updates": [
+            {
+                "1739000593": "1650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207260522_1_1697710294_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "314974493",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 가디건 남색",
+        "price_updates": [
+            {
+                "1738859091": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314974493_1_1738732746_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "315086960",
+        "brands": [
+            "아크네"
+        ],
+        "name": "5046. 아크네 패턴 맨투맨",
+        "price_updates": [
+            {
+                "1738919260": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315086960_1_1738497363_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "314686787",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 46사이즈 코트 팝니다",
+        "price_updates": [
+            {
+                "1738918570": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314686787_1_1738918564_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "314492939",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네봄버 M/L 105",
+        "price_updates": [
+            {
+                "1738913064": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314492939_1_1738239241_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "315814593",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1738823963": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315814593_1_1738823963_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "300066509",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 니트",
+        "price_updates": [
+            {
+                "1738897243": "285000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300066509_1_1738897278_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "307018316",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1738897937": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307018316_1_1734614280_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "236566041",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오맨투맨",
+        "price_updates": [
+            {
+                "1738894837": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236566041_1_1735048723_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "290506778",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 자켓",
+        "price_updates": [
+            {
+                "1738888488": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290506778_1_1736175705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "312623174",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 패딩",
+        "price_updates": [
+            {
+                "1738885038": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312623174_1_1738885028_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "258548814",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1738884642": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258548814_1_1711853203_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "143497542",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네맨투맨",
+        "price_updates": [
+            {
+                "1738856335": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/143497542_1_1738856419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "250118615",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 맨투맨",
+        "price_updates": [
+            {
+                "1738852828": "138000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250118615_1_1705585317_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "203868298",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 맨투맨",
+        "price_updates": [
+            {
+                "1738853798": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203868298_1_1703505761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315724379",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 카라 슬리브",
+        "price_updates": [
+            {
+                "1738767585": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315724379_1_1738767635_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "303672567",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 채드 카멜",
+        "price_updates": [
+            {
+                "1738921164": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303672567_1_1733096226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "168118359",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 필드 자켓",
+        "price_updates": [
+            {
+                "1738921973": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168118359_1_1738728753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "309578411",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 오버셔츠",
+        "price_updates": [
+            {
+                "1738922592": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309578411_1_1735899824_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "297887454",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 네브 S",
+        "price_updates": [
+            {
+                "1738912270": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297887454_1_1736337871_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "223151058",
+        "brands": [
+            "아크네"
+        ],
+        "name": "Acne studios 아크네 스튜디오 Rugby sleeve",
+        "price_updates": [
+            {
+                "1738914745": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223151058_1_1703690517_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "240920168",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 스웻셔츠 m",
+        "price_updates": [
+            {
+                "1738905017": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240920168_1_1700378134_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "284757410",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 워크 베스트",
+        "price_updates": [
+            {
+                "1738904495": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284757410_1_1735205761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500"
+    },
+    {
+        "pid": "308600300",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 반팔티",
+        "price_updates": [
+            {
+                "1738901864": "40850"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308600300_1_1737437699_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "204835736",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 정품 맨투맨",
+        "price_updates": [
+            {
+                "1738895472": "59000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204835736_1_1667976059_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200"
+    },
+    {
+        "pid": "313004914",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 마그마 코트",
+        "price_updates": [
+            {
+                "1738888624": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313004914_1_1737537671_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "302986444",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 더플코트",
+        "price_updates": [
+            {
+                "1738886613": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302986444_1_1732784447_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "305226220",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 데님 청바지",
+        "price_updates": [
+            {
+                "1738883805": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305226220_1_1738318862_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "258592730",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 가디건 M",
+        "price_updates": [
+            {
+                "1738880230": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258592730_1_1711877789_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600"
+    },
+    {
+        "pid": "235425440",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 터렉",
+        "price_updates": [
+            {
+                "1738851362": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/235425440_1_1693909352_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "313242321",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 데님 자켓",
+        "price_updates": [
+            {
+                "1738844775": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313242321_1_1738224355_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "315288265",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 맨투맨 m 사이즈",
+        "price_updates": [
+            {
+                "1738771271": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315288265_1_1738584344_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "307165883",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 트렌치 코트 46",
+        "price_updates": [
+            {
+                "1738927729": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307165883_1_1736253870_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "314568414",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페어뷰 페이스 맨투맨 로얄블루 L 100사이즈",
+        "price_updates": [
+            {
+                "1738920715": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314568414_1_1738392122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "162010964",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 남성패딩 2xl",
+        "price_updates": [
+            {
+                "1738916396": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/162010964_1_1728516808_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "310111606",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 니마 니트 s",
+        "price_updates": [
+            {
+                "1738914757": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310111606_1_1738853205_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "276505941",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰맨투맨",
+        "price_updates": [
+            {
+                "1738912684": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276505941_1_1739017813_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "305632084",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 페어뷰 S",
+        "price_updates": [
+            {
+                "1738912265": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305632084_1_1733987920_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "254029356",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[50]아크네스튜디오 워크팬츠 새상품",
+        "price_updates": [
+            {
+                "1738920240": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254029356_1_1711515945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "309140279",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 청바지 30-32",
+        "price_updates": [
+            {
+                "1738904810": "111600"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309140279_1_1735696174_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "238858233",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 피쉬테일 파카 / 48",
+        "price_updates": [
+            {
+                "1738903548": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238858233_1_1722439101_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "303180973",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[정품] 아크네 스튜디오 FW 맨투맨",
+        "price_updates": [
+            {
+                "1738902126": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303180973_1_1738325924_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "305788674",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 정품 블랙셔츠",
+        "price_updates": [
+            {
+                "1738897222": "74000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305788674_1_1738897233_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "253631757",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 커브암 자켓",
+        "price_updates": [
+            {
+                "1738895667": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253631757_1_1708195758_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "310554328",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 이안 시어링 무스탕",
+        "price_updates": [
+            {
+                "1738891548": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310554328_1_1738544137_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "241852118",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 패딩 셔츠 XL",
+        "price_updates": [
+            {
+                "1738895276": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241852118_1_1699185932_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300"
+    },
+    {
+        "pid": "214290750",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 마키오",
+        "price_updates": [
+            {
+                "1738883449": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/214290750_1_1675941529_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200"
+    },
+    {
+        "pid": "290694253",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 남성 블랙셔츠",
+        "price_updates": [
+            {
+                "1738883784": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290694253_1_1738632753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400"
+    },
+    {
+        "pid": "249448873",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 페어뷰(s)",
+        "price_updates": [
+            {
+                "1738881579": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249448873_1_1719123505_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "315849020",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네스튜디오 페어뷰 페이스 맨투맨",
+        "price_updates": [
+            {
+                "1738834156": "98000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315849020_1_1738834156_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "253400640",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 (Acne) / 면바지 / 48",
+        "price_updates": [
+            {
+                "1738858335": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253400640_1_1731617315_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100"
+    },
+    {
+        "pid": "311584853",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 체인 프린팅 데님",
+        "price_updates": [
+            {
+                "1738855996": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311584853_1_1736845991_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "280558781",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 반팔 m사이즈",
+        "price_updates": [
+            {
+                "1738850590": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280558781_1_1721477551_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "259473090",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(M)아크네스튜디오 핑크 맨투맨",
+        "price_updates": [
+            {
+                "1738860464": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259473090_1_1726048391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    },
+    {
+        "pid": "293155897",
+        "brands": [
+            "아크네"
+        ],
+        "name": "(40) 아크네스튜디오 트렌치 코트",
+        "price_updates": [
+            {
+                "1738849541": "102600"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293155897_1_1728376753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100"
+    },
+    {
+        "pid": "308656046",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 2003 빈티지 블루(acne studios)",
+        "price_updates": [
+            {
+                "1738844422": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308656046_1_1735443068_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600"
+    },
+    {
+        "pid": "315102977",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[48] 아크네 트롱프뢰유 데님 자켓",
+        "price_updates": [
+            {
+                "1738796906": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315102977_1_1738501375_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400"
+    },
+    {
+        "pid": "282874170",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 반팔티 화이트 XS",
+        "price_updates": [
+            {
+                "1738927569": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282874170_1_1738845735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100"
+    },
+    {
+        "pid": "289870852",
+        "brands": [
+            "아크네"
+        ],
+        "name": "[100] 아크네 스튜디오 니트 M 사이즈",
+        "price_updates": [
+            {
+                "1738917444": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289870852_1_1726624547_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700"
+    },
+    {
+        "pid": "305632950",
+        "brands": [
+            "아크네"
+        ],
+        "name": "아크네 스튜디오 페리스 블랙 아크네 후드",
+        "price_updates": [
+            {
+                "1738912260": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305632950_1_1736036601_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500"
+    }
+]

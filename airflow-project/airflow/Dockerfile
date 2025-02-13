@@ -42,7 +42,7 @@ RUN echo "export JAVA_HOME=/usr/lib/jvm/default-java" >> $HADOOP_HOME/etc/hadoop
 
 # Spark의 로그를 관리하는 log4j 설정
 RUN echo "log4j.rootCategory=INFO, console" > $HADOOP_CONF_DIR/log4j.properties
-
+  
 # core-site.xml 추가
 COPY ./core-site.xml $HADOOP_CONF_DIR/core-site.xml
 RUN chown airflow:root $HADOOP_CONF_DIR/core-site.xml && \
@@ -51,4 +51,3 @@ RUN chown airflow:root $HADOOP_CONF_DIR/core-site.xml && \
 RUN pip install --no-cache-dir pandas pyspark
 # Python 라이브러리 설치
 USER airflow
-RUN pip install --no-cache-dir selenium schedule

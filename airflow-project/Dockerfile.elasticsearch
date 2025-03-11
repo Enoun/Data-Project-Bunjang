@@ -1,0 +1,27 @@
+# Dockerfile-elasticsearch
+
+FROM docker.elastic.co/elasticsearch/elasticsearch:8.12.1
+
+# 필요한 환경변수 설정 (예: 단일 노드 클러스터, 보안 활성화, 기본 비밀번호 설정)
+ENV discovery.type=single-node
+ENV xpack.security.enabled=true
+ENV ELASTIC_PASSWORD=elasticpassword
+ENV bootstrap.memory_lock=true
+ENV ES_JAVA_OPTS="-Xms1g -Xmx1g -XX:-UseContainerSupport -Dlog4j2.formatMsgNoLookups=true"
+ENV ELASTICSEARCH_JAVA_OPTS="-Djava.security.egd=file:/dev/urandom"
+
+# root 사용자로 전환하여 사용자 추가 작업을 수행
+USER root
+
+# 예시: 새로운 사용자 "myuser"를 생성 (원하는 사용자 이름과 비밀번호, 역할을 지정)
+# 참고: elasticsearch-users 스크립트는 /usr/share/elasticsearch/bin/ 경로에 위치합니다.
+RUN /usr/share/elasticsearch/bin/elasticsearch-users useradd myuser -p mypassword -r kibana_system
+
+# 필요한 경우 파일 소유권 변경 등 추가 작업을 수행할 수 있습니다.
+# 예: 생성된 파일의 소유자를 elasticsearch로 변경
+RUN chown -R elasticsearch:elasticsearch /usr/share/elasticsearch/config
+RUN bin/kibana_system useradd kibana_system -p tjdgh1394! -r kibana_system
+
+
+# 기본 실행 사용자를 elasticsearch로 복귀 (공식 이미지의 기본 사용자)
+USER elasticsearch

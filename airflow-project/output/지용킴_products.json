@@ -1,0 +1,946 @@
+[
+    {
+        "pid": "298178084",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 롱셔츠 (금일까지 이 가격)",
+        "price_updates": [
+            {
+                "1741613793": "113710"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298178084_1_1736674586_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "272889335",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 레이어드 팬츠",
+        "price_updates": [
+            {
+                "1741578878": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/272889335_1_1732636657_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "302385628",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 벨벳 자켓",
+        "price_updates": [
+            {
+                "1741578883": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302385628_1_1732511122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "311299152",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[L] 지용킴 선블리치드 후드 다운 베스트",
+        "price_updates": [
+            {
+                "1741583482": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311299152_1_1740827807_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "321981203",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M] Jiyong Kim 지용킴 Sun bleached jacket",
+        "price_updates": [
+            {
+                "1741570766": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321981203_1_1741570766_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "317778315",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 선페이드 후드 m",
+        "price_updates": [
+            {
+                "1741534560": "205800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317778315_1_1739894481_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "321850289",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "(L) 지용킴 벨티드 팬츠 모스그린",
+        "price_updates": [
+            {
+                "1741509167": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321850289_1_1741509307_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "269030896",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 반팔셔츠 [M]",
+        "price_updates": [
+            {
+                "1741448120": "285000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/269030896_1_1727659437_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "301353721",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 (Jiyong Kim) 맨투맨",
+        "price_updates": [
+            {
+                "1741520564": "324970"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301353721_1_1733408968_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "311299228",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M,L] 지용킴 드레이프 포켓 데님 자켓",
+        "price_updates": [
+            {
+                "1741501549": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311299228_1_1740827796_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "319060027",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 Sun-Bleached Darted Pocket Blouson",
+        "price_updates": [
+            {
+                "1741502973": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319060027_1_1740657276_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "248054314",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 jiyongkim 22aw 블리치드 셔츠 xl",
+        "price_updates": [
+            {
+                "1741525636": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248054314_1_1739078797_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "306642109",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 티셔츠",
+        "price_updates": [
+            {
+                "1741417981": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306642109_1_1734437975_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "303416035",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 선블리치 팬츠",
+        "price_updates": [
+            {
+                "1741429025": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303416035_1_1739281300_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "299830220",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 패널 트랙팬츠 M",
+        "price_updates": [
+            {
+                "1741430343": "305000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299830220_1_1738664829_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "321365127",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 선 페이드 선 후드 M 그레이",
+        "price_updates": [
+            {
+                "1741300607": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321365127_1_1741300812_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "298109740",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 드레이프 트라우저 L",
+        "price_updates": [
+            {
+                "1741356097": "415000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298109740_1_1734072980_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "319493260",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M] 지용킴 jiyongkim 벨티드 팬츠 썬페이딩",
+        "price_updates": [
+            {
+                "1741360617": "379000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319493260_1_1740417448_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "313057010",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "m) 지용킴 셔츠",
+        "price_updates": [
+            {
+                "1741325550": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313057010_1_1739194349_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "313490471",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[XL] 지용킴 22SS 후드 자켓",
+        "price_updates": [
+            {
+                "1741330704": "1355000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313490471_1_1741080946_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "236178909",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 22ss 자켓 L, XL 구매",
+        "price_updates": [
+            {
+                "1741255656": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236178909_1_1694531378_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "246871862",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "M) 지용킴 스웻 후드 jiyongkim hoodie",
+        "price_updates": [
+            {
+                "1741199068": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246871862_1_1741365665_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "289944522",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "M) 지용킴 jiyongkim 썬블리치드 티셔츠 반팔 그레이",
+        "price_updates": [
+            {
+                "1741126006": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289944522_1_1732255302_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "312013737",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 선블리치 벨벳 후드 S",
+        "price_updates": [
+            {
+                "1741076540": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312013737_1_1737038695_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "313508011",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 알파인더스트리 멀티 포켓 팬츠",
+        "price_updates": [
+            {
+                "1740921295": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313508011_1_1737751965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "304077183",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "(L) 지용킴 스트랩 팬츠",
+        "price_updates": [
+            {
+                "1740468123": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304077183_1_1733289178_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "265174922",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 후드",
+        "price_updates": [
+            {
+                "1739889147": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/265174922_1_1739889134_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "265175513",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 선블리치 후드",
+        "price_updates": [
+            {
+                "1739889147": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/265175513_1_1739889144_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "309259692",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "m) 22ss 지용킴 봄버 자켓",
+        "price_updates": [
+            {
+                "1739771063": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309259692_1_1739016795_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "260198118",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 23ss 선페이드 후드 (m)",
+        "price_updates": [
+            {
+                "1739770646": "315000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260198118_1_1741010699_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "296238520",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 exhibition 티셔츠 M 새상품",
+        "price_updates": [
+            {
+                "1740007520": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296238520_1_1729754188_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "317264909",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "jiyongkim 지용킴 exhibition 티셔츠 L",
+        "price_updates": [
+            {
+                "1739437819": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317264909_1_1739437819_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "302828784",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[L]지용킴 jiyongkim 24ss  선블리치  Darted Pock",
+        "price_updates": [
+            {
+                "1739425612": "930000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302828784_1_1736561019_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "285119454",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[새상품/L] 지용킴 레이어드 셔츠",
+        "price_updates": [
+            {
+                "1738339289": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285119454_1_1723961634_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "287987930",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "(m)지용킴 22aw 선블리치셔츠",
+        "price_updates": [
+            {
+                "1738381121": "405000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287987930_1_1738425427_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "309642120",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 알파인더스트리 썬블리치 n2b 마원",
+        "price_updates": [
+            {
+                "1738490989": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309642120_1_1737205069_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "260851152",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 Jiyongkim 23ss hoodie (brown)",
+        "price_updates": [
+            {
+                "1737904281": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260851152_1_1735014865_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "295504254",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M] 지용킴 1of1 선블리치드 24ss 자켓",
+        "price_updates": [
+            {
+                "1734855024": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295504254_1_1731564118_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "307653877",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 23ss 선페이딩 후디 L 급처",
+        "price_updates": [
+            {
+                "1734914128": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307653877_1_1735254688_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "295503664",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 x 알파인더스트리 봄버 자켓",
+        "price_updates": [
+            {
+                "1731564097": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295503664_1_1731564094_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "295974334",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 후드 L",
+        "price_updates": [
+            {
+                "1729620275": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295974334_1_1729620275_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "297529488",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "Jiyongkim 지용킴 23ss 트라우저",
+        "price_updates": [
+            {
+                "1730340295": "234000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297529488_1_1730866080_w{res}.jpg",
+        "status": "1",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "292379555",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M] 지용킴 텐꼬르소꼬모 팝업 한정 티셔츠",
+        "price_updates": [
+            {
+                "1729766659": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292379555_1_1729333626_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "293402209",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 aw23 드레이프 팬츠",
+        "price_updates": [
+            {
+                "1728488962": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293402209_1_1728488962_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "260735744",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "구매) 지용킴 드레이핑 팬츠 S-L",
+        "price_updates": [
+            {
+                "1726472150": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260735744_1_1713538385_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "261920255",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[새상품] 지용킴 스페이스 이수 티셔츠",
+        "price_updates": [
+            {
+                "1723373587": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261920255_1_1716276330_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "252930920",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M] 지용킴 JIYONGKIM SS22 HOODED JACKT",
+        "price_updates": [
+            {
+                "1720293818": "1240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252930920_1_1717052500_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "264030140",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 jiyongkim 봄버",
+        "price_updates": [
+            {
+                "1716172442": "1250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264030140_1_1716171963_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "261920036",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[새상품] 지용킴 스페이스 이수 티셔츠 L",
+        "price_updates": [
+            {
+                "1714489543": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261920036_1_1720101130_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "316633758",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[L] 지용킴 23FW 트위드 봄버 자켓",
+        "price_updates": [
+            {
+                "1740806380": "1150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316633758_1_1740829012_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "317005778",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 3D 레이어드 트라우저 M",
+        "price_updates": [
+            {
+                "1740737309": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317005778_1_1739331277_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "318743679",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "(L) 지용킴 22aw 카고 팬츠",
+        "price_updates": [
+            {
+                "1740356748": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318743679_1_1740245978_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "309672945",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[L] 지용킴 x 알파인더스트리 MA-1 블랙",
+        "price_updates": [
+            {
+                "1740100109": "575000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309672945_1_1740103153_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "316010739",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 선블리치 셔츠 jiyongkim",
+        "price_updates": [
+            {
+                "1740123736": "415000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316010739_1_1739880821_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "281112018",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 드레이프 트랙 자켓",
+        "price_updates": [
+            {
+                "1739493222": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281112018_1_1739370874_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "275410748",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "지용킴 JIYONGKIM 23SS 멀티포켓 봄버",
+        "price_updates": [
+            {
+                "1739650053": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275410748_1_1736827039_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "309673606",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[M] 지용킴 니트 선 풀오버 블랙",
+        "price_updates": [
+            {
+                "1738248839": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309673606_1_1738302579_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "284521041",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "[L/미착용 새제품]지용킴x알파인더스트리 썬블리치 드래피드 포켓 자켓",
+        "price_updates": [
+            {
+                "1739234652": "820000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284521041_1_1739234646_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    },
+    {
+        "pid": "303775314",
+        "brands": [
+            "지용킴"
+        ],
+        "name": "(L) 지용킴 선다이드 트렌치 코트",
+        "price_updates": [
+            {
+                "1733890049": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303775314_1_1733896878_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-10 13:39:45"
+    }
+]

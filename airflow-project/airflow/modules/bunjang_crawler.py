@@ -1,34 +1,40 @@
-# 번개장터 API를 통해 브랜드별 JSON데이터 수집하는 코드
+# 번개장터 API를 통해 브랜드별 JSON데이터 수집 후 Elasticsearch에 저장하는 코드
 
 import requests
 import json
 import os
-import threading
-import subprocess
 from datetime import datetime
+from elasticsearch import Elasticsearch
+
+# Elasticsearch 연결 설정 (필요에 따라 인증 정보 추가)
+es = Elasticsearch(["http://elasticsearch:9200"])
 
 def send_api_request(brands, category_id, page):
+    """
+    번개장터 API에서 제품 데이터를 요청하는 함수
+    """
     base_url = "https://api.bunjang.co.kr/api/1/find_v2.json"
     params = {
-        "q": brands,        # 검색어: 브랜드명
+        "q": brands,
         "order": "score",
         "page": page,
-        "f_category_id": category_id,  # 남성 카테고리 (고정)
+        "f_category_id": category_id,
         "n": 100,
         "stat_category_required": 1
     }
-    # no_result: 더 이상 결과가 없거나, 검색 결과가 비어있을 때 True
-    # list: 실제 상품 목록
     response = requests.get(base_url, params=params)
-    print(f"API 요청 (페이지 {page + 1}): {response.url}")
     data = response.json()
-    total_count = data["categories"][0]["count"]
     no_result = data.get("no_result", False)
+    total_count = data["categories"][0]["count"]
+    print(f"API 요청 (페이지 {page+1}): {response.url}")
     return data, no_result, total_count
 
 def parse_product_data(products, brands):
+    """
+    API 응답 데이터를 가공하여 저장 가능한 형식으로 변환하는 함수
+    """
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     product_list = []
-
     for product in products:
         price = product["price"]
         product_info = {
@@ -38,7 +44,8 @@ def parse_product_data(products, brands):
             "price_updates": [{product["update_time"]: price}],
             "product_image": product["product_image"],
             "status": product["status"],
-            "category_id": product["category_id"]
+            "category_id": product["category_id"],
+            "collected_timestamp": current_time
         }
         product_list.append(product_info)
     return product_list
@@ -89,152 +96,124 @@ def get_updated_products(yesterday_data, today_data):
                 break
         else:
             updated_data.append(today_product)
+
     return updated_data
-
-def save_to_json(data, filename):
-    with open(filename, "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
-
-def extract_categories(categories, threshold=30000, include_parent=False):
-    result = []
-    for category in categories:
-        if category["count"] > threshold:
-            if include_parent:
-                result.append({"id": category["id"], "count": category["count"]})
-            if "categories" in category:
-                result.extend(extract_categories(category["categories"], threshold, False))
-        else:
-            result.append({"id": category["id"], "count": category["count"]})
-    return result
-
-def collect_and_filter_data(brands, backup_path):
-    filtered_products = []
-
-    data, _, _ = send_api_request(brands, 320, 0)
-    top_level_categories = data["categories"]
-    filtered_categories = [{"id": top_level_categories[0]["id"], "count": top_level_categories[0]["count"]}]
-    filtered_categories.extend(extract_categories(top_level_categories, include_parent=False))
-
-    total_count = filtered_categories[0]["count"]
-    print(f"브랜드 {brands[0]} - 전체 제품 수: {total_count}")
-
-    for category in filtered_categories[1:]:
-        category_id = category["id"]
-        page = 0
-        while True:
-            print(f"{page + 1} 페이지 데이터 수집 중...")
-            data, no_result, total_count = send_api_request(brands, category_id, page)
-
-            if no_result:
-                break
-
-            products = data["list"]
-            collected_products = parse_product_data(products, brands)
-            filtered_products.extend(filter_products(collected_products, brands[0]))
-
-            page += 1
-            if page == 300:
-                break
-
-    save_to_json(filtered_products, backup_path)
-    print(f"브랜드 {brands[0]} - 필터링 후 남은 제품 수: {len(filtered_products)}")
 
 def filter_products(products, brand_name):
     """
-    브랜드명이 상품명에 포함되어 있고,
-    가격이 10,000원 이상이며,
-    마지막 자리가 0으로 끝나는 상품만 필터링
+    브랜드명 포함, 가격 10,000원 이상, 마지막 자리가 0인 제품만 필터링
     """
     filtered_products = []
     for product in products:
         price_updates = product["price_updates"]
         latest_price = list(price_updates[0].values())[0]  # 가장 최근 가격
-        if brand_name in product["name"] and latest_price.isdigit() and latest_price[-1] == "0" and int(
-                latest_price) >= 10000:
+        if (brand_name in product["name"] and
+            latest_price.isdigit() and
+            latest_price[-1] == "0" and
+            int(latest_price) >= 10000):
+            # 브랜드 리스트를 해당 브랜드 하나로 변경
             product["brands"] = [brand_name]
             filtered_products.append(product)
-
     return filtered_products
+
+def save_to_json(data, filename):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    with open(filename, "w", encoding="utf=8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
+    print(f"{len(data)}개 문서가 {filename}에 저장")
+
+def collect_and_filter_data(brands, output_file):
+    """
+    브랜드 데이터를 크롤링하여 로컬에 저장하는 함수
+    """
+    filtered_products = []
+
+    # 최상위 카테고리 조회
+    data, _, _ = send_api_request(brands, 320, 0)
+    top_level_categories = data["categories"]
+    # 최상위 카테고리부터 필터링 시작 (필요시 더 상세하게 변경 가능)
+    filtered_categories = [{"id": top_level_categories[0]["id"], "count": top_level_categories[0]["count"]}]
+    total_count = filtered_categories[0]["count"]
+    print(f"브랜드 {brands[0]} - 전체 제품 수: {total_count}")
+
+    # 각 카테고리별로 데이터 수집
+    for category in filtered_categories:
+        category_id = category["id"]
+        page = 0
+        while True:
+            print(f"{page + 1} 페이지 데이터 수집 중...")
+            data, no_result, _ = send_api_request(brands, category_id, page)
+            if no_result:
+                break
+            products = data["list"]
+            collected_products = parse_product_data(products, brands)
+            filtered_products.extend(filter_products(collected_products, brands[0]))
+            page += 1
+            if page == 5:
+                break
+
+    # 로컬에 저장
+    save_to_json(filtered_products, output_file)
+    print(f"브랜드 {brands[0]} - {output_file}에 저장 완료 ({len(filtered_products)}개 데이터)")
 
 def merge_results(input_dir, output_file, lock, brand):
     print(f"Input directory: {input_dir}")
     print(f"Output file: {output_file}")
     print(f"Merging data for brand: {brand}")
 
-    old_products = []
-    # 기존 파일이 있는 경우 읽어옴
+    all_products = []
+
+    # 기존에 병합된 결과 파일이 있으면 읽어옴
     if os.path.exists(output_file):
         print(f"Reading existing file: {output_file}")
         with open(output_file, "r", encoding="utf-8") as file:
             lock.acquire()
             try:
-                old_products = json.load(file)
-                # 만약 old_products가 딕셔너리라면 리스트로 변환
-                if isinstance(old_products, dict):
-                    old_products = list(old_products.values())
+                all_products = json.load(file)
             except json.JSONDecodeError as e:
                 print(f"Failed to parse existing file: {e}")
-                old_products = []
+                all_products = []
             finally:
                 lock.release()
     else:
         print(f"Creating new file: {output_file}")
 
-    # input_dir에서 brand_file(새 데이터) 로드
+    # 해당 브랜드의 새로운 데이터 파일 읽기
     brand_file = os.path.join(input_dir, f"{brand}_products.json")
     print(f"Reading brand file: {brand_file}")
-    new_products = []
-    if os.path.exists(brand_file):
-        with open(brand_file, "r", encoding="utf-8") as file:
-            try:
-                new_products = json.load(file)  # 리스트라고 가정
-                if isinstance(new_products, dict):
-                    new_products = list(new_products.values())
-            except json.JSONDecodeError as e:
-                print(f"Failed to parse brand file: {brand_file}, error: {e}")
-                new_products = []
-    else:
-        print(f"No backup file found for brand: {brand}")
+    with open(brand_file, "r", encoding="utf-8") as file:
+        try:
+            brand_products = json.load(file)
+        except json.JSONDecodeError as e:
+            print(f"Failed to parse brand file: {brand_file}, error: {e}")
+            brand_products = []
 
-    # 3) update_products로 병합 처리
-    updated_products = update_products(old_products, new_products)
+    # 기존 데이터와 중복되지 않는 제품만 추가
+    for product in brand_products:
+        if product not in all_products:
+            all_products.append(product)
 
-    # 4) 최종 결과 저장
+    # 병합된 결과를 저장
     print(f"Saving merged data to: {output_file}")
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as file:
         lock.acquire()
         try:
-            json.dump(updated_products, file, ensure_ascii=False, indent=4)
+            json.dump(all_products, file, ensure_ascii=False, indent=4)
         except Exception as e:
             print(f"Failed to save merged data: {e}")
         finally:
             lock.release()
 
-    print(f"Merge completed for brand: {brand}\n")
+    print(f"Merge completed for brand: {brand}")
 
 if __name__ == "__main__":
-    # 브랜드 목록을 data파일에서 불러오고 해달 브랜드들의 JSON 불러오기
-    with open("data/brands_test.json", "r", encoding="utf-8") as file:
-        brand_map = json.load(file)
+    # 브랜드 목록 파일 불러오기 (예: {"나이키": "nike", "아디다스": "adidas", ...})
+    with open("/opt/airflow/data/brands_test.json", "r", encoding="utf-8") as f:
+        brand_map = json.load(f)
 
-    output_dir = "output_data"
-    backup_dir = "output_data_backup"
-    os.makedirs(output_dir, exist_ok=True)
-    os.makedirs(backup_dir, exist_ok=True)
-
-    # 데이터 수집 -> 백업 디렉터리에 저장
+    # 각 브랜드별로 데이터 수집 및 로컬 파일 저장 실행
     for kor_brand, eng_brand in brand_map.items():
-        search_brand = kor_brand
-        # 영문명을 출력해 파일명으로 사용
-        backup_file = os.path.join(backup_dir, f"{eng_brand}_products.json")
-        collect_and_filter_data([search_brand], backup_file)
-
-    # 각 브랜드별 파일에 해당 브랜드의 정보를 겹치지 않는 데이터만 병합
-    # merge_results 함수의 두번째 인자는 각 브랜드 파일 경로이다.
-    # 백업 디렉터리 -> 최종 파일로 병합
-    lock = threading.Lock()
-    for kor_brand, eng_brand in brand_map.items():
-        # 여기서는 각 브랜드의 결과 파일경로가 output_file과 같다
-        brand_file = os.path.join(output_dir, f"{eng_brand}_products.json")
-        merge_results(backup_dir, brand_file, lock, eng_brand)
+        # 출력 파일 경로를 지정합니다.
+        output_file = f"/opt/airflow/output/{eng_brand}_products.json"
+        collect_and_filter_data([kor_brand], output_file)

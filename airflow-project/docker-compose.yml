@@ -11,52 +11,13 @@ services:
       - /etc/localtime:/etc/localtime:ro
     networks:
       - airflow-network
-
-  namenode:
-    image: hadoop-image:latest
-    container_name: namenode
-    environment:
-      - JAVA_HOME=/usr/local/openjdk-11  
-      - HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
-      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
-      - HDFS_SITE_dfs_replication=1
-      - HDFS_SITE_dfs_namenode_name_dir=/hadoop/dfs/name
-      - TZ=Asia/Seoul
-    command: ["bash", "-c", "if [ ! -d /hadoop/dfs/name/current ]; then hdfs namenode -format; fi && hdfs namenode"]
-    ports:
-      - "9870:9870"
-    networks:
-      - airflow-network
-    volumes:
-      - namenode-data:/hadoop/dfs/namenode
-      - /Users/data-project/data-pipeline-project/airflow-project/shared/namenode:/hadoop/dfs/name
-      - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
-      - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc:/usr/local/hadoop/etc/hadoop
-    user: root
-
-
-  datanode:
-    image: hadoop-image:latest
-    container_name: datanode
-    environment:
-      - JAVA_HOME=usr/local/openjdk-11
-      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
-      - HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
-      - HDFS_SITE_dfs_datanode_data_dir=/hadoop/dfs/data
-      - TZ=Asia/Seoul
-    command: ["hdfs", "datanode"]
-    networks:
-      - airflow-network
-    volumes:
-      - datanode-data:/hadoop/dfs/datanode
-      - /Users/data-project/data-pipeline-project/airflow-project/shared/datanode:/hadoop/dfs/data
-      - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
-      - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc:/usr/local/hadoop/etc/hadoop
-    user: root
   
   webserver:
-    image: airflow-image:latest
-    user: "airflow:0"  # 로컬 UID를 컨테이너에 전달
+    build: 
+      context: .
+      dockerfile: Dockerfile-airflow
+    image: airflow
+    user: "airflow:0"
     restart: always
     depends_on:
       - postgres
@@ -66,26 +27,27 @@ services:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: "m8C8oCOLlhUHBYtLRGemJz0TBcxqGWduwEZkvxdS"
-      HADOOP_CONF_DIR: /usr/local/hadoop/etc/hadoop
-      HADOOP_USER_NAME: airflow
       TZ: Asia:Seoul
-      PATH: "/usr/local/hadoop/bin:/usr/local/hadoop/sbin:/home/airflow/.local/bin:${PATH}"
     ports:
       - "8081:8080"
     volumes:
-        - /Users/data-project/data-pipeline-project/airflow-project/shared:/shared
         - ./airflow/airflow.cfg:/opt/airflow/airflow.cfg
         - /etc/localtime:/etc/localtime:ro
+        - /Users/data-project/data-pipeline-project/airflow-project/airflow/modules:/opt/airflow/modules
+        - /Users/data-project/data-pipeline-project/airflow-project/spark:/opt/spark
+        - /Users/data-project/data-pipeline-project/airflow-project/shared:/shared
         - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
-        - /Users/data-project/data-pipeline-project/airflow-project/hadoop:/usr/local/hadoop/etc/hadoop
-        - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc:/usr/local/hadoop/etc/hadoop
+        - /Users/data-project/data-pipeline-project/airflow-project/shared/data/brands_test.json:/opt/airflow/data/brands_test.json
+        - ./output:/opt/airflow/output
     networks:
       - airflow-network
     command: ["airflow", "webserver"]
     
-
   scheduler:
-    image: airflow-image:latest
+    build: 
+      context: .
+      dockerfile: Dockerfile-airflow
+    image: airflow
     user: "${AIRFLOW_UID}:0"
     restart: always
     depends_on:
@@ -100,20 +62,57 @@ services:
       TZ: Asia:Seoul
     volumes:
         - /Users/data-project/data-pipeline-project/airflow-project/shared:/shared
+        - /Users/data-project/data-pipeline-project/airflow-project/shared/data/brands_test.json:/opt/airflow/data/brands_test.json
         - ./airflow/airflow.cfg:/opt/airflow/airflow.cfg
         - /etc/localtime:/etc/localtime:ro
         - /Users/data-project/data-pipeline-project:/opt/airflow/data-pipeline-project
+        - /Users/data-project/data-pipeline-project/airflow-project/airflow/modules:/opt/airflow/modules
         - /Users/data-project/data-pipeline-project/airflow-project/airflow/dags:/opt/airflow/dags
-        - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc/core-site.xml:/usr/local/hadoop/etc/core-site.xml
-        - /Users/data-project/data-pipeline-project/airflow-project/hadoop/etc/hdfs-site.xml:/usr/local/hadoop/etc/hdfs-site.xml
+        - ./output:/opt/airflow/output
     networks:
       - airflow-network
     command: scheduler
 
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.12.1
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ELASTIC_PASSWORD=elasticpassword
+      - bootstrap.memory_lock=true
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g -XX:-UseContainerSupport -Dlog4j2.formatMsgNoLookups=true
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    networks:
+      - airflow-network
+    volumes:
+      - elasticsearch-data:/usr/share/elasticsearch/data
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.12.1
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      # - ELASTICSEARCH_USERNAME=kibana_system
+      # - ELASTICSEARCH_PASSWORD=f=p0VGGYbgB_10GjQhMv
+      - xpack.security.enabled=false
+      - xpack.fleet.enabled=true
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+    networks:
+      - airflow-network
+
 volumes:
   postgres-db-volume:
-  namenode-data:  # NameNode 볼륨 정의
-  datanode-data:  # DataNode 볼륨 정의
+  elasticsearch-data:
 
 networks:
   airflow-network:

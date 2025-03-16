@@ -1,5 +1,21 @@
 [
     {
+        "pid": "268873898",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "블루마블 니트 하프 집업 L 새상품",
+        "price_updates": [
+            {
+                "1742101957": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268873898_1_1721576866_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
         "pid": "320025373",
         "brands": [
             "블루마블"
@@ -7,13 +23,13 @@
         "name": "[S] 블루마블 레인보우 웨이브 플라이트 자켓",
         "price_updates": [
             {
-                "1741657886": "108000"
+                "1742093759": "80000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320025373_1_1741191993_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320025373_1_1741838931_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "315425465",
@@ -23,61 +39,93 @@
         "name": "블루마블 벨티드 카고 팬트",
         "price_updates": [
             {
-                "1741658862": "250000"
+                "1742083246": "250000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/315425465_1_1738652735_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
-        "pid": "268873898",
+        "pid": "230734051",
         "brands": [
             "블루마블"
         ],
-        "name": "블루마블 니트 하프 집업 L 새상품",
+        "name": "블루마블 봄버 m 판매 및 교환합니다",
         "price_updates": [
             {
-                "1741656146": "390000"
+                "1742047160": "340000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/268873898_1_1721576866_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/230734051_1_1731799505_w{res}.jpg",
         "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
-        "pid": "233722496",
+        "pid": "322844301",
         "brands": [
             "블루마블"
         ],
-        "name": "31일까지 (S) Bluemarble 블루마블 카고 팬츠 나마체코 엑슬림",
+        "name": "블루마블 스터드 배기데님",
         "price_updates": [
             {
-                "1741597169": "300000"
+                "1742010113": "400000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/233722496_1_1741009363_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322844301_1_1742010173_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "322678213",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[32] 블루마블 스터드 배기 데님 팬츠",
+        "price_updates": [
+            {
+                "1742001054": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322678213_1_1741947396_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "322792493",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[XL] 블루마블 revolution 프린트 티셔츠 새상품",
+        "price_updates": [
+            {
+                "1741970783": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322792493_1_1741970783_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "259913047",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "블루마블 블랙 팬츠 S사이즈",
+        "price_updates": [
+            {
+                "1741997030": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259913047_1_1736858204_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "261109480",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "[M] 블루마블 드로우스트링 롱슬리브 블랙",
-        "price_updates": [
-            {
-                "1741592809": "139000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261109480_1_1726713511_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "280235411",
@@ -87,13 +135,93 @@
         "name": "블루마블 투톤데님진 팔아요",
         "price_updates": [
             {
-                "1741572784": "95000"
+                "1741966264": "95000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/280235411_1_1721306318_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "233722496",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "31일까지 (S) Bluemarble 블루마블 카고 팬츠 나마체코 엑슬림",
+        "price_updates": [
+            {
+                "1741881128": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233722496_1_1741009363_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "261109480",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[M] 블루마블 드로우스트링 롱슬리브 블랙",
+        "price_updates": [
+            {
+                "1741927078": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261109480_1_1726713511_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "276588599",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "블루마블 bluemarble 장식데님",
+        "price_updates": [
+            {
+                "1741766750": "670000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276588599_1_1737005243_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "307676540",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[L] 블루마블 페이퍼백 벨티드 카고팬츠",
+        "price_updates": [
+            {
+                "1741920893": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307676540_1_1734925815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "298858787",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[가격최종]블루마블 벨벳 트리밍 데님 트러커 자켓",
+        "price_updates": [
+            {
+                "1741711655": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298858787_1_1736930089_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "249368333",
@@ -109,71 +237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249368333_1_1705046271_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "307676540",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "[L] 블루마블 페이퍼백 벨티드 카고팬츠",
-        "price_updates": [
-            {
-                "1741579176": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307676540_1_1734925815_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "259913047",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "블루마블 블랙 팬츠 S사이즈",
-        "price_updates": [
-            {
-                "1741321338": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259913047_1_1736858204_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "298858787",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "[가격최종]블루마블 벨벳 트리밍 데님 트러커 자켓",
-        "price_updates": [
-            {
-                "1741191636": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298858787_1_1736930089_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "276588599",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "블루마블 bluemarble 장식데님",
-        "price_updates": [
-            {
-                "1740875826": "670000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/276588599_1_1737005243_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "290948138",
@@ -189,7 +253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290948138_1_1729212000_w{res}.jpg",
         "status": "0",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "309492271",
@@ -205,7 +269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309492271_1_1735871353_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "317244408",
@@ -221,7 +285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317244408_1_1740068159_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "308751699",
@@ -237,7 +301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308751699_1_1739877166_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "317113739",
@@ -253,23 +317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317113739_1_1739364059_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "302575169",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "[L] 블루마블 Bluemarble 비즈 스터드 레이어드 롱슬리브 티셔츠",
-        "price_updates": [
-            {
-                "1738823405": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302575169_1_1732971830_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "310160724",
@@ -285,7 +333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310160724_1_1736168669_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "310125567",
@@ -301,7 +349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310125567_1_1736158196_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "308497644",
@@ -317,23 +365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308497644_1_1735378540_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-11 04:33:39"
-    },
-    {
-        "pid": "230734051",
-        "brands": [
-            "블루마블"
-        ],
-        "name": "블루마블 봄버 m 판매 및 교환합니다",
-        "price_updates": [
-            {
-                "1731472658": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/230734051_1_1731799505_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "242852246",
@@ -349,7 +381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242852246_1_1730452277_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "287656764",
@@ -365,7 +397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287656764_1_1725363657_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "283197333",
@@ -381,7 +413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283197333_1_1722874449_w{res}.jpg",
         "status": "0",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "264030477",
@@ -397,7 +429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264030477_1_1716172257_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "261758693",
@@ -413,7 +445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261758693_1_1714373912_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "245727227",
@@ -429,7 +461,23 @@
         "product_image": "https://media.bunjang.co.kr/product/245727227_1_1709304681_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "231066874",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "(105)일꼬르소 블루마블링 화이트반팔티",
+        "price_updates": [
+            {
+                "1737180281": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/231066874_1_1690271547_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "301093861",
@@ -445,7 +493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301093861_1_1735891509_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:38"
     },
     {
         "pid": "309343703",
@@ -461,6 +509,6 @@
         "product_image": "https://media.bunjang.co.kr/product/309343703_1_1735797305_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-11 04:33:39"
+        "collected_timestamp": "2025-03-16 05:25:38"
     }
 ]

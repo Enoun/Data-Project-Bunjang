@@ -1,0 +1,2178 @@
+[
+    {
+        "pid": "263004636",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 별니트",
+        "price_updates": [
+            {
+                "1742016056": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263004636_1_1741151232_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "242540072",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 도베르만 티셔츠 S",
+        "price_updates": [
+            {
+                "1742013150": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242540072_1_1699702921_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "297640966",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[S급/정품] 지방시 로고 반바지",
+        "price_updates": [
+            {
+                "1742013138": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297640966_1_1736220002_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "242374947",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 Flower and star 티셔츠",
+        "price_updates": [
+            {
+                "1742013150": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242374947_1_1699586049_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "319481830",
+        "brands": [
+            "지방시"
+        ],
+        "name": "Givenchy 지방시 아일렛 로고 데님자켓",
+        "price_updates": [
+            {
+                "1742009860": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319481830_1_1740410428_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322850998",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 정품 남성니트 L",
+        "price_updates": [
+            {
+                "1742012256": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322850998_1_1742012256_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322850373",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[S] 지방시 15SS Horn Print 오버핏 티셔츠",
+        "price_updates": [
+            {
+                "1742012059": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322850373_1_1742012059_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "298361030",
+        "brands": [
+            "지방시"
+        ],
+        "name": "GIVENCHY 지방시 십자스티치 맨투맨",
+        "price_updates": [
+            {
+                "1742009049": "195000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298361030_1_1740018077_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322832994",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 맨즈 정장",
+        "price_updates": [
+            {
+                "1742006209": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322832994_1_1742006209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "290985044",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품] 지방시 맨투맨",
+        "price_updates": [
+            {
+                "1742010237": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290985044_1_1739858340_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322493615",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 스웨터",
+        "price_updates": [
+            {
+                "1742008084": "52000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322493615_1_1741918257_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "316458375",
+        "brands": [
+            "지방시"
+        ],
+        "name": "남성38 (95)지방시 체크 셔츠",
+        "price_updates": [
+            {
+                "1742011119": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316458375_1_1739096903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "306204946",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 남자바지 싸이즈 31~32",
+        "price_updates": [
+            {
+                "1742011105": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306204946_1_1734317539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "305338272",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 16 F/W 레더 봄버 자켓",
+        "price_updates": [
+            {
+                "1742010318": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305338272_1_1733893851_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "290480148",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 백로고 블랙 데님자켓(네고,교신X)",
+        "price_updates": [
+            {
+                "1742011608": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290480148_1_1727128955_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "321853485",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 리버스 로고 크루넥 맨투맨 L 풀구성",
+        "price_updates": [
+            {
+                "1742006114": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321853485_1_1742006099_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "306613326",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 울 니트 디테일 레이어드 로고 후드 M 거의 새것",
+        "price_updates": [
+            {
+                "1742010904": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306613326_1_1741845024_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "299157792",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시맨투맨",
+        "price_updates": [
+            {
+                "1742005951": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299157792_1_1739026562_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "321334407",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품)지방시 스타패치 니트 Size(xs) 황금사이즈",
+        "price_updates": [
+            {
+                "1742008661": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321334407_1_1741318159_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "303354611",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 데님 30",
+        "price_updates": [
+            {
+                "1742008689": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303354611_1_1741926665_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "319892991",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 니트 S 정품",
+        "price_updates": [
+            {
+                "1742006483": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319892991_1_1740622855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "307170730",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 블레이져 48(100)",
+        "price_updates": [
+            {
+                "1742008149": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307170730_1_1734694499_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "296141780",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[36]지방시 몰스킨 흑청 초판",
+        "price_updates": [
+            {
+                "1742007285": "1700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296141780_1_1740036581_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322616141",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 바시티 올레더 흰검 48사이즈",
+        "price_updates": [
+            {
+                "1742005873": "1600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322616141_1_1741938794_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "290001326",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 스플리트 로고 반팔",
+        "price_updates": [
+            {
+                "1742008286": "44650"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290001326_1_1728298902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "309742728",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 전체판 맨투맨 XS(105)",
+        "price_updates": [
+            {
+                "1742008750": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309742728_1_1735980872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "320778061",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품 지방시 니트 M 약 95",
+        "price_updates": [
+            {
+                "1742003845": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320778061_1_1742003840_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "262719445",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[52] 지방시 울 레더 바시티 블루종 자켓 (쌈디 사이먼디)",
+        "price_updates": [
+            {
+                "1742006941": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262719445_1_1741772608_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "234579722",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 x 치토 후드티",
+        "price_updates": [
+            {
+                "1742003314": "1900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234579722_1_1693213306_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "315492196",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 후드 고가라인",
+        "price_updates": [
+            {
+                "1742005239": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315492196_1_1740962496_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "315722135",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 도베르만 싱글코트",
+        "price_updates": [
+            {
+                "1742005273": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315722135_1_1740986391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "268635324",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[39] 지방시 x 치토 페이즐리 셔츠",
+        "price_updates": [
+            {
+                "1742003314": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268635324_1_1717295550_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "221795390",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[XL] 지방시 4g 레인보우 플라워 선 반팔티셔츠",
+        "price_updates": [
+            {
+                "1742005208": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221795390_1_1721829647_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322409366",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 파이터 젯 한정판 후드 티셔츠 M",
+        "price_updates": [
+            {
+                "1741996597": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322409366_1_1741866642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "233687355",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742001890": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233687355_1_1700895619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "313785799",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 트렌치코트46",
+        "price_updates": [
+            {
+                "1742000974": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313785799_1_1740055828_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "314610181",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 디스트레스드 로고 맨투맨 (m)",
+        "price_updates": [
+            {
+                "1742000180": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314610181_1_1741330838_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "316536094",
+        "brands": [
+            "지방시"
+        ],
+        "name": "97/30)지방시 정장세트",
+        "price_updates": [
+            {
+                "1742000619": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316536094_1_1739117675_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "314606726",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 도베르만 타탄체크 맨투맨 (xs)",
+        "price_updates": [
+            {
+                "1742000180": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314606726_1_1741330825_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "233687091",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 스타 패치 반팔티 S(100)",
+        "price_updates": [
+            {
+                "1742001890": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233687091_1_1692457258_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "314605512",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 플라워 17 플레이트 로고 맨투맨 ( S)",
+        "price_updates": [
+            {
+                "1742000180": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314605512_1_1738307311_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "301298586",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[L, 새상품] 지방시 플란넬 봄버 자켓 팝니다",
+        "price_updates": [
+            {
+                "1742002000": "861000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301298586_1_1741817000_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "160244015",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 반팔 11시즌 유로XS 사이즈",
+        "price_updates": [
+            {
+                "1742000961": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/160244015_1_1627606049_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "301391286",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 타이거 맨투맨",
+        "price_updates": [
+            {
+                "1741995313": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301391286_1_1741631490_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "260226193",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 반팔셔츠",
+        "price_updates": [
+            {
+                "1741996176": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260226193_1_1739949863_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "254949610",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 블랙 투스타 성모마리아 반팔티 판매합니다.",
+        "price_updates": [
+            {
+                "1742001778": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254949610_1_1711314052_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "281989417",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 정품 데님 셔츠 BM60ZZ5Y99 415(새제품)",
+        "price_updates": [
+            {
+                "1742001635": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281989417_1_1722220817_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "263688470",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[33] 지방시 몰스킨 데님 디스진 초판",
+        "price_updates": [
+            {
+                "1741997536": "2500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263688470_1_1718790485_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "263705199",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[32] 지방시 크랙데님 트래비스스캇착용",
+        "price_updates": [
+            {
+                "1741997536": "1010000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263705199_1_1735992688_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322476819",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품 지방시 샤크 프린팅 반팔티 M 팝니다",
+        "price_updates": [
+            {
+                "1741992310": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322476819_1_1741825513_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322477813",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품 지방시 스타패치 울 니트 팝니다",
+        "price_updates": [
+            {
+                "1741992310": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322477813_1_1741826171_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322647176",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 엠보 시그니처 로고 배색라이닝 맨투맨 레드",
+        "price_updates": [
+            {
+                "1741991289": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322647176_1_1741915842_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "320657663",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 크랙클 데님 30",
+        "price_updates": [
+            {
+                "1741994842": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320657663_1_1741912667_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "92143695",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품 지방시 셔츠",
+        "price_updates": [
+            {
+                "1741974208": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/92143695_1_1725971458_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "321038660",
+        "brands": [
+            "지방시"
+        ],
+        "name": "(50) 지방시 바시티자켓 팝니다 BM00QR611V",
+        "price_updates": [
+            {
+                "1741991999": "1400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321038660_1_1741755989_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "315693549",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 치토 니트 집업",
+        "price_updates": [
+            {
+                "1741981978": "1450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315693549_1_1740836576_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "241830622",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 자수 로고 후드 사이즈 M 후드티",
+        "price_updates": [
+            {
+                "1741994105": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241830622_1_1736727755_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "320226685",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[30]지방시 4G로고 카펜터 팬츠",
+        "price_updates": [
+            {
+                "1741986526": "629000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320226685_1_1741953145_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "296136608",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[M] 지방시 빅 4G 자수 후드티",
+        "price_updates": [
+            {
+                "1741991929": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296136608_1_1738789740_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "305023121",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 매튜윌리엄스 21aw 크랙진",
+        "price_updates": [
+            {
+                "1741987078": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305023121_1_1734998299_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "307968592",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품.지방시 어센틱 후드 집업 사이즈 M",
+        "price_updates": [
+            {
+                "1741987011": "62000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307968592_1_1739967437_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "318948891",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정품 지방시 스타패치 울니트 블랙 M 팝니다",
+        "price_updates": [
+            {
+                "1741992310": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318948891_1_1740347783_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "296639458",
+        "brands": [
+            "지방시"
+        ],
+        "name": "GIVENCHY(지방시) 컬러 카라 자켓",
+        "price_updates": [
+            {
+                "1741948699": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296639458_1_1734842296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322693518",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 밤비 맨투맨",
+        "price_updates": [
+            {
+                "1741935265": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322693518_1_1741935265_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322735997",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[XXL] 지방시 맨투맨 (블랙)",
+        "price_updates": [
+            {
+                "1741950298": "187000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322735997_1_1741950326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "319267131",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 GIVENCHY 모 양가죽 집업 가디건(L)",
+        "price_updates": [
+            {
+                "1741964399": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319267131_1_1740320449_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "300314095",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 Givenchy U락 코튼트윌 헤비트렌치 코트",
+        "price_updates": [
+            {
+                "1741956776": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300314095_1_1741486610_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "309141956",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시(givenchy) 금장 로고 버튼 네이비 자켓 105 /다크네이비",
+        "price_updates": [
+            {
+                "1741935450": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309141956_1_1735697199_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322737485",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[XXXL] 지방시 후드티 (블랙)",
+        "price_updates": [
+            {
+                "1741950823": "667000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322737485_1_1741950823_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322766194",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 레더 바이크 진 지퍼 30",
+        "price_updates": [
+            {
+                "1741960717": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322766194_1_1741960755_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322738735",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 꾸뛰르 린넨 셔츠 y09939",
+        "price_updates": [
+            {
+                "1741951290": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322738735_1_1741956646_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322789092",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[41] 지방시 백로고 프린팅 스트라이프 셔츠",
+        "price_updates": [
+            {
+                "1741968728": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322789092_1_1741969810_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322327445",
+        "brands": [
+            "지방시"
+        ],
+        "name": "희귀 지방시 플라워 맨투맨",
+        "price_updates": [
+            {
+                "1741955806": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322327445_1_1741927015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322299078",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[S] 지방시 로드와일러 후드",
+        "price_updates": [
+            {
+                "1741967303": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322299078_1_1741720571_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322697188",
+        "brands": [
+            "지방시"
+        ],
+        "name": "제일모직 지방시정장 남자정장 체크 이쁘 소재굳 2B0834",
+        "price_updates": [
+            {
+                "1741936518": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322697188_1_1741936518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "321153058",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 빈티지 캐시미어 블레이저 자켓",
+        "price_updates": [
+            {
+                "1741964532": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321153058_1_1741964529_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "313048645",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 후드티",
+        "price_updates": [
+            {
+                "1741954815": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313048645_1_1737530270_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "312979824",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 맨투맨",
+        "price_updates": [
+            {
+                "1741939891": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312979824_1_1737492535_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "245501673",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시코트 48",
+        "price_updates": [
+            {
+                "1741958809": "427500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245501673_1_1730376930_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "316557248",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 트렌치 코트",
+        "price_updates": [
+            {
+                "1741939627": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316557248_1_1741267813_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "260276040",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 셔츠 105",
+        "price_updates": [
+            {
+                "1741964535": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260276040_1_1738589448_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "294497544",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 반팔",
+        "price_updates": [
+            {
+                "1741951449": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294497544_1_1729839858_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "319528846",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 남성 자켓",
+        "price_updates": [
+            {
+                "1741947936": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319528846_1_1740453771_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "135844882",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 송중기니트",
+        "price_updates": [
+            {
+                "1741962999": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/135844882_1_1635120261_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "223700167",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 사틴 가죽자켓",
+        "price_updates": [
+            {
+                "1741950115": "1990000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223700167_1_1735264107_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "289845375",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 지져스 폴로 L",
+        "price_updates": [
+            {
+                "1741968607": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289845375_1_1726588275_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "298198612",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[39] 지방시 로트와일러 셔츠",
+        "price_updates": [
+            {
+                "1741968649": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298198612_1_1741528802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "235045016",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[41] [105] 지방시 셔츠",
+        "price_updates": [
+            {
+                "1741951263": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/235045016_1_1697871559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "255104578",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시가죽점퍼(95)",
+        "price_updates": [
+            {
+                "1741946597": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255104578_1_1735035928_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "250232728",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 가죽 구스다운 패딩",
+        "price_updates": [
+            {
+                "1741965210": "3500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250232728_1_1742011222_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "116936577",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[XS] 지방시 레드 마돈나 맨투맨",
+        "price_updates": [
+            {
+                "1741958108": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/116936577_1_1703422004_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "245977514",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[L] 메튜 지방시 반다나 후드",
+        "price_updates": [
+            {
+                "1741948860": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245977514_1_1728462943_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "292214516",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[32]지방시 더블 지퍼 데님",
+        "price_updates": [
+            {
+                "1741947539": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292214516_1_1738152806_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "313566537",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 반팔티 팝니다",
+        "price_updates": [
+            {
+                "1741937150": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313566537_1_1738421732_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "318611394",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 monsieur 블레이저 S",
+        "price_updates": [
+            {
+                "1741949135": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318611394_1_1740031916_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "198826670",
+        "brands": [
+            "지방시"
+        ],
+        "name": "* 대장급 * 지방시 밀리터리 티셔츠",
+        "price_updates": [
+            {
+                "1741943038": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/198826670_1_1741753461_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "317124253",
+        "brands": [
+            "지방시"
+        ],
+        "name": "(31) 지방시 디스 흑청 데님 진",
+        "price_updates": [
+            {
+                "1741965928": "540000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317124253_1_1741543300_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "245254883",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 남성 브이넥 니트 m사이즈",
+        "price_updates": [
+            {
+                "1741961198": "75500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245254883_1_1716137357_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "302486415",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 런웨이 리버시블 봄버 자켓",
+        "price_updates": [
+            {
+                "1741944206": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302486415_1_1733485449_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "292310754",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 4G 후드 데님 블루",
+        "price_updates": [
+            {
+                "1741942761": "1444000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292310754_1_1732108170_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "296109176",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 자수 기모 맨투맨 95",
+        "price_updates": [
+            {
+                "1741955175": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296109176_1_1729831011_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "311092883",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[L] 지방시 4G 패턴 데님 자켓",
+        "price_updates": [
+            {
+                "1741951174": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311092883_1_1740335944_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "317692128",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정가 700 지방시 라이더 바이커 가죽 자켓",
+        "price_updates": [
+            {
+                "1741944308": "1600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317692128_1_1739622845_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "256052508",
+        "brands": [
+            "지방시"
+        ],
+        "name": "(30) 지방시 몰스킨 디스진 초판 새상품",
+        "price_updates": [
+            {
+                "1741940359": "1520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256052508_1_1741086887_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "316548059",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 팔체크셔츠 38사이즈 팝니다",
+        "price_updates": [
+            {
+                "1741952907": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316548059_1_1739371286_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "249598344",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[S] 지방시 레이어드 바라클라바 긴팔 티셔츠",
+        "price_updates": [
+            {
+                "1741946933": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249598344_1_1738644105_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "320148072",
+        "brands": [
+            "지방시"
+        ],
+        "name": "(52) 지방시 울 레더 바시티 블루종 자켓",
+        "price_updates": [
+            {
+                "1741969288": "1770000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320148072_1_1741598777_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "288720341",
+        "brands": [
+            "지방시"
+        ],
+        "name": "S 지방시 블랙 떼몽키 맨투맨 7308 653",
+        "price_updates": [
+            {
+                "1741965412": "218500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288720341_1_1728353611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "294751092",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 쓰리버튼 자켓 42 (106-94-175)",
+        "price_updates": [
+            {
+                "1741972099": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294751092_1_1738197794_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "290182459",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 코튼 팬츠 반바지 가능 두가지템",
+        "price_updates": [
+            {
+                "1741964125": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290182459_1_1738342405_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "305128938",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 코브라 인타르시아 니트 S",
+        "price_updates": [
+            {
+                "1741953422": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305128938_1_1733749752_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "302495239",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 램스킨 네오프렌 후드 자켓",
+        "price_updates": [
+            {
+                "1741944204": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302495239_1_1732543659_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "310676869",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 밤비 맨투맨 디올 샤넬 버버리 구찌 루이비통",
+        "price_updates": [
+            {
+                "1741945179": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310676869_1_1741494400_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "317694040",
+        "brands": [
+            "지방시"
+        ],
+        "name": "정가 840 지방시 트위드 라이더 바이커 가죽 자켓",
+        "price_updates": [
+            {
+                "1741944311": "3000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317694040_1_1739623331_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "315806886",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[S+급/백화점판 한글택] 지방시 슬렉스 48사이즈",
+        "price_updates": [
+            {
+                "1741940198": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315806886_1_1741940216_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "270139800",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[52] 23 / 24 지방시 로고 울 레더 바시티 자켓 검흰",
+        "price_updates": [
+            {
+                "1741964514": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270139800_1_1741772696_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "297981953",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 데미지 워시 가공 크로스핀 긴소매 셔츠(S)",
+        "price_updates": [
+            {
+                "1741964730": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297981953_1_1730907845_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "262715058",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[52] 지방시 울 레더 가죽 바시티 블루종 마원 자켓 (쌈디 사이먼디)",
+        "price_updates": [
+            {
+                "1741972733": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262715058_1_1741772658_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322652635",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 (GIVENCHY) 실크 핸드워싱 클래식 맥코트 (100-105)",
+        "price_updates": [
+            {
+                "1741918235": "265000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322652635_1_1741934939_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322615342",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로고 후드티 xl",
+        "price_updates": [
+            {
+                "1741877852": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322615342_1_1741877852_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "322459040",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 자켓 41R / 빈티지 구제샵 구매",
+        "price_updates": [
+            {
+                "1741796161": "33000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322459040_1_1741874392_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "114658737",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[XS] 정품 지방시반팔(지디착용)",
+        "price_updates": [
+            {
+                "1741772899": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/114658737_1_1689839073_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:59"
+    },
+    {
+        "pid": "321082606",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 (GIVENCHY) 실크 울헤링본 클래식 벨티드 코트 (100+)",
+        "price_updates": [
+            {
+                "1741154159": "264000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321082606_1_1741589046_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:02"
+    },
+    {
+        "pid": "301668857",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[M] 지방시 투 몽키 스타 맨투맨 그레이",
+        "price_updates": [
+            {
+                "1741497367": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301668857_1_1732184914_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:07"
+    },
+    {
+        "pid": "249376784",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 니트 100",
+        "price_updates": [
+            {
+                "1741017400": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249376784_1_1705673886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:07"
+    },
+    {
+        "pid": "208639751",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 (라이선스) 남성 체크 남방",
+        "price_updates": [
+            {
+                "1741326527": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/208639751_1_1671240978_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:07"
+    },
+    {
+        "pid": "319380768",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 울 자켓 L",
+        "price_updates": [
+            {
+                "1740538161": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319380768_1_1740382261_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:08"
+    },
+    {
+        "pid": "293894671",
+        "brands": [
+            "지방시"
+        ],
+        "name": "XXL 지방시 블랙 스네이크 맨투맨 7341 653",
+        "price_updates": [
+            {
+                "1739845219": "171000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293894671_1_1728726759_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:08"
+    },
+    {
+        "pid": "315170162",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 바시티 봄버 자켓 48사이즈 BM011S6Y16 004",
+        "price_updates": [
+            {
+                "1740010593": "2230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315170162_1_1742002905_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:08"
+    },
+    {
+        "pid": "278373019",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 샤크 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1738765941": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278373019_1_1729610903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:08"
+    },
+    {
+        "pid": "175065277",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시니트 미디움사이즈",
+        "price_updates": [
+            {
+                "1729921152": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/175065277_1_1641305283_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:09"
+    },
+    {
+        "pid": "280210184",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 지오매트릭 맨투맨",
+        "price_updates": [
+            {
+                "1725764174": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280210184_1_1729611255_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:10"
+    },
+    {
+        "pid": "97279722",
+        "brands": [
+            "지방시"
+        ],
+        "name": "버버리 체크 블레이져 자켓 정장 마이 입생로랑 지방시 루이비통 구찌",
+        "price_updates": [
+            {
+                "1725930888": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/97279722_1_1614568642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:10"
+    },
+    {
+        "pid": "305666847",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 로트와일러 후드",
+        "price_updates": [
+            {
+                "1741766079": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305666847_1_1741766160_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "321399615",
+        "brands": [
+            "지방시"
+        ],
+        "name": "지방시 카라 반팔티 실측사이즈 (2547)",
+        "price_updates": [
+            {
+                "1741321820": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321399615_1_1741321820_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "301648859",
+        "brands": [
+            "지방시"
+        ],
+        "name": "[33] 지방시 몰스킨 디스트로이드 데님 리오더판 오늘만!",
+        "price_updates": [
+            {
+                "1740453135": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301648859_1_1740542034_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    }
+]

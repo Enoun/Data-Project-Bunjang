@@ -1,0 +1,2162 @@
+[
+    {
+        "pid": "259958556",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 카브엠트 구매합니당",
+        "price_updates": [
+            {
+                "1742016058": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259958556_1_1712938272_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "238449273",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 오버다이 울 빅 셔츠 네이비",
+        "price_updates": [
+            {
+                "1742015407": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238449273_1_1740670249_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322552680",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(XL) 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1742014268": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322552680_1_1741857290_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322551056",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(XXL) 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1742014268": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322551056_1_1741856744_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "235422703",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 조거 트레이닝 팬츠 S",
+        "price_updates": [
+            {
+                "1742014723": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/235422703_1_1693907862_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "295918962",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 지구라트 후디",
+        "price_updates": [
+            {
+                "1742014237": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295918962_1_1736668296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321069450",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 조끼 베스트",
+        "price_updates": [
+            {
+                "1742013314": "72000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321069450_1_1741594829_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322328695",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 맨투맨",
+        "price_updates": [
+            {
+                "1742012220": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322328695_1_1741749254_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "313098072",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 후리스",
+        "price_updates": [
+            {
+                "1742010137": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313098072_1_1737545878_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "298153401",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1742011506": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298153401_1_1730953316_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "275865851",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 버튼 자켓",
+        "price_updates": [
+            {
+                "1742010850": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275865851_1_1738387788_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "292495158",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 트랙자켓 L",
+        "price_updates": [
+            {
+                "1742010137": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292495158_1_1728036823_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "289180300",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 프레임 청자켓",
+        "price_updates": [
+            {
+                "1742010137": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289180300_1_1734178014_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "309465228",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1742012848": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309465228_1_1736056526_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "293026168",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 나이키 카브엠트 트랙 자켓",
+        "price_updates": [
+            {
+                "1742009492": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293026168_1_1728311140_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318772925",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL]카브엠트 코튼 멜톤 자켓",
+        "price_updates": [
+            {
+                "1742009796": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318772925_1_1741597636_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "282053665",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "L) 카브엠트 나일론 집 베스트",
+        "price_updates": [
+            {
+                "1742010843": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282053665_1_1733529545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "313916127",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 big t 빅티셔츠 L",
+        "price_updates": [
+            {
+                "1742010859": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313916127_1_1739590387_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318579902",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 워시드 데님 ZIP 자켓",
+        "price_updates": [
+            {
+                "1742010138": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318579902_1_1740021080_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322525607",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[M]나이키 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1742006091": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322525607_1_1741847730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318579151",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 하프 집 캐주얼 스웨트 블랙 - 23FW",
+        "price_updates": [
+            {
+                "1742010116": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318579151_1_1740021113_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318578709",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 워시드 프레스티지어스니스 후드 블랙 - 23FW",
+        "price_updates": [
+            {
+                "1742010142": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318578709_1_1740946815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321425572",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 코발트 맨투맨",
+        "price_updates": [
+            {
+                "1742007738": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321425572_1_1741332124_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321338516",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 맨투맨 s",
+        "price_updates": [
+            {
+                "1742006051": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321338516_1_1741270928_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "284822257",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 하프 셔츠",
+        "price_updates": [
+            {
+                "1742005970": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284822257_1_1723791888_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "276834237",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 화이트 티셔츠",
+        "price_updates": [
+            {
+                "1742005887": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276834237_1_1720049038_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "289810798",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 셔츠 L 사이즈",
+        "price_updates": [
+            {
+                "1742008764": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289810798_1_1739407410_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "250353567",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 코듀로이 셔츠 자켓",
+        "price_updates": [
+            {
+                "1742009032": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250353567_1_1740804480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "320176753",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[M]cav empt 카브엠트 후드티셔츠",
+        "price_updates": [
+            {
+                "1742008058": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320176753_1_1740744507_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "319661164",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(L)나이키 카브엠트 트랙 자켓 팝니다",
+        "price_updates": [
+            {
+                "1742006551": "460000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319661164_1_1741354860_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "202498272",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[S] 카브엠트 그레이 노이즈 BDU 자켓",
+        "price_updates": [
+            {
+                "1742007207": "365000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/202498272_1_1730105852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "207863556",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트,cav empt, parachute flight ,navy",
+        "price_updates": [
+            {
+                "1742007088": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207863556_1_1737512449_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "317351476",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 그리드 스크럭쳐 자켓 m",
+        "price_updates": [
+            {
+                "1742009401": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317351476_1_1739464994_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "298365830",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 오버다이 크루넥 L사이즈 워시드 그레이",
+        "price_updates": [
+            {
+                "1742008106": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298365830_1_1730707490_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "311857237",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 오버다이 코듀로이 디자인 빅 셔츠 M사이즈 블랙",
+        "price_updates": [
+            {
+                "1742007287": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311857237_1_1736969965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "310884883",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 YOSSARIAN 멀티지퍼포켓 카고팬츠 카키 L사이즈",
+        "price_updates": [
+            {
+                "1742006403": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310884883_1_1738032243_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "150414086",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 후드",
+        "price_updates": [
+            {
+                "1742003378": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/150414086_1_1734833285_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "304153572",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 팬츠",
+        "price_updates": [
+            {
+                "1742002635": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304153572_1_1733314089_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "221131883",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 자켓",
+        "price_updates": [
+            {
+                "1742005373": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221131883_1_1736767562_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "289969563",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 24fw 3컬러 dbl니트 보트넥 티",
+        "price_updates": [
+            {
+                "1742008690": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289969563_1_1740193243_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "319379759",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 디테치 슬리브 자켓 L",
+        "price_updates": [
+            {
+                "1742003492": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319379759_1_1740381929_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "288666301",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(L) 카브엠트 그리드 스트럭쳐 자켓",
+        "price_updates": [
+            {
+                "1742002588": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288666301_1_1741586889_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322266415",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "22fw 카브엠트 오버다이 지그보이 후드집업 XL 사이즈",
+        "price_updates": [
+            {
+                "1742000043": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322266415_1_1741699705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "283824673",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 카브엠트 파워 네트 짚 자켓 (CES22JK17)",
+        "price_updates": [
+            {
+                "1742005169": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283824673_1_1723221192_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "319563657",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 자켓",
+        "price_updates": [
+            {
+                "1742001488": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319563657_1_1740465974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "302298200",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 데님자켓",
+        "price_updates": [
+            {
+                "1742000470": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302298200_1_1738765228_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "294744080",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] CAVEMPT 카브엠트 워크셔츠",
+        "price_updates": [
+            {
+                "1742001249": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294744080_1_1737020876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "294803365",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] CAVEMPT 카브엠트 자켓 그레이",
+        "price_updates": [
+            {
+                "1742001249": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294803365_1_1737020861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "260354171",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 요사리안 팬츠",
+        "price_updates": [
+            {
+                "1742000470": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260354171_1_1732433013_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "260354544",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 코튼 캐쥬얼 팬츠",
+        "price_updates": [
+            {
+                "1742000470": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260354544_1_1732432991_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "247678696",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 Cavempt 컨트롤러 팬츠 L",
+        "price_updates": [
+            {
+                "1742001538": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247678696_1_1729524083_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "294742817",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 24fw CAVEMPT 카브엠트 크루넥",
+        "price_updates": [
+            {
+                "1742001249": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294742817_1_1737020890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "260355016",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 인디파이너블 니트",
+        "price_updates": [
+            {
+                "1742000470": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260355016_1_1732432974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318953684",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 오버다이 BDU - L사이즈",
+        "price_updates": [
+            {
+                "1742000051": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318953684_1_1740964318_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "315848276",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 카브엠트 울 버튼 칼라드 자켓",
+        "price_updates": [
+            {
+                "1741999604": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315848276_1_1741999599_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318453905",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 카브엠트 울 폴리 플리스 풀오버",
+        "price_updates": [
+            {
+                "1741999571": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318453905_1_1741245997_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "303013725",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 카브엠트 WIDE RIB CUT CREW NECK 맨투맨",
+        "price_updates": [
+            {
+                "1741999314": "215000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303013725_1_1737581580_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "317148426",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "23fw 카브엠트 오버다이 집 BDU자켓 L",
+        "price_updates": [
+            {
+                "1742002052": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317148426_1_1739373920_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "292891889",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 후드 아노락 m사이즈 cavempt",
+        "price_updates": [
+            {
+                "1741998088": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292891889_1_1741998209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "302047435",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 보아 플리스 조끼",
+        "price_updates": [
+            {
+                "1741997707": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302047435_1_1737267927_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "310578236",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 오버다이 테이프 라이트 집 후드 베이지 - 23FW",
+        "price_updates": [
+            {
+                "1741997142": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310578236_1_1738896345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "246097002",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 청바지",
+        "price_updates": [
+            {
+                "1741988562": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246097002_1_1741236363_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "320001981",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(M)카브엠트반팔",
+        "price_updates": [
+            {
+                "1741989646": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320001981_1_1742005031_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "319199584",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 후드티 L사이즈",
+        "price_updates": [
+            {
+                "1741993125": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319199584_1_1741238511_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "296566949",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 cn풀오버",
+        "price_updates": [
+            {
+                "1741993805": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296566949_1_1733130236_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "304529047",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 트레이닝 자켓 L size",
+        "price_updates": [
+            {
+                "1741990680": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304529047_1_1738760701_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "256185887",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "M 카브엠트 크루넥 오버다이 그레이",
+        "price_updates": [
+            {
+                "1741994448": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256185887_1_1710044530_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "199249286",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(M size) 카브엠트 집업 양털후리스",
+        "price_updates": [
+            {
+                "1741994448": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199249286_1_1708345516_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "293971443",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 이리테이션 집 자켓 바람막이 S",
+        "price_updates": [
+            {
+                "1741980473": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293971443_1_1728749924_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "241882417",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키X카브엠트 나브엠트 트랙 자켓 S급",
+        "price_updates": [
+            {
+                "1741974572": "830000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241882417_1_1737888936_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318738863",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "22fw 카브엠트 오버다이 헤비 롱슬리브 그린 m",
+        "price_updates": [
+            {
+                "1741982189": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318738863_1_1740662270_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322741009",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "105 카브엠트 니트",
+        "price_updates": [
+            {
+                "1741952082": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322741009_1_1741952082_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "322603706",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 디자인 후드",
+        "price_updates": [
+            {
+                "1741944717": "219000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322603706_1_1741873972_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321819898",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 카브엠트 트랙자켓 M",
+        "price_updates": [
+            {
+                "1741967866": "645000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321819898_1_1741501599_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321846395",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 오버다이 코드 디자인 빅 셔츠",
+        "price_updates": [
+            {
+                "1741944331": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321846395_1_1741508235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321437108",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 지그모델 후드티",
+        "price_updates": [
+            {
+                "1741954002": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321437108_1_1741954020_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "320770006",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[S] 나이키 카브엠트 베스트",
+        "price_updates": [
+            {
+                "1741939168": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320770006_1_1740987398_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321291065",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[S] 카브엠트 유틸리티 봄버 자켓",
+        "price_updates": [
+            {
+                "1741939936": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321291065_1_1741536798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321437438",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 카브엠트 베스트 네이비 M",
+        "price_updates": [
+            {
+                "1741953417": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321437438_1_1741935923_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "320996125",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 ZIP SHORT SHIRT JACKET",
+        "price_updates": [
+            {
+                "1741967111": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320996125_1_1741097071_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "320756451",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 노이즈 비치 팬츠 S",
+        "price_updates": [
+            {
+                "1741942052": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320756451_1_1740983110_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321230035",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 픽셀 엠브로이더리 자켓",
+        "price_updates": [
+            {
+                "1741953401": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321230035_1_1741935890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "203607410",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트cavemt",
+        "price_updates": [
+            {
+                "1741967088": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203607410_1_1741852609_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "314423059",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 팬츠",
+        "price_updates": [
+            {
+                "1741964952": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314423059_1_1738216678_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "283618980",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 반팔 셔츠",
+        "price_updates": [
+            {
+                "1741956395": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283618980_1_1739872330_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "239911532",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 맨투맨 XL",
+        "price_updates": [
+            {
+                "1741951680": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239911532_1_1713395384_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "277938280",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[xl] 카브엠트 반팔",
+        "price_updates": [
+            {
+                "1741969877": "54000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277938280_1_1741136033_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "277936118",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[xl] 카브엠트 반팔",
+        "price_updates": [
+            {
+                "1741969877": "47000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277936118_1_1741136043_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "272898668",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 반팔티셔츠",
+        "price_updates": [
+            {
+                "1741935289": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/272898668_1_1718549030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "286739843",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 반팔셔츠",
+        "price_updates": [
+            {
+                "1741957161": "216000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286739843_1_1724890436_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "215434300",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 후드집업",
+        "price_updates": [
+            {
+                "1741945512": "363000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/215434300_1_1741945472_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "192997803",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 메타포 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1741967155": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192997803_1_1706374962_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "314820722",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XXL] 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1741964924": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314820722_1_1740074675_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318365416",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(L) 카브엠트 애슬레틱 팬츠",
+        "price_updates": [
+            {
+                "1741964575": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318365416_1_1739925976_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "308306512",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 코듀로이 집업 자켓",
+        "price_updates": [
+            {
+                "1741950796": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308306512_1_1735270309_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "185053534",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 스트라이프 하프집업",
+        "price_updates": [
+            {
+                "1741945512": "237000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185053534_1_1741945496_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "192997803",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 메타포 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1741967155": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192997803_1_1706374962_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "314820722",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XXL] 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1741964924": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314820722_1_1740074675_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "318365416",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(L) 카브엠트 애슬레틱 팬츠",
+        "price_updates": [
+            {
+                "1741964575": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318365416_1_1739925976_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "308306512",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 코듀로이 집업 자켓",
+        "price_updates": [
+            {
+                "1741950796": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308306512_1_1735270309_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "185053534",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 스트라이프 하프집업",
+        "price_updates": [
+            {
+                "1741945512": "237000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185053534_1_1741945496_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "319574298",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L]카브엠트 반판티셔츠",
+        "price_updates": [
+            {
+                "1741944100": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319574298_1_1740470032_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "256952802",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 리뉴얼 집 자켓",
+        "price_updates": [
+            {
+                "1741958913": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256952802_1_1740999709_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "315889276",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(XL) 카브엠트 나일론 셔츠 자켓",
+        "price_updates": [
+            {
+                "1741947142": "279000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315889276_1_1738845717_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "221641736",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 니트 와플 가디건",
+        "price_updates": [
+            {
+                "1741966772": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221641736_1_1736698127_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "306002455",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 코듀로이 셔츠 베이지",
+        "price_updates": [
+            {
+                "1741965341": "215000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306002455_1_1741949058_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "258692980",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 노이즈 블루종 자켓 cavempt",
+        "price_updates": [
+            {
+                "1741951569": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258692980_1_1711959705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "262334606",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[M] 나이키 카브엠트 롱슬리브",
+        "price_updates": [
+            {
+                "1741938893": "265000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262334606_1_1741861383_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "301482122",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "Cavempt 카브엠트 파워 넷 집 자켓",
+        "price_updates": [
+            {
+                "1741939264": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301482122_1_1732981974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "317262722",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트  NYLON HOOD ZIP JACKET",
+        "price_updates": [
+            {
+                "1741967136": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317262722_1_1740550461_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "289975605",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[카브엠트] 스트라이프 심 크루넥 (XL)",
+        "price_updates": [
+            {
+                "1741965175": "166000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289975605_1_1740916533_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "319671344",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 하프집업 맨투맨 L사이즈",
+        "price_updates": [
+            {
+                "1741953409": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319671344_1_1741935864_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "279051766",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XXL]카브엠트 웍스아웃 익스클루시브 블랙",
+        "price_updates": [
+            {
+                "1741934590": "198000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279051766_1_1738387459_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "308686736",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 스탠드 카라 집업 블랙 L",
+        "price_updates": [
+            {
+                "1741941531": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308686736_1_1735455061_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "307720088",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 블리치드 데님 빅 셔츠 인디고",
+        "price_updates": [
+            {
+                "1741965924": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307720088_1_1734942280_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "296910866",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 사이드 립 루즈 네트 니트XL",
+        "price_updates": [
+            {
+                "1741964442": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296910866_1_1741538161_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "315726721",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[새상품]카브엠트 셀룰러 시스템 티셔츠 화이트 XXL",
+        "price_updates": [
+            {
+                "1741966283": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315726721_1_1739551498_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "280945301",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 지그보이 후드 집업 브라운",
+        "price_updates": [
+            {
+                "1741963576": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280945301_1_1740660410_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "199128673",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L] 카브엠트 22ss 사틴 집업 자켓",
+        "price_updates": [
+            {
+                "1741965980": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199128673_1_1731023154_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "290620474",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 나일론 액티브 집 자켓 베이지 M",
+        "price_updates": [
+            {
+                "1741952819": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290620474_1_1735687534_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "312736744",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 X 나이키 패딩조끼 L 판매",
+        "price_updates": [
+            {
+                "1741948385": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312736744_1_1740396364_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "315727268",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[새상품]카브엠트 플랫 프리 코그 티셔츠 화이트 XXL",
+        "price_updates": [
+            {
+                "1741966283": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315727268_1_1739551554_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "245213712",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 콜라주 맨투맨 xl 딥 블루 20FW",
+        "price_updates": [
+            {
+                "1741944450": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245213712_1_1733560381_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "186875502",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XL] 카브엠트 22SS 스트라이프 터틀넥 롱슬리브 옐로우",
+        "price_updates": [
+            {
+                "1741957390": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/186875502_1_1715659411_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "306947434",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 X 카브엠트 모자, 조끼(XS), 팬츠(M) 셋트",
+        "price_updates": [
+            {
+                "1741937431": "1050000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306947434_1_1741163884_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "316620098",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[M]15SS 카브엠트Cavempt 데님 집업 자켓 블루종",
+        "price_updates": [
+            {
+                "1741927146": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316620098_1_1741960740_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "321495346",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 셀룰러 시스템 반팔 티셔트 cavempt",
+        "price_updates": [
+            {
+                "1741794326": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321495346_1_1741942383_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "206775173",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[L]카브엠트 스트라이프 터틀넥 롱슬리브 옐로우",
+        "price_updates": [
+            {
+                "1741180878": "109000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/206775173_1_1741071529_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "260296628",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XXL] 카브엠트 롱 슬리브 티셔츠",
+        "price_updates": [
+            {
+                "1740709472": "179000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260296628_1_1738507642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "260296628",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "[XXL] 카브엠트 롱 슬리브 티셔츠",
+        "price_updates": [
+            {
+                "1740709472": "179000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260296628_1_1738507642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "219832380",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 배색 티셔츠 L사이즈",
+        "price_updates": [
+            {
+                "1735810008": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219832380_1_1713500528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:25"
+    },
+    {
+        "pid": "309895014",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "카브엠트 플란넬 셔츠 자켓",
+        "price_updates": [
+            {
+                "1741946618": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309895014_1_1741964818_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:26"
+    },
+    {
+        "pid": "306425915",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "(이번주까지판매)나이키 카브엠트 트랙 자켓 L",
+        "price_updates": [
+            {
+                "1741931374": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306425915_1_1740442978_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:26"
+    },
+    {
+        "pid": "321440884",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 카브엠트 트랙 자켓 네이비 L",
+        "price_updates": [
+            {
+                "1741878115": "725000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321440884_1_1741337592_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:26"
+    },
+    {
+        "pid": "297174660",
+        "brands": [
+            "카브엠트"
+        ],
+        "name": "나이키 카브엠트 트랙자켓 xl",
+        "price_updates": [
+            {
+                "1734577410": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297174660_1_1734526127_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:26"
+    }
+]

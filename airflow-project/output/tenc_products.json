@@ -1,5 +1,21 @@
 [
     {
+        "pid": "306928402",
+        "brands": [
+            "tenc"
+        ],
+        "name": "텐씨 tenc 마운틴 파카 판매합니다",
+        "price_updates": [
+            {
+                "1741830780": "495000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306928402_1_1738408567_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:36"
+    },
+    {
         "pid": "319271767",
         "brands": [
             "tenc"
@@ -13,7 +29,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319271767_1_1740321880_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-11 04:34:42"
+        "collected_timestamp": "2025-03-16 05:25:36"
     },
     {
         "pid": "250480355",
@@ -29,7 +45,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250480355_1_1705859072_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "219335867",
@@ -45,7 +61,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219335867_1_1724841905_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "288353322",
@@ -61,7 +77,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288353322_1_1725760556_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "243852468",
@@ -77,7 +93,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243852468_1_1704272717_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "205042164",
@@ -93,7 +109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205042164_1_1716887202_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "301554514",
@@ -109,7 +125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301554514_1_1738640904_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "305889415",
@@ -125,7 +141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305889415_1_1737333647_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
     },
     {
         "pid": "311019326",
@@ -141,6 +157,22 @@
         "product_image": "https://media.bunjang.co.kr/product/311019326_1_1736753196_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-11 05:00:02"
+        "collected_timestamp": "2025-03-16 05:25:37"
+    },
+    {
+        "pid": "300173455",
+        "brands": [
+            "tenc"
+        ],
+        "name": "텐씨 tenc 서바이벌 패딩 자켓 네이비 (새상품)",
+        "price_updates": [
+            {
+                "1734776722": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300173455_1_1734589743_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 05:25:37"
     }
 ]

@@ -1,0 +1,114 @@
+[
+    {
+        "pid": "309944584",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 컷아웃 슬래시 니트 M",
+        "price_updates": [
+            {
+                "1742015517": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309944584_1_1736070335_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    },
+    {
+        "pid": "293630902",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 댄싱레이디 니트 XL",
+        "price_updates": [
+            {
+                "1742006264": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293630902_1_1742006276_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    },
+    {
+        "pid": "289294846",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 파인 크루넥 M",
+        "price_updates": [
+            {
+                "1741969896": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289294846_1_1741526690_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    },
+    {
+        "pid": "304467180",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 슬래시 니트 m사이즈",
+        "price_updates": [
+            {
+                "1741965560": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304467180_1_1733470187_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    },
+    {
+        "pid": "310535910",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 아가일 턴업 니트 L",
+        "price_updates": [
+            {
+                "1741965392": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310535910_1_1738607844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    },
+    {
+        "pid": "204935421",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡(STEFANCOOKE) 조거팬츠 13714261SP",
+        "price_updates": [
+            {
+                "1741964905": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204935421_1_1688069603_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    },
+    {
+        "pid": "319728529",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "[키, 위댐 착용 디자인] 스테판쿡 니트 판매 합니다",
+        "price_updates": [
+            {
+                "1741961865": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319728529_1_1740997873_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:33:25"
+    }
+]

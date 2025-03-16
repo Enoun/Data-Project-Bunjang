@@ -1,0 +1,50 @@
+[
+    {
+        "pid": "312901741",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "키코코스타디노브 오네 팬츠 50",
+        "price_updates": [
+            {
+                "1742014342": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312901741_1_1741748349_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:30:52"
+    },
+    {
+        "pid": "295685492",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "키코코스타디노브 NESEBUR EMBROIDERED 자켓 블레이저",
+        "price_updates": [
+            {
+                "1742004692": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295685492_1_1736766774_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:52"
+    },
+    {
+        "pid": "298155903",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "[L] 키코코스타디노브 노발리스 롱슬리브 블랙",
+        "price_updates": [
+            {
+                "1741943828": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298155903_1_1730620443_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:30:52"
+    }
+]

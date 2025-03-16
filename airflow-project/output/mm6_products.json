@@ -1,211 +1,19 @@
 [
     {
-        "pid": "314690918",
+        "pid": "322806759",
         "brands": [
             "mm6"
         ],
-        "name": "mm6 엠엠식스 모노 후디 xl 팝니다",
+        "name": "L) mm6 마르지엘라 로고 터틀넥 네이비 블랙",
         "price_updates": [
             {
-                "1741607878": "100000"
+                "1742097839": "300000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314690918_1_1741607900_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322806759_1_1741995795_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "317371498",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6 오버 사이즈 반팔",
-        "price_updates": [
-            {
-                "1741578927": "72000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317371498_1_1739493332_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "321524103",
-        "brands": [
-            "mm6"
-        ],
-        "name": "슈프림 x mm6 메종마르지엘라 포일 박스로고 후드",
-        "price_updates": [
-            {
-                "1741535669": "310000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321524103_1_1741514136_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "258498686",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6 x 오프닝세레모니 가디건",
-        "price_updates": [
-            {
-                "1741533528": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258498686_1_1739864101_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "258928487",
-        "brands": [
-            "mm6"
-        ],
-        "name": "[L]슈프림 x mm6 메종 마르지엘라",
-        "price_updates": [
-            {
-                "1741571802": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258928487_1_1740883225_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "311538918",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6 마르지엘라 오버사이즈 자켓",
-        "price_updates": [
-            {
-                "1741563470": "520000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311538918_1_1738560551_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "321750354",
-        "brands": [
-            "mm6"
-        ],
-        "name": "[L] 마르지엘라 살로몬 mm6 윈드브레이커 블랙",
-        "price_updates": [
-            {
-                "1741475596": "1040000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321750354_1_1741475596_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "280082396",
-        "brands": [
-            "mm6"
-        ],
-        "name": "마르지엘라 mm6 티셔츠 M",
-        "price_updates": [
-            {
-                "1741446878": "174000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/280082396_1_1730963129_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "245951276",
-        "brands": [
-            "mm6"
-        ],
-        "name": "(새상품) 메종 마르지엘라 자켓 블레이저 mm6 스트라이프 금장 자켓",
-        "price_updates": [
-            {
-                "1741502007": "490000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245951276_1_1737460386_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "316223077",
-        "brands": [
-            "mm6"
-        ],
-        "name": "슈프림 x mm6 마르지엘라 포일 워크 자켓 XL",
-        "price_updates": [
-            {
-                "1741517115": "830000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316223077_1_1741517123_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "259284487",
-        "brands": [
-            "mm6"
-        ],
-        "name": "[새상품] 슈프림 mm6 메종 마르지엘라 워시드 코튼 수트 셋업 네이비",
-        "price_updates": [
-            {
-                "1741520123": "1900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259284487_1_1741257547_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500100",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "320642306",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6 마르지엘라 x 첸펭 다운 베스트",
-        "price_updates": [
-            {
-                "1741363985": "449000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320642306_1_1741180385_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "319634879",
-        "brands": [
-            "mm6"
-        ],
-        "name": "새상품 mm6 메종 마르지엘라 넘버링 니트베스트 M,L",
-        "price_updates": [
-            {
-                "1741439800": "585000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319634879_1_1740487754_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "306720235",
@@ -215,13 +23,189 @@
         "name": "mm6 마르지엘라 스웻셔츠",
         "price_updates": [
             {
-                "1741363467": "180000"
+                "1742097928": "180000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/306720235_1_1736346105_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "322135169",
+        "brands": [
+            "mm6"
+        ],
+        "name": "[52] 마르지엘라 mm6 데님 자켓 흑청",
+        "price_updates": [
+            {
+                "1742083972": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322135169_1_1741647852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "280082396",
+        "brands": [
+            "mm6"
+        ],
+        "name": "마르지엘라 mm6 티셔츠 M",
+        "price_updates": [
+            {
+                "1742055698": "174000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280082396_1_1730963129_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "322935537",
+        "brands": [
+            "mm6"
+        ],
+        "name": "새상품 mm6 메종 마르지엘라 넘버링 니트베스트 M,L",
+        "price_updates": [
+            {
+                "1742037247": "535000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322935537_1_1742037247_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "258498686",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 x 오프닝세레모니 가디건",
+        "price_updates": [
+            {
+                "1742054624": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258498686_1_1739864101_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "314690918",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 엠엠식스 모노 후디 xl 팝니다",
+        "price_updates": [
+            {
+                "1742040933": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314690918_1_1741607900_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "258928487",
+        "brands": [
+            "mm6"
+        ],
+        "name": "[L]슈프림 x mm6 메종 마르지엘라",
+        "price_updates": [
+            {
+                "1742016895": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258928487_1_1740883225_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "295437686",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 마르지엘라 오버사이즈 코트 40",
+        "price_updates": [
+            {
+                "1742039865": "375000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295437686_1_1740544061_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "322812884",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 마르지엘라 맨투맨",
+        "price_updates": [
+            {
+                "1741997809": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322812884_1_1741997809_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "322568996",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 자켓 로고 패치 울 블레이저",
+        "price_updates": [
+            {
+                "1741924255": "298000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322568996_1_1741863002_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "259284487",
+        "brands": [
+            "mm6"
+        ],
+        "name": "[새상품] 슈프림 mm6 메종 마르지엘라 워시드 코튼 수트 셋업 네이비",
+        "price_updates": [
+            {
+                "1741959702": "1900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259284487_1_1741257547_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "262168693",
+        "brands": [
+            "mm6"
+        ],
+        "name": "[34] 슈프림 x 마르지엘라 mm6 포일 더블니 팬츠 블랙",
+        "price_updates": [
+            {
+                "1741961698": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262168693_1_1736847074_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "257600391",
@@ -231,13 +215,45 @@
         "name": "mm6 마르지엘라 블레이저 자켓",
         "price_updates": [
             {
-                "1741363433": "850000"
+                "1741842726": "830000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/257600391_1_1734616841_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "245951276",
+        "brands": [
+            "mm6"
+        ],
+        "name": "(새상품) 메종 마르지엘라 자켓 블레이저 mm6 스트라이프 금장 자켓",
+        "price_updates": [
+            {
+                "1741863611": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245951276_1_1737460386_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "316223077",
+        "brands": [
+            "mm6"
+        ],
+        "name": "슈프림 x mm6 마르지엘라 포일 워크 자켓 XL",
+        "price_updates": [
+            {
+                "1741880429": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316223077_1_1741880450_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "321283268",
@@ -247,13 +263,93 @@
         "name": "살로몬 mm6 러닝 조끼 블랙",
         "price_updates": [
             {
-                "1741314665": "440000"
+                "1741826893": "440000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/321283268_1_1741253514_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "307321408",
+        "brands": [
+            "mm6"
+        ],
+        "name": "마르지엘라 mm6 노스페이스 써클 후리스 M사이즈",
+        "price_updates": [
+            {
+                "1741847081": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307321408_1_1735026612_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "317371498",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 오버 사이즈 반팔",
+        "price_updates": [
+            {
+                "1741769919": "72000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317371498_1_1739493332_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "320642306",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 마르지엘라 x 첸펭 다운 베스트",
+        "price_updates": [
+            {
+                "1741742223": "449000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320642306_1_1741180385_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "186189577",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6  maison margiela pants",
+        "price_updates": [
+            {
+                "1741692676": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/186189577_1_1719725896_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 03:12:44"
+    },
+    {
+        "pid": "311538918",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 마르지엘라 오버사이즈 자켓",
+        "price_updates": [
+            {
+                "1741735915": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311538918_1_1738560551_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "285640343",
@@ -269,23 +365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285640343_1_1738070009_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "295437686",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6 마르지엘라 오버사이즈 코트 40",
-        "price_updates": [
-            {
-                "1741412212": "375000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295437686_1_1740544061_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "278668545",
@@ -301,55 +381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278668545_1_1739977998_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "262168693",
-        "brands": [
-            "mm6"
-        ],
-        "name": "[34] 슈프림 x 마르지엘라 mm6 포일 더블니 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741419660": "490000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/262168693_1_1736847074_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "186189577",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6  maison margiela pants",
-        "price_updates": [
-            {
-                "1741179367": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/186189577_1_1719725896_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 14:51:51"
-    },
-    {
-        "pid": "307321408",
-        "brands": [
-            "mm6"
-        ],
-        "name": "마르지엘라 mm6 노스페이스 써클 후리스 M사이즈",
-        "price_updates": [
-            {
-                "1740823430": "600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307321408_1_1735026612_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "232302047",
@@ -365,7 +397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/232302047_1_1723554494_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "304722132",
@@ -381,7 +413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304722132_1_1733600234_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "296324601",
@@ -397,7 +429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296324601_1_1729779947_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:44"
     },
     {
         "pid": "281578600",
@@ -413,7 +445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281578600_1_1722234395_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "259541956",
@@ -429,7 +461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259541956_1_1722589992_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:51"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "309238352",
@@ -445,7 +477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309238352_1_1735732955_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "314347789",
@@ -461,7 +493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314347789_1_1738161378_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "314836854",
@@ -477,7 +509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314836854_1_1738402101_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "267089927",
@@ -487,13 +519,13 @@
         "name": "메종마르지엘라 mm6 패턴 바지 팬츠",
         "price_updates": [
             {
-                "1738243712": "105000"
+                "1738243714": "105000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/267089927_1_1716857648_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "312127443",
@@ -509,7 +541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312127443_1_1737103886_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "292694121",
@@ -525,7 +557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292694121_1_1733286752_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "270190419",
@@ -541,7 +573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270190419_1_1717758622_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "308009443",
@@ -557,7 +589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308009443_1_1737178465_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "259696998",
@@ -573,7 +605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259696998_1_1712743042_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "218609343",
@@ -589,7 +621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/218609343_1_1679321740_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "290482213",
@@ -605,7 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290482213_1_1741599707_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "287899115",
@@ -621,7 +653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287899115_1_1733741879_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "286281122",
@@ -637,7 +669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286281122_1_1729708043_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "281129134",
@@ -653,7 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281129134_1_1731649525_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "281129639",
@@ -669,7 +701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281129639_1_1731368932_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "165371162",
@@ -685,7 +717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/165371162_1_1651582167_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "259534500",
@@ -701,7 +733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259534500_1_1726148570_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "286155844",
@@ -717,7 +749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286155844_1_1724565853_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "241262049",
@@ -733,7 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241262049_1_1708748998_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "273489942",
@@ -749,7 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273489942_1_1727547178_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "230361643",
@@ -765,7 +797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230361643_1_1689951556_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "258453886",
@@ -781,7 +813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258453886_1_1711775548_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "263089287",
@@ -797,7 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263089287_1_1739975401_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "194266595",
@@ -813,7 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/194266595_1_1736652380_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "312291155",
@@ -829,7 +861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312291155_1_1738504890_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "310750710",
@@ -845,7 +877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310750710_1_1739183871_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "293340889",
@@ -861,7 +893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293340889_1_1740319590_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "317028770",
@@ -877,7 +909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317028770_1_1739339255_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "311745608",
@@ -893,7 +925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311745608_1_1736925401_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "306740266",
@@ -909,7 +941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306740266_1_1737039627_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "300346449",
@@ -925,7 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300346449_1_1733110353_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "300954526",
@@ -941,7 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300954526_1_1735294119_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     },
     {
         "pid": "307874033",
@@ -957,22 +989,6 @@
         "product_image": "https://media.bunjang.co.kr/product/307874033_1_1735024023_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:52"
-    },
-    {
-        "pid": "298244434",
-        "brands": [
-            "mm6"
-        ],
-        "name": "mm6 마르지엘라 집업 가디건",
-        "price_updates": [
-            {
-                "1733833375": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298244434_1_1733885849_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 14:51:52"
+        "collected_timestamp": "2025-03-16 03:12:45"
     }
 ]

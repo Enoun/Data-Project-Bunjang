@@ -1,0 +1,34 @@
+[
+    {
+        "pid": "309944584",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 컷아웃 슬래시 니트 M",
+        "price_updates": [
+            {
+                "1742098715": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309944584_1_1736070335_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:18"
+    },
+    {
+        "pid": "310535910",
+        "brands": [
+            "스테판쿡"
+        ],
+        "name": "스테판쿡 아가일 턴업 니트 L",
+        "price_updates": [
+            {
+                "1742054889": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310535910_1_1738607844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:18"
+    }
+]

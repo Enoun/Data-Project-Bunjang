@@ -72,7 +72,7 @@ for brand in brand_names.items():
         python_callable=compare_brand_data,
         op_kwargs={"brand": brand},
         dag=dag,
-        pool='merge_trigger_pool',
+        pool='merge_trigger_pool', # thred pool 이라고 생각하면 됨 동시에 몇개가 실행될건기 설정
     )
 
     trigger_merge_task = TriggerDagRunOperator(

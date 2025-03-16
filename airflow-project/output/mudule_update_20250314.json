@@ -1,0 +1,82 @@
+[
+    {
+        "pid": "319253980",
+        "brands": [
+            "mudule"
+        ],
+        "name": "머듈(mudule) 레더 자켓 초판",
+        "price_updates": [
+            {
+                "1741905386": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319253980_1_1740316775_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:08"
+    },
+    {
+        "pid": "317172067",
+        "brands": [
+            "mudule"
+        ],
+        "name": "머듈 mudule prototypee.pee.",
+        "price_updates": [
+            {
+                "1741910505": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317172067_1_1739767673_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-14 06:36:08"
+    },
+    {
+        "pid": "322617821",
+        "brands": [
+            "mudule"
+        ],
+        "name": "머듈 mudule 후드 v2 네이비",
+        "price_updates": [
+            {
+                "1741878897": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322617821_1_1741879093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:36:08"
+    },
+    {
+        "pid": "298199684",
+        "brands": [
+            "mudule"
+        ],
+        "name": "머듈 mudule L3 팬츠",
+        "price_updates": [
+            {
+                "1741867325": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298199684_1_1738681952_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:36:08"
+    },
+    {
+        "pid": "316995756",
+        "brands": [
+            "mudule"
+        ],
+        "name": "아이엘 머듈 aieul mudule impressed shirts L",
+        "price_updates": [
+            {
+                "1741860285": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316995756_1_1739327329_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:08"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "pid": "241433934",
+        "brands": [
+            "apc"
+        ],
+        "name": "사카이 apc 데님 자켓(xxs)",
+        "price_updates": [
+            {
+                "1742014209": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241433934_1_1733827139_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "267331611",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 청자켓 S사이즈",
+        "price_updates": [
+            {
+                "1742013216": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/267331611_1_1738899986_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "317037296",
+        "brands": [
+            "apc"
+        ],
+        "name": "칼하트 아페쎄 반팔 xl apc",
+        "price_updates": [
+            {
+                "1742012870": "12000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317037296_1_1739341895_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "321269562",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 아페쎄 뉴 스탠다드 연청 28",
+        "price_updates": [
+            {
+                "1741996491": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321269562_1_1741248659_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "321034990",
+        "brands": [
+            "apc"
+        ],
+        "name": "란스미어 apc 아페쎄 맨투맨 XL",
+        "price_updates": [
+            {
+                "1741991436": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321034990_1_1741162100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "309883577",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc레이몬드티셔츠",
+        "price_updates": [
+            {
+                "1741997026": "39000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309883577_1_1739640501_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "320010973",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 아페쎄 셔츠 (xxl)",
+        "price_updates": [
+            {
+                "1741973728": "43620"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320010973_1_1740660899_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "248020609",
+        "brands": [
+            "apc"
+        ],
+        "name": "쿨거래 네고. apc 아파쎄 누빔 간절기 자켓",
+        "price_updates": [
+            {
+                "1741997636": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248020609_1_1739702305_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "321162131",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 아페쎄 정품 비스콘티 코트",
+        "price_updates": [
+            {
+                "1741967694": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321162131_1_1741640209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "201629103",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 아페쎄 코트 판매",
+        "price_updates": [
+            {
+                "1741965914": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201629103_1_1673114377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "316646032",
+        "brands": [
+            "apc"
+        ],
+        "name": "아페쎄 apc 긴팔 네이비 L",
+        "price_updates": [
+            {
+                "1741972757": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316646032_1_1739676013_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "315608867",
+        "brands": [
+            "apc"
+        ],
+        "name": "아페쎄 apc 다운 패딩 블랙 xl",
+        "price_updates": [
+            {
+                "1741954325": "253000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315608867_1_1740497901_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "304977037",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc paris 아페쎄 후드집업 자켓",
+        "price_updates": [
+            {
+                "1741971780": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304977037_1_1734101051_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "195187673",
+        "brands": [
+            "apc"
+        ],
+        "name": "아페쎄 apc 쁘띠뉴스탠다드 셀비지 32",
+        "price_updates": [
+            {
+                "1741960047": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/195187673_1_1659379673_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "322717136",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 헤링본 울코트 M (100)",
+        "price_updates": [
+            {
+                "1741943611": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322717136_1_1741944202_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "322718284",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 양털카라 울코트 자켓",
+        "price_updates": [
+            {
+                "1741944025": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322718284_1_1741944100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "320586421",
+        "brands": [
+            "apc"
+        ],
+        "name": "베이프 apc 반팔 미사용L",
+        "price_updates": [
+            {
+                "1741951238": "93100"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320586421_1_1740905785_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "321036697",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc x 사카이 나일론 봄버 데님 블루종",
+        "price_updates": [
+            {
+                "1741966374": "319000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321036697_1_1741700415_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "199283467",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 린넨자켓",
+        "price_updates": [
+            {
+                "1741960812": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199283467_1_1708605795_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "176937845",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc (new standard) 29size",
+        "price_updates": [
+            {
+                "1741956492": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/176937845_1_1644230005_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "298260501",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 쁘띠스탠 셀비지 쁘띠뉴스탠 중청",
+        "price_updates": [
+            {
+                "1741954074": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298260501_1_1735301663_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "132785896",
+        "brands": [
+            "apc"
+        ],
+        "name": "아페세 apc 중청 gd 청자켓 m",
+        "price_updates": [
+            {
+                "1741964112": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/132785896_1_1624372515_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:11"
+    },
+    {
+        "pid": "319218934",
+        "brands": [
+            "apc"
+        ],
+        "name": "chapchap 챱챱 MA-1 그레이 2",
+        "price_updates": [
+            {
+                "1741996380": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319218934_1_1741996548_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:16"
+    },
+    {
+        "pid": "322789058",
+        "brands": [
+            "apc"
+        ],
+        "name": "apc 트러커자켓 블랙 m",
+        "price_updates": [
+            {
+                "1741968715": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322789058_1_1741968715_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:16"
+    },
+    {
+        "pid": "312981562",
+        "brands": [
+            "apc"
+        ],
+        "name": "[판매] 아페쎄 apc 중청진 29사이즈",
+        "price_updates": [
+            {
+                "1741858700": "39000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312981562_1_1738333281_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:16"
+    },
+    {
+        "pid": "316915484",
+        "brands": [
+            "apc"
+        ],
+        "name": "[32] apc 아페쎄 청바지",
+        "price_updates": [
+            {
+                "1739278206": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316915484_1_1739278206_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:16"
+    }
+]

@@ -1,5 +1,1253 @@
 [
     {
+        "pid": "312271410",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 후드집업 XL",
+        "price_updates": [
+            {
+                "1742091828": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312271410_1_1737177946_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "226878997",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "써저리 코스트퍼킬로 모터자켓 M",
+        "price_updates": [
+            {
+                "1742092657": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226878997_1_1741175570_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322879363",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모터자켓 xl",
+        "price_updates": [
+            {
+                "1742084789": "285000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322879363_1_1742020524_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "286349743",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 더티 스타 반팔",
+        "price_updates": [
+            {
+                "1742088963": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286349743_1_1738580393_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322783507",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[XL] 코스트퍼킬로 벨티드 카고팬츠 블랙",
+        "price_updates": [
+            {
+                "1742085883": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322783507_1_1741966377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "317159185",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 v3 자켓",
+        "price_updates": [
+            {
+                "1742086119": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317159185_1_1742086234_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "323010501",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 크랙 그래픽 자카드 앙고라 니트 그레이 M 팝니다",
+        "price_updates": [
+            {
+                "1742071283": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323010501_1_1742071283_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "209039800",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 블루종 차콜",
+        "price_updates": [
+            {
+                "1742062233": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/209039800_1_1727142875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "312067621",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 셔링 후디 차콜 L",
+        "price_updates": [
+            {
+                "1742061606": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312067621_1_1741922068_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322963357",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 블루종 자켓",
+        "price_updates": [
+            {
+                "1742045257": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322963357_1_1742045294_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322855703",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 후드티 라지사이즈",
+        "price_updates": [
+            {
+                "1742013698": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322855703_1_1742013698_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322927975",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 v3 모터 자켓",
+        "price_updates": [
+            {
+                "1742034926": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322927975_1_1742034926_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322267221",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 오버사이즈 자켓",
+        "price_updates": [
+            {
+                "1742026188": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322267221_1_1741699924_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322414160",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[L] 코스트퍼킬로 모터 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742013033": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322414160_1_1742013029_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322451383",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 더티 블리치드 그래피티 롱슬리브 블랙 XL",
+        "price_updates": [
+            {
+                "1742052998": "66000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322451383_1_1741870815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "241844080",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 바지",
+        "price_updates": [
+            {
+                "1742023698": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241844080_1_1734723217_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "212930596",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 팬츠 L사이즈",
+        "price_updates": [
+            {
+                "1742015625": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/212930596_1_1741793187_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "222634035",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[XL] 코스트퍼킬로 로고 롱슬리브",
+        "price_updates": [
+            {
+                "1742053088": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/222634035_1_1725334902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "278205413",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로(cost per kilo) star pannel 반팔팝니다",
+        "price_updates": [
+            {
+                "1742040059": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278205413_1_1724929367_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "315485742",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 Double Zip Hoodie",
+        "price_updates": [
+            {
+                "1742049869": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315485742_1_1740409668_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "316910374",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반팔 티셔츠(사이즈XL)",
+        "price_updates": [
+            {
+                "1742047370": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316910374_1_1740117641_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "316929135",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 나일론 트랙팬츠(사이즈XL)",
+        "price_updates": [
+            {
+                "1742047350": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316929135_1_1741834426_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "255894413",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[M]코스트퍼킬로 카고 팬츠 팝니다",
+        "price_updates": [
+            {
+                "1742028875": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255894413_1_1710157672_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "319986070",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 워싱 후드집업 m",
+        "price_updates": [
+            {
+                "1742012498": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319986070_1_1742012486_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "260303407",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 롱슬리브 긴팔티셔츠",
+        "price_updates": [
+            {
+                "1742034601": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260303407_1_1718873093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "316935457",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 플라이트 카고팬츠(사이즈XL)",
+        "price_updates": [
+            {
+                "1742047366": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316935457_1_1741002010_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "316939471",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 익스텐션 집코트(사이즈XL)",
+        "price_updates": [
+            {
+                "1742047374": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316939471_1_1739283844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "310481805",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "XL 코스트퍼킬로 더티 스타 티셔츠 그레이 반팔 새상품",
+        "price_updates": [
+            {
+                "1742012716": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310481805_1_1741171480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "306419151",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 더티스타 반탈 티셔츠 그레이 XL",
+        "price_updates": [
+            {
+                "1742052998": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306419151_1_1740716626_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322776070",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[XL] 코스트퍼킬로 오버다이드 집업 자켓",
+        "price_updates": [
+            {
+                "1742003477": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322776070_1_1742094900_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322684523",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 풀백데님 팬츠 XL",
+        "price_updates": [
+            {
+                "1741931906": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322684523_1_1741931906_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321266430",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 400 트러커 자켓",
+        "price_updates": [
+            {
+                "1741954778": "95580"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321266430_1_1741418738_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321260358",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 더블집 후디",
+        "price_updates": [
+            {
+                "1741954752": "142560"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321260358_1_1741245445_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322751768",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 오버다이드 스웻 집업 costperkillo",
+        "price_updates": [
+            {
+                "1741955845": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322751768_1_1741955867_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321175055",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[M]코스트퍼킬로 길플랩 마운틴 자켓",
+        "price_updates": [
+            {
+                "1741964747": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321175055_1_1741778115_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "286610787",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반바지",
+        "price_updates": [
+            {
+                "1741993502": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286610787_1_1727873029_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "314708109",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 롱슬리브",
+        "price_updates": [
+            {
+                "1741949932": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314708109_1_1738337063_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321160663",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[L]코스트퍼킬로 트리플 지퍼 코튼 후디 블루종 블랙",
+        "price_updates": [
+            {
+                "1741948041": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321160663_1_1741857974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "319568332",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 롱슬리브 L",
+        "price_updates": [
+            {
+                "1742007148": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319568332_1_1741405003_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "318023259",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 롱슬리브 티셔츠",
+        "price_updates": [
+            {
+                "1741945571": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318023259_1_1741316366_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "223658798",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모터자켓 l",
+        "price_updates": [
+            {
+                "1742008641": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223658798_1_1729947587_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "318317971",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모터자켓 XL",
+        "price_updates": [
+            {
+                "1741994340": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318317971_1_1741769170_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "307057296",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 후디집업 L",
+        "price_updates": [
+            {
+                "1741934278": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307057296_1_1736478460_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "285750610",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반팔티셔츠 (2종)",
+        "price_updates": [
+            {
+                "1742011876": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285750610_1_1732064853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "297031104",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 오버다이드 XL",
+        "price_updates": [
+            {
+                "1742010352": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297031104_1_1739538295_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "318953363",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "cost per kilo 코스트퍼킬로 모터자켓 그레이 L",
+        "price_updates": [
+            {
+                "1741963112": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318953363_1_1740196615_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "256961871",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 리버시블 양면 집업 자켓",
+        "price_updates": [
+            {
+                "1741949817": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256961871_1_1727017291_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322495486",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 풀백 베스트",
+        "price_updates": [
+            {
+                "1741916616": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322495486_1_1741835403_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "303860001",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 풀백 데님 팬츠 (L)",
+        "price_updates": [
+            {
+                "1741950117": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303860001_1_1733372722_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "302896342",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 v3 모터팬츠 m",
+        "price_updates": [
+            {
+                "1741944302": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302896342_1_1737466167_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322495171",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 레이어드컷 Tshirt - XL",
+        "price_updates": [
+            {
+                "1741916620": "28500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322495171_1_1741835279_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322584039",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모터자켓 블랙 S",
+        "price_updates": [
+            {
+                "1741867788": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322584039_1_1741867788_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321948740",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 더티봄버 L",
+        "price_updates": [
+            {
+                "1741924162": "121500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321948740_1_1741533054_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "284728163",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "판매) 코스트퍼킬로 파라트루퍼 셔츠 L",
+        "price_updates": [
+            {
+                "1741949175": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284728163_1_1738542872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "314793626",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[XL] 코스트퍼킬로 자카드 패디드 트러커 자켓 스카이블루",
+        "price_updates": [
+            {
+                "1741999073": "249900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314793626_1_1738390319_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322199086",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 유광 패딩 L. 정가 43만원",
+        "price_updates": [
+            {
+                "1741916625": "47500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322199086_1_1741700861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "275623918",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 롱슬리브 긴팔티 DIRTY BLEACHED STAIR",
+        "price_updates": [
+            {
+                "1741962509": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275623918_1_1741601983_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321062365",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모토 자켓 V3 L사이즈 판매",
+        "price_updates": [
+            {
+                "1741915994": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321062365_1_1741542296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "314084874",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모터자켓 xl",
+        "price_updates": [
+            {
+                "1741924168": "143640"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314084874_1_1741106570_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "286054928",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반바지 m 블랙",
+        "price_updates": [
+            {
+                "1741848713": "84000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286054928_1_1729330588_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "315840706",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모렐 트랙팬츠 L",
+        "price_updates": [
+            {
+                "1741842455": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315840706_1_1740591330_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322224559",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 트리플 집 봄버자켓 올리브",
+        "price_updates": [
+            {
+                "1741761676": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322224559_1_1741687370_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "314528551",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "새상품) 코스트퍼킬로 v4 모터 자켓 아이스그레이",
+        "price_updates": [
+            {
+                "1741861819": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314528551_1_1740823693_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "309494989",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "미개봉 새상품 [XL] 코스트퍼킬로 더티스타 반팔 블랙 판매",
+        "price_updates": [
+            {
+                "1741865024": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309494989_1_1735873312_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321864705",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "costperkilo 코스트퍼킬로 모터자켓 M",
+        "price_updates": [
+            {
+                "1741666771": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321864705_1_1741512899_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321091750",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 길플립 마운틴 파카 베이지XL",
+        "price_updates": [
+            {
+                "1741758476": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321091750_1_1741442507_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "264408559",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 가디건 라지",
+        "price_updates": [
+            {
+                "1741792763": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264408559_1_1739408171_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "322195291",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 v3 모터 자켓 블랙",
+        "price_updates": [
+            {
+                "1741687925": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322195291_1_1741677478_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "321827117",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 V4 MOTOR JACKET-BLACK L",
+        "price_updates": [
+            {
+                "1741706389": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321827117_1_1741934440_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "304687728",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "(구매)코스트퍼킬로 히든 카고팬츠",
+        "price_updates": [
+            {
+                "1741797679": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304687728_1_1740851572_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "316390916",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 트러퍼 봄버 자켓",
+        "price_updates": [
+            {
+                "1741806659": "84870"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316390916_1_1739078227_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "248429937",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 맨투맨 L",
+        "price_updates": [
+            {
+                "1741747289": "33250"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248429937_1_1730019644_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "294371693",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 라이트블루종 M",
+        "price_updates": [
+            {
+                "1741692846": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294371693_1_1728913147_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "259677107",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 L 사이즈 바지",
+        "price_updates": [
+            {
+                "1741692710": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259677107_1_1716257631_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "217146370",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반팔티셔츠 L",
+        "price_updates": [
+            {
+                "1741692710": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/217146370_1_1716257668_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "311667348",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 오버다이드 S",
+        "price_updates": [
+            {
+                "1741750922": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311667348_1_1740218541_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "299296924",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 molle track pants",
+        "price_updates": [
+            {
+                "1741740337": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299296924_1_1741162171_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "286411482",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[M] 코스트퍼킬로 shoot out tee",
+        "price_updates": [
+            {
+                "1741716306": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286411482_1_1724692219_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
         "pid": "296784430",
         "brands": [
             "코스트퍼킬로"
@@ -13,151 +1261,23 @@
         "product_image": "https://media.bunjang.co.kr/product/296784430_1_1730002331_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
-        "pid": "322083683",
+        "pid": "306019059",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 모터자켓",
+        "name": "코스트퍼킬로 맨투맨 xl",
         "price_updates": [
             {
-                "1741609724": "70000"
+                "1741634399": "35000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322083683_1_1741609949_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/306019059_1_1741024784_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "322074537",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모터자켓",
-        "price_updates": [
-            {
-                "1741606922": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322074537_1_1741607008_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321655696",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[L] 코스트퍼킬로 후드집업",
-        "price_updates": [
-            {
-                "1741602394": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321655696_1_1741428878_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "256961871",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 리버시블 양면 집업 자켓",
-        "price_updates": [
-            {
-                "1741605697": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/256961871_1_1727017291_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "226878997",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "써저리 코스트퍼킬로 모터자켓 M",
-        "price_updates": [
-            {
-                "1741601542": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/226878997_1_1741175570_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "255894413",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[M]코스트퍼킬로 카고 팬츠 팝니다",
-        "price_updates": [
-            {
-                "1741597590": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255894413_1_1710157672_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321864705",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "costperkilo 코스트퍼킬로 모터자켓 M",
-        "price_updates": [
-            {
-                "1741579069": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321864705_1_1741512899_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "319568332",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 롱슬리브 L",
-        "price_updates": [
-            {
-                "1741588162": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319568332_1_1741405003_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "320107995",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 풀백데님 팬츠 인디고 베이지 (xl) 새제품",
-        "price_updates": [
-            {
-                "1741587508": "90250"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320107995_1_1740724845_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
         "pid": "319080913",
@@ -173,135 +1293,23 @@
         "product_image": "https://media.bunjang.co.kr/product/319080913_1_1740235897_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
-        "pid": "304503690",
+        "pid": "245145548",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 모터자켓 v4",
+        "name": "[새상품 ] 코스트퍼킬로  23s 남성 오버핏 후디 데님 코트",
         "price_updates": [
             {
-                "1741577812": "140000"
+                "1741623352": "270000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304503690_1_1741597845_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/245145548_1_1729662368_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "318317971",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모터자켓 XL",
-        "price_updates": [
-            {
-                "1741576581": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318317971_1_1740975838_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "316929135",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 나일론 트랙팬츠(사이즈XL)",
-        "price_updates": [
-            {
-                "1741578032": "95000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316929135_1_1740117569_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "318953363",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "cost per kilo 코스트퍼킬로 모터자켓 그레이 L",
-        "price_updates": [
-            {
-                "1741581336": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318953363_1_1740196615_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "316910374",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반팔 티셔츠(사이즈XL)",
-        "price_updates": [
-            {
-                "1741578010": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316910374_1_1740117641_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "312067621",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 셔링 후디 차콜 L",
-        "price_updates": [
-            {
-                "1741576224": "75000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312067621_1_1737098203_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "316935457",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 플라이트 카고팬츠(사이즈XL)",
-        "price_updates": [
-            {
-                "1741578014": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316935457_1_1741002010_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "316939471",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 익스텐션 집코트(사이즈XL)",
-        "price_updates": [
-            {
-                "1741578002": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316939471_1_1739283844_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
         "pid": "315655186",
@@ -317,359 +1325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315655186_1_1738748839_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "275623918",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 롱슬리브 긴팔티 DIRTY BLEACHED STAIR",
-        "price_updates": [
-            {
-                "1741573519": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/275623918_1_1741601983_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321948740",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 더티봄버 L",
-        "price_updates": [
-            {
-                "1741533059": "135000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321948740_1_1741533054_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321355531",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모터 자켓",
-        "price_updates": [
-            {
-                "1741558771": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321355531_1_1741279225_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321175055",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[M]코스트퍼킬로 길플랩 마운틴 자켓",
-        "price_updates": [
-            {
-                "1741532423": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321175055_1_1741532472_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321062365",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모토 자켓 V3 L사이즈 판매",
-        "price_updates": [
-            {
-                "1741542318": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321062365_1_1741542296_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "314084874",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모터자켓 xl",
-        "price_updates": [
-            {
-                "1741532577": "143640"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314084874_1_1741106570_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "286349743",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 더티 스타 반팔",
-        "price_updates": [
-            {
-                "1741537162": "35000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286349743_1_1738580393_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "315840706",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모렐 트랙팬츠 L",
-        "price_updates": [
-            {
-                "1741528689": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315840706_1_1740591330_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "259677107",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 L 사이즈 바지",
-        "price_updates": [
-            {
-                "1741536956": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259677107_1_1716257631_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "217146370",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반팔티셔츠 L",
-        "price_updates": [
-            {
-                "1741536956": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/217146370_1_1716257668_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "315485742",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 Double Zip Hoodie",
-        "price_updates": [
-            {
-                "1741532813": "185000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315485742_1_1740409668_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "303860001",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 풀백 데님 팬츠 (L)",
-        "price_updates": [
-            {
-                "1741571111": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303860001_1_1733372722_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "319262197",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[S]코스트퍼킬로 플랩 카고팬츠 차콜",
-        "price_updates": [
-            {
-                "1741562055": "115000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319262197_1_1741095659_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "260303407",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 롱슬리브 긴팔티셔츠",
-        "price_updates": [
-            {
-                "1741529255": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/260303407_1_1718873093_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "314528551",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "새상품) 코스트퍼킬로 v4 모터 자켓 아이스그레이",
-        "price_updates": [
-            {
-                "1741564540": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314528551_1_1740823693_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "306419151",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 더티스타 반탈 티셔츠 그레이 XL",
-        "price_updates": [
-            {
-                "1741532565": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306419151_1_1740716626_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321091750",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 길플립 마운틴 파카 베이지XL",
-        "price_updates": [
-            {
-                "1741489261": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321091750_1_1741442507_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321761307",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 자켓 오버다이드 집업 XL",
-        "price_updates": [
-            {
-                "1741482729": "229000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321761307_1_1741482729_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321827117",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 V4 MOTOR JACKET-BLACK L",
-        "price_updates": [
-            {
-                "1741503555": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321827117_1_1741503555_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "320344983",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "XL) 코스트퍼킬로 부츠컷 데님",
-        "price_updates": [
-            {
-                "1741453699": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320344983_1_1740814944_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "319986070",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 워싱 후드집업 m",
-        "price_updates": [
-            {
-                "1741466493": "97200"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319986070_1_1740711689_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "317159185",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 v3 자켓",
-        "price_updates": [
-            {
-                "1741520488": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317159185_1_1740933152_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
         "pid": "219469115",
@@ -685,503 +1341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219469115_1_1681470647_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "212930596",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 팬츠 L사이즈",
-        "price_updates": [
-            {
-                "1741445972": "135000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/212930596_1_1712573749_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "222634035",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[XL] 코스트퍼킬로 로고 롱슬리브",
-        "price_updates": [
-            {
-                "1741476873": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/222634035_1_1725334902_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "312777186",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 스플릿 블루종 L",
-        "price_updates": [
-            {
-                "1741499382": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312777186_1_1741404701_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "214973239",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 바시티자켓 xl",
-        "price_updates": [
-            {
-                "1741489102": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/214973239_1_1702033758_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "285750610",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반팔티셔츠 (2종)",
-        "price_updates": [
-            {
-                "1741509075": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/285750610_1_1732064853_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "316390916",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 트러퍼 봄버 자켓",
-        "price_updates": [
-            {
-                "1741489248": "89340"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316390916_1_1739078227_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321266430",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 400 트러커 자켓",
-        "price_updates": [
-            {
-                "1741418752": "118000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321266430_1_1741418738_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "306960495",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[XL] 코스트퍼킬로 페인터 팬츠 스노우 블루",
-        "price_updates": [
-            {
-                "1741446307": "199900"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306960495_1_1734596473_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "302896342",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 v3 모터팬츠 m",
-        "price_updates": [
-            {
-                "1741506523": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302896342_1_1737466167_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "308756826",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 풀백 데님 블랙 L",
-        "price_updates": [
-            {
-                "1741450407": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308756826_1_1740402234_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "296531833",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 풀백 데님 팬츠 s사이즈",
-        "price_updates": [
-            {
-                "1741526016": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296531833_1_1732218231_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321260358",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 더블집 후디",
-        "price_updates": [
-            {
-                "1741418775": "198000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321260358_1_1741245445_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "320823724",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 오버다이드 (L)",
-        "price_updates": [
-            {
-                "1741423355": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320823724_1_1741004417_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "298565811",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반팔",
-        "price_updates": [
-            {
-                "1741424456": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298565811_1_1733464652_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "210312831",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 팬츠 XL",
-        "price_updates": [
-            {
-                "1741409006": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/210312831_1_1705184042_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "307057296",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 후디집업 L",
-        "price_updates": [
-            {
-                "1741425398": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307057296_1_1736478460_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "286054928",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반바지 m 블랙",
-        "price_updates": [
-            {
-                "1741391154": "84000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286054928_1_1729330588_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "299296924",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 molle track pants",
-        "price_updates": [
-            {
-                "1741438504": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299296924_1_1741162171_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "300710305",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 트리플지퍼 자켓 XL",
-        "price_updates": [
-            {
-                "1741361532": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300710305_1_1733074272_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "265044298",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[XL] 코스트퍼킬로 더티 스타 티셔츠 블랙 반팔",
-        "price_updates": [
-            {
-                "1741418034": "53000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/265044298_1_1719584031_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "318023259",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 롱슬리브 티셔츠",
-        "price_updates": [
-            {
-                "1741316384": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318023259_1_1741316366_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "285033604",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 더티 스타 티셔츠 블랙",
-        "price_updates": [
-            {
-                "1741330903": "45000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/285033604_1_1723900919_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "311667348",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 오버다이드 S",
-        "price_updates": [
-            {
-                "1741308355": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311667348_1_1740218541_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "314623858",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "cost per kilo 코스트퍼킬로 풀백데님 블랙 xl 팝니다@@",
-        "price_updates": [
-            {
-                "1741317159": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314623858_1_1738456411_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "284728163",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "판매) 코스트퍼킬로 파라트루퍼 셔츠 L",
-        "price_updates": [
-            {
-                "1741351269": "89000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/284728163_1_1738542872_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "320874179",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 데님 후드코트 L",
-        "price_updates": [
-            {
-                "1741131232": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320874179_1_1741034904_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "297031104",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 오버다이드 XL",
-        "price_updates": [
-            {
-                "1741261408": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297031104_1_1739538295_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "239233899",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 카고팬츠 다크블루 XL",
-        "price_updates": [
-            {
-                "1741250047": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/239233899_1_1710930030_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "321160663",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[L]코스트퍼킬로 트리플 지퍼 코튼 후디 블루종 블랙",
-        "price_updates": [
-            {
-                "1741180655": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321160663_1_1741180655_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "276887938",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "L) 코스트퍼킬로 풀백 데님 쇼츠",
-        "price_updates": [
-            {
-                "1741226885": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/276887938_1_1733042560_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "264408559",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 가디건 라지",
-        "price_updates": [
-            {
-                "1741167638": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/264408559_1_1739408171_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
         "pid": "320921855",
@@ -1197,87 +1357,71 @@
         "product_image": "https://media.bunjang.co.kr/product/320921855_1_1741068013_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:37"
     },
     {
-        "pid": "304687728",
+        "pid": "320874179",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "(구매)코스트퍼킬로 히든 카고팬츠",
+        "name": "코스트퍼킬로 데님 후드코트 L",
         "price_updates": [
             {
-                "1741174602": "200000"
+                "1741131232": "80000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304687728_1_1740851572_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320874179_1_1741034904_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 04:15:37"
+    },
+    {
+        "pid": "296531833",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 풀백 데님 팬츠 s사이즈",
+        "price_updates": [
+            {
+                "1741526016": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296531833_1_1732218231_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "298565811",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반팔",
+        "price_updates": [
+            {
+                "1741424456": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298565811_1_1733464652_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "210312831",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 팬츠 XL",
+        "price_updates": [
+            {
+                "1741409006": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210312831_1_1705184042_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "306019059",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 맨투맨 xl",
-        "price_updates": [
-            {
-                "1741024757": "35000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306019059_1_1741024784_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "279752768",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 아우터",
-        "price_updates": [
-            {
-                "1741068731": "199000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/279752768_1_1731761296_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "282897124",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 라이트 블루종 자켓 (L)",
-        "price_updates": [
-            {
-                "1741015539": "135000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282897124_1_1728063183_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "250185243",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 하운드 재킷 미착용",
-        "price_updates": [
-            {
-                "1741072245": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/250185243_1_1707809697_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "320597588",
@@ -1293,55 +1437,87 @@
         "product_image": "https://media.bunjang.co.kr/product/320597588_1_1741332970_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "320389745",
+        "pid": "214973239",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "[새상품/L] 코스트퍼킬로 핀치 크루넥 맨투맨",
+        "name": "코스트퍼킬로 바시티자켓 xl",
         "price_updates": [
             {
-                "1740826954": "75000"
+                "1741489102": "220000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320389745_1_1740826954_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "309986377",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 벨티드 카고 팬츠 다크 블루 XL",
-        "price_updates": [
-            {
-                "1741093615": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309986377_1_1737616549_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "209039800",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 블루종 차콜",
-        "price_updates": [
-            {
-                "1741001323": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/209039800_1_1727142875_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/214973239_1_1702033758_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "279752768",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 아우터",
+        "price_updates": [
+            {
+                "1741068731": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279752768_1_1731761296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "300710305",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 트리플지퍼 자켓 XL",
+        "price_updates": [
+            {
+                "1741361532": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300710305_1_1733074272_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "285033604",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 더티 스타 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741330903": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285033604_1_1723900919_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "306960495",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[XL] 코스트퍼킬로 페인터 팬츠 스노우 블루",
+        "price_updates": [
+            {
+                "1741446307": "199900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306960495_1_1734596473_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "297324925",
@@ -1357,23 +1533,23 @@
         "product_image": "https://media.bunjang.co.kr/product/297324925_1_1740761452_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "312271410",
+        "pid": "282897124",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 후드집업 XL",
+        "name": "코스트퍼킬로 라이트 블루종 자켓 (L)",
         "price_updates": [
             {
-                "1740921562": "170000"
+                "1741015539": "135000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/312271410_1_1737177946_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/282897124_1_1728063183_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "258346089",
@@ -1389,7 +1565,55 @@
         "product_image": "https://media.bunjang.co.kr/product/258346089_1_1740980650_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "314623858",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "cost per kilo 코스트퍼킬로 풀백데님 블랙 xl 팝니다@@",
+        "price_updates": [
+            {
+                "1741317159": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314623858_1_1738456411_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "239233899",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 카고팬츠 다크블루 XL",
+        "price_updates": [
+            {
+                "1741250047": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239233899_1_1710930030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "250185243",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 하운드 재킷 미착용",
+        "price_updates": [
+            {
+                "1741072245": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250185243_1_1707809697_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "287357999",
@@ -1405,23 +1629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287357999_1_1725194091_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "241844080",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 바지",
-        "price_updates": [
-            {
-                "1740542558": "95000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/241844080_1_1734723217_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "302288989",
@@ -1437,39 +1645,23 @@
         "product_image": "https://media.bunjang.co.kr/product/302288989_1_1736168522_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "301003163",
+        "pid": "276887938",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 나일론 후디드 트랙자켓",
+        "name": "L) 코스트퍼킬로 풀백 데님 쇼츠",
         "price_updates": [
             {
-                "1740887478": "80000"
+                "1741226885": "140000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/301003163_1_1732861431_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/276887938_1_1733042560_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "302629941",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[M] 코스트퍼킬로 브라운 롱슬리브",
-        "price_updates": [
-            {
-                "1740716305": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302629941_1_1732616171_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "201316723",
@@ -1485,23 +1677,23 @@
         "product_image": "https://media.bunjang.co.kr/product/201316723_1_1703327306_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "314708109",
+        "pid": "302629941",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 롱슬리브",
+        "name": "[M] 코스트퍼킬로 브라운 롱슬리브",
         "price_updates": [
             {
-                "1740241287": "55000"
+                "1740716305": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314708109_1_1738337063_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/302629941_1_1732616171_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "310280195",
@@ -1517,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310280195_1_1739165850_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "302333903",
@@ -1533,7 +1725,23 @@
         "product_image": "https://media.bunjang.co.kr/product/302333903_1_1732469919_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "320389745",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "[새상품/L] 코스트퍼킬로 핀치 크루넥 맨투맨",
+        "price_updates": [
+            {
+                "1740826954": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320389745_1_1740826954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "305834038",
@@ -1549,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305834038_1_1734082501_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "255263532",
@@ -1565,7 +1773,23 @@
         "product_image": "https://media.bunjang.co.kr/product/255263532_1_1709311693_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "309986377",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 벨티드 카고 팬츠 다크 블루 XL",
+        "price_updates": [
+            {
+                "1741093615": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309986377_1_1737616549_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "312199499",
@@ -1581,23 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312199499_1_1739904507_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "309999384",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "(가격조정가능)코스트퍼킬로 레이서 자켓 l 팝니다",
-        "price_updates": [
-            {
-                "1740526746": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309999384_1_1736147683_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "282085936",
@@ -1613,23 +1821,23 @@
         "product_image": "https://media.bunjang.co.kr/product/282085936_1_1730437271_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "221276891",
+        "pid": "309999384",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 자카드 트러커 자켓",
+        "name": "(가격조정가능)코스트퍼킬로 레이서 자켓 l 팝니다",
         "price_updates": [
             {
-                "1739849775": "100000"
+                "1740526746": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/221276891_1_1734578973_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/309999384_1_1736147683_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "241126821",
@@ -1645,7 +1853,23 @@
         "product_image": "https://media.bunjang.co.kr/product/241126821_1_1723949070_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "221276891",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 자카드 트러커 자켓",
+        "price_updates": [
+            {
+                "1739849775": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221276891_1_1734578973_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "294836353",
@@ -1661,7 +1885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294836353_1_1740474781_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "318113156",
@@ -1677,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318113156_1_1739798231_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "257845457",
@@ -1693,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257845457_1_1730243802_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "310461815",
@@ -1709,23 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310461815_1_1736326228_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "248429937",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 맨투맨 L",
-        "price_updates": [
-            {
-                "1739208935": "33250"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/248429937_1_1730019644_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "294103566",
@@ -1741,23 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294103566_1_1728981011_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "209574704",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "cost per kilo 코스트퍼킬로 마운틴 자켓 xl",
-        "price_updates": [
-            {
-                "1739461450": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/209574704_1_1673227571_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "317077720",
@@ -1773,23 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317077720_1_1739354051_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "286411482",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[M] 코스트퍼킬로 shoot out tee",
-        "price_updates": [
-            {
-                "1739467105": "35000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286411482_1_1724692219_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "291737807",
@@ -1805,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291737807_1_1727770790_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "240926242",
@@ -1821,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240926242_1_1698476538_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "248961984",
@@ -1837,39 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248961984_1_1704759725_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "278205413",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로(cost per kilo) star pannel 반팔팝니다",
-        "price_updates": [
-            {
-                "1739189257": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/278205413_1_1724929367_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "314855524",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 바이커 모터자켓 베이지",
-        "price_updates": [
-            {
-                "1739169862": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314855524_1_1738407542_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "318034850",
@@ -1885,23 +2029,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318034850_1_1740590614_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "314793626",
+        "pid": "314855524",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "[XL] 코스트퍼킬로 자카드 패디드 트러커 자켓 스카이블루",
+        "name": "코스트퍼킬로 바이커 모터자켓 베이지",
         "price_updates": [
             {
-                "1739631926": "249900"
+                "1739169862": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314793626_1_1738390319_w{res}.jpg",
-        "status": "0",
+        "product_image": "https://media.bunjang.co.kr/product/314855524_1_1738407542_w{res}.jpg",
+        "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "315063347",
@@ -1917,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315063347_1_1738492463_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "248829255",
@@ -1933,23 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248829255_1_1706546480_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "303717709",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[XL] 코스트퍼킬로 V3 데님 모터 자켓 애시드 그레이",
-        "price_updates": [
-            {
-                "1738941022": "299900"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303717709_1_1733117355_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "289808038",
@@ -1965,23 +2093,23 @@
         "product_image": "https://media.bunjang.co.kr/product/289808038_1_1729431769_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "315426838",
+        "pid": "303717709",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "새상품) 코스트퍼킬로 M65 필드 자켓 블랙 L",
+        "name": "[XL] 코스트퍼킬로 V3 데님 모터 자켓 애시드 그레이",
         "price_updates": [
             {
-                "1738653154": "220000"
+                "1738941022": "299900"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315426838_1_1738653211_w{res}.jpg",
-        "status": "1",
+        "product_image": "https://media.bunjang.co.kr/product/303717709_1_1733117355_w{res}.jpg",
+        "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "313375571",
@@ -1997,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313375571_1_1737692772_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "307808205",
@@ -2013,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307808205_1_1736067324_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "297271952",
@@ -2029,23 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297271952_1_1730204166_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "245145548",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "[새상품 ] 코스트퍼킬로  23s 남성 오버핏 후디 데님 코트",
-        "price_updates": [
-            {
-                "1738163994": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245145548_1_1729662368_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "302112164",
@@ -2061,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302112164_1_1732378456_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "206032802",
@@ -2077,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/206032802_1_1668957190_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "279188464",
@@ -2093,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279188464_1_1720808226_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "302631841",
@@ -2109,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302631841_1_1740407062_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "298262051",
@@ -2125,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298262051_1_1735014294_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "309279779",
@@ -2141,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309279779_1_1736958043_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "310301653",
@@ -2157,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310301653_1_1736245532_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "310189653",
@@ -2173,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310189653_1_1736379151_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "242196893",
@@ -2189,23 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242196893_1_1736848802_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "223658798",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 모터자켓 l",
-        "price_updates": [
-            {
-                "1735293749": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/223658798_1_1729947587_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "278064327",
@@ -2215,13 +2311,13 @@
         "name": "코스트퍼킬로 반팔 타이포 그래픽 티셔츠 라이트 그레이 S",
         "price_updates": [
             {
-                "1735798559": "25000"
+                "1735798558": "25000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/278064327_1_1734448051_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "291953894",
@@ -2237,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291953894_1_1731864148_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "287467711",
@@ -2253,23 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287467711_1_1733360443_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "309494989",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "미개봉 새상품 [XL] 코스트퍼킬로 더티스타 반팔 블랙 판매",
-        "price_updates": [
-            {
-                "1735872495": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309494989_1_1735873312_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "308773484",
@@ -2285,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308773484_1_1735479654_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "299129770",
@@ -2301,23 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299129770_1_1731057507_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "306481127",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 v4 모터자켓 아이스그레이 M",
-        "price_updates": [
-            {
-                "1735116530": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306481127_1_1734357762_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "300936825",
@@ -2333,7 +2397,23 @@
         "product_image": "https://media.bunjang.co.kr/product/300936825_1_1732355566_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "306481127",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 v4 모터자켓 아이스그레이 M",
+        "price_updates": [
+            {
+                "1735116530": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306481127_1_1734357762_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "306341496",
@@ -2349,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306341496_1_1739755312_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "294405322",
@@ -2365,23 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294405322_1_1733983206_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "294371693",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 라이트블루종 M",
-        "price_updates": [
-            {
-                "1734068792": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294371693_1_1728913147_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "298685449",
@@ -2397,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298685449_1_1732455825_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "304471803",
@@ -2413,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304471803_1_1734142935_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "283772891",
@@ -2429,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283772891_1_1732100801_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "294776142",
@@ -2445,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294776142_1_1731136359_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "247486406",
@@ -2461,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247486406_1_1721028356_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "261299251",
@@ -2477,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261299251_1_1731287494_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "302688338",
@@ -2493,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302688338_1_1735814190_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "261296152",
@@ -2509,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261296152_1_1727249702_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "293161282",
@@ -2525,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293161282_1_1732793563_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "251416535",
@@ -2541,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251416535_1_1708787556_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "293610599",
@@ -2557,23 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293610599_1_1734007726_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "250620928",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 스키팬츠",
-        "price_updates": [
-            {
-                "1731598939": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/250620928_1_1707889185_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "299642070",
@@ -2589,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299642070_1_1733646700_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "270087323",
@@ -2605,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270087323_1_1717735822_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "207141240",
@@ -2621,23 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/207141240_1_1699933011_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "299993343",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 Cost per Kilo - TRACK SUIT TOP(L)",
-        "price_updates": [
-            {
-                "1731419132": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299993343_1_1736150138_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "299345044",
@@ -2653,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299345044_1_1731149615_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "299716804",
@@ -2669,7 +2701,23 @@
         "product_image": "https://media.bunjang.co.kr/product/299716804_1_1731307725_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "299993343",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 Cost per Kilo - TRACK SUIT TOP(L)",
+        "price_updates": [
+            {
+                "1731419132": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299993343_1_1736150138_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "291234952",
@@ -2685,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291234952_1_1727353292_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "296977017",
@@ -2701,23 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296977017_1_1730079662_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "286610787",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반바지",
-        "price_updates": [
-            {
-                "1730794111": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286610787_1_1727873029_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "298994380",
@@ -2733,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298994380_1_1731249819_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "282311343",
@@ -2749,23 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282311343_1_1731503907_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "298337010",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 패디드 셔츠 M 자켓 블랙",
-        "price_updates": [
-            {
-                "1730699838": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298337010_1_1730699858_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "214474242",
@@ -2781,7 +2797,23 @@
         "product_image": "https://media.bunjang.co.kr/product/214474242_1_1730128741_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "298337010",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 패디드 셔츠 M 자켓 블랙",
+        "price_updates": [
+            {
+                "1730699838": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298337010_1_1730699858_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "296425959",
@@ -2797,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296425959_1_1729842288_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "248856437",
@@ -2813,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248856437_1_1732189828_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "295792474",
@@ -2829,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295792474_1_1729551467_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "291567770",
@@ -2845,23 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291567770_1_1728798641_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "288676430",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 자켓",
-        "price_updates": [
-            {
-                "1728464475": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288676430_1_1727203928_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "295874947",
@@ -2877,7 +2893,23 @@
         "product_image": "https://media.bunjang.co.kr/product/295874947_1_1730071214_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "288676430",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 자켓",
+        "price_updates": [
+            {
+                "1728464475": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288676430_1_1727203928_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "262695855",
@@ -2893,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262695855_1_1727535225_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "260280860",
@@ -2909,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260280860_1_1727374721_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "277844838",
@@ -2925,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277844838_1_1726650276_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "289371328",
@@ -2941,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289371328_1_1726321025_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "208425468",
@@ -2957,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/208425468_1_1696740332_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "288642939",
@@ -2973,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288642939_1_1726240675_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "256169545",
@@ -2989,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256169545_1_1723773573_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "285171379",
@@ -3005,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285171379_1_1723980210_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "260640835",
@@ -3021,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260640835_1_1718045492_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "235868614",
@@ -3037,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235868614_1_1694271929_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "271210649",
@@ -3053,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271210649_1_1722047324_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "274783898",
@@ -3069,23 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274783898_1_1720004248_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "200409953",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 맨투맨 XL",
-        "price_updates": [
-            {
-                "1721279395": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/200409953_1_1664198232_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "280602488",
@@ -3101,7 +3117,23 @@
         "product_image": "https://media.bunjang.co.kr/product/280602488_1_1729755813_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "200409953",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 맨투맨 XL",
+        "price_updates": [
+            {
+                "1721279395": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200409953_1_1664198232_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "231102840",
@@ -3117,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231102840_1_1708703808_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "244901474",
@@ -3133,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244901474_1_1721500670_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "236853368",
@@ -3149,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236853368_1_1721352848_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "279313638",
@@ -3165,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279313638_1_1720860005_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "277897455",
@@ -3181,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277897455_1_1741407001_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "239577314",
@@ -3197,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239577314_1_1706131732_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "244181435",
@@ -3213,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244181435_1_1733169958_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "265213483",
@@ -3229,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/265213483_1_1716564938_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "264361362",
@@ -3245,23 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264361362_1_1716434381_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
-    },
-    {
-        "pid": "224479417",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 반팔티 L",
-        "price_updates": [
-            {
-                "1714252303": "45000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/224479417_1_1684425177_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "262251439",
@@ -3277,7 +3293,23 @@
         "product_image": "https://media.bunjang.co.kr/product/262251439_1_1714747097_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "224479417",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반팔티 L",
+        "price_updates": [
+            {
+                "1714252303": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224479417_1_1684425177_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "226054172",
@@ -3293,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226054172_1_1712358888_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "244399661",
@@ -3309,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244399661_1_1701087562_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "240998083",
@@ -3325,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240998083_1_1698541931_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "246626727",
@@ -3341,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246626727_1_1706806568_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "257131275",
@@ -3357,23 +3389,87 @@
         "product_image": "https://media.bunjang.co.kr/product/257131275_1_1710752112_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
-        "pid": "318337850",
+        "pid": "321655696",
         "brands": [
             "코스트퍼킬로"
         ],
-        "name": "코스트퍼킬로 반팔",
+        "name": "[L] 코스트퍼킬로 후드집업",
         "price_updates": [
             {
-                "1741250757": "25000"
+                "1741948105": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318337850_1_1739893062_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/321655696_1_1741942481_w{res}.jpg",
         "status": "3",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:46"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "320823724",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 오버다이드 (L)",
+        "price_updates": [
+            {
+                "1741791108": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320823724_1_1741004417_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "321355531",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 모터 자켓",
+        "price_updates": [
+            {
+                "1741731901": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321355531_1_1741279225_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "320107995",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 풀백데님 팬츠 인디고 베이지 (xl) 새제품",
+        "price_updates": [
+            {
+                "1741665174": "47000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320107995_1_1741748538_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "321761307",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 자켓 오버다이드 집업 XL",
+        "price_updates": [
+            {
+                "1741482729": "229000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321761307_1_1741482729_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "320743004",
@@ -3389,7 +3485,23 @@
         "product_image": "https://media.bunjang.co.kr/product/320743004_1_1740980721_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "318337850",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 반팔",
+        "price_updates": [
+            {
+                "1741250757": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318337850_1_1739893062_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "317156322",
@@ -3405,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317156322_1_1739378692_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "316174818",
@@ -3421,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316174818_1_1741087494_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "315862701",
@@ -3437,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315862701_1_1740998325_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "304476328",
@@ -3453,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304476328_1_1741106325_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "317157443",
@@ -3469,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317157443_1_1740749712_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "316926327",
@@ -3485,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316926327_1_1740665127_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "297851218",
@@ -3501,7 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297851218_1_1735112881_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "306972446",
@@ -3517,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306972446_1_1740369021_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "312764857",
@@ -3533,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312764857_1_1739615548_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "315175688",
@@ -3549,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315175688_1_1738546934_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "318592893",
@@ -3565,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318592893_1_1740025864_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "315893610",
@@ -3581,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315893610_1_1738848191_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "313105844",
@@ -3597,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313105844_1_1738896208_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "286626799",
@@ -3613,23 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286626799_1_1737258885_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:47"
-    },
-    {
-        "pid": "294746389",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 데님코트",
-        "price_updates": [
-            {
-                "1737787833": "119000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294746389_1_1736098637_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "313384106",
@@ -3645,7 +3741,23 @@
         "product_image": "https://media.bunjang.co.kr/product/313384106_1_1737696088_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "294746389",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 데님코트",
+        "price_updates": [
+            {
+                "1737787833": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294746389_1_1736098637_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "303063984",
@@ -3661,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303063984_1_1737543924_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "290736924",
@@ -3677,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290736924_1_1738303431_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "312928143",
@@ -3693,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312928143_1_1737466092_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "260624091",
@@ -3709,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260624091_1_1736926548_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "311225573",
@@ -3725,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311225573_1_1736735805_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "303632191",
@@ -3741,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303632191_1_1737547473_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "311454353",
@@ -3757,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311454353_1_1736774830_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "305701482",
@@ -3773,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305701482_1_1734009332_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "310643414",
@@ -3789,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310643414_1_1736413226_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "304446466",
@@ -3799,29 +3911,13 @@
         "name": "코스트퍼킬로 롱슬리브",
         "price_updates": [
             {
-                "1735475810": "15000"
+                "1735475809": "15000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/304446466_1_1735475801_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 13:39:47"
-    },
-    {
-        "pid": "306883817",
-        "brands": [
-            "코스트퍼킬로"
-        ],
-        "name": "코스트퍼킬로 자켓 l",
-        "price_updates": [
-            {
-                "1734910371": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306883817_1_1735074014_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "305647734",
@@ -3837,7 +3933,23 @@
         "product_image": "https://media.bunjang.co.kr/product/305647734_1_1735463365_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
+    },
+    {
+        "pid": "306883817",
+        "brands": [
+            "코스트퍼킬로"
+        ],
+        "name": "코스트퍼킬로 자켓 l",
+        "price_updates": [
+            {
+                "1734910371": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306883817_1_1735074014_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "306115042",
@@ -3853,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306115042_1_1734461028_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "307137383",
@@ -3869,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307137383_1_1734683245_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "255131283",
@@ -3885,7 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255131283_1_1734327564_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "295858578",
@@ -3901,7 +4013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295858578_1_1734758307_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     },
     {
         "pid": "200191266",
@@ -3917,6 +4029,6 @@
         "product_image": "https://media.bunjang.co.kr/product/200191266_1_1741067956_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:47"
+        "collected_timestamp": "2025-03-16 04:15:38"
     }
 ]

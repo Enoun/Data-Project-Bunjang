@@ -1,0 +1,82 @@
+[
+    {
+        "pid": "314526520",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 셔츠 팔아요 작년 라즈베리 입니다.",
+        "price_updates": [
+            {
+                "1741924298": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314526520_1_1741924296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:35:59"
+    },
+    {
+        "pid": "320221225",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 그래피티 셔츠 L",
+        "price_updates": [
+            {
+                "1741902349": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320221225_1_1740799993_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:35:59"
+    },
+    {
+        "pid": "277372169",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 셔츠 삽니다. L사이즈",
+        "price_updates": [
+            {
+                "1741902349": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277372169_1_1724161540_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:35:59"
+    },
+    {
+        "pid": "308798154",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 심리스 워크봄버 후드집업 M/L 삽니다",
+        "price_updates": [
+            {
+                "1741902349": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308798154_1_1735488673_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:35:59"
+    },
+    {
+        "pid": "230496717",
+        "brands": [
+            "r13"
+        ],
+        "name": "알써틴 r13 체크셔츠 플란넬셔츠 남방 크롭 긴팔셔츠",
+        "price_updates": [
+            {
+                "1741893833": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230496717_1_1733714226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:35:59"
+    }
+]

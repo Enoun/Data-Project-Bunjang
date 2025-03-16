@@ -1,213 +1,5 @@
 [
     {
-        "pid": "239620688",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "SUNFLOWER 선플라워 스웨터 팝니다",
-        "price_updates": [
-            {
-                "1741613452": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/239620688_1_1739961909_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "322094153",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 루즈 치노 [48]",
-        "price_updates": [
-            {
-                "1741612819": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322094153_1_1741612847_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "316746224",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 와이드트위스트데님 린스블루 31/32size",
-        "price_updates": [
-            {
-                "1741611429": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316746224_1_1741023153_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "317692225",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 봄버",
-        "price_updates": [
-            {
-                "1741609030": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317692225_1_1740124790_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "318699916",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스탠다드 데님 29/32",
-        "price_updates": [
-            {
-                "1741609618": "20000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318699916_1_1740792581_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "303611531",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "(33/32)선플라워 와이드트위스트 워시드 블랙",
-        "price_updates": [
-            {
-                "1741609936": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303611531_1_1738591399_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "322061565",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[30/32] 선플라워 sunflower 루즈 데님 빈티지 블루",
-        "price_updates": [
-            {
-                "1741602717": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322061565_1_1741603321_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "316901788",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 루즈 블랙 스톤 29/32",
-        "price_updates": [
-            {
-                "1741604967": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316901788_1_1740553886_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "313428835",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[새상품] 선플라워 루즈데님 린스블루 30",
-        "price_updates": [
-            {
-                "1741605064": "198000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313428835_1_1741215030_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "316900903",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 루즈 데님 워시드 블랙 29/32",
-        "price_updates": [
-            {
-                "1741604967": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316900903_1_1740553911_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "319741786",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[50] sunflowr 선플라워 shop leather coat",
-        "price_updates": [
-            {
-                "1741600565": "719000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319741786_1_1740550036_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "322040241",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[48] 선플라워 프린스 자켓",
-        "price_updates": [
-            {
-                "1741595288": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322040241_1_1741595288_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "287526109",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 니트 xl",
-        "price_updates": [
-            {
-                "1741600663": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287526109_1_1725283276_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
         "pid": "317421382",
         "brands": [
             "선플라워"
@@ -215,45 +7,13 @@
         "name": "선플라워 와이드 트위스트 데님 스톤블랙 29/32",
         "price_updates": [
             {
-                "1741602206": "150000"
+                "1742094225": "150000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/317421382_1_1739517060_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "296137832",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스탠다드 데님 팬츠",
-        "price_updates": [
-            {
-                "1741596014": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296137832_1_1741036295_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "322007315",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "(오늘만 이가격)선플라워 레글런 코트 raglan coat",
-        "price_updates": [
-            {
-                "1741583292": "395000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322007315_1_1741583302_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "321147174",
@@ -263,29 +23,333 @@
         "name": "선플라워 와이드 트위스트 데님 블리치 34/32",
         "price_updates": [
             {
-                "1741579406": "160000"
+                "1742092314": "160000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321147174_1_1741176658_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/321147174_1_1741778379_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
-        "pid": "319467806",
+        "pid": "246894197",
         "brands": [
             "선플라워"
         ],
-        "name": "L) 선플라워(Sunflower) ACE SHIRTS",
+        "name": "선플라워 아스케 스웨터 블랙 (M)",
         "price_updates": [
             {
-                "1741576863": "100000"
+                "1742091982": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319467806_1_1740405860_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/246894197_1_1740181853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "316331245",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "Sunflower 선플라워 90s 가죽 보머 자켓",
+        "price_updates": [
+            {
+                "1742092198": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316331245_1_1741711121_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "291212923",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[48] 선플라워 맥스 트라우저 블랙 새제품 팝니다",
+        "price_updates": [
+            {
+                "1742092477": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291212923_1_1741269040_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "312939047",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "썬플라워 sb자켓 / 선플라워 sunflower sb jacket",
+        "price_updates": [
+            {
+                "1742091380": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312939047_1_1742006705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322479711",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 와이드 트위스트 데님",
+        "price_updates": [
+            {
+                "1742091191": "186810"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322479711_1_1741944212_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "296242186",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[S] 선플라워 데님 셔츠 새상품",
+        "price_updates": [
+            {
+                "1742088028": "155000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296242186_1_1734696702_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "313529464",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 와이드 트위스트 코듀로이 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742085914": "238000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313529464_1_1741518208_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "318925200",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 와이드 트위스트 워시드 블랙(흑청) 새제품",
+        "price_updates": [
+            {
+                "1742085934": "213000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318925200_1_1741307709_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "316664651",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[52] 썬플라워 선플라워 프린스 자켓 블랙",
+        "price_updates": [
+            {
+                "1742076730": "269000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316664651_1_1741345284_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322871914",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "m) sunflower moon love knit 선플라워 문 러브 니트",
+        "price_updates": [
+            {
+                "1742052305": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322871914_1_1742018458_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322367291",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "(46) sunflower 90's bomber 선플라워 90s 봄버",
+        "price_updates": [
+            {
+                "1742052305": "1220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322367291_1_1741766301_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "317467144",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 트랙 탑 M",
+        "price_updates": [
+            {
+                "1742057223": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317467144_1_1739537512_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319529239",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 생지 와이드핏 28/32",
+        "price_updates": [
+            {
+                "1742060792": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319529239_1_1741976839_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "289844408",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 연청 스트레이트 데님 33",
+        "price_updates": [
+            {
+                "1742053629": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289844408_1_1726586137_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "280824731",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스페이시 셔츠 [블랙] 판매",
+        "price_updates": [
+            {
+                "1742053383": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280824731_1_1741274622_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "315906263",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "Sunflower 선플라워 레더 트러커 자켓 L",
+        "price_updates": [
+            {
+                "1742057660": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315906263_1_1741804574_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "286565357",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "sunflower 썬플라워 선플라워 스페이시 셔츠 L",
+        "price_updates": [
+            {
+                "1742055698": "82000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286565357_1_1741741725_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322604709",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[50] 선플라워 90's 레더 봄버",
+        "price_updates": [
+            {
+                "1742041477": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322604709_1_1741874250_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "320816445",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 마스터 로고 티셔츠 XL",
+        "price_updates": [
+            {
+                "1742016208": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320816445_1_1741002375_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "321556188",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 왁스드 레저 자켓 올리브 3",
+        "price_updates": [
+            {
+                "1742051036": "440000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321556188_1_1742050326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "320653323",
@@ -295,13 +359,765 @@
         "name": "선플라워 데님 퍼티그 자켓 판매합니다!",
         "price_updates": [
             {
-                "1741579893": "270000"
+                "1742016632": "250000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/320653323_1_1740922674_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "317692225",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 봄버",
+        "price_updates": [
+            {
+                "1742045988": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317692225_1_1740124790_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "312505474",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 패딩",
+        "price_updates": [
+            {
+                "1742026328": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312505474_1_1737275945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "296804247",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 제이크 자켓",
+        "price_updates": [
+            {
+                "1742046849": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296804247_1_1730008341_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "303012789",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 믹 스웨터 XL",
+        "price_updates": [
+            {
+                "1742045542": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303012789_1_1732792934_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "275334051",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 셔츠 m사이즈",
+        "price_updates": [
+            {
+                "1742009889": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275334051_1_1738674029_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "256175561",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 루즈 데님 브라운 30",
+        "price_updates": [
+            {
+                "1742027037": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256175561_1_1732262592_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "287610174",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "(구매) 선플라워 데님 28 brown",
+        "price_updates": [
+            {
+                "1742026630": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287610174_1_1725345202_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "299680480",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스탠다드 팬츠(블리치 네온)",
+        "price_updates": [
+            {
+                "1742020388": "76380"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299680480_1_1738809027_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "307559368",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[46]선플라워 윈터 코트 네이비",
+        "price_updates": [
+            {
+                "1742009959": "432000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307559368_1_1741081180_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "316901788",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 루즈 블랙 스톤 29/32",
+        "price_updates": [
+            {
+                "1742034954": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316901788_1_1740553886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "258934142",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "sunflower 선플라워 존 가디건 M",
+        "price_updates": [
+            {
+                "1742028738": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258934142_1_1742029634_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "257259096",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 ) 아스케 스웨터 - 오렌지 S사이즈",
+        "price_updates": [
+            {
+                "1742036280": "90250"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257259096_1_1735433985_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319467806",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "L) 선플라워(Sunflower) ACE SHIRTS",
+        "price_updates": [
+            {
+                "1742019933": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319467806_1_1740405860_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "314485709",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[m]선플라워 트윌 cpo자켓",
+        "price_updates": [
+            {
+                "1742023671": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314485709_1_1738237231_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "317546942",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 / 레더 블레이저 워시드 블랙 / 46",
+        "price_updates": [
+            {
+                "1742051239": "710000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317546942_1_1741690606_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "310852097",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 / 레드 체크 더블 포켓 셔츠 / M",
+        "price_updates": [
+            {
+                "1742051231": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310852097_1_1738313566_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "286777204",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스페이시 SS 셔츠 (블루, m)",
+        "price_updates": [
+            {
+                "1742015651": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286777204_1_1741862213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319741786",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "금일만할인[50] 선플라워 shop leather coat",
+        "price_updates": [
+            {
+                "1742011061": "660000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319741786_1_1741944465_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "303611531",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "(33/32)선플라워 와이드트위스트 워시드 블랙",
+        "price_updates": [
+            {
+                "1742010727": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303611531_1_1741858448_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "282690468",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "스투시 워터쇼츠 XL 선플라워색상",
+        "price_updates": [
+            {
+                "1742028435": "98000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282690468_1_1730355605_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "316746224",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 와이드트위스트데님 린스블루 31/32size",
+        "price_updates": [
+            {
+                "1742026296": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316746224_1_1741023153_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319066391",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[52] 썬플라워 제트 블레이저 선플라워 울 자켓 남성",
+        "price_updates": [
+            {
+                "1742029308": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319066391_1_1740462209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322412885",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "sunflower ace stripe 셔츠 선플라워",
+        "price_updates": [
+            {
+                "1741966643": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322412885_1_1741916610_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322837744",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[구매] 선플라워 90s 레더 봄버 블랙 46",
+        "price_updates": [
+            {
+                "1742007852": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322837744_1_1742007852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "321186990",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "Egonlab 선플라워자켓",
+        "price_updates": [
+            {
+                "1741963131": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321186990_1_1741189568_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "298322249",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 니트 S",
+        "price_updates": [
+            {
+                "1741969890": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298322249_1_1741526681_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319062088",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 니트 m사이즈",
+        "price_updates": [
+            {
+                "1741989818": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319062088_1_1741989810_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "258098546",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 랄프셔츠 블루 M",
+        "price_updates": [
+            {
+                "1742005716": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258098546_1_1741664991_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "320418548",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스트라이프셔츠 팔아요",
+        "price_updates": [
+            {
+                "1741966264": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320418548_1_1740833984_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "315475398",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 플레어 데님 30 판매",
+        "price_updates": [
+            {
+                "1741993714": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315475398_1_1741993710_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "291991047",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 24SS 스페이시 셔츠",
+        "price_updates": [
+            {
+                "1742002710": "174000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291991047_1_1728147221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "285140508",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[M] 선플라워 알파카 문 슬립오버 베스트",
+        "price_updates": [
+            {
+                "1742003272": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285140508_1_1723968761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "316490983",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스탠다드 데님 블루 블랙 28/32",
+        "price_updates": [
+            {
+                "1741960852": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316490983_1_1741066158_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322497065",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 블루 빈티지 데님",
+        "price_updates": [
+            {
+                "1741836120": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322497065_1_1741836120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "314900805",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[52] sunflower 썬플라워 선플라워 Triumph Jacket",
+        "price_updates": [
+            {
+                "1741969147": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314900805_1_1738513398_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "310476522",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "엘무드 오로라 인타르시아 니트 선플라워",
+        "price_updates": [
+            {
+                "1741961743": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310476522_1_1736344880_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322629333",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 와이드 트위스트 빈티지 브라운",
+        "price_updates": [
+            {
+                "1741888362": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322629333_1_1741888362_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "318010991",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[50] 새상품 선플라워 sunflower 봄버 자켓 올리브",
+        "price_updates": [
+            {
+                "1741954263": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318010991_1_1741324175_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "304847286",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 24fw 와이드 트위스트 코듀로이팬츠 블랙 32",
+        "price_updates": [
+            {
+                "1741964681": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304847286_1_1733639857_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "309369148",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 소프트 트라우저 46사이즈 와이드 슬랙스",
+        "price_updates": [
+            {
+                "1741971676": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309369148_1_1736521054_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "317546744",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 / 샤프 트라우저 치노 팬츠 베이지 / 44",
+        "price_updates": [
+            {
+                "1741965144": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317546744_1_1741105423_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "314791326",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 sunflower 라이트인디고 버튼다운셔츠xl",
+        "price_updates": [
+            {
+                "1741939361": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314791326_1_1741088116_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "315394681",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[52] sunflower 선플라워 더블브레스티드 롱코트",
+        "price_updates": [
+            {
+                "1742002995": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315394681_1_1738642882_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "270546604",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "sunflower   선플라워 실크봄버 판매해요 (52사이즈.새상품)",
+        "price_updates": [
+            {
+                "1742006538": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270546604_1_1739064620_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322007315",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "(오늘만 이가격)선플라워 레글런 코트 raglan coat",
+        "price_updates": [
+            {
+                "1741854375": "395000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322007315_1_1741583302_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "321381281",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[33] 선플라워 청바지 5059-702 루즈핏 새상품",
+        "price_updates": [
+            {
+                "1741911078": "209000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321381281_1_1741313412_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "320581972",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 와이드핏 블랙 진 28/32",
+        "price_updates": [
+            {
+                "1741893870": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320581972_1_1741976827_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "300019614",
@@ -311,13 +1127,413 @@
         "name": "선플라워 베이지 맨투맨",
         "price_updates": [
             {
-                "1741583679": "30000"
+                "1741912452": "30000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/300019614_1_1739304211_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "287526109",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 니트 xl",
+        "price_updates": [
+            {
+                "1741860865": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287526109_1_1725283276_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322395658",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 트랙탑자켓",
+        "price_updates": [
+            {
+                "1741785586": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322395658_1_1741773911_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "257991332",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "sunflower 선플라워 셔츠",
+        "price_updates": [
+            {
+                "1741875638": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257991332_1_1711965691_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "296137832",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스탠다드 데님 팬츠",
+        "price_updates": [
+            {
+                "1741843636": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296137832_1_1741036295_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "264362652",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 화이트 데님 32",
+        "price_updates": [
+            {
+                "1741842731": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264362652_1_1722316275_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322383949",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "썬플라워 선플라워 셔츠 (새상품)",
+        "price_updates": [
+            {
+                "1741769890": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322383949_1_1741769890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "318269234",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 문니트 M사이즈",
+        "price_updates": [
+            {
+                "1741842021": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318269234_1_1739874006_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "318256722",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 알란 셔츠 울화이트",
+        "price_updates": [
+            {
+                "1741842021": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318256722_1_1739870402_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "313428835",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[새상품] 선플라워 루즈데님 린스블루 30",
+        "price_updates": [
+            {
+                "1741914780": "195000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313428835_1_1741865771_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "308709199",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 sunflower 더블 코트 네이비 46",
+        "price_updates": [
+            {
+                "1741884984": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308709199_1_1735460146_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "281786659",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 루즈데님 워시드 블루 린스 30-32",
+        "price_updates": [
+            {
+                "1741857700": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281786659_1_1741236122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322094153",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 루즈 치노 [48]",
+        "price_updates": [
+            {
+                "1741697908": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322094153_1_1742005815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322212567",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 코코 셔츠 L",
+        "price_updates": [
+            {
+                "1741683271": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322212567_1_1741683271_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "264540350",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 셔츠 L",
+        "price_updates": [
+            {
+                "1741786810": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264540350_1_1737214652_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "289253682",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 에이스 벨벳 셔츠",
+        "price_updates": [
+            {
+                "1741749997": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289253682_1_1726257520_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322289789",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 티셔츠 sunflower smile tee",
+        "price_updates": [
+            {
+                "1741708735": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322289789_1_1741711039_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "315550233",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "(XL)선플라워 문 텍스트 니트",
+        "price_updates": [
+            {
+                "1741793089": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315550233_1_1739270638_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "304061248",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[48] 선플라워 램스킨 레더 자켓 베이지 카키",
+        "price_updates": [
+            {
+                "1741833048": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304061248_1_1738805888_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "248509836",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "블루선플라워 숏자켓",
+        "price_updates": [
+            {
+                "1741705394": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248509836_1_1734595393_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "315006241",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 숏 레더 그레이 48",
+        "price_updates": [
+            {
+                "1741740740": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315006241_1_1741935377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "239620688",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "SUNFLOWER 선플라워 스웨터 팝니다",
+        "price_updates": [
+            {
+                "1741678662": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239620688_1_1739961909_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "314598225",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워(sunflower)피에트로 니트 XL 판매",
+        "price_updates": [
+            {
+                "1741709375": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314598225_1_1738302193_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "244422635",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 ADRIAN SHIRT IN GREEN STRIPE M",
+        "price_updates": [
+            {
+                "1741748302": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244422635_1_1726927762_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "234512907",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 스트레이트 연청 29/32 새상품 sunflower",
+        "price_updates": [
+            {
+                "1741693742": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234512907_1_1740986566_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "306876238",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 소프트 트라우저 46사이즈 베이지 와이드 슬랙스",
+        "price_updates": [
+            {
+                "1741708113": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306876238_1_1736493931_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "192185687",
@@ -333,183 +1549,55 @@
         "product_image": "https://media.bunjang.co.kr/product/192185687_1_1721044622_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
-        "pid": "246894197",
+        "pid": "318699916",
         "brands": [
             "선플라워"
         ],
-        "name": "선플라워 아스케 스웨터 블랙 (M)",
+        "name": "선플라워 스탠다드 데님 29/32",
         "price_updates": [
             {
-                "1741571790": "200000"
+                "1741609618": "20000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/246894197_1_1740181853_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "307559368",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[46]선플라워 윈터 코트 네이비",
-        "price_updates": [
-            {
-                "1741578828": "432000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307559368_1_1741081180_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "316490983",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스탠다드 데님 블루 블랙 28/32",
-        "price_updates": [
-            {
-                "1741582967": "115000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316490983_1_1741066158_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318699916_1_1740792581_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
-        "pid": "318010991",
+        "pid": "308512587",
         "brands": [
             "선플라워"
         ],
-        "name": "[50] 새상품 선플라워 sunflower 봄버 자켓 올리브",
+        "name": "선플라워 램스킨 루즈핏팬츠 30사이즈",
         "price_updates": [
             {
-                "1741574793": "270000"
+                "1741643114": "299000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318010991_1_1741324175_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/308512587_1_1741649233_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
-        "pid": "316331245",
+        "pid": "318260295",
         "brands": [
             "선플라워"
         ],
-        "name": "Sunflower 선플라워 90s 가죽 보머 자켓",
+        "name": "선플라워 소프트 트라우저 46 블랙",
         "price_updates": [
             {
-                "1741573390": "700000"
+                "1741642397": "150000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/316331245_1_1739038915_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "291212923",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[48] 선플라워 맥스 트라우저 블랙 새제품 팝니다",
-        "price_updates": [
-            {
-                "1741574897": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291212923_1_1741269040_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318260295_1_1739871244_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "321351649",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[31/32] 선플라워 루즈 데님 린스 블루",
-        "price_updates": [
-            {
-                "1741569385": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321351649_1_1741333888_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "321556188",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 왁스드 레저 자켓 올리브 3",
-        "price_updates": [
-            {
-                "1741539974": "480000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321556188_1_1741539970_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "320634991",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "이얼즈어고 선플라워 레이저 데님 M",
-        "price_updates": [
-            {
-                "1741533643": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320634991_1_1741604588_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "319529239",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 생지 와이드핏 28/32",
-        "price_updates": [
-            {
-                "1741561615": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319529239_1_1740904739_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "320581972",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 와이드핏 블랙 진 28/32",
-        "price_updates": [
-            {
-                "1741561615": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320581972_1_1741407391_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "320816959",
@@ -525,7 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320816959_1_1741260212_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314905990",
@@ -535,221 +1623,13 @@
         "name": "선플라워 에이스 셔츠 L",
         "price_updates": [
             {
-                "1741534248": "145000"
+                "1741534248": "140000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314905990_1_1738420724_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/314905990_1_1741712824_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "258098546",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 랄프셔츠 블루 M",
-        "price_updates": [
-            {
-                "1741557824": "125000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258098546_1_1741581242_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "256175561",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 루즈 데님 브라운 30",
-        "price_updates": [
-            {
-                "1741540549": "105000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/256175561_1_1732262592_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "313529464",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 와이드 트위스트 코듀로이 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741568436": "238000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313529464_1_1741518208_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "289844408",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 연청 스트레이트 데님 33",
-        "price_updates": [
-            {
-                "1741566123": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/289844408_1_1726586137_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "308512587",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 램스킨 루즈핏팬츠 30사이즈",
-        "price_updates": [
-            {
-                "1741569673": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308512587_1_1738718790_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "312939047",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "썬플라워 sb자켓 / 선플라워 sunflower sb jacket",
-        "price_updates": [
-            {
-                "1741563869": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312939047_1_1740054850_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "314900805",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[52] sunflower 썬플라워 선플라워 Triumph Jacket",
-        "price_updates": [
-            {
-                "1741539097": "700000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314900805_1_1738513398_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "310476522",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "엘무드 오로라 인타르시아 니트 선플라워",
-        "price_updates": [
-            {
-                "1741532101": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310476522_1_1736344880_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "286565357",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "sunflower 썬플라워 선플라워 스페이시 셔츠 L",
-        "price_updates": [
-            {
-                "1741532523": "89000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286565357_1_1730334821_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "320418548",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스트라이프셔츠 팔아요",
-        "price_updates": [
-            {
-                "1741486988": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320418548_1_1740833984_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "298322249",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 니트 S",
-        "price_updates": [
-            {
-                "1741526602": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298322249_1_1741526681_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "303012789",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 믹 스웨터 XL",
-        "price_updates": [
-            {
-                "1741514474": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303012789_1_1732792934_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "289253682",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 에이스 벨벳 셔츠",
-        "price_updates": [
-            {
-                "1741495814": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/289253682_1_1726257520_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "278549448",
@@ -765,23 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278549448_1_1723246923_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "317467144",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 트랙 탑 M",
-        "price_updates": [
-            {
-                "1741448925": "60000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317467144_1_1739537512_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291866125",
@@ -797,39 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291866125_1_1741526700_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "299680480",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스탠다드 팬츠(블리치 네온)",
-        "price_updates": [
-            {
-                "1741525167": "80400"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299680480_1_1738809027_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "258934142",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "sunflower 선플라워 존 가디건 M",
-        "price_updates": [
-            {
-                "1741505791": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258934142_1_1714552894_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314692143",
@@ -845,215 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314692143_1_1738334167_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "257259096",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 ) 아스케 스웨터 - 오렌지 S사이즈",
-        "price_updates": [
-            {
-                "1741487511": "90250"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257259096_1_1735433985_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "280824731",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스페이시 셔츠 [블랙] 판매",
-        "price_updates": [
-            {
-                "1741520621": "79000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/280824731_1_1741274622_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "315906263",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "Sunflower 선플라워 레더 트러커 자켓 L",
-        "price_updates": [
-            {
-                "1741514583": "550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315906263_1_1740761060_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "310852097",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 / 레드 체크 더블 포켓 셔츠 / M",
-        "price_updates": [
-            {
-                "1741450508": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310852097_1_1738313566_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "317546942",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 / 레더 블레이저 워시드 블랙 / 46",
-        "price_updates": [
-            {
-                "1741450527": "720000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317546942_1_1740616545_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "291991047",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 24SS 스페이시 셔츠",
-        "price_updates": [
-            {
-                "1741446830": "174000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291991047_1_1728147221_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "318925200",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 와이드 트위스트 워시드 블랙(흑청) 새제품",
-        "price_updates": [
-            {
-                "1741492341": "213000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318925200_1_1741307709_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "317546744",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 / 샤프 트라우저 치노 팬츠 베이지 / 44",
-        "price_updates": [
-            {
-                "1741450486": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317546744_1_1741105423_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "315394681",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[52] sunflower 선플라워 더블브레스티드 롱코트",
-        "price_updates": [
-            {
-                "1741527769": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315394681_1_1738642882_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "264540350",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 셔츠 L",
-        "price_updates": [
-            {
-                "1741427162": "79000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/264540350_1_1737214652_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "321395089",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 코코 셔츠 L",
-        "price_updates": [
-            {
-                "1741319849": "79000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321395089_1_1741319849_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "264362652",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 화이트 데님 32",
-        "price_updates": [
-            {
-                "1741363448": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/264362652_1_1722316275_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "318269234",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 문니트 M사이즈",
-        "price_updates": [
-            {
-                "1741428370": "60000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318269234_1_1739874006_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "321464118",
@@ -1069,311 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321464118_1_1741346107_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "318256722",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 알란 셔츠 울화이트",
-        "price_updates": [
-            {
-                "1741428370": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318256722_1_1739870402_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "321381281",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[33] 선플라워 청바지 5059-702 루즈핏 새상품",
-        "price_updates": [
-            {
-                "1741313412": "209000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321381281_1_1741313412_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "318260295",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 소프트 트라우저 46 블랙",
-        "price_updates": [
-            {
-                "1741428370": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318260295_1_1739871244_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "316664651",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[52] 썬플라워 선플라워 프린스 자켓 블랙",
-        "price_updates": [
-            {
-                "1741397453": "269000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316664651_1_1741345284_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "286777204",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스페이시 SS 셔츠 (블루, m)",
-        "price_updates": [
-            {
-                "1741399704": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286777204_1_1737774175_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "314791326",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 sunflower 라이트인디고 버튼다운셔츠xl",
-        "price_updates": [
-            {
-                "1741385517": "139000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314791326_1_1741088116_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "319066391",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[52] 썬플라워 제트 블레이저 선플라워 울 자켓 남성",
-        "price_updates": [
-            {
-                "1741413113": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319066391_1_1740462209_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "319102917",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "구매) sunflower 선플라워 워커 자켓 m worker 썬플라워",
-        "price_updates": [
-            {
-                "1741403124": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319102917_1_1740250653_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "321186990",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "Egonlab 선플라워자켓",
-        "price_updates": [
-            {
-                "1741189568": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321186990_1_1741189568_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "309918747",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "(새상품) 선플라워 6019 가죽자켓",
-        "price_updates": [
-            {
-                "1741273304": "520000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309918747_1_1741605594_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "320080873",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 린스블루 루즈핏 데님 32",
-        "price_updates": [
-            {
-                "1741239713": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320080873_1_1740710532_w{res}.jpg",
-        "status": "1",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "234512907",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 스트레이트 연청 29/32 새상품 sunflower",
-        "price_updates": [
-            {
-                "1741348886": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/234512907_1_1740986566_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "309369148",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 소프트 트라우저 46사이즈 와이드 슬랙스",
-        "price_updates": [
-            {
-                "1741335575": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309369148_1_1736521054_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "319062088",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 니트 m사이즈",
-        "price_updates": [
-            {
-                "1741237221": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319062088_1_1741604783_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "257991332",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "sunflower 선플라워 셔츠",
-        "price_updates": [
-            {
-                "1741183154": "99000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257991332_1_1711965691_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "296242186",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[S] 선플라워 데님 셔츠 새상품",
-        "price_updates": [
-            {
-                "1741268857": "155000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296242186_1_1734696702_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "315006241",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 숏 레더 그레이 48",
-        "price_updates": [
-            {
-                "1741231231": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315006241_1_1738476968_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "285140508",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[M] 선플라워 알파카 문 슬립오버 베스트",
-        "price_updates": [
-            {
-                "1741250582": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/285140508_1_1723968761_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "320816445",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 마스터 로고 티셔츠 XL",
-        "price_updates": [
-            {
-                "1741156068": "20000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320816445_1_1741002375_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "309789240",
@@ -1383,125 +1703,13 @@
         "name": "선플라워 루즈 5051",
         "price_updates": [
             {
-                "1741150489": "170000"
+                "1741150488": "170000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/309789240_1_1735994971_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "248509836",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "블루선플라워 숏자켓",
-        "price_updates": [
-            {
-                "1741140293": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/248509836_1_1734595393_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "297726841",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[m]선플라워 루즈 레더 팬츠 베이지",
-        "price_updates": [
-            {
-                "1741131300": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297726841_1_1730437522_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "314521811",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[31] sunflower 선플라워 루즈 그레이 마블",
-        "price_updates": [
-            {
-                "1741150167": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314521811_1_1740367651_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "314598225",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워(sunflower)피에트로 니트 XL 판매",
-        "price_updates": [
-            {
-                "1741103674": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314598225_1_1738302193_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "281786659",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 루즈데님 워시드 블루 린스 30-32",
-        "price_updates": [
-            {
-                "1741168093": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/281786659_1_1741236122_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "282690468",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "스투시 워터쇼츠 XL 선플라워색상",
-        "price_updates": [
-            {
-                "1741101204": "98000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282690468_1_1730355605_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "312505474",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 패딩",
-        "price_updates": [
-            {
-                "1741077595": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312505474_1_1737275945_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315198355",
@@ -1517,39 +1725,55 @@
         "product_image": "https://media.bunjang.co.kr/product/315198355_1_1741024388_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
-        "pid": "319832797",
+        "pid": "309918747",
         "brands": [
             "선플라워"
         ],
-        "name": "선플라워 코듀로이 팬츠",
+        "name": "(새상품) 선플라워 6019 가죽자켓",
         "price_updates": [
             {
-                "1740577967": "105000"
+                "1741273304": "490000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319832797_1_1740578186_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/309918747_1_1741781051_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "320080873",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 린스블루 루즈핏 데님 32",
+        "price_updates": [
+            {
+                "1741239713": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320080873_1_1740710532_w{res}.jpg",
+        "status": "1",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "297726841",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[m]선플라워 루즈 레더 팬츠 베이지",
+        "price_updates": [
+            {
+                "1741131300": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297726841_1_1730437522_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "275334051",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 셔츠 m사이즈",
-        "price_updates": [
-            {
-                "1740804400": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/275334051_1_1738674029_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "312646660",
@@ -1565,7 +1789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312646660_1_1740315710_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "312649847",
@@ -1575,13 +1799,45 @@
         "name": "선플라워 루즈 데님 30/30 (새상품)",
         "price_updates": [
             {
-                "1740934005": "190000"
+                "1740934005": "140000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/312649847_1_1737346364_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/312649847_1_1742070864_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319832797",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 코듀로이 팬츠",
+        "price_updates": [
+            {
+                "1740577967": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319832797_1_1740578186_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "314521811",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[31] sunflower 선플라워 루즈 그레이 마블",
+        "price_updates": [
+            {
+                "1741150167": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314521811_1_1740367651_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "240608785",
@@ -1597,7 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240608785_1_1706109408_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317181493",
@@ -1613,7 +1869,23 @@
         "product_image": "https://media.bunjang.co.kr/product/317181493_1_1739409550_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "319102917",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "구매) sunflower 선플라워 워커 자켓 m worker 썬플라워",
+        "price_updates": [
+            {
+                "1741403124": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319102917_1_1740250653_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317182064",
@@ -1629,23 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317182064_1_1739409816_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "308709199",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 sunflower 더블 코트 네이비 46",
-        "price_updates": [
-            {
-                "1740891651": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308709199_1_1735460146_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "253833721",
@@ -1661,71 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253833721_1_1708787374_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "315941536",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 생지 데님 Flare스타일 새제품",
-        "price_updates": [
-            {
-                "1740550786": "93600"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315941536_1_1738878032_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "313683456",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 24FW 베이스 셔츠 [L]",
-        "price_updates": [
-            {
-                "1740558709": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313683456_1_1740111551_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "304061248",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[48] 선플라워 램스킨 레더 자켓 베이지 카키",
-        "price_updates": [
-            {
-                "1740810646": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304061248_1_1738805888_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "304847286",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 24fw 와이드 트위스트 코듀로이팬츠 블랙 32",
-        "price_updates": [
-            {
-                "1740928305": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304847286_1_1733639857_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "289269568",
@@ -1741,23 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289269568_1_1738381953_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "306876238",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 소프트 트라우저 46사이즈 베이지 와이드 슬랙스",
-        "price_updates": [
-            {
-                "1740927838": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306876238_1_1736493931_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "237998909",
@@ -1773,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237998909_1_1713506268_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "282070809",
@@ -1789,55 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282070809_1_1741158792_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "296804247",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 제이크 자켓",
-        "price_updates": [
-            {
-                "1739768153": "580000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296804247_1_1730008341_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "315550233",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "(XL)선플라워 문 텍스트 니트",
-        "price_updates": [
-            {
-                "1740097967": "199000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315550233_1_1739270638_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "318813515",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "썬플라워 선플라워 가죽자켓 새상품",
-        "price_updates": [
-            {
-                "1740123365": "750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318813515_1_1740123555_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315318948",
@@ -1853,23 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315318948_1_1739592985_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "315475398",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 플레어 데님 30 판매",
-        "price_updates": [
-            {
-                "1739721640": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315475398_1_1739721677_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "311179926",
@@ -1885,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311179926_1_1739202181_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "288970754",
@@ -1901,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288970754_1_1726709429_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "316719154",
@@ -1917,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316719154_1_1739199324_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317081289",
@@ -1933,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317081289_1_1739355130_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "308943971",
@@ -1949,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308943971_1_1735565433_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "296875680",
@@ -1959,13 +2071,13 @@
         "name": "[32] 선플라워 트위스트 데님",
         "price_updates": [
             {
-                "1739114832": "150000"
+                "1739114832": "145000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/296875680_1_1740299127_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/296875680_1_1741867552_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "310213590",
@@ -1981,39 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310213590_1_1740650082_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "314838992",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 와이드 트웨스트 데님(31/32)",
-        "price_updates": [
-            {
-                "1739511832": "175000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314838992_1_1739160049_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "314485709",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "[m]선플라워 트윌 cpo자켓",
-        "price_updates": [
-            {
-                "1739296729": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314485709_1_1738237231_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "310626699",
@@ -2029,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310626699_1_1736407792_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "280806037",
@@ -2045,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280806037_1_1728467266_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "266416904",
@@ -2055,13 +2135,13 @@
         "name": "[새상품/L] SUNFLOWER 선플라워 후드티셔츠",
         "price_updates": [
             {
-                "1739200402": "120000"
+                "1739200401": "120000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/266416904_1_1722923679_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "312880121",
@@ -2077,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312880121_1_1737448264_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315006115",
@@ -2093,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315006115_1_1738481555_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "301784360",
@@ -2109,23 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301784360_1_1732248940_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "270546604",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "sunflower   선플라워 실크봄버 판매해요 (52사이즈.새상품)",
-        "price_updates": [
-            {
-                "1739533057": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/270546604_1_1739064620_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315487570",
@@ -2141,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315487570_1_1738670910_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "316698614",
@@ -2157,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316698614_1_1739193641_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "250444147",
@@ -2173,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250444147_1_1720751458_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "295355714",
@@ -2189,23 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295355714_1_1735384935_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "244422635",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 ADRIAN SHIRT IN GREEN STRIPE M",
-        "price_updates": [
-            {
-                "1737978348": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/244422635_1_1726927762_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "286517049",
@@ -2221,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286517049_1_1737218314_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "200452170",
@@ -2237,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200452170_1_1710084756_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "286209244",
@@ -2253,23 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286209244_1_1724583956_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "287610174",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "(구매) 선플라워 데님 28 brown",
-        "price_updates": [
-            {
-                "1736593019": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287610174_1_1725345202_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "251423014",
@@ -2285,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251423014_1_1734848601_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "228801895",
@@ -2301,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228801895_1_1688326931_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "306761608",
@@ -2317,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306761608_1_1735963877_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "298941408",
@@ -2333,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298941408_1_1735919713_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "309267088",
@@ -2349,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309267088_1_1735741869_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "303161252",
@@ -2365,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303161252_1_1732870443_w{res}.jpg",
         "status": "1",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "304746897",
@@ -2381,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304746897_1_1734704472_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "251364221",
@@ -2397,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251364221_1_1732875943_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "301318183",
@@ -2413,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301318183_1_1732087681_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "308641759",
@@ -2429,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308641759_1_1735437388_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "297119187",
@@ -2445,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297119187_1_1732154676_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "302210464",
@@ -2461,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302210464_1_1734948584_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "280709516",
@@ -2477,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280709516_1_1728440035_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "294477237",
@@ -2493,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294477237_1_1729667391_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "267462260",
@@ -2509,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267462260_1_1723964923_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "302427989",
@@ -2525,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302427989_1_1732526382_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "285089208",
@@ -2541,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285089208_1_1723982846_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "296589927",
@@ -2557,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296589927_1_1729920655_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "263450157",
@@ -2573,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263450157_1_1716984955_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "284363131",
@@ -2589,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284363131_1_1726167642_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "302320679",
@@ -2605,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302320679_1_1732461441_w{res}.jpg",
         "status": "1",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "282071387",
@@ -2621,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282071387_1_1722500936_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "289327635",
@@ -2637,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289327635_1_1726474789_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "294767654",
@@ -2653,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294767654_1_1729088664_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "296342584",
@@ -2669,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296342584_1_1730029557_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "296962473",
@@ -2685,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296962473_1_1730067963_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "253658570",
@@ -2701,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253658570_1_1726808487_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "294404995",
@@ -2717,23 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294404995_1_1728928071_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "291621741",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "Sunflower 선플라워 coco 셔츠 [L]",
-        "price_updates": [
-            {
-                "1728736007": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291621741_1_1728736015_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "292885555",
@@ -2749,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292885555_1_1740912177_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "283158516",
@@ -2765,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283158516_1_1724510386_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291418109",
@@ -2781,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291418109_1_1728302949_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "292824424",
@@ -2797,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292824424_1_1732928397_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "292826594",
@@ -2813,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292826594_1_1729601474_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291282479",
@@ -2829,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291282479_1_1728803730_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291280936",
@@ -2845,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291280936_1_1728803755_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291803975",
@@ -2861,7 +2877,23 @@
         "product_image": "https://media.bunjang.co.kr/product/291803975_1_1727675669_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "272391166",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 반팔 [ XL ]",
+        "price_updates": [
+            {
+                "1726670809": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/272391166_1_1726130494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "285290372",
@@ -2877,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285290372_1_1725874800_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "281605848",
@@ -2893,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281605848_1_1725349257_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "288285727",
@@ -2909,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288285727_1_1725715799_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "287720554",
@@ -2925,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287720554_1_1726805021_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "262755844",
@@ -2941,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262755844_1_1723190332_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "246031005",
@@ -2957,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246031005_1_1713946763_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "281277648",
@@ -2973,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281277648_1_1721827760_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "274680452",
@@ -2989,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274680452_1_1719142552_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "245547846",
@@ -3005,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245547846_1_1718533013_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "256833010",
@@ -3021,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256833010_1_1710520836_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "276994452",
@@ -3037,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276994452_1_1719962783_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "238816095",
@@ -3053,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/238816095_1_1713408651_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "269553889",
@@ -3069,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269553889_1_1718005150_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "194369101",
@@ -3085,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/194369101_1_1660042345_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "260803351",
@@ -3101,7 +3133,87 @@
         "product_image": "https://media.bunjang.co.kr/product/260803351_1_1713993506_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "313683456",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 24FW 베이스 셔츠 [L]",
+        "price_updates": [
+            {
+                "1741922571": "79200"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313683456_1_1742082100_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "321351649",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[31/32] 선플라워 루즈 데님 린스 블루",
+        "price_updates": [
+            {
+                "1741903847": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321351649_1_1741333888_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "322061565",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "[30/32] 선플라워 sunflower 루즈 데님 빈티지 블루",
+        "price_updates": [
+            {
+                "1741602717": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322061565_1_1741603321_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "320634991",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "이얼즈어고 선플라워 레이저 데님 M",
+        "price_updates": [
+            {
+                "1741653311": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320634991_1_1741604588_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "316900903",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 루즈 데님 워시드 블랙 29/32",
+        "price_updates": [
+            {
+                "1741604967": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316900903_1_1740553911_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "321741281",
@@ -3117,39 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321741281_1_1741536206_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "320007240",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "Sunflower 선플라워 워크 자켓 S",
-        "price_updates": [
-            {
-                "1741303630": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320007240_1_1741099955_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "319941385",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "sunflower ace 선플라워 에이스 셔츠 썬플라워",
-        "price_updates": [
-            {
-                "1741195135": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319941385_1_1741269270_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "320905557",
@@ -3165,7 +3245,23 @@
         "product_image": "https://media.bunjang.co.kr/product/320905557_1_1741061134_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "320007240",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "Sunflower 선플라워 워크 자켓 S",
+        "price_updates": [
+            {
+                "1741303630": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320007240_1_1741099955_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "320163404",
@@ -3181,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320163404_1_1740740097_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317500089",
@@ -3197,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317500089_1_1739610865_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317904713",
@@ -3213,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317904713_1_1740123057_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315791000",
@@ -3229,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315791000_1_1738817056_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315115811",
@@ -3245,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315115811_1_1740993504_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "318257438",
@@ -3261,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318257438_1_1739870388_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317176723",
@@ -3277,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317176723_1_1739406590_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "304287570",
@@ -3293,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304287570_1_1739928728_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317758467",
@@ -3309,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317758467_1_1740304293_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317720336",
@@ -3325,23 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317720336_1_1741082539_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "317949719",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "sunflower 선플라워 와이드 트위스트 데님 30 블랙 스톤 썬플라워",
-        "price_updates": [
-            {
-                "1740323904": "175000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317949719_1_1740408422_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "310475445",
@@ -3357,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310475445_1_1736330848_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317045607",
@@ -3373,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317045607_1_1739593350_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317178986",
@@ -3389,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317178986_1_1739408186_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317216066",
@@ -3405,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317216066_1_1739422705_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "317178845",
@@ -3421,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317178845_1_1739408100_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315983320",
@@ -3437,7 +3517,23 @@
         "product_image": "https://media.bunjang.co.kr/product/315983320_1_1739097660_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "312045696",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 트위스트 데님 블랙스톤",
+        "price_updates": [
+            {
+                "1739022178": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312045696_1_1737357001_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "310699283",
@@ -3453,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310699283_1_1737766537_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "296156674",
@@ -3469,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296156674_1_1739189649_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "313011646",
@@ -3485,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313011646_1_1739002117_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "315091963",
@@ -3501,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315091963_1_1738498613_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314606547",
@@ -3517,7 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314606547_1_1738304988_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "299070331",
@@ -3533,23 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299070331_1_1737327329_w{res}.jpg",
         "status": "3",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "294243271",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 플리스 셔츠 M (Please shirt) 라이트 블루",
-        "price_updates": [
-            {
-                "1739007762": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294243271_1_1739024004_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "312668879",
@@ -3565,7 +3645,23 @@
         "product_image": "https://media.bunjang.co.kr/product/312668879_1_1737353104_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
+    },
+    {
+        "pid": "294243271",
+        "brands": [
+            "선플라워"
+        ],
+        "name": "선플라워 플리스 셔츠 M (Please shirt) 라이트 블루",
+        "price_updates": [
+            {
+                "1739007762": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294243271_1_1739024004_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314342664",
@@ -3581,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314342664_1_1738160370_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314872688",
@@ -3597,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314872688_1_1738412124_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314756256",
@@ -3613,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314756256_1_1738461374_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "310375763",
@@ -3629,7 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310375763_1_1736984598_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314646327",
@@ -3645,7 +3741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314646327_1_1739021072_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314656413",
@@ -3661,7 +3757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314656413_1_1738321641_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314695850",
@@ -3677,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314695850_1_1738334508_w{res}.jpg",
         "status": "3",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "314877411",
@@ -3693,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314877411_1_1738413334_w{res}.jpg",
         "status": "3",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "292924062",
@@ -3709,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292924062_1_1734334973_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "313249994",
@@ -3725,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313249994_1_1737623698_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "301431414",
@@ -3741,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301431414_1_1737419157_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "308883343",
@@ -3757,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308883343_1_1737768382_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "294351430",
@@ -3773,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294351430_1_1737694959_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "293900835",
@@ -3789,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293900835_1_1734587963_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "296765968",
@@ -3805,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296765968_1_1737012412_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "309613465",
@@ -3821,7 +3917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309613465_1_1735910510_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291857655",
@@ -3837,7 +3933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291857655_1_1740478899_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "306742311",
@@ -3853,7 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306742311_1_1734569944_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "300978702",
@@ -3869,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300978702_1_1734434964_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "305298787",
@@ -3885,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305298787_1_1735467820_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "307601036",
@@ -3901,7 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307601036_1_1734873446_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "307477489",
@@ -3917,7 +4013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307477489_1_1736071036_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "298135806",
@@ -3933,7 +4029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298135806_1_1735025201_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "302314701",
@@ -3949,7 +4045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302314701_1_1734572654_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "303596942",
@@ -3965,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303596942_1_1734525758_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "304842724",
@@ -3981,23 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304842724_1_1734844326_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "302878717",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 ACE SHIRT [KLEIN BLUE]",
-        "price_updates": [
-            {
-                "1733814627": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302878717_1_1733891571_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "301556221",
@@ -4013,23 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301556221_1_1736630704_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
-    },
-    {
-        "pid": "299990323",
-        "brands": [
-            "선플라워"
-        ],
-        "name": "선플라워 와이드 트위스트 데님 빈티지 블루 34/32",
-        "price_updates": [
-            {
-                "1733713665": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299990323_1_1734001712_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "263111092",
@@ -4045,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263111092_1_1739208958_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     },
     {
         "pid": "291490325",
@@ -4061,6 +4125,6 @@
         "product_image": "https://media.bunjang.co.kr/product/291490325_1_1738913092_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:45"
+        "collected_timestamp": "2025-03-16 03:12:29"
     }
 ]

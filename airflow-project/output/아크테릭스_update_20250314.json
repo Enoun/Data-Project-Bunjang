@@ -1,0 +1,3362 @@
+[
+    {
+        "pid": "322685827",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 토륨 자켓 XL",
+        "price_updates": [
+            {
+                "1741932403": "620000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322685827_1_1741932403_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321952537",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 시스템 a 오지 인슐레이티드 재킷",
+        "price_updates": [
+            {
+                "1741931864": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321952537_1_1741534712_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322476205",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[새상품]아크테릭스 세륨 후디 블랙L",
+        "price_updates": [
+            {
+                "1741930276": "665000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322476205_1_1741843876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315592812",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베타 lt 블랙 xl",
+        "price_updates": [
+            {
+                "1741930116": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315592812_1_1740299618_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322671035",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(미사용)Arcteryx 아크테릭스 아톰 LT 네이비 자켓",
+        "price_updates": [
+            {
+                "1741926625": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322671035_1_1741926625_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322671200",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 반집업 긴팔티 남자100",
+        "price_updates": [
+            {
+                "1741926691": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322671200_1_1741926691_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322484205",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 솔라노 자켓(XS)(1회 착용)",
+        "price_updates": [
+            {
+                "1741927729": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322484205_1_1741830024_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322665870",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 헤비웨이트 M",
+        "price_updates": [
+            {
+                "1741924386": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322665870_1_1741924386_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "237961059",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 스페레 LT 셋업",
+        "price_updates": [
+            {
+                "1741929822": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237961059_1_1740627496_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "316657934",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 소린 다운 자켓",
+        "price_updates": [
+            {
+                "1741929071": "1650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316657934_1_1741663522_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322146106",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "L) 아크테릭스 세륨 디스토션",
+        "price_updates": [
+            {
+                "1741924739": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322146106_1_1741709473_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "314245602",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 세륨 논후디 논후드 블랙",
+        "price_updates": [
+            {
+                "1741929276": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314245602_1_1738126015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321266099",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰ar",
+        "price_updates": [
+            {
+                "1741924699": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321266099_1_1741685042_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320943005",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 코모레비",
+        "price_updates": [
+            {
+                "1741924872": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320943005_1_1741319639_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322470365",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아크워드 로고 SS 티셔츠 블랙 2",
+        "price_updates": [
+            {
+                "1741926279": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322470365_1_1741819039_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322661983",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 바람막이 아톰 후디 M 블랙사파이어",
+        "price_updates": [
+            {
+                "1741922568": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322661983_1_1741922568_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320806892",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 2025ss아톰 후디 남성",
+        "price_updates": [
+            {
+                "1741926321": "503500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320806892_1_1740999377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321576275",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 감마 후디 헤리티지 XL",
+        "price_updates": [
+            {
+                "1741922480": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321576275_1_1741406126_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322108135",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[XL]아크테릭스 베타LT 블랙",
+        "price_updates": [
+            {
+                "1741920510": "690000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322108135_1_1741780132_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "300285964",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 팔라스 후드티",
+        "price_updates": [
+            {
+                "1741925519": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300285964_1_1731566970_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322288390",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 / 세륨 블랙사파이어 / L",
+        "price_updates": [
+            {
+                "1741919290": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322288390_1_1741923497_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "313927740",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 정글메이즈M",
+        "price_updates": [
+            {
+                "1741924023": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313927740_1_1739792712_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318975104",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 임브릭 자켓",
+        "price_updates": [
+            {
+                "1741923902": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318975104_1_1740236814_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315712641",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 토륨후디 남성[XS]",
+        "price_updates": [
+            {
+                "1741922905": "785000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315712641_1_1738764802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318262412",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[S]아크테릭스 토륨 후디 24k",
+        "price_updates": [
+            {
+                "1741923251": "610000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318262412_1_1741691289_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315709083",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베타AR 남성[XS]",
+        "price_updates": [
+            {
+                "1741922902": "605000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315709083_1_1738764844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "307900465",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "팔라스 아크테릭스 반팔 엑라",
+        "price_updates": [
+            {
+                "1741924237": "255000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307900465_1_1739378314_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "277136496",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "L]아크테릭스 카슬로 kaslo 반팔 셔츠",
+        "price_updates": [
+            {
+                "1741926226": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277136496_1_1724636860_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322183956",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] ss24 아크테릭스 감마 라이트웨이트 후디 chloris",
+        "price_updates": [
+            {
+                "1741919557": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322183956_1_1741709165_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318531647",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "1)폴리테루 파라팬츠 차콜 아크테릭스 교환0",
+        "price_updates": [
+            {
+                "1741924283": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318531647_1_1741789863_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315567534",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스맛 후드 경량패딩 XL 고프코어",
+        "price_updates": [
+            {
+                "1741924869": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315567534_1_1738767780_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322632031",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 프로테우스 L->XL 교환희망",
+        "price_updates": [
+            {
+                "1741916053": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322632031_1_1741895537_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321421120",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 후디",
+        "price_updates": [
+            {
+                "1741918972": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321421120_1_1741330488_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "309694897",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 러쉬",
+        "price_updates": [
+            {
+                "1741920806": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309694897_1_1741920873_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317176773",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 24FW 감마 팬츠 맨 블랙 32-R 새상품",
+        "price_updates": [
+            {
+                "1741925113": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317176773_1_1740847508_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318530543",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "2)폴리테루 패치드 다운 푸퍼 베스트 아크테릭스 교환0",
+        "price_updates": [
+            {
+                "1741924283": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318530543_1_1741789876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "307280169",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 후리스",
+        "price_updates": [
+            {
+                "1741920806": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307280169_1_1741920891_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317176419",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 델타 1/2 집업 맨 DAYBREAK L사이즈 새상품",
+        "price_updates": [
+            {
+                "1741925113": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317176419_1_1739406381_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318531236",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "1)폴리테루 휴먼인덱스 트랙팬츠 블랙퍼플 아크테릭스 교환0",
+        "price_updates": [
+            {
+                "1741924283": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318531236_1_1741789887_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "313827866",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 s",
+        "price_updates": [
+            {
+                "1741921692": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313827866_1_1737892290_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318529801",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "2)초판 폴리테루 필로우 밀 파카 세이지 아크테릭스 교환0",
+        "price_updates": [
+            {
+                "1741924283": "205000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318529801_1_1741789903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "313698823",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 울 블루종",
+        "price_updates": [
+            {
+                "1741921002": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313698823_1_1737848523_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319728275",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[XL] 아크테릭스 세륨 후디 루센트",
+        "price_updates": [
+            {
+                "1741919557": "1050000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319728275_1_1740628992_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322653729",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(M-L) 아크테릭스 집업 바람막이 점퍼자켓 오염 데미지-11DEF",
+        "price_updates": [
+            {
+                "1741918765": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322653729_1_1741918765_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322647530",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 긴팔 라운드넥 티셔츠 105",
+        "price_updates": [
+            {
+                "1741915493": "59000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322647530_1_1741915493_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "308886998",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빔즈 SL자켓 블랙골드",
+        "price_updates": [
+            {
+                "1741921759": "1985500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308886998_1_1740991862_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318762643",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰LT 후디 킹피셔 xxl",
+        "price_updates": [
+            {
+                "1741919781": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318762643_1_1741664476_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320140362",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빔즈 아톰",
+        "price_updates": [
+            {
+                "1741918994": "495000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320140362_1_1741787952_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "297836485",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 Survey 서베이 자켓",
+        "price_updates": [
+            {
+                "1741919469": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297836485_1_1740235452_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321485795",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빔즈 제타 자켓",
+        "price_updates": [
+            {
+                "1741913844": "880000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321485795_1_1741353450_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315492607",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 울블렌드 후드티셔츠",
+        "price_updates": [
+            {
+                "1741920151": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315492607_1_1738672012_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320810408",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 팔라스 후드티 XL",
+        "price_updates": [
+            {
+                "1741918640": "440000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320810408_1_1741902179_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "312871164",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 해비타트 L사이즈",
+        "price_updates": [
+            {
+                "1741919275": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312871164_1_1738442031_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321317003",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(s) 아크테릭스 제타 sl 팬츠 블랙",
+        "price_updates": [
+            {
+                "1741916803": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321317003_1_1741753719_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "311204447",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빈티지 희귀 구형 피션SV 고어텍스 바람막이 자켓 S 그레이",
+        "price_updates": [
+            {
+                "1741919450": "540000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311204447_1_1739201501_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322646871",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 리프 콜드 WX 후디 LT Gen2.1 (레인저 그린)",
+        "price_updates": [
+            {
+                "1741915106": "950000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322646871_1_1741915106_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "283092790",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 리프 20주년 반팔 티셔츠 울프 색상 L, XL 판매합니다",
+        "price_updates": [
+            {
+                "1741921974": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283092790_1_1722832915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321979948",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 오일러 IS 코트 그레이 M",
+        "price_updates": [
+            {
+                "1741914354": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321979948_1_1741570048_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317979760",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 파이어비",
+        "price_updates": [
+            {
+                "1741915889": "1400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317979760_1_1739756733_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321284000",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(s-m) 아크테릭스 베일런스 파티션 코트",
+        "price_updates": [
+            {
+                "1741914576": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321284000_1_1741253862_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317847888",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 해비타트 L",
+        "price_updates": [
+            {
+                "1741918555": "950000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317847888_1_1741569916_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "306736301",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "ARCTERYX 아크테릭스리프아톰 M",
+        "price_updates": [
+            {
+                "1741894347": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306736301_1_1734495071_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320075819",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(M) 아크테릭스 리프콜드 wx 후디 lt 멀티캠 gen 2.1",
+        "price_updates": [
+            {
+                "1741915994": "1350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320075819_1_1741340884_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317653860",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(XL)아크테릭스 시스템a 레스톤 후디",
+        "price_updates": [
+            {
+                "1741914146": "315000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317653860_1_1740830083_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322638413",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 제타 AR XL",
+        "price_updates": [
+            {
+                "1741908795": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322638413_1_1741908795_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319971962",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 프로톤 LT 후디 블랙사파이어 S사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1741917636": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319971962_1_1740649609_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "316698876",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 해비타트 (새상품 M)",
+        "price_updates": [
+            {
+                "1741912527": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316698876_1_1741141299_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "289011671",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 컨실 하이브리드 후디 남성 / AJOSMX7729",
+        "price_updates": [
+            {
+                "1741912336": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289011671_1_1726110966_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322608901",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 스쿼미시 사이즈L",
+        "price_updates": [
+            {
+                "1741908778": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322608901_1_1741875613_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322504081",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 감마 mx 자켓",
+        "price_updates": [
+            {
+                "1741911056": "167000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322504081_1_1741839223_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321691188",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M]아크테릭스 제타 sl 블랙",
+        "price_updates": [
+            {
+                "1741903177": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321691188_1_1741816749_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321563524",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 SV 구형 XL 블랙",
+        "price_updates": [
+            {
+                "1741911935": "835000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321563524_1_1741618039_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321731126",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 토륨 후디 블랙사파이어",
+        "price_updates": [
+            {
+                "1741903831": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321731126_1_1741817004_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322502956",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 프로톤 크루넥 & 팬츠 셋업",
+        "price_updates": [
+            {
+                "1741911056": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322502956_1_1741838743_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319783863",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 누클리아이 sv파카신형 M(100~105)사이즈 1회착 팝니다",
+        "price_updates": [
+            {
+                "1741914781": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319783863_1_1740647671_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321406140",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 감마 자켓",
+        "price_updates": [
+            {
+                "1741908728": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321406140_1_1741391802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321647835",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 LT 후디 글리치L 판매 또는 교환",
+        "price_updates": [
+            {
+                "1741906642": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321647835_1_1741772346_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320742761",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 남성 바람막이 L",
+        "price_updates": [
+            {
+                "1741906253": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320742761_1_1741055951_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322395450",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 리프 콜드 후디 WX LT 젠2 블랙",
+        "price_updates": [
+            {
+                "1741908028": "950000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322395450_1_1741840594_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321448341",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 리프 콜드 WX 후디 LT Gen2.1 (검정)",
+        "price_updates": [
+            {
+                "1741907894": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321448341_1_1741340359_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320254264",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 토륨 후디 스모크 블러프 <L>",
+        "price_updates": [
+            {
+                "1741910487": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320254264_1_1740889221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321408551",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 스쿼미시 피테아스 라지",
+        "price_updates": [
+            {
+                "1741908723": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321408551_1_1741851199_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320771504",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 sv 세륨 후디 L 챠콜",
+        "price_updates": [
+            {
+                "1741905529": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320771504_1_1741139163_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320296894",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 팔라스 x 아크테릭스 알파 SV 자켓 그레이",
+        "price_updates": [
+            {
+                "1741906855": "2900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320296894_1_1741057735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321253432",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 Nuclei SV Parka L사이즈",
+        "price_updates": [
+            {
+                "1741910845": "599000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321253432_1_1741821073_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "316840773",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 XL",
+        "price_updates": [
+            {
+                "1741896640": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316840773_1_1739259880_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319895204",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 S",
+        "price_updates": [
+            {
+                "1741907825": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319895204_1_1741501184_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "273241568",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 여름베스트 여성 L",
+        "price_updates": [
+            {
+                "1741903649": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273241568_1_1734235850_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321169797",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 시스템 A 코팔 롱슬리브 버드 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741910584": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321169797_1_1741183351_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "299897336",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 스쿼미시 솔라리스 XL",
+        "price_updates": [
+            {
+                "1741908516": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299897336_1_1731479247_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317991993",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 모니터 다운 파카",
+        "price_updates": [
+            {
+                "1741905250": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317991993_1_1741905222_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319653661",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 세륨 베스트 오라클",
+        "price_updates": [
+            {
+                "1741902311": "256500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319653661_1_1740794171_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318829349",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 모투스 크루 넥 아크 워드",
+        "price_updates": [
+            {
+                "1741908516": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318829349_1_1740128488_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "302432246",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 크래그 티셔츠 화이트 XL 새상품",
+        "price_updates": [
+            {
+                "1741903957": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302432246_1_1735902417_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "280932585",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 코막 크루 SS 남성 XXL 새상품",
+        "price_updates": [
+            {
+                "1741909819": "86000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280932585_1_1741857962_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318109086",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰ar/블랙사파이어/XL",
+        "price_updates": [
+            {
+                "1741902382": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318109086_1_1739797238_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318006454",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 써마파카  M (105)",
+        "price_updates": [
+            {
+                "1741910549": "660000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318006454_1_1741237313_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "306706685",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빔즈 제타 SL 자켓 그레이 L사이즈",
+        "price_updates": [
+            {
+                "1741906195": "2350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306706685_1_1741164105_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317225674",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[XL] 아크테릭스 감마 라이트 후디 판매합니다.",
+        "price_updates": [
+            {
+                "1741906481": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317225674_1_1741648094_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319168464",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(xs) 아크테릭스 베일런스 얼라인쉘 바람막이 자켓",
+        "price_updates": [
+            {
+                "1741910933": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319168464_1_1741003461_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "316503980",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "택O ) 아크테릭스 세륨 해비타트 헤비타트 S 패딩",
+        "price_updates": [
+            {
+                "1741907824": "890000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316503980_1_1740310299_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322595496",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰LT",
+        "price_updates": [
+            {
+                "1741871433": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322595496_1_1741871433_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322550970",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 SL XL",
+        "price_updates": [
+            {
+                "1741856723": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322550970_1_1741856994_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322588326",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "오리지날 아크테릭스 고어텍스 블랙 오버롤",
+        "price_updates": [
+            {
+                "1741869130": "175000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322588326_1_1741869130_w{res}.jpg",
+        "status": "0",
+        "category_id": "320400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322577343",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(택포) 아크테릭스 베일런스 블레이저 S",
+        "price_updates": [
+            {
+                "1741865717": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322577343_1_1741865717_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322573836",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 토륨 후디 스모크 블러프",
+        "price_updates": [
+            {
+                "1741864596": "698000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322573836_1_1741864596_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322554810",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 헤비웨이트 아톰 에덴",
+        "price_updates": [
+            {
+                "1741858028": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322554810_1_1741868478_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322430477",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 셔츠 m",
+        "price_updates": [
+            {
+                "1741882480": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322430477_1_1741789951_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321550832",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 스쿼미시 후디 XXL",
+        "price_updates": [
+            {
+                "1741859672": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321550832_1_1741396792_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322117198",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "팔라스 아크테릭스 후드 L",
+        "price_updates": [
+            {
+                "1741885443": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322117198_1_1741922896_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322021138",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰lt 비터스",
+        "price_updates": [
+            {
+                "1741849713": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322021138_1_1741588686_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321625256",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 lt m사이즈",
+        "price_updates": [
+            {
+                "1741851027": "510000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321625256_1_1741498676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322540980",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "타이온 엑스트라 패딩 베스트 조끼 블랙 사이즈 M/아크테릭스",
+        "price_updates": [
+            {
+                "1741873262": "113000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322540980_1_1741881385_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322308257",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰sl베스트/조끼 M",
+        "price_updates": [
+            {
+                "1741856538": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322308257_1_1741738029_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322540362",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 2024 감마 라이트웨이트 재킷 남성 AJ OSMX9141 C",
+        "price_updates": [
+            {
+                "1741853180": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322540362_1_1741853180_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321599598",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "L) 아크테릭스 아톰 LT 베스트 블랙 조끼",
+        "price_updates": [
+            {
+                "1741890347": "154000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321599598_1_1741413100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322328031",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 헤비웨이트 후디 xxl",
+        "price_updates": [
+            {
+                "1741882524": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322328031_1_1741789914_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322378745",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[정품]아크테릭스 스쿼미시 블랙스파이어 m",
+        "price_updates": [
+            {
+                "1741866879": "339000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322378745_1_1741868604_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321701622",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 블랙 L사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1741871964": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321701622_1_1741871959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320189892",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 데이브레이크 L",
+        "price_updates": [
+            {
+                "1741858157": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320189892_1_1741858153_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321475125",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(s) 아크테릭스 리프 콜드WX LT 멀티캠 Gen 2.1",
+        "price_updates": [
+            {
+                "1741867817": "1230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321475125_1_1741867783_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320522827",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 제타SL 마이크로칩",
+        "price_updates": [
+            {
+                "1741861135": "470000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320522827_1_1741589761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320696482",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 피션 AR 빈티지 아카이브",
+        "price_updates": [
+            {
+                "1741861480": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320696482_1_1741410396_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320519896",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M]아크테릭스 아톰 헤비웨이트 유콘",
+        "price_updates": [
+            {
+                "1741862022": "415000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320519896_1_1741846730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "286504756",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 바람막이",
+        "price_updates": [
+            {
+                "1741877565": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286504756_1_1724752658_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320821508",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 이소곤MX 재킷 스몰SM",
+        "price_updates": [
+            {
+                "1741879860": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320821508_1_1741478038_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320768126",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "XXL) 아크테릭스 아크워드 로고 SS 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741865928": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320768126_1_1740986839_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "294261887",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(s)아크테릭스 스쿼미시",
+        "price_updates": [
+            {
+                "1741882199": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294261887_1_1732763359_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315654518",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 24k",
+        "price_updates": [
+            {
+                "1741862153": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315654518_1_1740718141_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320041738",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 패딩XL",
+        "price_updates": [
+            {
+                "1741881365": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320041738_1_1740670546_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320767609",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "XXL) 아크테릭스 아크멀티 버드 로고 SS 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741865928": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320767609_1_1740986686_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320915109",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빔즈 베타 자켓 트랭퀼 L사이즈",
+        "price_updates": [
+            {
+                "1741852576": "1300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320915109_1_1741852899_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "300991399",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 후드 패딩 자켓",
+        "price_updates": [
+            {
+                "1741881944": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300991399_1_1731860077_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320766264",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "L) 아크테릭스 아크멀티 버드 로고 롱슬리브 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741865928": "215000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320766264_1_1740986263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320767144",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "XL) 아크테릭스 아크멀티 버드 로고 SS 티셔츠 스톤 워시",
+        "price_updates": [
+            {
+                "1741865928": "156000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320767144_1_1741865947_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "300773066",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "(M)아크테릭스 세륨LT",
+        "price_updates": [
+            {
+                "1741882199": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300773066_1_1737994439_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315525589",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "XL) 아크테릭스 토륨 XL 블랙",
+        "price_updates": [
+            {
+                "1741862267": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315525589_1_1740315917_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320972667",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 리프 알파 젠2 S 사이즈 (국내매장)",
+        "price_updates": [
+            {
+                "1741847893": "1030000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320972667_1_1741086158_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318695845",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 세륨 패딩",
+        "price_updates": [
+            {
+                "1741889753": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318695845_1_1740570470_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319812104",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 루센트 L",
+        "price_updates": [
+            {
+                "1741868224": "1050000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319812104_1_1740572186_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320735856",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 감마조거팬츠 레귤러 36 사이즈  타츠칼라",
+        "price_updates": [
+            {
+                "1741859652": "285000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320735856_1_1740975781_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "306183512",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "워터쉴드 눕시 아크테릭스교신",
+        "price_updates": [
+            {
+                "1741861988": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306183512_1_1734767403_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320765060",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "L) 아크테릭스 아크멀티 버드 로고 롱슬리브 티셔츠 화이트 라이트",
+        "price_updates": [
+            {
+                "1741865928": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320765060_1_1740985999_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "313489106",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 lt 솔레스",
+        "price_updates": [
+            {
+                "1741880324": "397000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313489106_1_1741569448_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "313489280",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 lt 블랙 XS",
+        "price_updates": [
+            {
+                "1741880324": "397000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313489280_1_1741569454_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318641173",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 그린 프랭크 오션",
+        "price_updates": [
+            {
+                "1741869170": "509000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318641173_1_1741869186_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "314891599",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 크래그 코튼로고 반팔M",
+        "price_updates": [
+            {
+                "1741872045": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314891599_1_1738416878_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "272470520",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아크멀티 롱슬리브 L",
+        "price_updates": [
+            {
+                "1741871271": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/272470520_1_1741871267_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "303390905",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 보로노이 팬츠 32",
+        "price_updates": [
+            {
+                "1741870306": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303390905_1_1741239132_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "294097023",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 코버트 가디건 플리스 후리스 자켓",
+        "price_updates": [
+            {
+                "1741870440": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294097023_1_1730156778_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "311071558",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 엠블럼 플리스후디 블랙 XXL",
+        "price_updates": [
+            {
+                "1741859687": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311071558_1_1740974852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "256199937",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[S] 아크테릭스 아톰LT 후디 정글",
+        "price_updates": [
+            {
+                "1741861889": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256199937_1_1735436477_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "314864431",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[국내 매장 새상품]아크테릭스 티셔츠 L",
+        "price_updates": [
+            {
+                "1741868872": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314864431_1_1741606176_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317081726",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 남성 후드 자켓 등산복 바람막이",
+        "price_updates": [
+            {
+                "1741859496": "268000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317081726_1_1741768091_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "217848198",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 제타sl 블랙 m 새제품급",
+        "price_updates": [
+            {
+                "1741865291": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/217848198_1_1716384754_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "318979114",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 세륨 LT 하일리데",
+        "price_updates": [
+            {
+                "1741864023": "726000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318979114_1_1740205093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "311244312",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 아크테릭스 델타 LT 후디 블랙 (구형)",
+        "price_updates": [
+            {
+                "1741864023": "259000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311244312_1_1736687174_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319418374",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 해비타트 L 사이즈",
+        "price_updates": [
+            {
+                "1741878226": "1270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319418374_1_1740392494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319608675",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[M] 24FW 아크테릭스 베타 AR 스톰후드",
+        "price_updates": [
+            {
+                "1741879421": "830000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319608675_1_1741246608_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "185202923",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 민트프린팅 그레이 반팔 티셔츠 s~m",
+        "price_updates": [
+            {
+                "1741878569": "67000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185202923_1_1713108485_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "284971337",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 DEMLO 남성 코트.M(100)",
+        "price_updates": [
+            {
+                "1741862649": "325000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284971337_1_1723892378_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "300072588",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 토튬sv L황금싸이즈",
+        "price_updates": [
+            {
+                "1741880213": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300072588_1_1731649901_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "316278895",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "택포) 아크테릭스 아르고스 기모 소프트쉘 자켓 m 100",
+        "price_updates": [
+            {
+                "1741867490": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316278895_1_1741927876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "311211858",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 ar 멀티버스 논후디 L",
+        "price_updates": [
+            {
+                "1741867846": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311211858_1_1741774855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "316958077",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[XL] 아크테릭스 시스템 A 오지 인슐레이티드 자켓 블랙",
+        "price_updates": [
+            {
+                "1741864023": "1244000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316958077_1_1741001747_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317384370",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "M>L교환 아크테릭스 토륨 후디 램파이어 LAMPYRE",
+        "price_updates": [
+            {
+                "1741884686": "504000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317384370_1_1741274782_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "319898996",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "XL 아크테릭스 아톰 LT 후디 킹피셔 (모델명 24108)",
+        "price_updates": [
+            {
+                "1741890396": "404000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319898996_1_1741739771_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315845024",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 모투스 아크워드 크루 SS 티셔츠 블랙 헤더 xl사이즈",
+        "price_updates": [
+            {
+                "1741878375": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315845024_1_1741770793_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "286534118",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 24FW 감마자켓 논후드(STRATUS) (L)",
+        "price_updates": [
+            {
+                "1741866022": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286534118_1_1739259643_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "298825741",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L] 아크테릭스 리프 아톰 LT 후디 울프 그레이 GEN1 젠1",
+        "price_updates": [
+            {
+                "1741864023": "519000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298825741_1_1730903239_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321979481",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베타 자켓",
+        "price_updates": [
+            {
+                "1741843223": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321979481_1_1741926799_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322409124",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 ar 후디",
+        "price_updates": [
+            {
+                "1741846989": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322409124_1_1741862495_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322471999",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 감마 후디 라지",
+        "price_updates": [
+            {
+                "1741821089": "385000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322471999_1_1741821126_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321119138",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[S] 아크테릭스 프로톤 LT 후디 보르도",
+        "price_updates": [
+            {
+                "1741846647": "229000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321119138_1_1741846662_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320832173",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "타임세일)아크테릭스 아톰 후디 s 95",
+        "price_updates": [
+            {
+                "1741781419": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320832173_1_1741864736_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320767810",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "M) 아크테릭스 아크워드 로고 SS 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741774308": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320767810_1_1741866000_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "320766632",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "L) 아크테릭스 아크멀티 버드 로고 롱슬리브 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741774308": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320766632_1_1741866011_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "311960693",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 오일러IS",
+        "price_updates": [
+            {
+                "1741833961": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311960693_1_1740023736_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "317375011",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "팔라스 아크테릭스 20fw 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741836702": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317375011_1_1741883015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "315089089",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 피슬 패딩 자켓 블랙 XL",
+        "price_updates": [
+            {
+                "1741778667": "1150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315089089_1_1741865872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321044689",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 커버트 가디건 L 사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1741751081": "195000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321044689_1_1741659575_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "322018631",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[XS]아크테릭스 스쿼미시 후디 블랙 사파이어",
+        "price_updates": [
+            {
+                "1741589669": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322018631_1_1741587768_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "314724458",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 알파sv 블랙 (메이드 캐나다)",
+        "price_updates": [
+            {
+                "1741658378": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314724458_1_1740131203_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:44"
+    },
+    {
+        "pid": "321219258",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 바람막이",
+        "price_updates": [
+            {
+                "1741227793": "53000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321219258_1_1741850215_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "320767380",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "XXL) 아크테릭스 아크멀티 버드 로고 SS 티셔츠 스톤 워시",
+        "price_updates": [
+            {
+                "1741275187": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320767380_1_1741865977_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "292299956",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 바람막이",
+        "price_updates": [
+            {
+                "1740655474": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292299956_1_1727940334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "219080979",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베일런스 veilance delmo jacket XL",
+        "price_updates": [
+            {
+                "1741211726": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219080979_1_1735178595_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "315366836",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스  패딩",
+        "price_updates": [
+            {
+                "1740397784": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315366836_1_1738631603_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "258321697",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 감마후디 mx 바람막이 팝니다.XL사이즈",
+        "price_updates": [
+            {
+                "1741254928": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258321697_1_1739966838_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "276446442",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아크멀티 버드 로고 SS 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1740888990": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276446442_1_1719748798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "310208830",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "M) 아크테릭스 누클리아이 SV 파카 램파이어",
+        "price_updates": [
+            {
+                "1741275187": "625000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310208830_1_1741865871_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "314690725",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "ㄷ1] 아크테릭스 바지, 29~30",
+        "price_updates": [
+            {
+                "1740130509": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314690725_1_1741871652_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-14 06:27:45"
+    },
+    {
+        "pid": "309903776",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 패딩",
+        "price_updates": [
+            {
+                "1736673745": "385000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309903776_1_1736980635_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:46"
+    },
+    {
+        "pid": "304877552",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "[L]아크테릭스 세륨 다크 엘릭시움",
+        "price_updates": [
+            {
+                "1737430510": "830000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304877552_1_1733651749_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:46"
+    },
+    {
+        "pid": "197682396",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스",
+        "price_updates": [
+            {
+                "1733682954": "239000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/197682396_1_1741040545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:46"
+    },
+    {
+        "pid": "258338987",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 노반베스트 조끼",
+        "price_updates": [
+            {
+                "1732229467": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258338987_1_1732682199_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:27:46"
+    },
+    {
+        "pid": "279860903",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 패딩 마카이",
+        "price_updates": [
+            {
+                "1721125150": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279860903_1_1727778690_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:46"
+    },
+    {
+        "pid": "316182470",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 리벳 다운코트 남 95",
+        "price_updates": [
+            {
+                "1741903649": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316182470_1_1741909134_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "322560883",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 롱 슬리브 긴팔 티셔츠 XL",
+        "price_updates": [
+            {
+                "1741860183": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322560883_1_1741860183_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "321451225",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베타LT 자켓 M 급처합니다",
+        "price_updates": [
+            {
+                "1741871536": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321451225_1_1741871530_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "320892367",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 제타 sl 2xl(xxl)",
+        "price_updates": [
+            {
+                "1741880164": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320892367_1_1741852919_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "322508296",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 블랙 L",
+        "price_updates": [
+            {
+                "1741841033": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322508296_1_1741841033_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "322519898",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 헤비웨이트 후디 블랙 M",
+        "price_updates": [
+            {
+                "1741845503": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322519898_1_1741876944_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "321135909",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 lt 정글 xxl 2xl",
+        "price_updates": [
+            {
+                "1741694490": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321135909_1_1741696646_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "319353509",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 아톰 후디xl 25ss 블랙 정품 판매합니다",
+        "price_updates": [
+            {
+                "1741735912": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319353509_1_1741746129_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:50"
+    },
+    {
+        "pid": "317494888",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 빔즈 아톰 후드 L 트랭퀄",
+        "price_updates": [
+            {
+                "1739549536": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317494888_1_1739550270_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:51"
+    },
+    {
+        "pid": "317699067",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 누클리아이sv 그라파이트M팝니다",
+        "price_updates": [
+            {
+                "1739834178": "660000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317699067_1_1739794963_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:51"
+    },
+    {
+        "pid": "316401690",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 베타LT 블랙 M",
+        "price_updates": [
+            {
+                "1739081196": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316401690_1_1739166005_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:51"
+    },
+    {
+        "pid": "308599536",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 후디 lt",
+        "price_updates": [
+            {
+                "1735436935": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308599536_1_1735436961_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:52"
+    },
+    {
+        "pid": "254665159",
+        "brands": [
+            "아크테릭스"
+        ],
+        "name": "아크테릭스 세륨 lt 후디 코발트문 (가격 내림)",
+        "price_updates": [
+            {
+                "1731856158": "425000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254665159_1_1741927133_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:27:52"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "pid": "109795386",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "c2h4 카모아노락",
+        "price_updates": [
+            {
+                "1742008874": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/109795386_1_1610162890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:33:18"
+    },
+    {
+        "pid": "103550317",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "c2h4 포토티 옐로우 S",
+        "price_updates": [
+            {
+                "1742008874": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/103550317_1_1599278013_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:33:18"
+    },
+    {
+        "pid": "293377570",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "마스터마인드 c2h4 알파인더스트리 후드",
+        "price_updates": [
+            {
+                "1741971166": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293377570_1_1728479804_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:33:18"
+    },
+    {
+        "pid": "311758879",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "넘버나인 c2h4 하이브리드 도킹팬츠 S",
+        "price_updates": [
+            {
+                "1741938601": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311758879_1_1736930049_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:33:18"
+    }
+]

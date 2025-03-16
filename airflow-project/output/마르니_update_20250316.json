@@ -1,0 +1,1202 @@
+[
+    {
+        "pid": "257744650",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 셔츠",
+        "price_updates": [
+            {
+                "1742110745": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257744650_1_1728908088_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "321029988",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니(MARNI) x 유니클로 와이드피트 턱 팬츠 슬랙스, M",
+        "price_updates": [
+            {
+                "1742109704": "52000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321029988_1_1742036383_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "319768557",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 후디티(정품/새상품)",
+        "price_updates": [
+            {
+                "1742110352": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319768557_1_1741928396_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "308728761",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 x 마르니 와이드 피트 턱 팬츠 블루 L사이즈",
+        "price_updates": [
+            {
+                "1742110257": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308728761_1_1741920553_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "220414070",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니/로고 자수 스트라이프 니트",
+        "price_updates": [
+            {
+                "1742108213": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220414070_1_1728997952_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "309101860",
+        "brands": [
+            "마르니"
+        ],
+        "name": "새상품/마르니/멀티짜임 헤링본 벨벳카라 코트",
+        "price_updates": [
+            {
+                "1742108213": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309101860_1_1741840534_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "178459657",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 트윌코트 50 (상태: 9.0/10)",
+        "price_updates": [
+            {
+                "1742107837": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/178459657_1_1740064619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "315576482",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 marni Wide Fit Pleated 팬츠",
+        "price_updates": [
+            {
+                "1742106079": "28000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315576482_1_1742106071_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322873593",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 테일러드 셋업 상의 xl 하의 l",
+        "price_updates": [
+            {
+                "1742106039": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322873593_1_1742018938_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322874079",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 콜라보 테일러드 슈트 셋업 상의 xl 하의 l",
+        "price_updates": [
+            {
+                "1742106051": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322874079_1_1742019086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "160078116",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 Marni 포켓 자켓",
+        "price_updates": [
+            {
+                "1742103741": "325000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/160078116_1_1700142141_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "315925357",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 MARNI 그레이 스웻셔츠",
+        "price_updates": [
+            {
+                "1742100200": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315925357_1_1741590094_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "303727047",
+        "brands": [
+            "마르니"
+        ],
+        "name": "Marni 마르니 모헤어 가디건 23fw",
+        "price_updates": [
+            {
+                "1742097075": "499000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303727047_1_1739621564_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "296619697",
+        "brands": [
+            "마르니"
+        ],
+        "name": "MARNI 마르니 울 트라우저 팬츠 팝니다",
+        "price_updates": [
+            {
+                "1742097946": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296619697_1_1740039548_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "243834561",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 모헤어 니트 (이동휘 착)",
+        "price_updates": [
+            {
+                "1742103373": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243834561_1_1737433559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "291284682",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 x 브루노보제토 프린팅 셔츠",
+        "price_updates": [
+            {
+                "1742103497": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291284682_1_1741102002_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322739351",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 18aw 체스터필드 코트",
+        "price_updates": [
+            {
+                "1742094524": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322739351_1_1741951513_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "253382599",
+        "brands": [
+            "마르니"
+        ],
+        "name": "(새상품) 유니클로 마르니 패딩 베스트 그린",
+        "price_updates": [
+            {
+                "1742099434": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253382599_1_1735356642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "285990457",
+        "brands": [
+            "마르니"
+        ],
+        "name": "(105)마르니 x 칼하트 콜라보 니트",
+        "price_updates": [
+            {
+                "1742098429": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285990457_1_1739790915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "319621436",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 모헤어 데님 플레어 팬츠",
+        "price_updates": [
+            {
+                "1742097075": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319621436_1_1741169516_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "316734331",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 패디드 플란넬 셔츠 48사이즈",
+        "price_updates": [
+            {
+                "1742098990": "470000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316734331_1_1741355209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "318350467",
+        "brands": [
+            "마르니"
+        ],
+        "name": "애즈클로(보세)_윈터 마르니 코트(블랙/검정)",
+        "price_updates": [
+            {
+                "1742099190": "37000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318350467_1_1739902559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "225121473",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 x 마르니 오버사이즈 유틸리티 자켓 XL",
+        "price_updates": [
+            {
+                "1742097807": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/225121473_1_1722492844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "321027195",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 x 마르니 오버사이즈 프린트 셔츠 베이지(2Xl)",
+        "price_updates": [
+            {
+                "1742096150": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321027195_1_1741456028_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "179415150",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 코쿤코트",
+        "price_updates": [
+            {
+                "1742094398": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179415150_1_1677511549_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "238489540",
+        "brands": [
+            "마르니"
+        ],
+        "name": "[52]마르니 화이트 셔츠",
+        "price_updates": [
+            {
+                "1742095601": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238489540_1_1704354040_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "313958619",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 패턴 데님 반팔 셔츠",
+        "price_updates": [
+            {
+                "1742093567": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313958619_1_1737965044_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "243559970",
+        "brands": [
+            "마르니"
+        ],
+        "name": "(48)마르니 백로고 프린팅 후드티",
+        "price_updates": [
+            {
+                "1742093769": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243559970_1_1740770941_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "253822815",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 와이드팬츠 새상품",
+        "price_updates": [
+            {
+                "1742091430": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253822815_1_1738216842_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "323021199",
+        "brands": [
+            "마르니"
+        ],
+        "name": "[M] 마르니x유니클로 그린 코듀로이 팬츠",
+        "price_updates": [
+            {
+                "1742085328": "24900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323021199_1_1742085328_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322925024",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 반팔 셔츠 48사이즈 국내 100~105사이즈",
+        "price_updates": [
+            {
+                "1742086273": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322925024_1_1742034016_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "321420757",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 Wide Fit Pleated Trousers Olive",
+        "price_updates": [
+            {
+                "1742068632": "77900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321420757_1_1742003593_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "275743776",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 니트",
+        "price_updates": [
+            {
+                "1742075875": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275743776_1_1725016045_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "190248594",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 니트",
+        "price_updates": [
+            {
+                "1742085739": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/190248594_1_1658478558_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "278437246",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 m",
+        "price_updates": [
+            {
+                "1742088758": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278437246_1_1723080068_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "316555837",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 디스트레스드 니트",
+        "price_updates": [
+            {
+                "1742083658": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316555837_1_1739208923_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "314492929",
+        "brands": [
+            "마르니"
+        ],
+        "name": "18ss 마르니 파자마팬츠",
+        "price_updates": [
+            {
+                "1742083989": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314492929_1_1738239239_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "238885328",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 컬러 블록 패널 후디",
+        "price_updates": [
+            {
+                "1742084860": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238885328_1_1696911021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "238135722",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 하프 코트 블루 L",
+        "price_updates": [
+            {
+                "1742079299": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238135722_1_1735953558_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "216409630",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니xH&M 롱 바람막이 자켓",
+        "price_updates": [
+            {
+                "1742073537": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/216409630_1_1691166090_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "316188634",
+        "brands": [
+            "마르니"
+        ],
+        "name": "[XL] 유니클로 X 마르니 다운베스트",
+        "price_updates": [
+            {
+                "1742088593": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316188634_1_1738993253_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "251556316",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 로고 인타르시아 스웨터 니트",
+        "price_updates": [
+            {
+                "1742085619": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251556316_1_1730390434_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "301691104",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 marni 셔츠 판매",
+        "price_updates": [
+            {
+                "1742039517": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301691104_1_1732192886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "306226580",
+        "brands": [
+            "마르니"
+        ],
+        "name": "MARNI 마르니 울 팬츠 바지 새제품",
+        "price_updates": [
+            {
+                "1742055806": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306226580_1_1741192838_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "260775562",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 MARNI 캐시미어 100% 가디건 카디건 니트 (새상품)",
+        "price_updates": [
+            {
+                "1742049314": "305000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260775562_1_1722487904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322934454",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 바람막이 / XL",
+        "price_updates": [
+            {
+                "1742036911": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322934454_1_1742036911_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322916107",
+        "brands": [
+            "마르니"
+        ],
+        "name": "[54]마르니 니트셔츠",
+        "price_updates": [
+            {
+                "1742031151": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322916107_1_1742031151_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "233381734",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니(marni) 정품 긴팔 롱슬리브셔츠 52사이즈(105~110)",
+        "price_updates": [
+            {
+                "1742050481": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233381734_1_1720617087_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322795167",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 데님",
+        "price_updates": [
+            {
+                "1742030140": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322795167_1_1741973146_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "321990744",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 유니클로 패딩베스트",
+        "price_updates": [
+            {
+                "1742047277": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321990744_1_1741575700_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "322462585",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로x마르니 니트조끼(3xl)",
+        "price_updates": [
+            {
+                "1742033488": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322462585_1_1741799596_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "321486458",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 화이트/브라운 투톤 윈드브레이커 48사이즈",
+        "price_updates": [
+            {
+                "1742034896": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321486458_1_1741353663_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "316237260",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 16aw 코트",
+        "price_updates": [
+            {
+                "1742029316": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316237260_1_1742093688_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "248706591",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 풀오버 셔츠",
+        "price_updates": [
+            {
+                "1742027817": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248706591_1_1708002007_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "317007783",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 턴업슬랙스",
+        "price_updates": [
+            {
+                "1742053887": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317007783_1_1739331990_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "279366719",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 H&M 트렌치 코트 54",
+        "price_updates": [
+            {
+                "1742052358": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279366719_1_1730481002_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "261130334",
+        "brands": [
+            "마르니"
+        ],
+        "name": "남자 명품티셔츠 마르니, 쟈딕앤볼테르",
+        "price_updates": [
+            {
+                "1742044332": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261130334_1_1723517250_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "258961743",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 슬렉스팬츠 46사이즈 팝니다",
+        "price_updates": [
+            {
+                "1742041930": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258961743_1_1718827790_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "249055226",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 톤다운블루 맥코트 48",
+        "price_updates": [
+            {
+                "1742054245": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249055226_1_1741647829_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "319604560",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 유틸리티자켓 L싸이즈",
+        "price_updates": [
+            {
+                "1742049732": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319604560_1_1740482226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "268407845",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 코튼 크루넥 루즈 크롭핏 니트",
+        "price_updates": [
+            {
+                "1742037310": "1090000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268407845_1_1741227150_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "313737708",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로x마르니 볼록테크 자켓 s급 팝니다",
+        "price_updates": [
+            {
+                "1742037377": "67000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313737708_1_1737865888_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "280087087",
+        "brands": [
+            "마르니"
+        ],
+        "name": "(L) 유니클로 마르니 콜라보 체크 트라우저 팬츠",
+        "price_updates": [
+            {
+                "1742052890": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280087087_1_1734107466_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "268408222",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 코튼 크루넥 루즈 크롭핏 니트 네이비",
+        "price_updates": [
+            {
+                "1742037310": "1090000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268408222_1_1741227124_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "321683056",
+        "brands": [
+            "마르니"
+        ],
+        "name": "30 MARNI 마르니 카키 코튼 팬츠 면바지 정품",
+        "price_updates": [
+            {
+                "1741958773": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321683056_1_1742104770_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "320826589",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로x마르니 오버사이즈 유틸리티 자켓 올리브 M",
+        "price_updates": [
+            {
+                "1742004346": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320826589_1_1741005173_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "289508864",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 반팔셔츠 L",
+        "price_updates": [
+            {
+                "1742022085": "349000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289508864_1_1741280571_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "296211671",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 유니클로 와이드피트턱팬츠",
+        "price_updates": [
+            {
+                "1742022547": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296211671_1_1730779213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:46"
+    },
+    {
+        "pid": "316504861",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 x 마르니 셔츠 XL 사이즈 팝니다",
+        "price_updates": [
+            {
+                "1741868455": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316504861_1_1739107498_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    },
+    {
+        "pid": "322383654",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 올리브 자켓 m사이즈 새것 판매합니다",
+        "price_updates": [
+            {
+                "1741769786": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322383654_1_1742033048_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    },
+    {
+        "pid": "321879346",
+        "brands": [
+            "마르니"
+        ],
+        "name": "30 MARNI 마르니 카키 코튼 치노팬츠 면바지 정품",
+        "price_updates": [
+            {
+                "1741516970": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321879346_1_1742104760_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    },
+    {
+        "pid": "314257823",
+        "brands": [
+            "마르니"
+        ],
+        "name": "[XL] 유니클로 x 마르니 자켓",
+        "price_updates": [
+            {
+                "1741789304": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314257823_1_1741590617_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    },
+    {
+        "pid": "321988191",
+        "brands": [
+            "마르니"
+        ],
+        "name": "(L)유니클로 마르니 오버사이즈 유틸리티 자켓",
+        "price_updates": [
+            {
+                "1741574507": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321988191_1_1741574507_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    },
+    {
+        "pid": "320882471",
+        "brands": [
+            "마르니"
+        ],
+        "name": "유니클로 마르니 팬츠 L",
+        "price_updates": [
+            {
+                "1741047979": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320882471_1_1741047979_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    },
+    {
+        "pid": "309808101",
+        "brands": [
+            "마르니"
+        ],
+        "name": "마르니 자켓 남성100",
+        "price_updates": [
+            {
+                "1736000327": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309808101_1_1736000327_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:47"
+    }
+]

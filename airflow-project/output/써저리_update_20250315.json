@@ -1,0 +1,674 @@
+[
+    {
+        "pid": "254176976",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 프로세스 006",
+        "price_updates": [
+            {
+                "1742016206": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254176976_1_1729513929_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322849173",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 스카쟌",
+        "price_updates": [
+            {
+                "1742011693": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322849173_1_1742011693_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322110757",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 카모 더블 폴딩 팬츠",
+        "price_updates": [
+            {
+                "1742012735": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322110757_1_1741618843_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "320013288",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(L)초판 써저리 클로버 데님 팬츠",
+        "price_updates": [
+            {
+                "1742010739": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320013288_1_1740661520_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "292917968",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 가죽자켓",
+        "price_updates": [
+            {
+                "1742008203": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292917968_1_1728253224_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "318522568",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 데님팬츠 L",
+        "price_updates": [
+            {
+                "1742009147": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318522568_1_1740109763_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "319580913",
+        "brands": [
+            "써저리"
+        ],
+        "name": "Surgery(써저리) HPG 후드",
+        "price_updates": [
+            {
+                "1742007681": "71250"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319580913_1_1740549798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "318526053",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 트리플 스컬 스웻팬츠",
+        "price_updates": [
+            {
+                "1742009147": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318526053_1_1740109812_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "262954597",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 테크니컬 자켓/팬츠 s 사이즈 팝니다",
+        "price_updates": [
+            {
+                "1742008935": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262954597_1_1729224279_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "317932325",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 가죽자켓 m (마지막가격)",
+        "price_updates": [
+            {
+                "1742002815": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317932325_1_1742002808_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322302601",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 바시티 ver.2 (size L)",
+        "price_updates": [
+            {
+                "1742000899": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322302601_1_1741733929_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "317326162",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 팀버랜드 콜라보 리미티드 1/1 봄버",
+        "price_updates": [
+            {
+                "1741999182": "1600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317326162_1_1740651305_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "313952625",
+        "brands": [
+            "써저리"
+        ],
+        "name": "L 써저리 본 엠보싱 마원 자켓 블랙",
+        "price_updates": [
+            {
+                "1741999821": "379000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313952625_1_1739678406_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "226878997",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 코스트퍼킬로 모터자켓 M",
+        "price_updates": [
+            {
+                "1741998211": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226878997_1_1741175570_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "313486043",
+        "brands": [
+            "써저리"
+        ],
+        "name": "ONE)) Sur8ery 써저리 리버시블 본 퍼 자켓",
+        "price_updates": [
+            {
+                "1742001838": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313486043_1_1740975904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322796935",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 바시티",
+        "price_updates": [
+            {
+                "1741975302": "243000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322796935_1_1741975358_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "318947524",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 노매뉴얼 4Z TRACKJACKET - 테크니컬 트랙 자켓",
+        "price_updates": [
+            {
+                "1741998211": "43000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318947524_1_1741998388_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322174795",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 디스트로이드진",
+        "price_updates": [
+            {
+                "1741979496": "198000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322174795_1_1741669562_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322523959",
+        "brands": [
+            "써저리"
+        ],
+        "name": "[S] 써저리 미르 스카잔",
+        "price_updates": [
+            {
+                "1741974584": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322523959_1_1741850572_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "321430669",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 퍼 자켓 ( one size )",
+        "price_updates": [
+            {
+                "1741976648": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321430669_1_1742014761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "321360119",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 팝업스토어 한정 리미티드 자켓",
+        "price_updates": [
+            {
+                "1741976645": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321360119_1_1741285687_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322772002",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 버뮤다 폴딩팬츠 핑크",
+        "price_updates": [
+            {
+                "1741962818": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322772002_1_1741962818_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322746091",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(L)써저리 앞뒤 리버시블 후드자켓",
+        "price_updates": [
+            {
+                "1741960473": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322746091_1_1741955760_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322446655",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 레더자켓 M사이즈",
+        "price_updates": [
+            {
+                "1741969188": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322446655_1_1741943685_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322094420",
+        "brands": [
+            "써저리"
+        ],
+        "name": "S 써저리 ma-1 카키 자켓",
+        "price_updates": [
+            {
+                "1741965779": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322094420_1_1741612921_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322650843",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 ma-1 자켓 L",
+        "price_updates": [
+            {
+                "1741965701": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322650843_1_1741917703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "321125633",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 후드",
+        "price_updates": [
+            {
+                "1741964347": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321125633_1_1741169447_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "321701520",
+        "brands": [
+            "써저리"
+        ],
+        "name": "surgery clover logo hoodi 써저리 클로버 후드",
+        "price_updates": [
+            {
+                "1741951542": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321701520_1_1741485221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "320849815",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 오블리크 라인 컨실 블랙 카코 진 M",
+        "price_updates": [
+            {
+                "1741950023": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320849815_1_1741777584_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "292604510",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 데님 m",
+        "price_updates": [
+            {
+                "1741970179": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292604510_1_1734487169_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "259254449",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 언본소사이어티",
+        "price_updates": [
+            {
+                "1741966447": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259254449_1_1716093759_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "305651230",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 언본소사이어티 후드",
+        "price_updates": [
+            {
+                "1741966447": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305651230_1_1741490883_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "312841929",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리메이크 벌룬 데님",
+        "price_updates": [
+            {
+                "1741939034": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312841929_1_1737435954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "247779577",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(급처) 써저리 클로버 데님 S 사이즈",
+        "price_updates": [
+            {
+                "1741942499": "89900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247779577_1_1741170881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "282060995",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(새상품) 써저리 surgery double jeans 'black' (",
+        "price_updates": [
+            {
+                "1741958449": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282060995_1_1741697409_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "236960478",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리[SURGERY] [M] 리메이크 데님 버뮤다 팬츠 블랙",
+        "price_updates": [
+            {
+                "1741967367": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236960478_1_1734918555_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "291906192",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 집업 점퍼 피그먼트팬츠 디테일 바시티 자켓 M",
+        "price_updates": [
+            {
+                "1741957750": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291906192_1_1736858649_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "304317813",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(S유일매물,새상품)써저리 커브 레이어드 라이더 자켓",
+        "price_updates": [
+            {
+                "1741965030": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304317813_1_1741936263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "312186043",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 2m 곱창바지 L 미발매제품 판매",
+        "price_updates": [
+            {
+                "1741939034": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312186043_1_1737695821_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "313503787",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(네고o)새상품 써저리 언본소사이어티 자켓(써져리) L사이즈",
+        "price_updates": [
+            {
+                "1741952347": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313503787_1_1741850025_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "322620281",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리미티드 백팩팬츠(초기버전)",
+        "price_updates": [
+            {
+                "1741880088": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322620281_1_1741963505_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:30:34"
+    },
+    {
+        "pid": "302104115",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 30도 진 M 사이즈",
+        "price_updates": [
+            {
+                "1741874634": "57000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302104115_1_1741931932_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:30:35"
+    }
+]

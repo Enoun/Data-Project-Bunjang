@@ -1,0 +1,162 @@
+[
+    {
+        "pid": "322806759",
+        "brands": [
+            "mm6"
+        ],
+        "name": "L) mm6 마르지엘라 로고 터틀넥 네이비 블랙",
+        "price_updates": [
+            {
+                "1742097839": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322806759_1_1741995795_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "245951276",
+        "brands": [
+            "mm6"
+        ],
+        "name": "(새상품) 메종 마르지엘라 자켓 블레이저 mm6 스트라이프 금장 자켓",
+        "price_updates": [
+            {
+                "1742103220": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245951276_1_1737460386_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "306720235",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 마르지엘라 스웻셔츠",
+        "price_updates": [
+            {
+                "1742097928": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306720235_1_1736346105_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "322135169",
+        "brands": [
+            "mm6"
+        ],
+        "name": "[52] 마르지엘라 mm6 데님 자켓 흑청",
+        "price_updates": [
+            {
+                "1742083972": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322135169_1_1741647852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "322935537",
+        "brands": [
+            "mm6"
+        ],
+        "name": "새상품 mm6 메종 마르지엘라 넘버링 니트베스트 M,L",
+        "price_updates": [
+            {
+                "1742037247": "535000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322935537_1_1742037247_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "258498686",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 x 오프닝세레모니 가디건",
+        "price_updates": [
+            {
+                "1742054624": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258498686_1_1739864101_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "280082396",
+        "brands": [
+            "mm6"
+        ],
+        "name": "마르지엘라 mm6 티셔츠 M",
+        "price_updates": [
+            {
+                "1742055698": "174000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280082396_1_1730963129_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "314690918",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 엠엠식스 모노 후디 xl 팝니다",
+        "price_updates": [
+            {
+                "1742040933": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314690918_1_1741607900_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "295437686",
+        "brands": [
+            "mm6"
+        ],
+        "name": "mm6 마르지엘라 오버사이즈 코트 40",
+        "price_updates": [
+            {
+                "1742039865": "375000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295437686_1_1740544061_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    },
+    {
+        "pid": "258928487",
+        "brands": [
+            "mm6"
+        ],
+        "name": "[L]슈프림 x mm6 메종 마르지엘라",
+        "price_updates": [
+            {
+                "1742016895": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258928487_1_1740883225_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:42:15"
+    }
+]

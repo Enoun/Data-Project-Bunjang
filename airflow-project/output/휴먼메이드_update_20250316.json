@@ -1,0 +1,4658 @@
+[
+    {
+        "pid": "321854808",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 롱슬리브 티셔츠 화이트 XL [새상품]",
+        "price_updates": [
+            {
+                "1742110756": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321854808_1_1741921740_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "315772190",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[M]휴먼메이드 덕 코위찬 화이트",
+        "price_updates": [
+            {
+                "1742110851": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315772190_1_1741752874_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "315634033",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L]걸스돈크라이 휴먼메이드 코듀로이 자켓 화이트",
+        "price_updates": [
+            {
+                "1742110851": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315634033_1_1739115480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318535587",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "XL 휴먼메이드 워크 자켓",
+        "price_updates": [
+            {
+                "1742110718": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318535587_1_1741845043_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318538294",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "XL 휴먼메이드 후드 자켓",
+        "price_updates": [
+            {
+                "1742110712": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318538294_1_1741845030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "283175264",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 호랑이 화이트 티셔츠",
+        "price_updates": [
+            {
+                "1742110793": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283175264_1_1727768780_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318535263",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "XL 휴먼메이드 리버시블 요코스카 자켓",
+        "price_updates": [
+            {
+                "1742110729": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318535263_1_1741845059_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "280584091",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 X 스타워즈 그래픽 티셔츠 (화이트)",
+        "price_updates": [
+            {
+                "1742110789": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280584091_1_1730376600_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322793138",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 삿포로 반팔",
+        "price_updates": [
+            {
+                "1742109900": "42000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322793138_1_1742050426_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "263132045",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 레오파드 워크데님자켓",
+        "price_updates": [
+            {
+                "1742110281": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263132045_1_1726106850_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "280076085",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 피너츠 반팔 티셔츠 L",
+        "price_updates": [
+            {
+                "1742109775": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280076085_1_1721888034_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "255477528",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 롱슬리브 블랙 L",
+        "price_updates": [
+            {
+                "1742109937": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255477528_1_1710854995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "292646557",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "humanmade 휴먼메이드 북극곰 XXL(2XL)",
+        "price_updates": [
+            {
+                "1742109429": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292646557_1_1731555901_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318783244",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 로우게이지 니트 스웨터 네이비",
+        "price_updates": [
+            {
+                "1742108163": "395000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318783244_1_1742001793_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "268051797",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(S)새상품 휴먼메이드 그래픽 호랑이 반팔티",
+        "price_updates": [
+            {
+                "1742108214": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268051797_1_1728102819_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "235885368",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(M) 휴먼메이드 HUMAN MADE 에이셉라키 데님자켓",
+        "price_updates": [
+            {
+                "1742108090": "730000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/235885368_1_1737294434_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "290035998",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 코치 자켓 네이비",
+        "price_updates": [
+            {
+                "1742107654": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290035998_1_1740583005_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "251879107",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 롱슬리브 북극곰 맨투맨",
+        "price_updates": [
+            {
+                "1742107541": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251879107_1_1736549786_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "323082305",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "언더커버 x 휴먼메이드 맨투맨",
+        "price_updates": [
+            {
+                "1742105512": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323082305_1_1742105512_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322900171",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 니트 L사이즈 극미중고",
+        "price_updates": [
+            {
+                "1742104615": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322900171_1_1742026397_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "323080157",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 포켓티셔츠 블랙 하라주쿠한정 XL",
+        "price_updates": [
+            {
+                "1742104950": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323080157_1_1742104950_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322649131",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하트 집업 (M)",
+        "price_updates": [
+            {
+                "1742104505": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322649131_1_1741916457_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321729421",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 블랙 xl",
+        "price_updates": [
+            {
+                "1742104759": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321729421_1_1742003447_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321581114",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 포켓티셔츠 시부야한정 화이트 XL",
+        "price_updates": [
+            {
+                "1742104987": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321581114_1_1742104983_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "300029415",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하트 티셔츠",
+        "price_updates": [
+            {
+                "1742106428": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300029415_1_1731449587_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "320898147",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 x 브루클린머신웍스 x 베르디 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1742106667": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320898147_1_1741057618_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "299614027",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 스웻셔츠 XL",
+        "price_updates": [
+            {
+                "1742105882": "171000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299614027_1_1742010863_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "280327662",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 검노 2XL(105)",
+        "price_updates": [
+            {
+                "1742105435": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280327662_1_1740133145_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "313597838",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XXL]휴먼메이드 그래픽 티셔츠 오리",
+        "price_updates": [
+            {
+                "1742106899": "147000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313597838_1_1741529606_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "309479280",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 빅터 빅터 드리즐러 자켓",
+        "price_updates": [
+            {
+                "1742104169": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309479280_1_1741266906_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "290656866",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 패치드 밀리터리셔츠 L",
+        "price_updates": [
+            {
+                "1742106769": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290656866_1_1741136739_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318132442",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 롱슬리브 티셔츠 XXL",
+        "price_updates": [
+            {
+                "1742105869": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318132442_1_1739803349_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "288237220",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새상품] 휴먼메이드 스타워즈 반팔티 2xl",
+        "price_updates": [
+            {
+                "1742104320": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288237220_1_1725698168_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "320374428",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(블랙,화이트)휴먼메이드 티셔츠팩 L",
+        "price_updates": [
+            {
+                "1742105054": "84000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320374428_1_1740822645_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "239913294",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 크루넥 맨투맨 그레이-F101617",
+        "price_updates": [
+            {
+                "1742105431": "295000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239913294_1_1697695867_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322880382",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 베어 니트 스웨터 xxl",
+        "price_updates": [
+            {
+                "1742102371": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322880382_1_1742020799_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322591851",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "정품_ 휴먼메이드 코치자켓 (M)",
+        "price_updates": [
+            {
+                "1742097309": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322591851_1_1741886311_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "292780025",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 xxl",
+        "price_updates": [
+            {
+                "1742103423": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292780025_1_1737972118_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322481377",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 24SS 용 그래픽 티셔츠",
+        "price_updates": [
+            {
+                "1742097396": "66500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322481377_1_1741909241_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "283034000",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하트티 ㅡ",
+        "price_updates": [
+            {
+                "1742100440": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283034000_1_1722781732_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "305424047",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 리트리버 워크자켓 L",
+        "price_updates": [
+            {
+                "1742102124": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305424047_1_1733894606_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "303367920",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 ma1 자켓",
+        "price_updates": [
+            {
+                "1742102444": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303367920_1_1732961656_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "275926174",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 인디고 티셔츠 (L)",
+        "price_updates": [
+            {
+                "1742100678": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275926174_1_1736424917_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "254744928",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 XL 새상품 팝니다",
+        "price_updates": [
+            {
+                "1742101563": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254744928_1_1721190385_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "280911549",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 시부야 파르코 XL",
+        "price_updates": [
+            {
+                "1742100614": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280911549_1_1721913409_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "320593388",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 알로하 셔츠",
+        "price_updates": [
+            {
+                "1742099860": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320593388_1_1741521110_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322879026",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 래더자켓 판매합니다. 오늘만할인",
+        "price_updates": [
+            {
+                "1742099391": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322879026_1_1742099301_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "315921128",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 티셔츠 3팩 M",
+        "price_updates": [
+            {
+                "1742102127": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315921128_1_1739201840_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "323042413",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 에니멀 팬츠",
+        "price_updates": [
+            {
+                "1742093738": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323042413_1_1742093738_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321709775",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 심플로고 후드티 xl",
+        "price_updates": [
+            {
+                "1742097847": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321709775_1_1742029509_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "263581893",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "오츠모플라자 휴먼메이드 베르디 롱슬리브",
+        "price_updates": [
+            {
+                "1742103058": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263581893_1_1737903832_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "286530026",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[2XL] 휴먼메이드 케이코 소오토메 티셔츠 팝니다.",
+        "price_updates": [
+            {
+                "1742100601": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286530026_1_1731336501_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318488497",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 헤비웨이트 스웨트셔츠 블루(맨투맨)2Xl,xl",
+        "price_updates": [
+            {
+                "1742100344": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318488497_1_1741220136_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322860746",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 조끼 반팔 베스트",
+        "price_updates": [
+            {
+                "1742094615": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322860746_1_1742015241_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "262902321",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 흑청바지",
+        "price_updates": [
+            {
+                "1742097195": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262902321_1_1721655928_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "315628323",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 치노 m",
+        "price_updates": [
+            {
+                "1742097529": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315628323_1_1738740931_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321981420",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 히코리 엔지니어 자켓",
+        "price_updates": [
+            {
+                "1742095074": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321981420_1_1741570879_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321984836",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 옴브레 울 자켓",
+        "price_updates": [
+            {
+                "1742095083": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321984836_1_1741574017_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "282557929",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 네이비 L",
+        "price_updates": [
+            {
+                "1742099428": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282557929_1_1723502828_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321982697",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 칼라 자수 하프집업 셔츠",
+        "price_updates": [
+            {
+                "1742095078": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321982697_1_1741574086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "243768918",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[M] 휴먼메이드 카우스 후드 화이트",
+        "price_updates": [
+            {
+                "1742099358": "415000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243768918_1_1738824756_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "299888873",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 디키즈 코튼팬츠 S",
+        "price_updates": [
+            {
+                "1742097759": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299888873_1_1733213868_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "318776235",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 덱자켓 올리브 XXL",
+        "price_updates": [
+            {
+                "1742096496": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318776235_1_1741933108_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "313133006",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL]휴먼메이드 밀리터리 하프집",
+        "price_updates": [
+            {
+                "1742097318": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313133006_1_1741701136_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "317355243",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "HUMAN MADE 휴먼메이드 하트 로고 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742100059": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317355243_1_1739520697_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "317810986",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "Human made 휴먼메이드 오리 티셔츠 L사이즈",
+        "price_updates": [
+            {
+                "1742099118": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317810986_1_1739684824_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "316198640",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티셔츠 블랙 xl",
+        "price_updates": [
+            {
+                "1742096753": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316198640_1_1738996035_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "314975676",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드x엔드 스시 티셔츠L",
+        "price_updates": [
+            {
+                "1742097752": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314975676_1_1741910276_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "306861277",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새상품] 휴먼메이드 맨투맨 그레이 M size",
+        "price_updates": [
+            {
+                "1742097636": "182000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306861277_1_1742097681_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "307146565",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(미개봉)휴먼메이드 XXL 플리스 후드 그린",
+        "price_updates": [
+            {
+                "1742096735": "540000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307146565_1_1734686371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322068832",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[2XL/1회착] 휴먼메이드 드래곤 셔츠 블랙",
+        "price_updates": [
+            {
+                "1742093930": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322068832_1_1741607852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "320697677",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 데님 자켓",
+        "price_updates": [
+            {
+                "1742094983": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320697677_1_1740942325_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "211089213",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 2023 SS Lookbook 룩북",
+        "price_updates": [
+            {
+                "1742098060": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/211089213_1_1709601510_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322086569",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "XL)휴먼메이드 베르디 걸스돈크라이 트랙자켓(블랙)",
+        "price_updates": [
+            {
+                "1742096082": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322086569_1_1741610621_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "319767428",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 진돗개 맨투맨XL 팝니다",
+        "price_updates": [
+            {
+                "1742098519": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319767428_1_1742100969_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "316477910",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 롱슬이브 스트라이프 화이트 L",
+        "price_updates": [
+            {
+                "1742098017": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316477910_1_1739101161_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "321949747",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 클래식 스웻셔츠XXL",
+        "price_updates": [
+            {
+                "1742092012": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321949747_1_1741826173_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "322818109",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "Human made 휴먼메이드 밀리터리 치노 그레이 L 34",
+        "price_updates": [
+            {
+                "1742090028": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322818109_1_1742003521_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "283606894",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 x 카우스 그래픽 #4 블랙 반팔 판매합니다",
+        "price_updates": [
+            {
+                "1742098004": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283606894_1_1736709045_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "319847920",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 맨투맨",
+        "price_updates": [
+            {
+                "1742095576": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319847920_1_1741223884_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "320965688",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 3XL",
+        "price_updates": [
+            {
+                "1742091258": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320965688_1_1741835773_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "312230150",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 후드 판매",
+        "price_updates": [
+            {
+                "1742095883": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312230150_1_1742095945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "293339069",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 데님 워크자켓 인디고",
+        "price_updates": [
+            {
+                "1742095952": "433200"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293339069_1_1741748226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "259408510",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 맨투맨 XXL",
+        "price_updates": [
+            {
+                "1742093325": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259408510_1_1737947368_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "248366747",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(XL) 휴먼메이드 스웨트셔츠",
+        "price_updates": [
+            {
+                "1742093480": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248366747_1_1741310893_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "269767986",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[3XL]휴먼메이드 반팔 티셔츠#19",
+        "price_updates": [
+            {
+                "1742096491": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/269767986_1_1722433337_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "319424239",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 북극곰 반팔 티셔츠 2xl",
+        "price_updates": [
+            {
+                "1742094308": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319424239_1_1740560371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "320652564",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[M] 휴먼메이드 하트 로고 반팔 (완전 새상품)",
+        "price_updates": [
+            {
+                "1742090419": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320652564_1_1741143334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "291735550",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새상품] 휴먼메이드 그래픽 티셔츠 #13 (블랙 L)",
+        "price_updates": [
+            {
+                "1742094483": "131000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291735550_1_1741698994_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:35"
+    },
+    {
+        "pid": "291735550",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새상품] 휴먼메이드 그래픽 티셔츠 #13 (블랙 L)",
+        "price_updates": [
+            {
+                "1742094483": "131000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291735550_1_1741698994_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "311573558",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 빅로고 오버핏 울 바시티 점퍼",
+        "price_updates": [
+            {
+                "1742095149": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311573558_1_1736842357_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "316138997",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 플리스 자켓L 풀패키징",
+        "price_updates": [
+            {
+                "1742094308": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316138997_1_1738977770_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "291721671",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새상품] 휴먼메이드 - 츠리아미 스웨트 셔츠 (화이트 XL)",
+        "price_updates": [
+            {
+                "1742094483": "325000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291721671_1_1731433944_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "309011307",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 S",
+        "price_updates": [
+            {
+                "1742090624": "66000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309011307_1_1735883872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "297368947",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 24ss coverall jacket / 휴먼메이드 청자켓",
+        "price_updates": [
+            {
+                "1742094991": "617500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297368947_1_1734947796_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318488658",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 3팩 티셔츠 화이트 XL 판매합니다",
+        "price_updates": [
+            {
+                "1742095332": "78000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318488658_1_1740204977_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "315602613",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 x 언더커버 라스트올지2 바시티자켓",
+        "price_updates": [
+            {
+                "1742093400": "1280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315602613_1_1741489293_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "308415823",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔 xl",
+        "price_updates": [
+            {
+                "1742092738": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308415823_1_1735309041_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "307845302",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 스톰 카우보이 1954타입 청자켓 L사이즈",
+        "price_updates": [
+            {
+                "1742094985": "665000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307845302_1_1735076015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "290757964",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티 2XL 중고",
+        "price_updates": [
+            {
+                "1742092528": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290757964_1_1741323337_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "292028652",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[2XL] 휴먼메이드 코치 자켓 블렉",
+        "price_updates": [
+            {
+                "1742092107": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292028652_1_1737211943_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "285664297",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[ 2XL ] 휴먼메이드 그래픽 티셔츠 06",
+        "price_updates": [
+            {
+                "1742091850": "259000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285664297_1_1724292311_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "294680295",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 bmx 롱슬리브 팝니다",
+        "price_updates": [
+            {
+                "1742092499": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294680295_1_1738465315_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "218697712",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[M] 리바이스 휴먼메이드 트러커자켓",
+        "price_updates": [
+            {
+                "1742090769": "1050000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218697712_1_1727603190_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "303610534",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하트 티셔츠 블랙 L",
+        "price_updates": [
+            {
+                "1742089323": "104500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303610534_1_1734414400_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "242420845",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 코치 자켓 블루 S 팝니다",
+        "price_updates": [
+            {
+                "1742092499": "359000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242420845_1_1732054218_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "222206954",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새상품][3XL]휴먼메이드 타이거 포켓 티셔츠",
+        "price_updates": [
+            {
+                "1742090560": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/222206954_1_1725510139_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "320028792",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 x 카우스 반팔티 화이트",
+        "price_updates": [
+            {
+                "1742090592": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320028792_1_1741915465_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318968033",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "베르디 휴먼메이드 빅 피자후디화이트 2XL",
+        "price_updates": [
+            {
+                "1742092786": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318968033_1_1740201535_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "319834318",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[ XXL ] 휴먼메이드 빅터 빅터 롱슬리브 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1742091850": "289000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319834318_1_1740578371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "303479089",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 m65 유틸리티 필드자켓 (카키)",
+        "price_updates": [
+            {
+                "1742090464": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303479089_1_1740370720_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "319545991",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(미착용) 휴먼메이드 롱슬리브 xxl 사이즈 판매 합니다.",
+        "price_updates": [
+            {
+                "1742091122": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319545991_1_1740460281_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321691047",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하트 반팔",
+        "price_updates": [
+            {
+                "1742088442": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321691047_1_1741441799_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321229993",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티 110 3xl",
+        "price_updates": [
+            {
+                "1742080412": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321229993_1_1741243586_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321059803",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 human made TSURIAMI SWEATSHIRT XL",
+        "price_updates": [
+            {
+                "1742079459": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321059803_1_1741827874_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "296147125",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 xxl",
+        "price_updates": [
+            {
+                "1742089252": "73000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296147125_1_1738807956_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "277159186",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 XXL",
+        "price_updates": [
+            {
+                "1742083451": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277159186_1_1724195183_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "261644664",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 패턴 반팔셔츠",
+        "price_updates": [
+            {
+                "1742083487": "134000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261644664_1_1733636409_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "303566027",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[2XL] 휴먼메이드 레이싱 자켓 블랙",
+        "price_updates": [
+            {
+                "1742086283": "489000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303566027_1_1742095234_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "279798121",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 삿포로 로고티셔츠 2XL",
+        "price_updates": [
+            {
+                "1742084991": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279798121_1_1722765101_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "249432721",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "롱하우스 코위찬 휴먼메이드 패턴",
+        "price_updates": [
+            {
+                "1742071016": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249432721_1_1737109101_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "301428618",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 래글런 롱슬리브 블랙",
+        "price_updates": [
+            {
+                "1742088949": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301428618_1_1736326093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "259798074",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 더블니 xl팝니다",
+        "price_updates": [
+            {
+                "1742087169": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259798074_1_1713025676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "288717698",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카고 반바지 L사이즈 새상품",
+        "price_updates": [
+            {
+                "1742086388": "357000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288717698_1_1738734474_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "288518424",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 로우게이지 가디건 크림색",
+        "price_updates": [
+            {
+                "1742089254": "297000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288518424_1_1733619033_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "319841117",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하프집 풀오버 xl",
+        "price_updates": [
+            {
+                "1742084877": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319841117_1_1741590683_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "279516852",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 3팩세트  (L)",
+        "price_updates": [
+            {
+                "1742084442": "77000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279516852_1_1723215759_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "263536665",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 남성 복서브리프 네이비 (M)",
+        "price_updates": [
+            {
+                "1742084398": "37000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263536665_1_1733701853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320160700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "238352162",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 humanmade 래글런 호랑이 니트 스웨터",
+        "price_updates": [
+            {
+                "1742086036": "499000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238352162_1_1734755347_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318903043",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[새제품]휴먼메이드 치노 팬츠 L 베이지",
+        "price_updates": [
+            {
+                "1742073744": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318903043_1_1740153717_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "317988033",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 요코스카 쇼츠 그린 s",
+        "price_updates": [
+            {
+                "1742087650": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317988033_1_1739760313_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "293252427",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 LS 티셔츠 #2 블랙 S",
+        "price_updates": [
+            {
+                "1742085178": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293252427_1_1728433783_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "310695028",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 헤링본 페인터 팬츠 베이지 L",
+        "price_updates": [
+            {
+                "1742078184": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310695028_1_1737531419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318548053",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[ M ]휴먼메이드 그래픽 롱슬리브 티셔츠 네이비",
+        "price_updates": [
+            {
+                "1742086486": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318548053_1_1739993161_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "267277049",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "새상품  휴먼메이드  코듀로이 쇼츠 반바지   판매",
+        "price_updates": [
+            {
+                "1742076935": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/267277049_1_1716888319_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "319841885",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 가먼트 다이드 페인터 팬츠  xl",
+        "price_updates": [
+            {
+                "1742084877": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319841885_1_1741590705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "288185762",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 코치자켓 네이비 m 새상품 팔아요",
+        "price_updates": [
+            {
+                "1742081264": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288185762_1_1740005936_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "268120327",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 리바이스 501 인디고 1944 진 34 사이즈",
+        "price_updates": [
+            {
+                "1742073744": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268120327_1_1733482400_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "288022440",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 케이코 소오토메 티셔츠 XL",
+        "price_updates": [
+            {
+                "1742083307": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288022440_1_1732126028_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "320437186",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 헤비웨이트 스웨트셔츠 블루(맨투맨)2Xl,xl",
+        "price_updates": [
+            {
+                "1742084817": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320437186_1_1741596166_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "308871129",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "언더커버 x 휴먼메이드 바시티자켓 라스트올지 블랙 사이즈L",
+        "price_updates": [
+            {
+                "1742080585": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308871129_1_1741751617_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322985598",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[Large] 휴먼메이드 플리스 베스트",
+        "price_updates": [
+            {
+                "1742051580": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322985598_1_1742051580_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322904629",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 피자후디 XXL",
+        "price_updates": [
+            {
+                "1742027648": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322904629_1_1742027648_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322949873",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 하프집 스웻셔츠 그레이",
+        "price_updates": [
+            {
+                "1742041615": "329000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322949873_1_1742041615_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321922714",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 롱슬리브",
+        "price_updates": [
+            {
+                "1742057524": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321922714_1_1741571396_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322748932",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 롱 슬리브",
+        "price_updates": [
+            {
+                "1742035965": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322748932_1_1741954871_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322475144",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 후쿠오카 한정 호랑이",
+        "price_updates": [
+            {
+                "1742033887": "87300"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322475144_1_1741824151_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322116159",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL]휴먼메이드 바시티 자켓 타이거 블랙",
+        "price_updates": [
+            {
+                "1742053289": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322116159_1_1741619720_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322177812",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 스트라이프 B.D 셔츠 블루",
+        "price_updates": [
+            {
+                "1742034192": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322177812_1_1741670723_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321832991",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠",
+        "price_updates": [
+            {
+                "1742057558": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321832991_1_1741505002_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "320824712",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 2XL",
+        "price_updates": [
+            {
+                "1742054463": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320824712_1_1742054474_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321318236",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 롱슬리브",
+        "price_updates": [
+            {
+                "1742059382": "161500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321318236_1_1741972927_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "320823873",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 인디고 2XL",
+        "price_updates": [
+            {
+                "1742054487": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320823873_1_1741011534_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322816604",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 아이노우니고 티셔츠 [ XL ] 번장 유일 정품",
+        "price_updates": [
+            {
+                "1742028471": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322816604_1_1742011868_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321419567",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L]휴먼메이드 밀리터리 코트 카키",
+        "price_updates": [
+            {
+                "1742053289": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321419567_1_1741354607_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "238947340",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "Human made 휴먼메이드",
+        "price_updates": [
+            {
+                "1742050845": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238947340_1_1696942859_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322752015",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "크림 xxl]새상품 2xl휴먼메이드 카우스 압구정 오픈기념 진돗개 반팔",
+        "price_updates": [
+            {
+                "1742028117": "239000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322752015_1_1741955934_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "287355234",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔",
+        "price_updates": [
+            {
+                "1742058469": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287355234_1_1739372967_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "314111665",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔",
+        "price_updates": [
+            {
+                "1742029162": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314111665_1_1739939560_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "266585665",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드후드 xxl",
+        "price_updates": [
+            {
+                "1742061629": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/266585665_1_1741841405_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318736908",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 바람막이 XXL",
+        "price_updates": [
+            {
+                "1742061629": "558000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318736908_1_1740081261_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "317969360",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 xxl",
+        "price_updates": [
+            {
+                "1742051478": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317969360_1_1741192623_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "317969600",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 xxl 반팔",
+        "price_updates": [
+            {
+                "1742051478": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317969600_1_1741192672_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "302497363",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 니트 xxl",
+        "price_updates": [
+            {
+                "1742042456": "393300"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302497363_1_1735273640_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298666214",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 드래곤 티",
+        "price_updates": [
+            {
+                "1742038524": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298666214_1_1730839977_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "309858679",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "XL 휴먼메이드 반팔",
+        "price_updates": [
+            {
+                "1742031953": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309858679_1_1738555916_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "288809395",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 xxl",
+        "price_updates": [
+            {
+                "1742029258": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288809395_1_1725973484_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "276395283",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 WHITE",
+        "price_updates": [
+            {
+                "1742027932": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276395283_1_1719736761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "309859108",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 코치 자켓",
+        "price_updates": [
+            {
+                "1742024732": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309859108_1_1741675228_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "267632831",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 북극곰 티셔츠",
+        "price_updates": [
+            {
+                "1742060908": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/267632831_1_1740934689_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "296417257",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 티셔츠 2XL",
+        "price_updates": [
+            {
+                "1742055687": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296417257_1_1732453550_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "303618415",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 티셔츠 XL",
+        "price_updates": [
+            {
+                "1742053027": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303618415_1_1738385958_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "303617153",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 밀리터리 스웨트셔츠",
+        "price_updates": [
+            {
+                "1742053032": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303617153_1_1739157047_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "277701550",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티 M",
+        "price_updates": [
+            {
+                "1742050276": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277701550_1_1733656729_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "313737801",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 밀리터리 스웻셔츠",
+        "price_updates": [
+            {
+                "1742048610": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313737801_1_1742048733_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "290638529",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 코치자켓 (M)",
+        "price_updates": [
+            {
+                "1742050493": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290638529_1_1741551698_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "299899910",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 XL사이즈",
+        "price_updates": [
+            {
+                "1742043584": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299899910_1_1731392679_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "289113483",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[S]휴먼메이드 카우스 패딩",
+        "price_updates": [
+            {
+                "1742055395": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289113483_1_1730432968_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "262107659",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 곰 xl",
+        "price_updates": [
+            {
+                "1742041256": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262107659_1_1714709798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "304631917",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 포켓티셔츠 블랙",
+        "price_updates": [
+            {
+                "1742034938": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304631917_1_1733550858_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "304631917",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 포켓티셔츠 블랙",
+        "price_updates": [
+            {
+                "1742034938": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304631917_1_1733550858_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "313913592",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 코치자켓xxl",
+        "price_updates": [
+            {
+                "1742031041": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313913592_1_1740971503_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "243061094",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[xl]휴먼메이드 코치자켓",
+        "price_updates": [
+            {
+                "1742025442": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243061094_1_1700103107_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "272121889",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(최종 가격) 정품 휴먼메이드 티셔츠",
+        "price_updates": [
+            {
+                "1742066730": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/272121889_1_1739701768_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "220445417",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 3팩 레이어드 티셔츠",
+        "price_updates": [
+            {
+                "1742060025": "97900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220445417_1_1703347142_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "212625388",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 토끼 자수 후드",
+        "price_updates": [
+            {
+                "1742053049": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/212625388_1_1740668086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "278982796",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 반팔 티셔츠 XXL",
+        "price_updates": [
+            {
+                "1742051667": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278982796_1_1720690263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "310514924",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 3pack 화이트 L",
+        "price_updates": [
+            {
+                "1742050888": "78000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310514924_1_1739059269_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "308746798",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "새상품) 휴먼메이드 폴라 베어 니트",
+        "price_updates": [
+            {
+                "1742048116": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308746798_1_1735472228_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298429655",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔티 XL",
+        "price_updates": [
+            {
+                "1742040355": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298429655_1_1741322825_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298430290",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔티 2XL",
+        "price_updates": [
+            {
+                "1742040358": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298430290_1_1741322893_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "310515124",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 하트로고 니트 L",
+        "price_updates": [
+            {
+                "1742050888": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310515124_1_1741009110_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "307370178",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 데님 커버올 자켓",
+        "price_updates": [
+            {
+                "1742050840": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307370178_1_1734781864_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "263373372",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "L]휴먼메이드 그래픽 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1742057967": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263373372_1_1739975392_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318462510",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 타이거 호랑이 후드 후디",
+        "price_updates": [
+            {
+                "1742047295": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318462510_1_1741825084_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "290754255",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔티 XL",
+        "price_updates": [
+            {
+                "1742040368": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290754255_1_1741323056_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298430852",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔티 XL",
+        "price_updates": [
+            {
+                "1742040363": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298430852_1_1741322947_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298429117",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔티 2XL",
+        "price_updates": [
+            {
+                "1742040350": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298429117_1_1742038974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298428360",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 반팔티 2XL",
+        "price_updates": [
+            {
+                "1742040345": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298428360_1_1741322681_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "309997408",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(L) 휴먼메이드 팬티 차콜 블랙",
+        "price_updates": [
+            {
+                "1742039448": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309997408_1_1741549643_w{res}.jpg",
+        "status": "0",
+        "category_id": "320160700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "291000622",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 비틀즈 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1742026695": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291000622_1_1727497156_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "240712581",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 베르디 Humanmade Verdy 맨투맨 블랙 XXL",
+        "price_updates": [
+            {
+                "1742043809": "335000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240712581_1_1739105397_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "263969658",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 카우스 폴라베어 반팔 티셔츠 2XL",
+        "price_updates": [
+            {
+                "1742034568": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263969658_1_1739430984_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318904446",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽롱슬리브 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1742030117": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318904446_1_1740638863_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "296067844",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 요코스카 자켓 블루 L",
+        "price_updates": [
+            {
+                "1742067285": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296067844_1_1729673335_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "285665714",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 티셔츠 #07 독수리 블랙",
+        "price_updates": [
+            {
+                "1742025753": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285665714_1_1724293063_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "316083268",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 울 셔츠 레드",
+        "price_updates": [
+            {
+                "1742042110": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316083268_1_1741005776_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298426829",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티 토끼 검정 2XL",
+        "price_updates": [
+            {
+                "1742040340": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298426829_1_1741686284_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "257824435",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 가먼츠 다잉 커버올 자켓",
+        "price_updates": [
+            {
+                "1742040267": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257824435_1_1716798874_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "290763018",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 오프라인 한정 반팔티 XL",
+        "price_updates": [
+            {
+                "1742040337": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290763018_1_1741322566_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "315393715",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "새상품 M사이즈 휴먼메이드 브리프 판매.",
+        "price_updates": [
+            {
+                "1742029338": "29000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315393715_1_1738642537_w{res}.jpg",
+        "status": "0",
+        "category_id": "320160700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "307461616",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L]휴먼메이드 청룡 반팔 청룡해",
+        "price_updates": [
+            {
+                "1742038601": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307461616_1_1734833861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "292397525",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 플라밍고 니트 급처",
+        "price_updates": [
+            {
+                "1742051179": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292397525_1_1741610283_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "291901492",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 플랜트 다이드 티셔츠 M",
+        "price_updates": [
+            {
+                "1742051706": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291901492_1_1742051695_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "271466919",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 X 카우스 바시티 자켓 스타장",
+        "price_updates": [
+            {
+                "1742047295": "3100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271466919_1_1741825144_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "311380111",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 헤비웨이트 후드 #2 블랙",
+        "price_updates": [
+            {
+                "1742046185": "197000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311380111_1_1738724454_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "313928764",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 반팔 DRY ALLS",
+        "price_updates": [
+            {
+                "1742034887": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313928764_1_1739788472_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298601532",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 기본 반팔티셔츠 블랙 3팩",
+        "price_updates": [
+            {
+                "1742026703": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298601532_1_1740043052_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "227765172",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 에이셉라키 트러커 자켓 s",
+        "price_updates": [
+            {
+                "1742025965": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/227765172_1_1699148830_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "286214211",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(일괄) 휴먼메이드 비틀즈 2벌 [2XL]",
+        "price_updates": [
+            {
+                "1742053153": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286214211_1_1724763206_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "277499128",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 24SS 로고 볼링셔츠 XL",
+        "price_updates": [
+            {
+                "1742051538": "198000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277499128_1_1742074958_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "293154645",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 퀄팅 스타디움 자켓 L 올리브 새상품",
+        "price_updates": [
+            {
+                "1742051517": "540000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293154645_1_1741708549_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "265523021",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 플랜트 다이드 반팔 xxl",
+        "price_updates": [
+            {
+                "1742048116": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/265523021_1_1719661897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "280523266",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(s,m) 휴먼메이드 그래픽 티셔츠 폴라 베어",
+        "price_updates": [
+            {
+                "1742039861": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280523266_1_1721464705_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "306164985",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 n2b ma1 자켓",
+        "price_updates": [
+            {
+                "1742034568": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306164985_1_1734236721_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "245364779",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(새상품 / 정가이하판매 ) 휴먼메이드 니트 XL",
+        "price_updates": [
+            {
+                "1742034212": "289000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245364779_1_1728110987_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "316082313",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL]휴먼메이드 빅터빅터 드리즐러 자켓",
+        "price_updates": [
+            {
+                "1742042113": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316082313_1_1741438461_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298924673",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 FW 후드 새상품 저렴히 판매",
+        "price_updates": [
+            {
+                "1742031024": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298924673_1_1730964930_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "306161742",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "( XL ) 휴먼메이드 베르디 걸스돈크라이 워크자켓 블랙",
+        "price_updates": [
+            {
+                "1742060672": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306161742_1_1741444672_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "312241856",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[m]아디다스 휴먼메이드 리버시블 트랙탑 져지 팝니다",
+        "price_updates": [
+            {
+                "1742029478": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312241856_1_1741404891_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "286838670",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XXL]휴먼메이드 걸스돈크라이 베르디 데일리티",
+        "price_updates": [
+            {
+                "1742053289": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286838670_1_1741354905_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "313928311",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 DRY ALLS 롱 슬리브",
+        "price_updates": [
+            {
+                "1742034887": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313928311_1_1740659723_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298924482",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 24 FW 새상품 XL 저렴히 판매",
+        "price_updates": [
+            {
+                "1742031026": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298924482_1_1730964954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298671948",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 T-Shirts White (3 Pack)L사이즈",
+        "price_updates": [
+            {
+                "1742029041": "75500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298671948_1_1738915921_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "298975197",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[ XL ] 휴먼메이드 래빗 헤비웨이트 후드 그레이",
+        "price_updates": [
+            {
+                "1742025753": "465000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298975197_1_1730980477_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "313670358",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "25시즌 휴먼메이드 데님 워크 자켓 판매합니다.",
+        "price_updates": [
+            {
+                "1742039844": "820000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313670358_1_1741178577_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "313126119",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[2XL] 휴먼메이드 포켓 티셔츠 블랙(시부야 파르코 한정)",
+        "price_updates": [
+            {
+                "1742030010": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313126119_1_1738983436_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "300538941",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 덕카모 리버서블 다운 베스트 L사이즈 (105)",
+        "price_updates": [
+            {
+                "1742026148": "299000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300538941_1_1734647923_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "318639339",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(새상품) 휴먼메이드 서울스토어 한정판 살몬 핑크 후드 XXL",
+        "price_updates": [
+            {
+                "1742047146": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318639339_1_1740082232_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "289810137",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "human made 휴먼메이드 dry alls 하프 집업 스웨트셔츠",
+        "price_updates": [
+            {
+                "1742047295": "155000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289810137_1_1741825121_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "297801098",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "xl새상품]크림택o 휴먼메이드 카우스 콜라보 반팔",
+        "price_updates": [
+            {
+                "1742028117": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297801098_1_1730462249_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "288348588",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "겐조 패딩 조끼 다운 베스트 라지 100~105 정가 80 휴먼메이드",
+        "price_updates": [
+            {
+                "1742050850": "289900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288348588_1_1739854754_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "244216808",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[32]휴먼메이드 스톰카우보이 스트레이트 데님팬츠 1949 인디고",
+        "price_updates": [
+            {
+                "1742055395": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244216808_1_1708859064_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "319257070",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 X 베르디 오츠모 플라자 한정 바시티 자켓",
+        "price_updates": [
+            {
+                "1742042104": "2450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319257070_1_1741672820_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "286918170",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 x 카우스 콜라보 커버올 데님 자켓 L사이즈 새상품",
+        "price_updates": [
+            {
+                "1742027265": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286918170_1_1724993295_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322890690",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 후드티",
+        "price_updates": [
+            {
+                "1742023720": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322890690_1_1742040334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322882447",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 티셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1742021355": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322882447_1_1742021355_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322881603",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 긴팔티셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1742021120": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322881603_1_1742021120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322755361",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 헤비웨이트 후드블랙 XL",
+        "price_updates": [
+            {
+                "1742021190": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322755361_1_1741957011_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322875918",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 언더커버 긴팔 티셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1742019601": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322875918_1_1742019601_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322718795",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 드래곤 반팔XL 싸게 팔아여",
+        "price_updates": [
+            {
+                "1742017232": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322718795_1_1742017195_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322827662",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[S]휴먼메이드 에이셉라키 자켓 휴먼테스팅",
+        "price_updates": [
+            {
+                "1742004304": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322827662_1_1742054175_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "321531051",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 릴우지버트 후드",
+        "price_updates": [
+            {
+                "1742018124": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321531051_1_1741381110_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "284396792",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔",
+        "price_updates": [
+            {
+                "1742018088": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284396792_1_1729005823_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "284395501",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔",
+        "price_updates": [
+            {
+                "1742018088": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284395501_1_1723543666_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "295996231",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "2XL) 휴먼메이드 강아지 후드티",
+        "price_updates": [
+            {
+                "1742020519": "369000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295996231_1_1740233791_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "317930852",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 박서 브리프",
+        "price_updates": [
+            {
+                "1742017344": "31000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317930852_1_1739715589_w{res}.jpg",
+        "status": "0",
+        "category_id": "320160700",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "320304191",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 그래픽 티셔츠 #06 화이트",
+        "price_updates": [
+            {
+                "1742023459": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320304191_1_1741732547_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "282439393",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 데님 셔츠 웨스턴 셔츠 팝니다",
+        "price_updates": [
+            {
+                "1742018226": "299000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282439393_1_1738690121_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "285685128",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "HUMAN MADE 휴먼메이드 베이스볼 자켓 - 네이비 XL 사이즈",
+        "price_updates": [
+            {
+                "1742024190": "847000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285685128_1_1729231619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "279416352",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 티셔츠 그래픽 XL 사이즈 새상품",
+        "price_updates": [
+            {
+                "1742017309": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279416352_1_1739447737_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "305309768",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 베어 롱슬리브 XL 팝니다",
+        "price_updates": [
+            {
+                "1742018226": "229000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305309768_1_1733833071_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "283294352",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 베르디 롱슬리브 L 팝니다",
+        "price_updates": [
+            {
+                "1742018226": "239000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283294352_1_1722936908_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "308440663",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 x end 스시 반팔티",
+        "price_updates": [
+            {
+                "1742023960": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308440663_1_1741881784_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "296026833",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "L사이즈) 휴먼메이드 롱슬리브 반팔티",
+        "price_updates": [
+            {
+                "1742020535": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296026833_1_1731156402_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "319259078",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 진돗개(서울) 바시티 xl",
+        "price_updates": [
+            {
+                "1742022124": "2000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319259078_1_1740318180_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "259920356",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 로우 게이지 니트 가디건 XL 팝니다",
+        "price_updates": [
+            {
+                "1742018226": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259920356_1_1738692137_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "275714093",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(L) 새상품 휴먼메이드 진돗개  반팔 티",
+        "price_updates": [
+            {
+                "1742019060": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275714093_1_1740481132_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "296022686",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "2XL사이즈) 휴먼메이드 하트 롱슬리브 긴팔티",
+        "price_updates": [
+            {
+                "1742020539": "209000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296022686_1_1741770498_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "286205202",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 청바지 데님 팬츠 Straight Denim Pant",
+        "price_updates": [
+            {
+                "1742017303": "349000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286205202_1_1733049324_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322618572",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티 3장 묶음",
+        "price_updates": [
+            {
+                "1741879269": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322618572_1_1742054419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:36"
+    },
+    {
+        "pid": "322433325",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 지코 후드 L",
+        "price_updates": [
+            {
+                "1741785773": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322433325_1_1742017603_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:37"
+    },
+    {
+        "pid": "318529209",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 필드 자켓 올드",
+        "price_updates": [
+            {
+                "1741933041": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318529209_1_1739977925_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:37"
+    },
+    {
+        "pid": "294088338",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 언더커버 라스트올지2 바시티",
+        "price_updates": [
+            {
+                "1741865697": "1490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294088338_1_1740975831_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:41:37"
+    },
+    {
+        "pid": "292995741",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(XL) 휴먼메이드 나일론 스타디움 자켓",
+        "price_updates": [
+            {
+                "1741851314": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292995741_1_1733477820_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:37"
+    },
+    {
+        "pid": "321581219",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 보아 라이너 플리스 자켓",
+        "price_updates": [
+            {
+                "1741749873": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321581219_1_1741600179_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:37"
+    },
+    {
+        "pid": "320174938",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 하프집 스웻셔츠 그레이",
+        "price_updates": [
+            {
+                "1740743959": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320174938_1_1740743959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:38"
+    },
+    {
+        "pid": "262284622",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L] 휴먼메이드 포켓 티셔츠 (후쿠오카 한정)",
+        "price_updates": [
+            {
+                "1733972100": "173000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262284622_1_1720570339_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:39"
+    },
+    {
+        "pid": "291349169",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔 (L)",
+        "price_updates": [
+            {
+                "1729661431": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291349169_1_1727941431_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:40"
+    },
+    {
+        "pid": "257375871",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 맨투맨 블랙 하트로고",
+        "price_updates": [
+            {
+                "1725266594": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257375871_1_1730013225_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:41:40"
+    },
+    {
+        "pid": "320606555",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 반팔티 M (크림 13)",
+        "price_updates": [
+            {
+                "1742075842": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320606555_1_1742091778_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "322411059",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL] 휴먼메이드 후드집업 네이비 1회착",
+        "price_updates": [
+            {
+                "1742059630": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322411059_1_1741975503_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "321046937",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[2XL] 휴먼메이드 반팔 (마지막가격)",
+        "price_updates": [
+            {
+                "1742039707": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321046937_1_1742039758_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "321709183",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[XL]휴먼메이드 하트로고 오리 반팔티 화이트",
+        "price_updates": [
+            {
+                "1742042293": "58000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321709183_1_1742044584_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "322883384",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 워크 자켓 판매합니다",
+        "price_updates": [
+            {
+                "1742021617": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322883384_1_1742021617_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "317190145",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "(XXL)휴먼메이드 애니멀 플리스자켓",
+        "price_updates": [
+            {
+                "1741953313": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317190145_1_1742024709_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "297683374",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[L]휴먼메이드 드리즐러 자켓 블랙",
+        "price_updates": [
+            {
+                "1742015320": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297683374_1_1741385764_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "290224094",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 드리즐러 자켓 판매합니다!",
+        "price_updates": [
+            {
+                "1742021493": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290224094_1_1742108328_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "304392530",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 덕플라잉 반팔 XXL",
+        "price_updates": [
+            {
+                "1739796360": "52000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304392530_1_1742023982_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:43"
+    },
+    {
+        "pid": "283429892",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "[가격인하] 휴먼메이드 #5 화이트 반팔 XXXL",
+        "price_updates": [
+            {
+                "1735709068": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283429892_1_1742021641_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:44"
+    },
+    {
+        "pid": "303947468",
+        "brands": [
+            "휴먼메이드"
+        ],
+        "name": "휴먼메이드 용 그래픽 반팔",
+        "price_updates": [
+            {
+                "1733218796": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303947468_1_1738932089_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:41:44"
+    }
+]

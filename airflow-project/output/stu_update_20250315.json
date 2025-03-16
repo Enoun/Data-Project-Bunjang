@@ -1,0 +1,4834 @@
+[
+    {
+        "pid": "319595533",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 모헤어 니트 L",
+        "price_updates": [
+            {
+                "1742016480": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319595533_1_1741934858_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "241516907",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M]stu 23ss 봄버 브라운 팝니다.",
+        "price_updates": [
+            {
+                "1742015853": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241516907_1_1698927415_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321828343",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 스웨이드 자켓 (L)",
+        "price_updates": [
+            {
+                "1742015390": "336000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321828343_1_1741504023_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "315467285",
+        "brands": [
+            "stu"
+        ],
+        "name": "[S] stu 3버튼 블레이저 brown",
+        "price_updates": [
+            {
+                "1742014751": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315467285_1_1741138203_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "315242705",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] stu 플레어 데님 미드블루",
+        "price_updates": [
+            {
+                "1742014831": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315242705_1_1741749451_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "207915780",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 부클 카멜 셋업 상의L 하의s",
+        "price_updates": [
+            {
+                "1742014762": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207915780_1_1726903259_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "288295620",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] STU 21F/W 그린 싱글 코트 stu office",
+        "price_updates": [
+            {
+                "1742014409": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288295620_1_1741704101_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321129787",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu니트(M)",
+        "price_updates": [
+            {
+                "1742013545": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321129787_1_1741170922_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "301344913",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 돌먼코트 M",
+        "price_updates": [
+            {
+                "1742013506": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301344913_1_1732024892_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322847438",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 스트라이프 클래식 코트 그레이",
+        "price_updates": [
+            {
+                "1742011132": "460000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322847438_1_1742011390_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "301319584",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 바시티 m사이즈",
+        "price_updates": [
+            {
+                "1742011174": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301319584_1_1741316520_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322838081",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu Embroidery Wool Stripe Varsity Navy",
+        "price_updates": [
+            {
+                "1742007971": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322838081_1_1742007971_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "316999671",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 울 슬랙스 (M)",
+        "price_updates": [
+            {
+                "1742009744": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316999671_1_1740910539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "291903353",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] stu 레더 자켓 블랙",
+        "price_updates": [
+            {
+                "1742011343": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291903353_1_1727714915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "301226135",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 스카쟌 100 사이즈 (study)",
+        "price_updates": [
+            {
+                "1742012228": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301226135_1_1742012223_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "300370225",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 가죽자켓 /브라운, 갈색 가죽자켓,/2021 stu 가죽자켓/L,",
+        "price_updates": [
+            {
+                "1742012102": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300370225_1_1731591961_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "274969508",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 커브드 레더 자켓 M",
+        "price_updates": [
+            {
+                "1742011242": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/274969508_1_1720139252_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322230174",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu,stu office 미즈노 셔츠 팝니다",
+        "price_updates": [
+            {
+                "1742008927": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322230174_1_1741689282_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322243549",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 스트라이프 가디건 L",
+        "price_updates": [
+            {
+                "1742003076": "175000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322243549_1_1741863826_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322243715",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office,stu 미즈노 셔츠팝니다",
+        "price_updates": [
+            {
+                "1742004550": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322243715_1_1741693480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321340189",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu multi panel cargo pants black M",
+        "price_updates": [
+            {
+                "1742007613": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321340189_1_1741736255_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322391474",
+        "brands": [
+            "stu"
+        ],
+        "name": "(L) stu 더블포켓셔츠 스카이블루",
+        "price_updates": [
+            {
+                "1742005077": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322391474_1_1741772447_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "213337832",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 와플 스티치 니트 크림",
+        "price_updates": [
+            {
+                "1742007902": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/213337832_1_1741075534_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "316517345",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 맥코트 브라운 M",
+        "price_updates": [
+            {
+                "1742006201": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316517345_1_1741910394_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "315759804",
+        "brands": [
+            "stu"
+        ],
+        "name": "(구매) stu 패치 코트 베이지L",
+        "price_updates": [
+            {
+                "1742008188": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315759804_1_1738805040_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "290901400",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 인디고 데님 워크 자켓 M",
+        "price_updates": [
+            {
+                "1742008952": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290901400_1_1740730213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "305303369",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 엠보 레이싱 자켓 L 판매합니다",
+        "price_updates": [
+            {
+                "1742008606": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305303369_1_1733830827_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "316535693",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 그린체크 블레이저 L",
+        "price_updates": [
+            {
+                "1742003337": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316535693_1_1740063873_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322719564",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 셔츠패딩 M사이즈 황금사이즈 판매",
+        "price_updates": [
+            {
+                "1741997526": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322719564_1_1741944490_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322521328",
+        "brands": [
+            "stu"
+        ],
+        "name": "아캄 multi studded cotton pants grey",
+        "price_updates": [
+            {
+                "1742001832": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322521328_1_1741846041_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "290577967",
+        "brands": [
+            "stu"
+        ],
+        "name": "특가) stu stripe banding jacket green grey",
+        "price_updates": [
+            {
+                "1742005753": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290577967_1_1740707464_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "265284630",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu Historic Site Embroidery 반팔 셔츠 m",
+        "price_updates": [
+            {
+                "1742003992": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/265284630_1_1741793869_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "319856168",
+        "brands": [
+            "stu"
+        ],
+        "name": "[품절]세터 파로 울블렌드 가디건 다크그린/M 쿠어stu틀영마뗑킴포터리",
+        "price_updates": [
+            {
+                "1742002655": "97900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319856168_1_1741498816_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321357343",
+        "brands": [
+            "stu"
+        ],
+        "name": "[S] stu 24ss 더블 블레이저 미드그레이 + 루나 브로치",
+        "price_updates": [
+            {
+                "1741995654": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321357343_1_1741588048_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "213934908",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 후디 체크자켓 L",
+        "price_updates": [
+            {
+                "1741995183": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/213934908_1_1734233542_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "316090210",
+        "brands": [
+            "stu"
+        ],
+        "name": "21 fw stu  다크그레이 오버  싱글코트",
+        "price_updates": [
+            {
+                "1741995675": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316090210_1_1741760513_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "319938657",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M]stu 데님 워크 자켓 + 깃발 브로치",
+        "price_updates": [
+            {
+                "1741995661": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319938657_1_1741952020_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321729397",
+        "brands": [
+            "stu"
+        ],
+        "name": "[s]stu wide pants black",
+        "price_updates": [
+            {
+                "1741993223": "235000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321729397_1_1741618304_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "292338154",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 프린팅 레더자켓 m",
+        "price_updates": [
+            {
+                "1741992614": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292338154_1_1729776817_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "185783752",
+        "brands": [
+            "stu"
+        ],
+        "name": "19fw/stu 브라운블레이져",
+        "price_updates": [
+            {
+                "1741988529": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185783752_1_1702797086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "246003942",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 컷오프 레이어드 블레이저 & 팬츠 셋업",
+        "price_updates": [
+            {
+                "1741992082": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246003942_1_1705250440_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322692405",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 턱 팬츠 베이지 m",
+        "price_updates": [
+            {
+                "1741934899": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322692405_1_1741934899_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322728923",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 고스트 스웨이드 블레이저 S사이즈 (새상품)",
+        "price_updates": [
+            {
+                "1741947738": "710000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322728923_1_1741951205_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321948534",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 크로셰 니트 조끼",
+        "price_updates": [
+            {
+                "1741967723": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321948534_1_1741858189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322688452",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 핸드스티치 플라워 엠보 코튼 팬츠 베이지 L",
+        "price_updates": [
+            {
+                "1741933443": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322688452_1_1742008697_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322688225",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 핸드스티치 플라워 엠보 코튼 팬츠 카키 L",
+        "price_updates": [
+            {
+                "1741933359": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322688225_1_1742008706_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322119070",
+        "brands": [
+            "stu"
+        ],
+        "name": "구매) stu 체크 셔츠 브라운 m",
+        "price_updates": [
+            {
+                "1741969002": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322119070_1_1741621196_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321930750",
+        "brands": [
+            "stu"
+        ],
+        "name": "엘무드 플레어 48 판매 엘무드팬츠 stu플레어",
+        "price_updates": [
+            {
+                "1741943406": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321930750_1_1741528890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "322290400",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 카라니트 크림 L사이즈 새상품 팝니다",
+        "price_updates": [
+            {
+                "1741966293": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322290400_1_1741709139_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "320626936",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] stu 스웨이드 바시티 자켓",
+        "price_updates": [
+            {
+                "1741965016": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320626936_1_1741841300_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321087058",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 23fw코트 팔아요~~",
+        "price_updates": [
+            {
+                "1741966264": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321087058_1_1741605834_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "320862860",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 크리즈 흑청데님 M",
+        "price_updates": [
+            {
+                "1741949482": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320862860_1_1741017564_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321587075",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 디스트로이드 니트 차콜 + 네임 택",
+        "price_updates": [
+            {
+                "1741945173": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321587075_1_1741774523_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "303065204",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 바지",
+        "price_updates": [
+            {
+                "1741964450": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303065204_1_1733133737_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321171079",
+        "brands": [
+            "stu"
+        ],
+        "name": "구매) stu 그린 체크 블레이저 m or l",
+        "price_updates": [
+            {
+                "1741968987": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321171079_1_1741183756_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "321352036",
+        "brands": [
+            "stu"
+        ],
+        "name": "(m 마지막가격) stu 와이드 코튼 팬츠 크림",
+        "price_updates": [
+            {
+                "1741964918": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321352036_1_1741964903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "298496097",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 블레이저",
+        "price_updates": [
+            {
+                "1741950888": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298496097_1_1733535020_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "291224902",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 유니콘 블레이저 M",
+        "price_updates": [
+            {
+                "1741969192": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291224902_1_1741178056_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "315470573",
+        "brands": [
+            "stu"
+        ],
+        "name": "구매) stu 가디건 M",
+        "price_updates": [
+            {
+                "1741967601": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315470573_1_1741918902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "312021599",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 디스트로이드 니트 아이보리",
+        "price_updates": [
+            {
+                "1741968976": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312021599_1_1740585637_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "318585398",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 컷팅블레이저 M",
+        "price_updates": [
+            {
+                "1741965720": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318585398_1_1741838870_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "246354969",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 니트 베스트 크림",
+        "price_updates": [
+            {
+                "1741952662": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246354969_1_1704643064_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "310529378",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 황변데님 m",
+        "price_updates": [
+            {
+                "1741968965": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310529378_1_1737292197_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "315678753",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 엠보 레더 L",
+        "price_updates": [
+            {
+                "1741964687": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315678753_1_1741528615_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "233142485",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 디스트로이드 페인팅 셔츠",
+        "price_updates": [
+            {
+                "1741941352": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233142485_1_1713067583_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "319279895",
+        "brands": [
+            "stu"
+        ],
+        "name": "구매 stu 라운드 봄버 m",
+        "price_updates": [
+            {
+                "1741968991": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319279895_1_1741607642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "305692644",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 조거 팬츠 그레이 s",
+        "price_updates": [
+            {
+                "1741964921": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305692644_1_1734006916_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "319795406",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 메리노울 카라 니트 그린",
+        "price_updates": [
+            {
+                "1741969353": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319795406_1_1741081467_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "316715726",
+        "brands": [
+            "stu"
+        ],
+        "name": "(M) stu 와이드 데님 미드블루",
+        "price_updates": [
+            {
+                "1741952628": "138000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316715726_1_1739679789_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "312338793",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 부클 더블코트 팔아요",
+        "price_updates": [
+            {
+                "1741966264": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312338793_1_1740543616_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "310409532",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 컷오프 레이어드 블레이저 m",
+        "price_updates": [
+            {
+                "1741940096": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310409532_1_1736308114_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "294972163",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L](새상품)stu 오버핏 컬렉션 셔츠",
+        "price_updates": [
+            {
+                "1741943958": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294972163_1_1741766746_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "318824016",
+        "brands": [
+            "stu"
+        ],
+        "name": "구매) stu 컷오프 블레이저 브라운 m",
+        "price_updates": [
+            {
+                "1741968998": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318824016_1_1740818421_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "222526772",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 오버핏 더블코트 차콜 s팝니다.",
+        "price_updates": [
+            {
+                "1741959393": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/222526772_1_1729367022_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "136679887",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu / 사이드라인 맥코트 아이보리 / L",
+        "price_updates": [
+            {
+                "1741944877": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/136679887_1_1711816024_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "306854273",
+        "brands": [
+            "stu"
+        ],
+        "name": "구매 stu 라운드넥 가디건 그린 L",
+        "price_updates": [
+            {
+                "1741968962": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306854273_1_1734532958_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "307320644",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 벌룬 모헤어 니트 새상품",
+        "price_updates": [
+            {
+                "1741965976": "255000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307320644_1_1734767411_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "317431292",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu패디드 봄버 m사이즈 (새상품)",
+        "price_updates": [
+            {
+                "1741951170": "267960"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317431292_1_1739516248_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "319707045",
+        "brands": [
+            "stu"
+        ],
+        "name": "L ) stu 워크 자켓 베이지 레더 카라",
+        "price_updates": [
+            {
+                "1741947256": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319707045_1_1741947224_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "319855493",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 벨티드 팬츠 네이비 m",
+        "price_updates": [
+            {
+                "1741936378": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319855493_1_1740585516_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "313694089",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 22fw 고트 스웨이드 자켓 블랙 M",
+        "price_updates": [
+            {
+                "1741967296": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313694089_1_1737840250_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "238303817",
+        "brands": [
+            "stu"
+        ],
+        "name": "(새상품) stu x llud 체크셔츠 옐로우 팝니다",
+        "price_updates": [
+            {
+                "1741946167": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238303817_1_1732584502_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "257223474",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] stu 19fw 사이드라인 맥코트 차콜",
+        "price_updates": [
+            {
+                "1741944802": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257223474_1_1741277422_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "312984801",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 레더 자켓 L사이즈 다크 브라운 (이태리 소가죽)",
+        "price_updates": [
+            {
+                "1741944674": "395000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312984801_1_1741227365_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "316657314",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] stu 더블포켓싱글코트 다크그린",
+        "price_updates": [
+            {
+                "1741919092": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316657314_1_1741002102_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "314127463",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] STU 에스티유 폭스 테리어 니트 새상품 stu office",
+        "price_updates": [
+            {
+                "1741919695": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314127463_1_1741919746_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:21"
+    },
+    {
+        "pid": "295587171",
+        "brands": [
+            "stu"
+        ],
+        "name": "23fw stu 돌먼 코트 HOOK DOLMAN COAT Beige",
+        "price_updates": [
+            {
+                "1741919018": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295587171_1_1738177054_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "322432109",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 라운드넥 가디건 그레이m 판매",
+        "price_updates": [
+            {
+                "1741785416": "158000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322432109_1_1741785516_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "257944898",
+        "brands": [
+            "stu"
+        ],
+        "name": "L stu 투패널 레이어드 블레이저 자켓 팝니다(오늘까지13)",
+        "price_updates": [
+            {
+                "1741907525": "118000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257944898_1_1741958504_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "322208691",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 체크셔츠L",
+        "price_updates": [
+            {
+                "1741681967": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322208691_1_1741681967_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "281808081",
+        "brands": [
+            "stu"
+        ],
+        "name": "[s] stu 워시드 그린 데님 팬츠",
+        "price_updates": [
+            {
+                "1741821033": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281808081_1_1722122355_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "320837759",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] stu 블레이저",
+        "price_updates": [
+            {
+                "1741667948": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320837759_1_1741008272_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "317661104",
+        "brands": [
+            "stu"
+        ],
+        "name": "no/faithstudos studios flared denim",
+        "price_updates": [
+            {
+                "1741745779": "162000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317661104_1_1739613853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "312274059",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 엠보 와이드 데님 미드 블루(L)",
+        "price_updates": [
+            {
+                "1741581096": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312274059_1_1739271059_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "320000456",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu집업니트",
+        "price_updates": [
+            {
+                "1740658200": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320000456_1_1740963080_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "305566970",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] stu 체크셔츠 블루",
+        "price_updates": [
+            {
+                "1740972696": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305566970_1_1734112006_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "266411137",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 파란셔츠(30>5)",
+        "price_updates": [
+            {
+                "1740913009": "58000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/266411137_1_1738484626_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:22"
+    },
+    {
+        "pid": "225295629",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 커브드 스티치 블레이저 그레이 M L 새상품",
+        "price_updates": [
+            {
+                "1740747613": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/225295629_1_1740382503_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "212045538",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 트윌 맥코트 베이지블랙 L",
+        "price_updates": [
+            {
+                "1740382362": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/212045538_1_1738942584_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "310585804",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 2턱 슬렉스 챠콜 와이드 팬츠",
+        "price_updates": [
+            {
+                "1740370377": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310585804_1_1740028554_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "156115392",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 에스티유 원 턱 루즈핏 슬렉스 베이지 S",
+        "price_updates": [
+            {
+                "1740221230": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/156115392_1_1719217169_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "314413290",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 헤어리가디건 M사이즈 판매",
+        "price_updates": [
+            {
+                "1738218411": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314413290_1_1738213135_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "307603000",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 브러시드 패널 자켓 L (황금사이즈)",
+        "price_updates": [
+            {
+                "1737475157": "315000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307603000_1_1735916474_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "163256027",
+        "brands": [
+            "stu"
+        ],
+        "name": "히스테릭글래머 Hysteric Glamour stud denim",
+        "price_updates": [
+            {
+                "1734287342": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/163256027_1_1630410735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:23"
+    },
+    {
+        "pid": "273911415",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 반팔셔츠 블루",
+        "price_updates": [
+            {
+                "1725672539": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273911415_1_1724048870_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "318762544",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio 롱슬리브 급처합니다",
+        "price_updates": [
+            {
+                "1742016534": "63000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318762544_1_1740105265_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319317594",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] 스투시 stussy 마이크로 립스탑 푸퍼 팬텀 블랙 공홈 새상품",
+        "price_updates": [
+            {
+                "1742016250": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319317594_1_1741162296_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "280947126",
+        "brands": [
+            "stu"
+        ],
+        "name": "[s] stu office washed denim 팬츠 라이트블루",
+        "price_updates": [
+            {
+                "1742015853": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280947126_1_1721660414_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "321312668",
+        "brands": [
+            "stu"
+        ],
+        "name": "IAB 스튜디오 깅업 체크셔츠 L사이즈(iab studio)",
+        "price_updates": [
+            {
+                "1742015474": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321312668_1_1741263113_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "318461605",
+        "brands": [
+            "stu"
+        ],
+        "name": "스튜디오 다치산 studio dartisan 가디건",
+        "price_updates": [
+            {
+                "1742014100": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318461605_1_1739958503_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "277471199",
+        "brands": [
+            "stu"
+        ],
+        "name": "아이앱 스튜디오 피그먼트 시안 반팔 l iab studio",
+        "price_updates": [
+            {
+                "1742013667": "52000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277471199_1_1720120154_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "315809900",
+        "brands": [
+            "stu"
+        ],
+        "name": "22Fw 니들스 x studious 스튜디오스 모헤어 가디건 / 그레이",
+        "price_updates": [
+            {
+                "1742013490": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315809900_1_1739856251_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "322852956",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 stussy 아웃라인 후드집업",
+        "price_updates": [
+            {
+                "1742012894": "339000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322852956_1_1742012894_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "244680284",
+        "brands": [
+            "stu"
+        ],
+        "name": "Esc studio 니트 폴로티",
+        "price_updates": [
+            {
+                "1742009808": "22000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244680284_1_1738399329_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "322785461",
+        "brands": [
+            "stu"
+        ],
+        "name": "hgbb studio 조거팬츠 (S)",
+        "price_updates": [
+            {
+                "1742009277": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322785461_1_1741967306_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "312246939",
+        "brands": [
+            "stu"
+        ],
+        "name": "esc studio 데님 와이드 플레어진",
+        "price_updates": [
+            {
+                "1742009584": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312246939_1_1737170554_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "306023928",
+        "brands": [
+            "stu"
+        ],
+        "name": "lab studio 뽀글이 후리스 팔아요",
+        "price_updates": [
+            {
+                "1742011474": "15730"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306023928_1_1734168112_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "302165182",
+        "brands": [
+            "stu"
+        ],
+        "name": "Acne studio camel coat",
+        "price_updates": [
+            {
+                "1742012777": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302165182_1_1741740915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "168848866",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 써모라이트 패딩 100",
+        "price_updates": [
+            {
+                "1742012456": "147000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168848866_1_1679910515_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "296404244",
+        "brands": [
+            "stu"
+        ],
+        "name": "studio nicholson 레인코트",
+        "price_updates": [
+            {
+                "1742012464": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296404244_1_1741516442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "291747715",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 루즈 게이지 스웨터 니트 xxl",
+        "price_updates": [
+            {
+                "1742011027": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291747715_1_1739010623_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "320270848",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 니트 스웨터 stussy",
+        "price_updates": [
+            {
+                "1742007356": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320270848_1_1741080527_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "322063066",
+        "brands": [
+            "stu"
+        ],
+        "name": "(L) stussy 퍼지다이스 블랙",
+        "price_updates": [
+            {
+                "1742002784": "109000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322063066_1_1741962046_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "318364151",
+        "brands": [
+            "stu"
+        ],
+        "name": "Hgbb studio 툰드라 집업",
+        "price_updates": [
+            {
+                "1742006247": "136000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318364151_1_1739930405_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "321889164",
+        "brands": [
+            "stu"
+        ],
+        "name": "엔타이어스튜디오 a-2 봄버 Entire studio a-2 bomber",
+        "price_updates": [
+            {
+                "1742010121": "188000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321889164_1_1741860354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "322079964",
+        "brands": [
+            "stu"
+        ],
+        "name": "Hgbb studio yukon jacket VANILLA ICE/2/M",
+        "price_updates": [
+            {
+                "1742012333": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322079964_1_1741608602_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "259673163",
+        "brands": [
+            "stu"
+        ],
+        "name": "otto958 studio zip up mud L size",
+        "price_updates": [
+            {
+                "1742010384": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259673163_1_1736118995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "316541453",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 캔버스 워크 팬츠 블랙 31 stussy workgear",
+        "price_updates": [
+            {
+                "1742012870": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316541453_1_1741403149_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "314015177",
+        "brands": [
+            "stu"
+        ],
+        "name": "hgbb studio 브라운 조거팬츠 m",
+        "price_updates": [
+            {
+                "1742007286": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314015177_1_1740187836_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "277867611",
+        "brands": [
+            "stu"
+        ],
+        "name": "studious 진 자켓 셔츠",
+        "price_updates": [
+            {
+                "1742005342": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277867611_1_1720943593_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "248029987",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 패딩 조끼 M사이즈",
+        "price_updates": [
+            {
+                "1742002700": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248029987_1_1739588959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "247688108",
+        "brands": [
+            "stu"
+        ],
+        "name": "Iab studio 후드티 (정품) (크림제품)",
+        "price_updates": [
+            {
+                "1742008873": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247688108_1_1739335561_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "298985155",
+        "brands": [
+            "stu"
+        ],
+        "name": "[S] Entire studios 엔타이어스튜디오 pfd v2 푸퍼 자켓",
+        "price_updates": [
+            {
+                "1742010399": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298985155_1_1731988776_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "286839518",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s stussy shirts / 90s 스투시 셔츠",
+        "price_updates": [
+            {
+                "1742008348": "108000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286839518_1_1731808060_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "300862917",
+        "brands": [
+            "stu"
+        ],
+        "name": "Hgbb studio 바람자켓",
+        "price_updates": [
+            {
+                "1742001794": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300862917_1_1741659316_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "187823106",
+        "brands": [
+            "stu"
+        ],
+        "name": "h&m studio 니트베스트",
+        "price_updates": [
+            {
+                "1742001085": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/187823106_1_1724834334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "179436508",
+        "brands": [
+            "stu"
+        ],
+        "name": "esc studio 후드티",
+        "price_updates": [
+            {
+                "1741998650": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179436508_1_1651545147_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "263364227",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 맨투맨 L",
+        "price_updates": [
+            {
+                "1741997473": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263364227_1_1732687579_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "192064115",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy 빅크라운 빅로고 스펠아웃 스웻셔츠 맨투맨",
+        "price_updates": [
+            {
+                "1742008522": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192064115_1_1696322360_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "321347311",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] 자라 스튜디오 컬렉션 셋업 set up zara studio",
+        "price_updates": [
+            {
+                "1742003046": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321347311_1_1741274166_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "308941080",
+        "brands": [
+            "stu"
+        ],
+        "name": "Penultimate studio 22FW 멀티컬러 자켓 M사이즈",
+        "price_updates": [
+            {
+                "1742006954": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308941080_1_1735564532_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "278907569",
+        "brands": [
+            "stu"
+        ],
+        "name": "50) 아크네 스튜디오 카고 팬츠 acne studios",
+        "price_updates": [
+            {
+                "1742005050": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278907569_1_1740789764_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "314744614",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio 아이앱 기모후드 (L)",
+        "price_updates": [
+            {
+                "1742001160": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314744614_1_1741479055_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "320978589",
+        "brands": [
+            "stu"
+        ],
+        "name": "[XXL] stussy 스투시 깅엄 반팔 셔츠 블랙",
+        "price_updates": [
+            {
+                "1741996493": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320978589_1_1741089254_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "316070280",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 stussy / 메쉬 집업 자켓 내츄럴 / XL",
+        "price_updates": [
+            {
+                "1742001821": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316070280_1_1738931404_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "298537651",
+        "brands": [
+            "stu"
+        ],
+        "name": "[S]hgbb studio 외솔 트라우저 팬츠 에이치지비비 스튜디오",
+        "price_updates": [
+            {
+                "1742003406": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298537651_1_1741395998_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319937468",
+        "brands": [
+            "stu"
+        ],
+        "name": "[os]esc studio 카모 데님 블루종",
+        "price_updates": [
+            {
+                "1741995665": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319937468_1_1741356096_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "311840742",
+        "brands": [
+            "stu"
+        ],
+        "name": "[판매]esc studio 셔링 자켓 (black)",
+        "price_updates": [
+            {
+                "1742000970": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311840742_1_1740323951_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "290987899",
+        "brands": [
+            "stu"
+        ],
+        "name": "h&m studio",
+        "price_updates": [
+            {
+                "1741994999": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290987899_1_1730106698_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "320967667",
+        "brands": [
+            "stu"
+        ],
+        "name": "새상품)스투시 오사카 반팔 블랙L stussy osaka black",
+        "price_updates": [
+            {
+                "1741998796": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320967667_1_1741920012_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319951363",
+        "brands": [
+            "stu"
+        ],
+        "name": "[os]esc studio 피치워싱 핀턱 셔츠 핑크",
+        "price_updates": [
+            {
+                "1741995681": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319951363_1_1741678161_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319951222",
+        "brands": [
+            "stu"
+        ],
+        "name": "[os]esc studio 피치워싱 핀턱 타이셔츠 블루",
+        "price_updates": [
+            {
+                "1741995684": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319951222_1_1741678168_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "223265882",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 챔피온 콜라보 Astronaut Tee 블랙 라지 stussy",
+        "price_updates": [
+            {
+                "1742000094": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223265882_1_1732749492_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "306288362",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] 스투시 stussy zip polo 블랙 스트라이프 가디건",
+        "price_updates": [
+            {
+                "1741997707": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306288362_1_1741502845_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319120128",
+        "brands": [
+            "stu"
+        ],
+        "name": "MNM studio 아이보리 셔켓",
+        "price_updates": [
+            {
+                "1741974766": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319120128_1_1740489591_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319635953",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 stussy 루이비통 모노그램 패러디 셔츠",
+        "price_updates": [
+            {
+                "1741973877": "259000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319635953_1_1741742577_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "305508308",
+        "brands": [
+            "stu"
+        ],
+        "name": "fellin studio0 사이즈2팬츠입니다.",
+        "price_updates": [
+            {
+                "1741974290": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305508308_1_1737739738_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "297114769",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] 스투시 stussy 스타디움 자켓 고딕 S 바시티 자켓",
+        "price_updates": [
+            {
+                "1741976140": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297114769_1_1739892240_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "310928497",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 24spring 플래어드 코튼 팬츠 베이지 m",
+        "price_updates": [
+            {
+                "1741989079": "209000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310928497_1_1736562619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "292615632",
+        "brands": [
+            "stu"
+        ],
+        "name": "남성복 glothes studio 데님 바지 50( 새상품)",
+        "price_updates": [
+            {
+                "1741991231": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292615632_1_1728267541_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "322721348",
+        "brands": [
+            "stu"
+        ],
+        "name": "studio nicholson 니트",
+        "price_updates": [
+            {
+                "1741945098": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322721348_1_1741945098_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "177983478",
+        "brands": [
+            "stu"
+        ],
+        "name": "[S size] 아크네스튜디오 acne studios 맨투맨",
+        "price_updates": [
+            {
+                "1741987873": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/177983478_1_1732268931_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "322389820",
+        "brands": [
+            "stu"
+        ],
+        "name": "Esc studio 포켓 블루종 블루",
+        "price_updates": [
+            {
+                "1741970741": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322389820_1_1741771875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "306837166",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] Entire studios 엔타이어 스튜디오 pfd 푸퍼 자켓",
+        "price_updates": [
+            {
+                "1741976140": "379000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306837166_1_1739714800_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "52581556",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 후디 stussy",
+        "price_updates": [
+            {
+                "1741965771": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/52581556_1_1739104712_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "209102878",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 니트",
+        "price_updates": [
+            {
+                "1741965003": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/209102878_1_1739078151_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "260586384",
+        "brands": [
+            "stu"
+        ],
+        "name": "Acne studios",
+        "price_updates": [
+            {
+                "1741970771": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260586384_1_1741155293_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "318771636",
+        "brands": [
+            "stu"
+        ],
+        "name": "[XL]!마지막!올드 스투시 바시티 old stussy ss coupe",
+        "price_updates": [
+            {
+                "1741993329": "1800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318771636_1_1741865109_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:24"
+    },
+    {
+        "pid": "319674322",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio 반팔티",
+        "price_updates": [
+            {
+                "1741937029": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319674322_1_1740501091_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "318752884",
+        "brands": [
+            "stu"
+        ],
+        "name": "mfpen studio trousers grey stripe S size",
+        "price_updates": [
+            {
+                "1741993818": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318752884_1_1740271334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "310687307",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office double way short bomber khaki",
+        "price_updates": [
+            {
+                "1741987730": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310687307_1_1736457995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "238303211",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 stussy 맨투맨 xl",
+        "price_updates": [
+            {
+                "1741941747": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238303211_1_1699204766_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "255373900",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 서울 후드티 L",
+        "price_updates": [
+            {
+                "1741941741": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255373900_1_1709392378_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "290709546",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio 맨투맨 팝니다",
+        "price_updates": [
+            {
+                "1741940061": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290709546_1_1740267676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "308918539",
+        "brands": [
+            "stu"
+        ],
+        "name": "Esc studio 봄버자켓 옐로우",
+        "price_updates": [
+            {
+                "1741955481": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308918539_1_1737429471_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "319674652",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio 피그먼트 반팔티",
+        "price_updates": [
+            {
+                "1741937029": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319674652_1_1740501329_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "224987527",
+        "brands": [
+            "stu"
+        ],
+        "name": "L) stussy 스투시 갱스터 반팔티",
+        "price_updates": [
+            {
+                "1741960029": "98000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224987527_1_1741745134_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "300572304",
+        "brands": [
+            "stu"
+        ],
+        "name": "ESC studio 흑청 팬츠 1사이즈",
+        "price_updates": [
+            {
+                "1741948703": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300572304_1_1731684983_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "307879183",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 자켓 stussy jacket",
+        "price_updates": [
+            {
+                "1741959573": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307879183_1_1735137615_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "307734012",
+        "brands": [
+            "stu"
+        ],
+        "name": "esc studio 레더자켓 프리사이즈",
+        "price_updates": [
+            {
+                "1741970723": "83000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307734012_1_1738304728_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "293787570",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 맥코트 판매합니다.",
+        "price_updates": [
+            {
+                "1741952771": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293787570_1_1739115487_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "321896028",
+        "brands": [
+            "stu"
+        ],
+        "name": "ate studios x 라이커샵 콜라보 니트 3사이즈 팝니다",
+        "price_updates": [
+            {
+                "1741962170": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321896028_1_1741521184_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "292634250",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 커브드 레더 자켓 M사이즈",
+        "price_updates": [
+            {
+                "1741970262": "239000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292634250_1_1741957360_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "189449375",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio balck hoodie",
+        "price_updates": [
+            {
+                "1741969496": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/189449375_1_1730025913_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "281105577",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s stussy shirt 스투시 체크셔츠",
+        "price_updates": [
+            {
+                "1741945932": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281105577_1_1739808318_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "322582890",
+        "brands": [
+            "stu"
+        ],
+        "name": "Acne studios 아크네 스튜디오 Chad 채드 카멜 브라운 52",
+        "price_updates": [
+            {
+                "1741968994": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322582890_1_1741968991_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "322386846",
+        "brands": [
+            "stu"
+        ],
+        "name": "Hgbb studio yupik denim 스튜디오 유픽 데님 자켓 L",
+        "price_updates": [
+            {
+                "1741964838": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322386846_1_1741883790_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "232640190",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office Embroidered 셔츠",
+        "price_updates": [
+            {
+                "1741968264": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/232640190_1_1691589761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "313582583",
+        "brands": [
+            "stu"
+        ],
+        "name": "나이키 스투시 나투시 후드 XL nike stussy",
+        "price_updates": [
+            {
+                "1741965074": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313582583_1_1737789743_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "150340601",
+        "brands": [
+            "stu"
+        ],
+        "name": "acne studio 아크네 스트라이프 니트 팝니다",
+        "price_updates": [
+            {
+                "1741967026": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/150340601_1_1730883965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "308897882",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 코티드 프린팅 스트라이프 셔츠 m",
+        "price_updates": [
+            {
+                "1741964543": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308897882_1_1740830739_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "317218426",
+        "brands": [
+            "stu"
+        ],
+        "name": "아이앱스튜디오 후드티 iab studio 네이비 L",
+        "price_updates": [
+            {
+                "1741944357": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317218426_1_1739423459_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "321497821",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 월드투어 stussy crew MA-1 빅로고 s사이즈",
+        "price_updates": [
+            {
+                "1741944091": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321497821_1_1741944103_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "257885232",
+        "brands": [
+            "stu"
+        ],
+        "name": "iab studio t-shirt 블랙 XL팝니다",
+        "price_updates": [
+            {
+                "1741948489": "117000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257885232_1_1724466242_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "317999908",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 데님 빅올진 청바지 워시드 블루 32",
+        "price_updates": [
+            {
+                "1741964511": "215000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317999908_1_1740098088_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "284378311",
+        "brands": [
+            "stu"
+        ],
+        "name": "esc studio 데님 셋업 (반바지+블레이저)",
+        "price_updates": [
+            {
+                "1741957559": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284378311_1_1728989329_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "320935059",
+        "brands": [
+            "stu"
+        ],
+        "name": "엔타이어 스튜디오 Entire studios 후드집업 soot",
+        "price_updates": [
+            {
+                "1741963705": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320935059_1_1741963720_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "313582770",
+        "brands": [
+            "stu"
+        ],
+        "name": "나이키 스투시 나투시 스웻팬츠 XL nike stussy",
+        "price_updates": [
+            {
+                "1741965074": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313582770_1_1737789829_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "288122694",
+        "brands": [
+            "stu"
+        ],
+        "name": "L) Acne studios 아크네 스튜디오 스웻 맨투맨",
+        "price_updates": [
+            {
+                "1741954922": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288122694_1_1740032819_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "320449395",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 슬러거 커피 후드 브라운 갈색 후드티 hoodied",
+        "price_updates": [
+            {
+                "1741952197": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320449395_1_1741963256_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "317218816",
+        "brands": [
+            "stu"
+        ],
+        "name": "아이앱스튜디오 후드티 iab studio 오트밀버건디 M",
+        "price_updates": [
+            {
+                "1741944357": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317218816_1_1739423587_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "192375375",
+        "brands": [
+            "stu"
+        ],
+        "name": "[xl] 아이앱 스튜디오 iab studio 반팔 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741958511": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192375375_1_1719539786_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "298198137",
+        "brands": [
+            "stu"
+        ],
+        "name": "[xl] 아이랩스튜디오 Iab studio 후드집업 그레이",
+        "price_updates": [
+            {
+                "1741958511": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298198137_1_1731222666_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "285587582",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] 아이앱 스튜디오 Iab studio 쇼츠 반바지 스윔팬츠",
+        "price_updates": [
+            {
+                "1741958511": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285587582_1_1739836221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "197151487",
+        "brands": [
+            "stu"
+        ],
+        "name": "[xl] 아이앱 스튜디오 iab studio 반팔 티셔츠 오렌지",
+        "price_updates": [
+            {
+                "1741958511": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/197151487_1_1725183944_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "218173851",
+        "brands": [
+            "stu"
+        ],
+        "name": "esc studio 이에스씨 스튜디오 스카프 블루종 판매합니다",
+        "price_updates": [
+            {
+                "1741962863": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218173851_1_1729249951_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "171856868",
+        "brands": [
+            "stu"
+        ],
+        "name": "L) 스투시 리메이크 티셔츠 검핑 / stussy vintage",
+        "price_updates": [
+            {
+                "1741955081": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/171856868_1_1712240074_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "315212701",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] 90s stussy 올드 스투시 ss coupe 바시티 자켓",
+        "price_updates": [
+            {
+                "1741944925": "2000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315212701_1_1741663120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "298037978",
+        "brands": [
+            "stu"
+        ],
+        "name": "(새 상품) Entire studios PFD V2 PUFFER",
+        "price_updates": [
+            {
+                "1741959516": "830000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298037978_1_1736939021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "242475988",
+        "brands": [
+            "stu"
+        ],
+        "name": "비바스튜디오 퍼플 더플코트 viva studio 보라 떡볶이코트",
+        "price_updates": [
+            {
+                "1741942514": "98000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242475988_1_1738157371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "308656046",
+        "brands": [
+            "stu"
+        ],
+        "name": "아크네 스튜디오 2003 빈티지 블루(acne studios)",
+        "price_updates": [
+            {
+                "1741937640": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308656046_1_1735443068_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "202574980",
+        "brands": [
+            "stu"
+        ],
+        "name": "[xl] 아이앱 스튜디오 iab studio 스웻 후드 티셔츠 네이비",
+        "price_updates": [
+            {
+                "1741958511": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/202574980_1_1725983560_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "240944735",
+        "brands": [
+            "stu"
+        ],
+        "name": "[l] 아이앱 스튜디오 Iab studio 새들러 니트 맨투맨 플레인",
+        "price_updates": [
+            {
+                "1741958511": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240944735_1_1700284328_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "226819303",
+        "brands": [
+            "stu"
+        ],
+        "name": "스튜디오니콜슨 메노 오버랩 셔츠 XL 샤프론 studionicholson",
+        "price_updates": [
+            {
+                "1741937832": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226819303_1_1701088214_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "276608246",
+        "brands": [
+            "stu"
+        ],
+        "name": "[xl] 아이앱 스튜디오 Iab studio 반팔 티셔츠 흰검 화이브블랙",
+        "price_updates": [
+            {
+                "1741958511": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276608246_1_1719817277_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "298827647",
+        "brands": [
+            "stu"
+        ],
+        "name": "[old stussy] 올드 스투시 spell out pants 실측34",
+        "price_updates": [
+            {
+                "1741947350": "603000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298827647_1_1735901152_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "318666169",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 마스크 쉐르파 플리스 자켓, stussy sherpa fleece",
+        "price_updates": [
+            {
+                "1741952136": "193500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318666169_1_1740049197_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "253207593",
+        "brands": [
+            "stu"
+        ],
+        "name": "entire studios PILLOW VEST BUFFALO [M]",
+        "price_updates": [
+            {
+                "1741940292": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253207593_1_1740064343_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:25"
+    },
+    {
+        "pid": "278549491",
+        "brands": [
+            "stu"
+        ],
+        "name": "Escstudio 슬리브리스",
+        "price_updates": [
+            {
+                "1742009808": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278549491_1_1733807435_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210300",
+        "collected_timestamp": "2025-03-15 05:32:26"
+    },
+    {
+        "pid": "202832931",
+        "brands": [
+            "stu"
+        ],
+        "name": "20fw stu office 중청데님",
+        "price_updates": [
+            {
+                "1741747979": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/202832931_1_1699976479_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:26"
+    },
+    {
+        "pid": "319992398",
+        "brands": [
+            "stu"
+        ],
+        "name": "엔타이어스튜디오 A2 봄버 스웜프 M entire studio",
+        "price_updates": [
+            {
+                "1741823132": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319992398_1_1741939100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:26"
+    },
+    {
+        "pid": "212142196",
+        "brands": [
+            "stu"
+        ],
+        "name": "스튜디오 니콜슨 studio nicholson 니트 판매가55만원 새상품",
+        "price_updates": [
+            {
+                "1741782545": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/212142196_1_1731976513_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:27"
+    },
+    {
+        "pid": "160117931",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy paris 스투시 파리 반팔 티셔츠 xl",
+        "price_updates": [
+            {
+                "1741648352": "83000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/160117931_1_1738859570_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:27"
+    },
+    {
+        "pid": "69831624",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 패치셔츠stussy S사이즈",
+        "price_updates": [
+            {
+                "1742007974": "29000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/69831624_1_1724132326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:27"
+    },
+    {
+        "pid": "258265441",
+        "brands": [
+            "stu"
+        ],
+        "name": "[판매]stu office 스트라이프 후디 셔츠 L",
+        "price_updates": [
+            {
+                "1742008037": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258265441_1_1711616435_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:27"
+    },
+    {
+        "pid": "262745895",
+        "brands": [
+            "stu"
+        ],
+        "name": "빈티지 올드 스투시 old stussy / 90s",
+        "price_updates": [
+            {
+                "1741578223": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262745895_1_1740733624_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:27"
+    },
+    {
+        "pid": "321618088",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] stussy 스투시 릴렉스 반팔 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741418308": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321618088_1_1741418308_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:27"
+    },
+    {
+        "pid": "322628536",
+        "brands": [
+            "stu"
+        ],
+        "name": "Iabstudio 취미가(한정) 후드XL",
+        "price_updates": [
+            {
+                "1742001390": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322628536_1_1741887023_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:28"
+    },
+    {
+        "pid": "170081136",
+        "brands": [
+            "stu"
+        ],
+        "name": "S) stussy 스투시 후드",
+        "price_updates": [
+            {
+                "1740972230": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/170081136_1_1695261295_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:28"
+    },
+    {
+        "pid": "313009757",
+        "brands": [
+            "stu"
+        ],
+        "name": "[M] stu office 그린체크 블레이저",
+        "price_updates": [
+            {
+                "1741454428": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313009757_1_1737516910_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:28"
+    },
+    {
+        "pid": "84793050",
+        "brands": [
+            "stu"
+        ],
+        "name": "esc studio 후드티셔츠",
+        "price_updates": [
+            {
+                "1740825433": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/84793050_1_1527148483_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:28"
+    },
+    {
+        "pid": "254339678",
+        "brands": [
+            "stu"
+        ],
+        "name": "Viva studio 후드티",
+        "price_updates": [
+            {
+                "1740553928": "15000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254339678_1_1710045843_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:28"
+    },
+    {
+        "pid": "231586715",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy s 로고 프린트 반팔티",
+        "price_updates": [
+            {
+                "1740694072": "108000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/231586715_1_1721878452_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:29"
+    },
+    {
+        "pid": "254614235",
+        "brands": [
+            "stu"
+        ],
+        "name": "(XL) 엔타이어스튜디오 entirestudios 플러피 오버코트 카키",
+        "price_updates": [
+            {
+                "1742006510": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254614235_1_1734833907_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:29"
+    },
+    {
+        "pid": "305868044",
+        "brands": [
+            "stu"
+        ],
+        "name": "Esc studio 바람막이",
+        "price_updates": [
+            {
+                "1737976670": "15000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305868044_1_1736850496_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:29"
+    },
+    {
+        "pid": "199632738",
+        "brands": [
+            "stu"
+        ],
+        "name": "(새상품) 스튜디오톰보이 트렌치코트 studiotomboy 톰보이자켓",
+        "price_updates": [
+            {
+                "1741148900": "204000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199632738_1_1708528897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:30"
+    },
+    {
+        "pid": "293707283",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy 샴브레이 데님셔츠 남방",
+        "price_updates": [
+            {
+                "1737682386": "158000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293707283_1_1728644492_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:31"
+    },
+    {
+        "pid": "315608882",
+        "brands": [
+            "stu"
+        ],
+        "name": "(교신o) 남녀공용 무신사 팝업 옐로우 워싱 와이드팬츠 jwastudo",
+        "price_updates": [
+            {
+                "1741977043": "31080"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315608882_1_1738735119_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:31"
+    },
+    {
+        "pid": "306760777",
+        "brands": [
+            "stu"
+        ],
+        "name": "90's ISSEY MIYAKE design studio shirts",
+        "price_updates": [
+            {
+                "1738472928": "67000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306760777_1_1734503806_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:32"
+    },
+    {
+        "pid": "306519176",
+        "brands": [
+            "stu"
+        ],
+        "name": "IAB studio 라이트그레이 M",
+        "price_updates": [
+            {
+                "1734393405": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306519176_1_1734786776_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:32"
+    },
+    {
+        "pid": "85537438",
+        "brands": [
+            "stu"
+        ],
+        "name": "escstudio 셔츠",
+        "price_updates": [
+            {
+                "1741940891": "73000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/85537438_1_1632725357_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:32"
+    },
+    {
+        "pid": "310233510",
+        "brands": [
+            "stu"
+        ],
+        "name": "남성 Bikend studios 더블 모직 롱코트(105)",
+        "price_updates": [
+            {
+                "1736221552": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310233510_1_1736221552_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "309587576",
+        "brands": [
+            "stu"
+        ],
+        "name": "새옷) R2 studio 가벼운 퀄팅 웰론패딩자켓 경량패딩 깔깔이 M",
+        "price_updates": [
+            {
+                "1736630162": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309587576_1_1736657851_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "300600123",
+        "brands": [
+            "stu"
+        ],
+        "name": "IAB studio 아이앱 스튜디오 글로우",
+        "price_updates": [
+            {
+                "1734421017": "54000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300600123_1_1732264209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "132788723",
+        "brands": [
+            "stu"
+        ],
+        "name": "80s 스투시 stussy 빅로고 메쉬 카모 레이어드 밴딩 반바지",
+        "price_updates": [
+            {
+                "1735955158": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/132788723_1_1710472121_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "134024151",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy 펜디 모노그램 주카 패러디 스웻 후드티",
+        "price_updates": [
+            {
+                "1735523798": "128000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/134024151_1_1705553620_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "142012108",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy 디지털카모 패턴 카고 팬츠 바지",
+        "price_updates": [
+            {
+                "1734840394": "118000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/142012108_1_1734762271_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "218246910",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 블래이저 판매합니다",
+        "price_updates": [
+            {
+                "1733402057": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218246910_1_1679231078_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "192506827",
+        "brands": [
+            "stu"
+        ],
+        "name": "[xl] 아이앱 스튜디오 iab studio 반팔 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1735386908": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192506827_1_1717903714_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "301497466",
+        "brands": [
+            "stu"
+        ],
+        "name": "our legacy stussy workshop 셔츠",
+        "price_updates": [
+            {
+                "1734935527": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301497466_1_1732784527_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "322132278",
+        "brands": [
+            "stu"
+        ],
+        "name": "iabstudio&lee 데님 자켓",
+        "price_updates": [
+            {
+                "1741942966": "499000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322132278_1_1741643227_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:33"
+    },
+    {
+        "pid": "261487260",
+        "brands": [
+            "stu"
+        ],
+        "name": "니들즈xstudios 별주 셋업 팝니다",
+        "price_updates": [
+            {
+                "1741941533": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261487260_1_1714135259_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:32:34"
+    },
+    {
+        "pid": "322584392",
+        "brands": [
+            "stu"
+        ],
+        "name": "19FW Acnestudios 아크네 스튜디오 Chad 채드 블랙 52",
+        "price_updates": [
+            {
+                "1741968994": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322584392_1_1741968924_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:32:35"
+    },
+    {
+        "pid": "158540403",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy 포켓 카모패턴 반팔티셔츠",
+        "price_updates": [
+            {
+                "1733095119": "98000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/158540403_1_1733104917_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:35"
+    },
+    {
+        "pid": "306728709",
+        "brands": [
+            "stu"
+        ],
+        "name": "Entire studios SOA puffer 새상품 엔타이어 스튜디오",
+        "price_updates": [
+            {
+                "1734918175": "475000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306728709_1_1734918188_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:35"
+    },
+    {
+        "pid": "319103938",
+        "brands": [
+            "stu"
+        ],
+        "name": "Nofaithstudios denim s",
+        "price_updates": [
+            {
+                "1741969725": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319103938_1_1740253154_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:36"
+    },
+    {
+        "pid": "262310110",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 꼼데가르송 stussy x cdg 스트라이프 자켓",
+        "price_updates": [
+            {
+                "1731111669": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262310110_1_1723482405_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:37"
+    },
+    {
+        "pid": "317017308",
+        "brands": [
+            "stu"
+        ],
+        "name": "1993studio 1993스튜디오 남성 후드티 남자 후드티 판매",
+        "price_updates": [
+            {
+                "1741963534": "29000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317017308_1_1740118089_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:37"
+    },
+    {
+        "pid": "139595674",
+        "brands": [
+            "stu"
+        ],
+        "name": "vivastudio mustang jacket ja[black] s사이즈",
+        "price_updates": [
+            {
+                "1741963340": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/139595674_1_1649154698_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:37"
+    },
+    {
+        "pid": "296517464",
+        "brands": [
+            "stu"
+        ],
+        "name": "Iab studio light gray hoodie",
+        "price_updates": [
+            {
+                "1729871736": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296517464_1_1729871736_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:37"
+    },
+    {
+        "pid": "318858579",
+        "brands": [
+            "stu"
+        ],
+        "name": "아이앱스튜디오(iabstudio) 피그먼트 맨투맨 L",
+        "price_updates": [
+            {
+                "1741941946": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318858579_1_1740138287_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:37"
+    },
+    {
+        "pid": "244850286",
+        "brands": [
+            "stu"
+        ],
+        "name": "acne studios wool pace trouser black",
+        "price_updates": [
+            {
+                "1730110613": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244850286_1_1701431968_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:32:38"
+    },
+    {
+        "pid": "234495547",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy x haze 반팔 카라 티셔츠",
+        "price_updates": [
+            {
+                "1727071570": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234495547_1_1715409632_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:38"
+    },
+    {
+        "pid": "292136162",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy nyltla 인터네셔널 자켓",
+        "price_updates": [
+            {
+                "1727854359": "238000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292136162_1_1727854359_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:38"
+    },
+    {
+        "pid": "289984019",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy x ray 8ball 스투시 엑스레이 티셔츠 xl",
+        "price_updates": [
+            {
+                "1726672557": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289984019_1_1726672557_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:39"
+    },
+    {
+        "pid": "223760388",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 아이스크림티",
+        "price_updates": [
+            {
+                "1723728880": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223760388_1_1707356876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:40"
+    },
+    {
+        "pid": "285214969",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 자수로고 카고 반바지 stussy",
+        "price_updates": [
+            {
+                "1723998857": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285214969_1_1724068184_w{res}.jpg",
+        "status": "1",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:32:40"
+    },
+    {
+        "pid": "270580133",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 베이직 반팔티 stussy basic",
+        "price_updates": [
+            {
+                "1724168430": "32000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270580133_1_1719277983_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:40"
+    },
+    {
+        "pid": "303158278",
+        "brands": [
+            "stu"
+        ],
+        "name": "Vivastudio/비바스튜디오기모맨투맨/남성95/긴팔/맨투맨/",
+        "price_updates": [
+            {
+                "1741951149": "10000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303158278_1_1734753102_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:40"
+    },
+    {
+        "pid": "161814003",
+        "brands": [
+            "stu"
+        ],
+        "name": "90s 스투시 stussy 월드투어 프린트 반팔티셔츠",
+        "price_updates": [
+            {
+                "1724193730": "88000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/161814003_1_1724204321_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:41"
+    },
+    {
+        "pid": "92142371",
+        "brands": [
+            "stu"
+        ],
+        "name": "87mm 1987studio 블랙맨투맨 판매합니다",
+        "price_updates": [
+            {
+                "1741878043": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/92142371_1_1594308762_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:41"
+    },
+    {
+        "pid": "286359405",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 서울 24 롱슬리브 긴팔 xl stussy seoul 판매합니다",
+        "price_updates": [
+            {
+                "1724669210": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286359405_1_1724669210_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:41"
+    },
+    {
+        "pid": "180783484",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시 90s 그린 롱슬리브 긴팔티 usa stussy",
+        "price_updates": [
+            {
+                "1722680785": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/180783484_1_1722703309_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:42"
+    },
+    {
+        "pid": "264244054",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 반팔/m사이즈",
+        "price_updates": [
+            {
+                "1721001533": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264244054_1_1716341736_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:42"
+    },
+    {
+        "pid": "271715390",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 베이직 워터쇼츠  블랙",
+        "price_updates": [
+            {
+                "1720443735": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271715390_1_1718198851_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:32:42"
+    },
+    {
+        "pid": "268961804",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 반팔",
+        "price_updates": [
+            {
+                "1717384929": "21000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268961804_1_1717384929_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:43"
+    },
+    {
+        "pid": "221088937",
+        "brands": [
+            "stu"
+        ],
+        "name": "stussy 스투시 컬리S 워터숏츠  파인그린",
+        "price_updates": [
+            {
+                "1718548427": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221088937_1_1714462401_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:32:44"
+    },
+    {
+        "pid": "319317277",
+        "brands": [
+            "stu"
+        ],
+        "name": "스투시stussy 스웻",
+        "price_updates": [
+            {
+                "1740362423": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319317277_1_1740362423_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:44"
+    },
+    {
+        "pid": "239912503",
+        "brands": [
+            "stu"
+        ],
+        "name": "vivastudio 긴팔",
+        "price_updates": [
+            {
+                "1739782447": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239912503_1_1697695429_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:44"
+    },
+    {
+        "pid": "160065205",
+        "brands": [
+            "stu"
+        ],
+        "name": "Costume National 티셔츠 56 사이즈",
+        "price_updates": [
+            {
+                "1740963912": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/160065205_1_1636527614_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:44"
+    },
+    {
+        "pid": "312410622",
+        "brands": [
+            "stu"
+        ],
+        "name": "비바스튜디오 vivastudio 리프진 팬츠 M사이즈",
+        "price_updates": [
+            {
+                "1739596844": "27000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312410622_1_1738640987_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:45"
+    },
+    {
+        "pid": "237305143",
+        "brands": [
+            "stu"
+        ],
+        "name": "vivastudio 빈티지 스타일 맨투맨(XL) 인하",
+        "price_updates": [
+            {
+                "1739602623": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237305143_1_1728843547_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:45"
+    },
+    {
+        "pid": "213041987",
+        "brands": [
+            "stu"
+        ],
+        "name": "iabstudio 스웻팬츠",
+        "price_updates": [
+            {
+                "1731717360": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/213041987_1_1675064391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:47"
+    },
+    {
+        "pid": "261117541",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] CPG flagstuff 맨투맨",
+        "price_updates": [
+            {
+                "1713854802": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261117541_1_1714227351_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-15 05:32:48"
+    },
+    {
+        "pid": "322426502",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 가디건",
+        "price_updates": [
+            {
+                "1741930313": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322426502_1_1741970781_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:48"
+    },
+    {
+        "pid": "314956565",
+        "brands": [
+            "stu"
+        ],
+        "name": "[S] stu 턱 팬츠 베이지",
+        "price_updates": [
+            {
+                "1741504940": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314956565_1_1739242005_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:48"
+    },
+    {
+        "pid": "273349871",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 그린체크 블레이저 m사이즈",
+        "price_updates": [
+            {
+                "1739240873": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273349871_1_1734486915_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "312467133",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 카센티노  니트 M사이즈 판매",
+        "price_updates": [
+            {
+                "1738589700": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312467133_1_1738565466_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "314680917",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 24시즌 카센티노 니트 옐로우M",
+        "price_updates": [
+            {
+                "1738328695": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314680917_1_1738328695_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "312467448",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 니트 M사이즈 판매",
+        "price_updates": [
+            {
+                "1737275374": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312467448_1_1737265301_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "309606474",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 와이드 코튼팬츠 브라운 m",
+        "price_updates": [
+            {
+                "1736751115": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309606474_1_1736753192_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "308756329",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 패딩베스트 판매",
+        "price_updates": [
+            {
+                "1735479481": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308756329_1_1735482789_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "309088526",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 패디드 바시티 M사이즈판매",
+        "price_updates": [
+            {
+                "1735645623": "375000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309088526_1_1735645640_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "307210121",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 리운드넥가디건올리브 L",
+        "price_updates": [
+            {
+                "1735595617": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307210121_1_1735569505_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "308116345",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 멀티체크 패딩 M사이즈",
+        "price_updates": [
+            {
+                "1735280622": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308116345_1_1735281021_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:49"
+    },
+    {
+        "pid": "253944972",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu 플레어 코튼 팬츠 S",
+        "price_updates": [
+            {
+                "1708417192": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253944972_1_1708418942_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319302968",
+        "brands": [
+            "stu"
+        ],
+        "name": "stu office 셔츠자켓 네이비 L",
+        "price_updates": [
+            {
+                "1740537754": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319302968_1_1740354825_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "309381180",
+        "brands": [
+            "stu"
+        ],
+        "name": "[L] stussy 스투시 스웻팬츠 조거팬츠",
+        "price_updates": [
+            {
+                "1741156424": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309381180_1_1738278760_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "293390235",
+        "brands": [
+            "stu"
+        ],
+        "name": "[빈티지] stussy 스투시 비너스 화이트 셔츠 L 100",
+        "price_updates": [
+            {
+                "1734318945": "27000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293390235_1_1735000009_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "312248028",
+        "brands": [
+            "stu"
+        ],
+        "name": "escstudio 버뮤다 와이드 팬츠",
+        "price_updates": [
+            {
+                "1740181870": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312248028_1_1740267600_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "314130543",
+        "brands": [
+            "stu"
+        ],
+        "name": "vivastudio 카라 니트 가디건",
+        "price_updates": [
+            {
+                "1740275202": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314130543_1_1740289388_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "307682666",
+        "brands": [
+            "stu"
+        ],
+        "name": "flagstuff 모헤어가디건 L",
+        "price_updates": [
+            {
+                "1739709639": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307682666_1_1738824354_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "pid": "322678213",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[32] 블루마블 스터드 배기 데님 팬츠",
+        "price_updates": [
+            {
+                "1741929540": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322678213_1_1741929535_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "261109480",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[M] 블루마블 드로우스트링 롱슬리브 블랙",
+        "price_updates": [
+            {
+                "1741927078": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261109480_1_1726713511_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "315425465",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "블루마블 벨티드 카고 팬트",
+        "price_updates": [
+            {
+                "1741923125": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315425465_1_1738652735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "307676540",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[L] 블루마블 페이퍼백 벨티드 카고팬츠",
+        "price_updates": [
+            {
+                "1741920893": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307676540_1_1734925815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "302575169",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "[L] 블루마블 Bluemarble 비즈 스터드 레이어드 롱슬리브 티셔츠",
+        "price_updates": [
+            {
+                "1741896734": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302575169_1_1732971830_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "268873898",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "블루마블 니트 하프 집업 L 새상품",
+        "price_updates": [
+            {
+                "1741905574": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268873898_1_1721576866_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "233722496",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "31일까지 (S) Bluemarble 블루마블 카고 팬츠 나마체코 엑슬림",
+        "price_updates": [
+            {
+                "1741881128": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233722496_1_1741009363_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    },
+    {
+        "pid": "283197333",
+        "brands": [
+            "블루마블"
+        ],
+        "name": "Bluemarble paris 블루마블 슬리브리스",
+        "price_updates": [
+            {
+                "1727835166": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283197333_1_1722874449_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210300",
+        "collected_timestamp": "2025-03-14 06:39:33"
+    }
+]

@@ -1,0 +1,834 @@
+[
+    {
+        "pid": "321525805",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 패치워크 가디건 팝니다!!",
+        "price_updates": [
+            {
+                "1742016227": "2300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321525805_1_1741369838_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "302007177",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 양가죽 자켓 급처합니다!!(교신환영)",
+        "price_updates": [
+            {
+                "1742016372": "1370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302007177_1_1732760988_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "318246659",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 20fw 더블 코튼 트렌치코트 50",
+        "price_updates": [
+            {
+                "1742015541": "970000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318246659_1_1741598886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "317100728",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 트윌 스티치 크롭 자켓 50",
+        "price_updates": [
+            {
+                "1742015324": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317100728_1_1741500796_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "252636506",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 나일론 코트 52사이즈",
+        "price_updates": [
+            {
+                "1742013712": "790000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252636506_1_1710997354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "318609298",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 블랙 트렌치코트 52",
+        "price_updates": [
+            {
+                "1742012844": "522500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318609298_1_1740911392_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "268034823",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 시그니처 니트 폴로티 오렌지",
+        "price_updates": [
+            {
+                "1742010186": "389000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268034823_1_1717378631_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "320879977",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 팬츠",
+        "price_updates": [
+            {
+                "1742009425": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320879977_1_1741046134_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "293230848",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 니트",
+        "price_updates": [
+            {
+                "1742001558": "687000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293230848_1_1740604235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "318334433",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 정장 수트 케이스",
+        "price_updates": [
+            {
+                "1741999623": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318334433_1_1739891665_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "308175427",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 스쿠버 팬츠 52사이즈",
+        "price_updates": [
+            {
+                "1742000619": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308175427_1_1738617820_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "302974695",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 청바지",
+        "price_updates": [
+            {
+                "1741990909": "261000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302974695_1_1738825988_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "240655144",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 니트 스웨터",
+        "price_updates": [
+            {
+                "1741974583": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240655144_1_1740224792_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "318244590",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "(46사이즈) 보테가베네타 슬랙스 블랙",
+        "price_updates": [
+            {
+                "1741984266": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318244590_1_1739866494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "297781493",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "[50] 보테가베네타 블랙울 자켓",
+        "price_updates": [
+            {
+                "1741981978": "2000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297781493_1_1740939058_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "317615397",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타  셔츠 39 15 1/2",
+        "price_updates": [
+            {
+                "1741992833": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317615397_1_1741351601_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "322794284",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 자켓 (48) 판매",
+        "price_updates": [
+            {
+                "1741972246": "1800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322794284_1_1741972246_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "321496684",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 남성 니트",
+        "price_updates": [
+            {
+                "1741969781": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321496684_1_1741357091_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "200164293",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 셔츠",
+        "price_updates": [
+            {
+                "1741947129": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200164293_1_1738222448_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "290786745",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 스티치 셋업",
+        "price_updates": [
+            {
+                "1741964683": "1600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290786745_1_1728289524_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "263013333",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 팬츠 52",
+        "price_updates": [
+            {
+                "1741971364": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263013333_1_1738480057_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "318180812",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 나일론 자켓",
+        "price_updates": [
+            {
+                "1741946834": "889000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318180812_1_1741258180_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "200169146",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 아우터(L)",
+        "price_updates": [
+            {
+                "1741947129": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200169146_1_1738222886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "191286095",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 폴로셔츠 L",
+        "price_updates": [
+            {
+                "1741964697": "740000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/191286095_1_1736694713_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "313253990",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 24SS 코트 46",
+        "price_updates": [
+            {
+                "1741962313": "2600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313253990_1_1741865902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "293090655",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 잉글리시 립 캐시미어 니트",
+        "price_updates": [
+            {
+                "1741961784": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293090655_1_1741543209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "297843874",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "[48] 보테가베네타 나일론 패딩 코트",
+        "price_updates": [
+            {
+                "1741970646": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297843874_1_1735571377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "201560274",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 남성 롱트렌치코트",
+        "price_updates": [
+            {
+                "1741947129": "2100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201560274_1_1696994792_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "200167988",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 더블레이어 트렌치코트",
+        "price_updates": [
+            {
+                "1741947129": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200167988_1_1696994746_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "200166202",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 셔츠스타일 자켓(44)",
+        "price_updates": [
+            {
+                "1741947129": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200166202_1_1738222512_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "311123107",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "[54] 보테가베네타 코튼 카고 팬츠",
+        "price_updates": [
+            {
+                "1741936140": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311123107_1_1738406974_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "240843563",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "50 / 보테가베네타 투포켓 반팔 셔츠",
+        "price_updates": [
+            {
+                "1741964166": "470000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240843563_1_1731560488_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "285919913",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "(정품)백화점택 보테가베네타 커튼 자켓",
+        "price_updates": [
+            {
+                "1741959489": "1300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285919913_1_1739105953_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "244855131",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "(정품) 백화점택 브라운 보테가베네타 자켓",
+        "price_updates": [
+            {
+                "1741959489": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244855131_1_1741264539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "319750708",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 salon03 데님 청자켓",
+        "price_updates": [
+            {
+                "1741948660": "640000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319750708_1_1740708100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "201560735",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 남성가죽 봄버자켓(50)",
+        "price_updates": [
+            {
+                "1741947129": "2700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201560735_1_1696994802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "226891921",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 인디고 데님 오버롤 48",
+        "price_updates": [
+            {
+                "1741938216": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226891921_1_1739285323_w{res}.jpg",
+        "status": "0",
+        "category_id": "320400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "307810854",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 개버틴 투톤 가죽코트",
+        "price_updates": [
+            {
+                "1741966456": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307810854_1_1742002802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "248294193",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "[50] 보테가베네타 울 더블 코트 브라운",
+        "price_updates": [
+            {
+                "1741955348": "1590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248294193_1_1739197973_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "199575393",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 레귤러핏코튼셔츠(48,100)",
+        "price_updates": [
+            {
+                "1741947129": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199575393_1_1738222430_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "319176821",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 점퍼 펀매(소가죽 패치)",
+        "price_updates": [
+            {
+                "1741956988": "1629010"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319176821_1_1740294203_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "276059960",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "20ss 보테가베네타 데님 셔츠 자켓 (48사이즈)",
+        "price_updates": [
+            {
+                "1741936398": "780000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276059960_1_1739246995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "292632276",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 버진울-모헤어 블레이저 자켓 카멜 48 유아인착용",
+        "price_updates": [
+            {
+                "1741965736": "799000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292632276_1_1739522950_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "293740761",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 앙고라 울 모헤어 롱코트 루이비통 에르메스 펜디 프라다 디올",
+        "price_updates": [
+            {
+                "1741972846": "9400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293740761_1_1741545175_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "263687890",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 데님자켓",
+        "price_updates": [
+            {
+                "1741854365": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263687890_1_1738711693_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "300066349",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "새상품)보테가베네타 알파벳 울 니트 맨투맨 (남녀가능)",
+        "price_updates": [
+            {
+                "1741912216": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300066349_1_1741936539_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "293638066",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "프라다 데님 셔츠 패딩 자켓 에르메스 디올 루이비통  보테가베네타 톰포드",
+        "price_updates": [
+            {
+                "1741914393": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293638066_1_1741947767_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "293741152",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "루이비통 데님 자켓 프라다 펜디 에르메스 디올 보테가베네타 톰포드 생로랑",
+        "price_updates": [
+            {
+                "1741914393": "2000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293741152_1_1741947760_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "287370133",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "[38] 보테가베네타 스트랩 팬츠",
+        "price_updates": [
+            {
+                "1741786426": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287370133_1_1732463118_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-15 05:31:11"
+    },
+    {
+        "pid": "252182658",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 나일론코트 판매합니다.",
+        "price_updates": [
+            {
+                "1738851684": "690000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252182658_1_1719753441_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:12"
+    },
+    {
+        "pid": "242294590",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 덴스 코튼 팬츠",
+        "price_updates": [
+            {
+                "1735896005": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242294590_1_1705545223_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:12"
+    },
+    {
+        "pid": "250995146",
+        "brands": [
+            "보테가베네타"
+        ],
+        "name": "보테가베네타 패딩 푸퍼 L",
+        "price_updates": [
+            {
+                "1741938682": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250995146_1_1741938701_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:12"
+    }
+]

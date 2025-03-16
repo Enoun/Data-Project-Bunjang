@@ -1,0 +1,594 @@
+[
+    {
+        "pid": "315128832",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 Paf 5.0 쉘 집업 후드 자켓",
+        "price_updates": [
+            {
+                "1742016594": "218880"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315128832_1_1738666464_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "305076494",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XL] 포스트아카이브팩션 5.1 라이트 자켓 아이스",
+        "price_updates": [
+            {
+                "1742016235": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305076494_1_1741255800_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "309011450",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[L] 포스트아카이브팩션 파프 paf 7.0 패딩 차콜 새상품",
+        "price_updates": [
+            {
+                "1742016251": "950000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309011450_1_1741168169_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "304801408",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[L] 포스트아카이브팩션 5.1 셔츠 CENTER (CHARCOAL)",
+        "price_updates": [
+            {
+                "1742016231": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304801408_1_1741318706_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "292732733",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XS] 포스트아카이브팩션 4.0 라이트 그레이",
+        "price_updates": [
+            {
+                "1742013882": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292732733_1_1733750663_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "322417965",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 팬츠",
+        "price_updates": [
+            {
+                "1742008078": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322417965_1_1741949062_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "298125954",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "(XL) 포스트아카이브팩션 4.0+ right 패딩",
+        "price_updates": [
+            {
+                "1742012822": "740000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298125954_1_1738588677_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "321743340",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XL]포스트아카이브팩션 4.0 후드",
+        "price_updates": [
+            {
+                "1742007162": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321743340_1_1741709314_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "321721603",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XL]파프 포스트아카이브팩션 7.0 테크니컬 자켓 블랙",
+        "price_updates": [
+            {
+                "1742002851": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321721603_1_1741577355_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320994286",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[M] paf 5.1 포스트아카이브팩션 라이트 패딩 블루베리",
+        "price_updates": [
+            {
+                "1742002756": "660000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320994286_1_1742006636_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320345547",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XL]paf 포스트아카이브팩션 5.0 테크니컬 자켓 센터",
+        "price_updates": [
+            {
+                "1742005574": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320345547_1_1741162842_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "311665021",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션(PAF) 4.0+ Center L 자켓",
+        "price_updates": [
+            {
+                "1742002762": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311665021_1_1737782202_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "317937342",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 갑진년 롱슬리브 XL",
+        "price_updates": [
+            {
+                "1742004148": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317937342_1_1740383127_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "305790859",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "(xs) 포스트아카이브팩션 5.0+ 코트 센터 라이트 그레이",
+        "price_updates": [
+            {
+                "1742003835": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305790859_1_1741953797_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "315664863",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 Paf 5.0 쉘 집업 후드 자켓 L사이즈",
+        "price_updates": [
+            {
+                "1742005375": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315664863_1_1741332652_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "318795023",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XL] paf 포스트아카이브팩션 8.0 후드 챠콜",
+        "price_updates": [
+            {
+                "1741998995": "285000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318795023_1_1741919866_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "315119824",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 4.0 패딩 쉐도우그린 L",
+        "price_updates": [
+            {
+                "1741985112": "730000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315119824_1_1740635872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "316343614",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 파프 새티스파이 롱슬리브 L",
+        "price_updates": [
+            {
+                "1741975008": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316343614_1_1741793941_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "303292667",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "파프 포스트아카이브팩션 테크니컬팬츠 5.1 xl",
+        "price_updates": [
+            {
+                "1741985112": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303292667_1_1734703182_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "322717640",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[M]포스트아카이브팩션 8.0 후드 차콜",
+        "price_updates": [
+            {
+                "1741958763": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322717640_1_1741964904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "322444847",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[M] 포스트아카이브팩션 2.0 트라우저",
+        "price_updates": [
+            {
+                "1741959205": "174000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322444847_1_1741789415_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "322444445",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[XS] 포스트아카이브팩션 4.0 테크니컬 팬츠",
+        "price_updates": [
+            {
+                "1741959205": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322444445_1_1741789577_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320864408",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "(구매) 포스트아카이브팩션 테크니컬 자켓 s",
+        "price_updates": [
+            {
+                "1741934799": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320864408_1_1741018515_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "316956107",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 3.1 down right 패딩",
+        "price_updates": [
+            {
+                "1741969726": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316956107_1_1740989891_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "317971606",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션(paf) 4.0 셔츠 센터 XL",
+        "price_updates": [
+            {
+                "1741962675": "433200"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317971606_1_1740282531_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "303935983",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 7.0 TECHNICAL PANTS CENTER",
+        "price_updates": [
+            {
+                "1741960987": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303935983_1_1739191511_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "314089624",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "Xl 포스트아카이브팩션 paf 5.1 TECHNICAL JACKET",
+        "price_updates": [
+            {
+                "1741949591": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314089624_1_1741589778_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "313750508",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 paf 패딩 center 4.0+(라지사이즈, 차콜)",
+        "price_updates": [
+            {
+                "1741949213": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313750508_1_1740975853_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "317965725",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 7.0 자켓 블랙 s사이즈 판매합니다",
+        "price_updates": [
+            {
+                "1741944817": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317965725_1_1739746232_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "310684624",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "(L)포스트아카이브팩션 5.1 다운 메탈릭 그린 파프 패딩 라이트",
+        "price_updates": [
+            {
+                "1741940512": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310684624_1_1740118661_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "311655773",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "[L]PAF 7.0 DOWN RIGHT 포스트아카이브팩션 파프패딩 차콜",
+        "price_updates": [
+            {
+                "1741953155": "680000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311655773_1_1740566670_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "307808160",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "오늘만이가격[M] 포스트아카이브팩션 6.0 봄버 센터 아이보리",
+        "price_updates": [
+            {
+                "1741972917": "305000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307808160_1_1741932903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320033549",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 파프 4.0 jacket center 화이트 L사이즈",
+        "price_updates": [
+            {
+                "1741915342": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320033549_1_1741954885_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320037434",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 파프 5.0+ jacket 자켓 center XL",
+        "price_updates": [
+            {
+                "1741915342": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320037434_1_1741954878_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320024632",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 파프 PAF 5.1 COAT RIGHT 코트 XL",
+        "price_updates": [
+            {
+                "1741915342": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320024632_1_1741954896_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320039155",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 파프 5.0+ shirt right 셔츠 가디건 xl",
+        "price_updates": [
+            {
+                "1741915342": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320039155_1_1741954870_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    },
+    {
+        "pid": "320040709",
+        "brands": [
+            "포스트아카이브팩션"
+        ],
+        "name": "포스트아카이브팩션 파프 6.0 봄버 항공점퍼 bomber ma-1",
+        "price_updates": [
+            {
+                "1741915342": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320040709_1_1741954862_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:31:02"
+    }
+]

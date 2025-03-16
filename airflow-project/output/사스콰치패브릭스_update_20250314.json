@@ -1,0 +1,594 @@
+[
+    {
+        "pid": "136500277",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 17aw velvet coat",
+        "price_updates": [
+            {
+                "1741931916": "720000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/136500277_1_1608777022_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "262746256",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "Sasquatchfabrix 사스콰치패브릭스 후드 셔츠",
+        "price_updates": [
+            {
+                "1741929475": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262746256_1_1718858450_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "310158921",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 롱슬리브 M 팝니다",
+        "price_updates": [
+            {
+                "1741929359": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310158921_1_1738900041_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "239459763",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "[L] 사스콰치패브릭스 니트 반팔 블랙",
+        "price_updates": [
+            {
+                "1741922020": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239459763_1_1740226235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "123192279",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 가운 자켓",
+        "price_updates": [
+            {
+                "1741916750": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/123192279_1_1738084278_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "123360044",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 가운 자켓",
+        "price_updates": [
+            {
+                "1741916732": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/123360044_1_1738083602_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "286379050",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 20SS 오리엔탈 타이다이 셔츠 L",
+        "price_updates": [
+            {
+                "1741918121": "108000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286379050_1_1724675938_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "306208678",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 웨스턴 가디건",
+        "price_updates": [
+            {
+                "1741907656": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306208678_1_1734248813_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "304284416",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 페인팅 빈티지 후드",
+        "price_updates": [
+            {
+                "1741896747": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304284416_1_1740350602_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "318350193",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 스트라이프니트 가디건",
+        "price_updates": [
+            {
+                "1741895066": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318350193_1_1739902120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "210244048",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 플라이트 자켓",
+        "price_updates": [
+            {
+                "1741911763": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210244048_1_1741820450_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "302056049",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "21SS SASQUATCHFABRIX MAYOKE 사스콰치패브릭스 셔츠",
+        "price_updates": [
+            {
+                "1741904234": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302056049_1_1734339273_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "321963726",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 캐시미어 100% 가디건",
+        "price_updates": [
+            {
+                "1741876260": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321963726_1_1741545666_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "322411170",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 반팔 셔츠(새상품)",
+        "price_updates": [
+            {
+                "1741859566": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322411170_1_1741778986_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "320546787",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 트랙자켓m 아이엠샵",
+        "price_updates": [
+            {
+                "1741880395": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320546787_1_1740896523_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "311750689",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스",
+        "price_updates": [
+            {
+                "1741858323": "418000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311750689_1_1736927037_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "313296417",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 바지",
+        "price_updates": [
+            {
+                "1741874014": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313296417_1_1740191965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "287636623",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 니트집업",
+        "price_updates": [
+            {
+                "1741878096": "289000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287636623_1_1725355877_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "301166315",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 니트 반팔",
+        "price_updates": [
+            {
+                "1741866332": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301166315_1_1741435585_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "233264026",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 나일론바지",
+        "price_updates": [
+            {
+                "1741861454": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233264026_1_1709946731_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "239287190",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "[xl] 사스콰치패브릭스 티셔츠",
+        "price_updates": [
+            {
+                "1741853144": "84000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239287190_1_1722391030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "250011198",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "니들스x사스콰치패브릭스 스타디움 M",
+        "price_updates": [
+            {
+                "1741883493": "455000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250011198_1_1719482703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "314517849",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "마지막 가격)사스콰치패브릭스 트랙자켓 라이트 그레이",
+        "price_updates": [
+            {
+                "1741877164": "156000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314517849_1_1741627252_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "251493646",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "니들스 x 사스콰치패브릭스 협업 브이 넥 카디건 S",
+        "price_updates": [
+            {
+                "1741860071": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251493646_1_1718256442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "299445033",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 울리 요루 사파리 자켓 구합니다 L,xl사이즈",
+        "price_updates": [
+            {
+                "1741866579": "100000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299445033_1_1731202826_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "318280112",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스X아이엠샵 벨벳 트랙수트 상의XL 하의L",
+        "price_updates": [
+            {
+                "1741880336": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318280112_1_1741371074_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "303802958",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 리버시블 웨스턴 수베니어 자켓",
+        "price_updates": [
+            {
+                "1741774266": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303802958_1_1741850005_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "293114781",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 트랙팬츠 M(-36in)",
+        "price_updates": [
+            {
+                "1741776486": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293114781_1_1728361402_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-14 06:36:28"
+    },
+    {
+        "pid": "242229005",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 나일론 조끼",
+        "price_updates": [
+            {
+                "1741206278": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242229005_1_1741475569_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-14 06:36:30"
+    },
+    {
+        "pid": "278743845",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 오리엔탈 타이다이 팬츠 M",
+        "price_updates": [
+            {
+                "1740222269": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278743845_1_1720583828_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:36:30"
+    },
+    {
+        "pid": "285481032",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 도킹 맨투맨",
+        "price_updates": [
+            {
+                "1737728794": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285481032_1_1734606402_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    },
+    {
+        "pid": "285487792",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 07aw 웨스턴 체크 셔츠",
+        "price_updates": [
+            {
+                "1731843459": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285487792_1_1726557481_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    },
+    {
+        "pid": "291977414",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 22AW 데님 부시 셔츠 자켓",
+        "price_updates": [
+            {
+                "1731483973": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291977414_1_1728635418_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    },
+    {
+        "pid": "285487319",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 나일론 드레이프 팬츠",
+        "price_updates": [
+            {
+                "1729948043": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285487319_1_1728288665_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    },
+    {
+        "pid": "285477205",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 해골 반팔 셔츠",
+        "price_updates": [
+            {
+                "1726935027": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285477205_1_1724164388_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    },
+    {
+        "pid": "285479693",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 등판 번개 반팔",
+        "price_updates": [
+            {
+                "1726648670": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285479693_1_1724165424_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    },
+    {
+        "pid": "264052381",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 에스닉 셔츠",
+        "price_updates": [
+            {
+                "1737447745": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264052381_1_1731460058_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:31"
+    }
+]

@@ -1,51 +1,323 @@
 [
     {
-        "pid": "316546634",
+        "pid": "323056143",
         "brands": [
             "알릭스"
         ],
-        "name": "앤더슨벨 알릭스 카라리스 숏패딩 s",
+        "name": "알릭스 나일론 트러커 XL",
         "price_updates": [
             {
-                "1741617239": "120000"
+                "1742098217": "480000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/316546634_1_1741517244_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/323056143_1_1742098217_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "311222528",
+        "pid": "237030752",
         "brands": [
             "알릭스"
         ],
-        "name": "[2]몽클레어 x 알릭스 마호가누스",
+        "name": "1017 ALYX 9SM 알릭스 푸퍼조끼 콘스텔레이션",
         "price_updates": [
             {
-                "1741617098": "1550000"
+                "1742098429": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/311222528_1_1738909527_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/237030752_1_1737336731_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "317954178",
+        "pid": "315072693",
         "brands": [
             "알릭스"
         ],
-        "name": "<의류매입>아크테릭스캐피탈그레일즈언더마이카키코알릭스알렉산더디제노발렌시아가",
+        "name": "[4]몽클레어 알릭스 알몬드",
         "price_updates": [
             {
-                "1741614539": "50000"
+                "1742097811": "4100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/317954178_1_1739725478_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315072693_1_1739795917_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "255966845",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레어 알릭스 니트패딩",
+        "price_updates": [
+            {
+                "1742092995": "1690000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255966845_1_1740722025_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "254452251",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[1017 ALYX 9SM]알릭스 나일론 자켓 L",
+        "price_updates": [
+            {
+                "1742092433": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254452251_1_1741055932_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "313609645",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레어 알릭스 알몬드 그레이 (0)",
+        "price_updates": [
+            {
+                "1742092972": "1600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313609645_1_1740807234_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "295257476",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "3 몽클레어 x 알릭스 마호가니 다운 자켓 다크 그린",
+        "price_updates": [
+            {
+                "1742092600": "1620000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295257476_1_1734608985_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "322615286",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "23FW 몽클레어 x 알릭스 콜라보 패딩조끼",
+        "price_updates": [
+            {
+                "1742086289": "980000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322615286_1_1742089111_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "303199791",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(L) ALYX 알릭스 폴로 럭비 롱슬리브 1017",
+        "price_updates": [
+            {
+                "1742087313": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303199791_1_1741338370_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "296160034",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 택티컬 베스트 조끼 블랙 / 1017 ALYX ASM",
+        "price_updates": [
+            {
+                "1742080801": "347000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296160034_1_1741163273_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "314835704",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 테크노 코치 자켓 1회착 XL",
+        "price_updates": [
+            {
+                "1742081914": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314835704_1_1738401789_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "322676526",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 X 블랙민즈 디스트로이드 트러커 자켓",
+        "price_updates": [
+            {
+                "1742026083": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322676526_1_1741928876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "322937107",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레르 (몽클레어) 지니어스 알릭스 블랙유광 구스다운패딩 신품급 풀박팝",
+        "price_updates": [
+            {
+                "1742037734": "1450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322937107_1_1742037734_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "321427791",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레어 알릭스 알몬드 패딩 4 블랙",
+        "price_updates": [
+            {
+                "1742052825": "2000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321427791_1_1741332901_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "316800098",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 패딩",
+        "price_updates": [
+            {
+                "1742053328": "680000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316800098_1_1739249479_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "302869211",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 윈드브레이커",
+        "price_updates": [
+            {
+                "1742053121": "205000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302869211_1_1741516456_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "295405145",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 자켓",
+        "price_updates": [
+            {
+                "1742026538": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295405145_1_1739260724_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "318046421",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 프린팅 티",
+        "price_updates": [
+            {
+                "1742053318": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318046421_1_1739809944_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "256502582",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 택티컬 베스트",
+        "price_updates": [
+            {
+                "1742053421": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256502582_1_1710962046_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "242597241",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 alyx 9sm  알릭스 디스트레스드 진",
+        "price_updates": [
+            {
+                "1742043655": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242597241_1_1733205289_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "255921021",
@@ -55,13 +327,1037 @@
         "name": "알릭스 D링 봄버 L",
         "price_updates": [
             {
-                "1741604193": "500000"
+                "1742035023": "500000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/255921021_1_1709821203_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "240046825",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "32 / 알릭스 스트레이트 가죽 팬츠",
+        "price_updates": [
+            {
+                "1742050775": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240046825_1_1729242788_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "213625476",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[M] 알릭스 X 블랙민즈 자켓",
+        "price_updates": [
+            {
+                "1742013840": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/213625476_1_1737071414_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "257901060",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 디스트로이드 봄버 100-105사이즈",
+        "price_updates": [
+            {
+                "1742033484": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257901060_1_1732197380_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "314508174",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[M] 18FW 알릭스 푸퍼 패딩",
+        "price_updates": [
+            {
+                "1742014451": "1289000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314508174_1_1740480145_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "213298444",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[새상품] 1017 ALYX 9SM 알릭스 블랙 루나 코트 (XS)",
+        "price_updates": [
+            {
+                "1742016048": "720000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/213298444_1_1735978429_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "304941606",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 알릭스 니트 블랙 L사이즈 새상품",
+        "price_updates": [
+            {
+                "1742037951": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304941606_1_1733664442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "316546634",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "앤더슨벨 알릭스 카라리스 숏패딩 s",
+        "price_updates": [
+            {
+                "1742052249": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316546634_1_1741517244_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "301914465",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[30] 알릭스 블랙민즈 데님 팬츠 화이트",
+        "price_updates": [
+            {
+                "1742016241": "369000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301914465_1_1740673354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "313062241",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레르 몽클레어 지니어스 알릭스 Alyx 블랙유광 구스다운패딩",
+        "price_updates": [
+            {
+                "1742037540": "1450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313062241_1_1742037524_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "314925321",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[3] 몽클레어 알릭스 알몬디 쇼트 다운 블랙 새상품",
+        "price_updates": [
+            {
+                "1742046111": "3600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314925321_1_1741455173_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "242025408",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(새상품/32)알릭스 블랙민즈 6포켓 흑청 디스 데님 진",
+        "price_updates": [
+            {
+                "1742028321": "632000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242025408_1_1740669510_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "319160228",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(구매)몽클레어X알릭스 알몬드 그레이 3사이즈 구매원합니다!!!",
+        "price_updates": [
+            {
+                "1742019746": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319160228_1_1740289236_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "289987790",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(라지) 알릭스 x 알파 D링 이터널 봄버 자켓 항공 점퍼  카키 컬러",
+        "price_updates": [
+            {
+                "1742055157": "409000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289987790_1_1739713215_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "297232775",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(엑스라지) 알릭스 X 알파 릴렌트리스 ma-1 항공 봄버 잠바 카키컬러",
+        "price_updates": [
+            {
+                "1742014736": "459990"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297232775_1_1739713331_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "321887269",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 후드 XL",
+        "price_updates": [
+            {
+                "1742011502": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321887269_1_1741519003_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "322764531",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "M)알릭스 x 알파인더스트리 ma1",
+        "price_updates": [
+            {
+                "1742009011": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322764531_1_1741965738_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "320948217",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[m] alyx 알릭스  패딩 쉘 코트",
+        "price_updates": [
+            {
+                "1742008047": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320948217_1_1741077862_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "314217627",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "XXL 알릭스 봄버 alyx",
+        "price_updates": [
+            {
+                "1741990404": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314217627_1_1738111167_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "245642941",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(XXL) 알릭스 리나일론 윈드브레이커",
+        "price_updates": [
+            {
+                "1741966292": "530000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245642941_1_1726466681_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "303200974",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 바시티 자켓 L",
+        "price_updates": [
+            {
+                "1741964458": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303200974_1_1739040660_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "301661392",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "새상품)알릭스 반소매 티셔츠",
+        "price_updates": [
+            {
+                "1742010034": "91000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301661392_1_1741833049_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "320238149",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[2] 몽클레어 알릭스 알몬드 샌드 패딩",
+        "price_updates": [
+            {
+                "1742003056": "2500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320238149_1_1740809513_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "252535322",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(L) 알릭스 나일론 윈드브레이커 트랙탑",
+        "price_updates": [
+            {
+                "1741966291": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252535322_1_1714193851_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "242814453",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 ALYX 9SM 푸퍼 알릭스 패딩 푸퍼 코트 점퍼 18fw",
+        "price_updates": [
+            {
+                "1742008840": "1984000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242814453_1_1738552783_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "300310470",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 1017 ALYX 9SM 넥 버클 다운 조끼 패딩 블랙",
+        "price_updates": [
+            {
+                "1741988983": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300310470_1_1732413152_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "299599805",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(30)알릭스 디스트레스드 5포켓 데님 블랙",
+        "price_updates": [
+            {
+                "1741970199": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299599805_1_1735987235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "297558868",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 알릭스 아치로고 봄버 누빔 자켓",
+        "price_updates": [
+            {
+                "1741947409": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297558868_1_1739968044_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "298923977",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[52] 22AW 알릭스 플레이드 로고 셔츠",
+        "price_updates": [
+            {
+                "1741925873": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298923977_1_1739467859_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "318641697",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017ALYX9SM 알릭스 로고 프린팅 드로스트링 후드 블랙XL",
+        "price_updates": [
+            {
+                "1741988983": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318641697_1_1740041431_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "249558141",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레어 알릭스 sirus 사이러스 1사이즈 새제품",
+        "price_updates": [
+            {
+                "1741967844": "2300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249558141_1_1739078483_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "302193487",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 벨티드 오버사이즈 코트 블랙 1017 ALYX 9SM",
+        "price_updates": [
+            {
+                "1741940789": "795000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302193487_1_1738552824_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "252914423",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[32] 알릭스 ALYX 버클 데님 블랙진 1회착용",
+        "price_updates": [
+            {
+                "1741947578": "289000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252914423_1_1738825337_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "322566337",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 써드아이 롱슬리브",
+        "price_updates": [
+            {
+                "1741862103": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322566337_1_1741862102_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "318975439",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 알파인더스트리 이터널 D링 봄버 블랙 XL",
+        "price_updates": [
+            {
+                "1741928340": "1040000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318975439_1_1740203911_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "318425159",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 x 프라그먼트 리버시블 봄버  ALYX x FRAGMENT Des",
+        "price_updates": [
+            {
+                "1742008808": "584000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318425159_1_1739947704_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "186070390",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[32] 알릭스 블랙민즈 디스진 데님 블랙민스 청바지 초판",
+        "price_updates": [
+            {
+                "1742006642": "760000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/186070390_1_1726455430_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "295427891",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "5 몽클레어 x 알릭스 마호가누스 블랙 숏다운 숏패딩 자켓",
+        "price_updates": [
+            {
+                "1741999821": "2290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295427891_1_1734609016_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "248641053",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 ALYX 9SM 알릭스 버클 후드XL",
+        "price_updates": [
+            {
+                "1741876289": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248641053_1_1704510709_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "275765835",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 ALYX 9SM 알릭스 카키 택티컬 카고 팬츠 46",
+        "price_updates": [
+            {
+                "1741919392": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275765835_1_1740123672_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "312337509",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[50] 알릭스 나일론 moto pants 블랙",
+        "price_updates": [
+            {
+                "1741910884": "147000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312337509_1_1741748890_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "207310033",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(XL) 나이키 X 알릭스 롱슬리브",
+        "price_updates": [
+            {
+                "1741924905": "279000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207310033_1_1710670262_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "272416686",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[새제품] 알릭스 alyx 반팔 티셔츠 XL 팝니다",
+        "price_updates": [
+            {
+                "1741920386": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/272416686_1_1718447847_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "300045902",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스X맥킨토시 코트 L사이즈",
+        "price_updates": [
+            {
+                "1741925053": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300045902_1_1741773194_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "322352809",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[2] 몽클레어 몽클레르 알릭스 사이러스 Sirus 패딩 자켓 블랙",
+        "price_updates": [
+            {
+                "1741759222": "2590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322352809_1_1741759222_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "211189056",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 ALYX 9SM 알릭스 코트",
+        "price_updates": [
+            {
+                "1741783478": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/211189056_1_1733407575_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "288970203",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "Alyx 알릭스 코튼 자켓",
+        "price_updates": [
+            {
+                "1741832158": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288970203_1_1733881048_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "257308925",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 버클 팬츠",
+        "price_updates": [
+            {
+                "1741813393": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257308925_1_1717292826_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "242582714",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(백화점정발)몽클레어 알릭스 알몬디스 22fw 3size 블랙 황금사이즈",
+        "price_updates": [
+            {
+                "1741873651": "4460000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242582714_1_1733715361_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "184520737",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 데님 자켓",
+        "price_updates": [
+            {
+                "1741778222": "930000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/184520737_1_1732612712_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "301146146",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 푸퍼 패딩 m",
+        "price_updates": [
+            {
+                "1741824833": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301146146_1_1738978979_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "258984706",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "alyx 알릭스 데님 미착용신품",
+        "price_updates": [
+            {
+                "1741824865": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258984706_1_1727357225_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "210335359",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 알릭스 9SM 스터드 후디 새제품",
+        "price_updates": [
+            {
+                "1741823561": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210335359_1_1737880385_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "313719821",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[30] 알릭스 오일워싱 데님",
+        "price_updates": [
+            {
+                "1741766284": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313719821_1_1741766279_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "240253286",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 Alyx 알릭스 로고 니트 후드 스웨터",
+        "price_updates": [
+            {
+                "1741780238": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240253286_1_1709094802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "187322861",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 토날로고 테일러드 트랙팬츠",
+        "price_updates": [
+            {
+                "1741830992": "355500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/187322861_1_1720073245_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "234717677",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 20ss 미드나이트 아노락 자켓",
+        "price_updates": [
+            {
+                "1741766861": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234717677_1_1718264150_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "288341745",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[S] 알릭스 1017 alyx 오버다이드 캔버스 데님 자켓",
+        "price_updates": [
+            {
+                "1741791745": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288341745_1_1733110695_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "318029452",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[M] ALYX 알릭스 패딩 라이트웨이트 버클 푸퍼 자켓",
+        "price_updates": [
+            {
+                "1741773276": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318029452_1_1741376751_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "315187333",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "몽클레어알릭스 콜라보 다운자켓",
+        "price_updates": [
+            {
+                "1741737601": "1800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315187333_1_1738552230_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "309060707",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[S] 알릭스 Alyx 디스트로이드 카펜터 팬츠 블랙",
+        "price_updates": [
+            {
+                "1741680902": "365000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309060707_1_1735634369_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "313976960",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017ALYX9SM 알릭스 로고 프린트 하프 집업 후드 블랙XL",
+        "price_updates": [
+            {
+                "1741682936": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313976960_1_1737971582_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "295427216",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "3 몽클레어 x 알릭스 탁수스 다운 패딩 자켓",
+        "price_updates": [
+            {
+                "1741744573": "1490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295427216_1_1734609174_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "319392392",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 알릭스 목티",
+        "price_updates": [
+            {
+                "1741659604": "152000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319392392_1_1740385286_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "189617740",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 알릭스 큐브체인 후드",
+        "price_updates": [
+            {
+                "1741656879": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/189617740_1_1715326043_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "259184038",
@@ -77,23 +1373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259184038_1_1725382627_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "319160228",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(구매)몽클레어X알릭스 알몬드 그레이 3사이즈 구매원합니다!!!",
-        "price_updates": [
-            {
-                "1741603553": "1000000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319160228_1_1740289236_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "249761744",
@@ -109,151 +1389,55 @@
         "product_image": "https://media.bunjang.co.kr/product/249761744_1_1741600095_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "314508174",
+        "pid": "288787457",
         "brands": [
             "알릭스"
         ],
-        "name": "[M] 18FW 알릭스 푸퍼 패딩",
+        "name": "1017 알릭스 9SM 그래픽 프린트 반팔 티셔츠 XL (새상품)",
         "price_updates": [
             {
-                "1741599884": "1289000"
+                "1741660098": "85000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314508174_1_1740480145_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "242025408",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(새상품/32)알릭스 블랙민즈 6포켓 흑청 디스 데님 진",
-        "price_updates": [
-            {
-                "1741597484": "633000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242025408_1_1740669510_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "321887269",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 후드 XL",
-        "price_updates": [
-            {
-                "1741578235": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321887269_1_1741519003_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "321256025",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[xl]알릭스 후드",
-        "price_updates": [
-            {
-                "1741585896": "75000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321256025_1_1741391594_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "316800098",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 패딩",
-        "price_updates": [
-            {
-                "1741586563": "680000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316800098_1_1739249479_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "288970203",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "Alyx 알릭스 코튼 자켓",
-        "price_updates": [
-            {
-                "1741588921": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288970203_1_1733881048_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "318046421",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 프린팅 티",
-        "price_updates": [
-            {
-                "1741586580": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318046421_1_1739809944_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/288787457_1_1737848211_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "256502582",
+        "pid": "311222528",
         "brands": [
             "알릭스"
         ],
-        "name": "알릭스 택티컬 베스트",
+        "name": "[2]몽클레어 x 알릭스 마호가누스",
         "price_updates": [
             {
-                "1741578773": "1000000"
+                "1741617098": "1550000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/256502582_1_1710962046_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "237030752",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 ALYX 9SM 알릭스 푸퍼조끼 콘스텔레이션",
-        "price_updates": [
-            {
-                "1741587613": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/237030752_1_1737336731_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311222528_1_1738909527_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "315313371",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 x 몽클레어 데이모스 푸퍼 ALYX 패딩 ALYX x MONCLE",
+        "price_updates": [
+            {
+                "1741660324": "1225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315313371_1_1738591226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "318963742",
@@ -269,103 +1453,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318963742_1_1740200064_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "320948217",
+        "pid": "317954178",
         "brands": [
             "알릭스"
         ],
-        "name": "[m] alyx 알릭스  패딩 쉘 코트",
+        "name": "<의류매입>아크테릭스캐피탈그레일즈언더마이카키코알릭스알렉산더디제노발렌시아가",
         "price_updates": [
             {
-                "1741572885": "500000"
+                "1741614539": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320948217_1_1741077862_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/317954178_1_1739725478_w{res}.jpg",
         "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "302869211",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 윈드브레이커",
-        "price_updates": [
-            {
-                "1741536859": "205000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302869211_1_1741516456_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "257308925",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 버클 팬츠",
-        "price_updates": [
-            {
-                "1741572779": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257308925_1_1717292826_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "242597241",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 alyx 9sm  알릭스 디스트레스드 진",
-        "price_updates": [
-            {
-                "1741573515": "360000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242597241_1_1733205289_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "255966845",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레어 알릭스 니트패딩",
-        "price_updates": [
-            {
-                "1741572216": "1690000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255966845_1_1740722025_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "245642941",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(XXL) 알릭스 리나일론 윈드브레이커",
-        "price_updates": [
-            {
-                "1741572387": "530000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245642941_1_1726466681_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "307542106",
@@ -381,151 +1485,23 @@
         "product_image": "https://media.bunjang.co.kr/product/307542106_1_1739799081_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "315072693",
+        "pid": "312769514",
         "brands": [
             "알릭스"
         ],
-        "name": "[4]몽클레어 알릭스 알몬드",
+        "name": "[6] 몽클레어 알릭스 알몬드 패딩 블랙",
         "price_updates": [
             {
-                "1741574459": "4100000"
+                "1741508501": "2591000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315072693_1_1739795917_w{res}.jpg",
-        "status": "0",
+        "product_image": "https://media.bunjang.co.kr/product/312769514_1_1740147483_w{res}.jpg",
+        "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "189617740",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 큐브체인 후드",
-        "price_updates": [
-            {
-                "1741566149": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/189617740_1_1715326043_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "313719821",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[30] 알릭스 오일워싱 데님",
-        "price_updates": [
-            {
-                "1741569913": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313719821_1_1740726759_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "210335359",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 9SM 스터드 후디 새제품",
-        "price_updates": [
-            {
-                "1741566149": "260000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/210335359_1_1737880385_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "313609645",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레어 알릭스 알몬드 그레이 (0)",
-        "price_updates": [
-            {
-                "1741559314": "1600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313609645_1_1740807234_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "252535322",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(L) 알릭스 나일론 윈드브레이커 트랙탑",
-        "price_updates": [
-            {
-                "1741572387": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/252535322_1_1714193851_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "213625476",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[M] 알릭스 X 블랙민즈 자켓",
-        "price_updates": [
-            {
-                "1741566285": "700000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/213625476_1_1737071414_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "312337509",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[50] 알릭스 나일론 moto pants 블랙",
-        "price_updates": [
-            {
-                "1741562842": "152000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312337509_1_1738680031_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "297558868",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 아치로고 봄버 누빔 자켓",
-        "price_updates": [
-            {
-                "1741571571": "420000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297558868_1_1739968044_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "313080831",
@@ -541,23 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313080831_1_1738393905_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "303199791",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(L) ALYX 알릭스 폴로 럭비 롱슬리브 1017",
-        "price_updates": [
-            {
-                "1741567299": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303199791_1_1741338370_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "307534283",
@@ -573,55 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307534283_1_1739771313_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "296160034",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 택티컬 베스트 조끼 블랙 / 1017 ALYX ASM",
-        "price_updates": [
-            {
-                "1741534544": "347000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296160034_1_1741163273_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "300310470",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 1017 ALYX 9SM 넥 버클 다운 조끼 패딩 블랙",
-        "price_updates": [
-            {
-                "1741534525": "750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300310470_1_1732413152_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "187322861",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 토날로고 테일러드 트랙팬츠",
-        "price_updates": [
-            {
-                "1741566285": "355500"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/187322861_1_1720073245_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "312125300",
@@ -637,391 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312125300_1_1737103156_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "249558141",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레어 알릭스 sirus 사이러스 1사이즈 새제품",
-        "price_updates": [
-            {
-                "1741532758": "2300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/249558141_1_1739078483_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "314835704",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 테크노 코치 자켓 1회착 XL",
-        "price_updates": [
-            {
-                "1741566299": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314835704_1_1738401789_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "288341745",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[S] 알릭스 1017 alyx 오버다이드 캔버스 데님 자켓",
-        "price_updates": [
-            {
-                "1741563015": "650000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288341745_1_1733110695_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "321427791",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레어 알릭스 알몬드 패딩 4 블랙",
-        "price_updates": [
-            {
-                "1741446863": "2000000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321427791_1_1741332901_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "320238149",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[2] 몽클레어 알릭스 알몬드 샌드 패딩",
-        "price_updates": [
-            {
-                "1741447302": "2500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320238149_1_1740809513_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "295405145",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 자켓",
-        "price_updates": [
-            {
-                "1741529983": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295405145_1_1739260724_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "314217627",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "XXL 알릭스 봄버 alyx",
-        "price_updates": [
-            {
-                "1741475933": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314217627_1_1738111167_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "301071911",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 아메카지 웨스턴 셔츠",
-        "price_updates": [
-            {
-                "1741448171": "65000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301071911_1_1738137222_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "275765835",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 ALYX 9SM 알릭스 카키 택티컬 카고 팬츠 46",
-        "price_updates": [
-            {
-                "1741530420": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/275765835_1_1740123672_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "312769514",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[6] 몽클레어 알릭스 알몬드 패딩 블랙",
-        "price_updates": [
-            {
-                "1741508501": "2591000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312769514_1_1740147483_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "242814453",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 ALYX 9SM 푸퍼 알릭스 패딩 푸퍼 코트 점퍼 18fw",
-        "price_updates": [
-            {
-                "1741496794": "1984000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242814453_1_1738552783_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "302822601",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 1017 ALYX 9SM 버클 디테일 하이넥 트랙 자켓.",
-        "price_updates": [
-            {
-                "1741468418": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302822601_1_1732704206_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "252914423",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[32] 알릭스 ALYX 버클 데님 블랙진 1회착용",
-        "price_updates": [
-            {
-                "1741486505": "289000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/252914423_1_1738825337_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "318029452",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[M] ALYX 알릭스 패딩 라이트웨이트 버클 푸퍼 자켓",
-        "price_updates": [
-            {
-                "1741447521": "900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318029452_1_1741376751_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "253048849",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[2] 몽클레어 X 알릭스 블랙 유광 롱 다운 패딩점퍼",
-        "price_updates": [
-            {
-                "1741506846": "1550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253048849_1_1707813996_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "186070390",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[32] 알릭스 블랙민즈 디스진 데님 블랙민스 청바지 초판",
-        "price_updates": [
-            {
-                "1741447339": "760000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/186070390_1_1726455430_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "295427891",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "5 몽클레어 x 알릭스 마호가누스 블랙 숏다운 숏패딩 자켓",
-        "price_updates": [
-            {
-                "1741481300": "2290000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295427891_1_1734609016_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "289987790",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(라지) 알릭스 x 알파 D링 이터널 봄버 자켓 항공 점퍼  카키 컬러",
-        "price_updates": [
-            {
-                "1741448556": "409000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/289987790_1_1739713215_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "319087122",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "<스트릿의류매입>키코엔타이어스튜디오032c캐피탈bless알릭스피오갓이지",
-        "price_updates": [
-            {
-                "1741515189": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319087122_1_1740238250_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "320141796",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[1] 몽클레어 알릭스 알몬드 패딩",
-        "price_updates": [
-            {
-                "1741437866": "2950000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320141796_1_1740924785_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "297232775",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(엑스라지) 알릭스 X 알파 릴렌트리스 ma-1 항공 봄버 잠바 카키컬러",
-        "price_updates": [
-            {
-                "1741448556": "459990"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297232775_1_1739713331_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "242582714",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(백화점정발)몽클레어 알릭스 알몬디스 22fw 3size 블랙 황금사이즈",
-        "price_updates": [
-            {
-                "1741446286": "4460000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242582714_1_1733715361_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "315844615",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "ALYX)알릭스 티셔츠 새상품 M",
-        "price_updates": [
-            {
-                "1741409764": "52000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315844615_1_1741433958_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "319392392",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 목티",
-        "price_updates": [
-            {
-                "1741410693": "152000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319392392_1_1740385286_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "321434200",
@@ -1037,87 +1565,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321434200_1_1741335166_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "213298444",
+        "pid": "253048849",
         "brands": [
             "알릭스"
         ],
-        "name": "[새상품] 1017 ALYX 9SM 알릭스 블랙 루나 코트 (XS)",
+        "name": "[2] 몽클레어 X 알릭스 블랙 유광 롱 다운 패딩점퍼",
         "price_updates": [
             {
-                "1741395003": "720000"
+                "1741506846": "1550000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/213298444_1_1735978429_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "305733718",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 메탈 로고 버튼 다운 셔츠",
-        "price_updates": [
-            {
-                "1741441389": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305733718_1_1734118359_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "298923977",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[52] 22AW 알릭스 플레이드 로고 셔츠",
-        "price_updates": [
-            {
-                "1741389709": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298923977_1_1739467859_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "246869472",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "{유일매물}알릭스 롱패딩 급처",
-        "price_updates": [
-            {
-                "1741387105": "630000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/246869472_1_1728189995_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/253048849_1_1707813996_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "301914465",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[30] 알릭스 블랙민즈 데님 팬츠 화이트",
-        "price_updates": [
-            {
-                "1741362930": "369000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301914465_1_1740673354_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "319547241",
@@ -1133,151 +1597,39 @@
         "product_image": "https://media.bunjang.co.kr/product/319547241_1_1740460702_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "255779573",
+        "pid": "301071911",
         "brands": [
             "알릭스"
         ],
-        "name": "[4] 몽클레어 x 알릭스 브라운 패딩 베스트 새상품",
+        "name": "알릭스 아메카지 웨스턴 셔츠",
         "price_updates": [
             {
-                "1741410982": "1100000"
+                "1741448171": "65000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/255779573_1_1741502494_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/301071911_1_1738137222_w{res}.jpg",
         "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "248641053",
+        "pid": "315844615",
         "brands": [
             "알릭스"
         ],
-        "name": "1017 ALYX 9SM 알릭스 버클 후드XL",
+        "name": "ALYX)알릭스 티셔츠 새상품 M",
         "price_updates": [
             {
-                "1741310101": "250000"
+                "1741409764": "52000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/248641053_1_1704510709_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "272416686",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[새제품] 알릭스 alyx 반팔 티셔츠 XL 팝니다",
-        "price_updates": [
-            {
-                "1741316903": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/272416686_1_1718447847_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315844615_1_1741433958_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "315499603",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 스튜디오 Alyx studio 18fw 푸퍼(s)",
-        "price_updates": [
-            {
-                "1741322561": "1500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315499603_1_1741322543_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "300045902",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스X맥킨토시 코트 L사이즈",
-        "price_updates": [
-            {
-                "1741331012": "440000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300045902_1_1741099764_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "130247327",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 x 몽클레어 후드티 브라운 S사이즈",
-        "price_updates": [
-            {
-                "1741320399": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/130247327_1_1680569452_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "302193487",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 벨티드 오버사이즈 코트 블랙 1017 ALYX 9SM",
-        "price_updates": [
-            {
-                "1741323834": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302193487_1_1738552824_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "274348471",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레어 x 알릭스 다이드 로고 롱슬리브",
-        "price_updates": [
-            {
-                "1741340477": "175000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/274348471_1_1719046747_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "318425159",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 x 프라그먼트 리버시블 봄버  ALYX x FRAGMENT Des",
-        "price_updates": [
-            {
-                "1741323840": "589000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318425159_1_1739947704_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "318963451",
@@ -1293,7 +1645,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318963451_1_1741186569_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "320141796",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[1] 몽클레어 알릭스 알몬드 패딩",
+        "price_updates": [
+            {
+                "1741437866": "2950000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320141796_1_1740924785_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "311287312",
@@ -1309,39 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311287312_1_1739704343_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "258984706",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "alyx 알릭스 데님 미착용신품",
-        "price_updates": [
-            {
-                "1741231193": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258984706_1_1727357225_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "240253286",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 Alyx 알릭스 로고 니트 후드 스웨터",
-        "price_updates": [
-            {
-                "1741245306": "249000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/240253286_1_1709094802_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:28"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "320043141",
@@ -1357,119 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320043141_1_1740828845_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "318975439",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 알파인더스트리 이터널 D링 봄버 블랙 XL",
-        "price_updates": [
-            {
-                "1741253603": "1040000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318975439_1_1740203911_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:28"
-    },
-    {
-        "pid": "295427216",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "3 몽클레어 x 알릭스 탁수스 다운 패딩 자켓",
-        "price_updates": [
-            {
-                "1741240837": "1490000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295427216_1_1734609174_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "309060707",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[S] 알릭스 Alyx 디스트로이드 카펜터 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741162363": "365000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309060707_1_1735634369_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "298662194",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[L] 알릭스 마크플러드 데님",
-        "price_updates": [
-            {
-                "1741162363": "310000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298662194_1_1735652925_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "313976960",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017ALYX9SM 알릭스 로고 프린트 하프 집업 후드 블랙XL",
-        "price_updates": [
-            {
-                "1741105125": "380000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313976960_1_1737971582_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "311984480",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(정품/새상품) 알릭스 남성 라일락 로고 기본 니트 스웨터",
-        "price_updates": [
-            {
-                "1741163485": "107800"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311984480_1_1741163480_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "315313371",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 x 몽클레어 데이모스 푸퍼 ALYX 패딩 ALYX x MONCLE",
-        "price_updates": [
-            {
-                "1741137401": "1230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315313371_1_1738591226_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "320365966",
@@ -1485,23 +1709,71 @@
         "product_image": "https://media.bunjang.co.kr/product/320365966_1_1740820639_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "303200974",
+        "pid": "302822601",
         "brands": [
             "알릭스"
         ],
-        "name": "알릭스 바시티 자켓 L",
+        "name": "알릭스 1017 ALYX 9SM 버클 디테일 하이넥 트랙 자켓.",
         "price_updates": [
             {
-                "1741016614": "550000"
+                "1741468418": "450000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/303200974_1_1739040660_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/302822601_1_1732704206_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "305733718",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "1017 알릭스 메탈 로고 버튼 다운 셔츠",
+        "price_updates": [
+            {
+                "1741441389": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305733718_1_1734118359_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "319087122",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "<스트릿의류매입>키코엔타이어스튜디오032c캐피탈bless알릭스피오갓이지",
+        "price_updates": [
+            {
+                "1741515189": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319087122_1_1740238250_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "246869472",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "{유일매물}알릭스 롱패딩 급처",
+        "price_updates": [
+            {
+                "1741387105": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246869472_1_1728189995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "289180421",
@@ -1517,23 +1789,71 @@
         "product_image": "https://media.bunjang.co.kr/product/289180421_1_1735357929_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "306458849",
+        "pid": "315499603",
         "brands": [
             "알릭스"
         ],
-        "name": "[M] 알릭스 후드티",
+        "name": "알릭스 스튜디오 Alyx studio 18fw 푸퍼(s)",
         "price_updates": [
             {
-                "1740791222": "90000"
+                "1741322561": "1500000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/306458849_1_1734352055_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315499603_1_1741322543_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "130247327",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 x 몽클레어 후드티 브라운 S사이즈",
+        "price_updates": [
+            {
+                "1741320399": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/130247327_1_1680569452_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "298662194",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[L] 알릭스 마크플러드 데님",
+        "price_updates": [
+            {
+                "1741162363": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298662194_1_1735652925_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "255779573",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[4] 몽클레어 x 알릭스 브라운 패딩 베스트 새상품",
+        "price_updates": [
+            {
+                "1741410982": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255779573_1_1741502494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "217648079",
@@ -1549,87 +1869,23 @@
         "product_image": "https://media.bunjang.co.kr/product/217648079_1_1678542011_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
-        "pid": "211189056",
+        "pid": "274348471",
         "brands": [
             "알릭스"
         ],
-        "name": "1017 ALYX 9SM 알릭스 코트",
+        "name": "몽클레어 x 알릭스 다이드 로고 롱슬리브",
         "price_updates": [
             {
-                "1740374119": "420000"
+                "1741340477": "175000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/211189056_1_1733407575_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/274348471_1_1719046747_w{res}.jpg",
         "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "301661392",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "새것)알릭스 반소매 티셔츠",
-        "price_updates": [
-            {
-                "1741006714": "91000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301661392_1_1736606722_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "315187333",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레어알릭스 콜라보 다운자켓",
-        "price_updates": [
-            {
-                "1740761918": "1800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315187333_1_1738552230_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "301146146",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 푸퍼 패딩 m",
-        "price_updates": [
-            {
-                "1740539145": "750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301146146_1_1738978979_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "310302609",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[4] 몽클레어 x 알릭스 알몬드 패딩 샌드",
-        "price_updates": [
-            {
-                "1741001272": "4000000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310302609_1_1741032636_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "317690403",
@@ -1645,7 +1901,23 @@
         "product_image": "https://media.bunjang.co.kr/product/317690403_1_1739622380_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "311984480",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "(정품/새상품) 알릭스 남성 라일락 로고 기본 니트 스웨터",
+        "price_updates": [
+            {
+                "1741163485": "107800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311984480_1_1741163480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "318968237",
@@ -1661,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318968237_1_1740201610_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "255555240",
@@ -1677,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255555240_1_1733150542_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "263632077",
@@ -1693,39 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263632077_1_1739766677_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "288787457",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 9SM 그래픽 프린트 반팔 티셔츠 XL (새상품)",
-        "price_updates": [
-            {
-                "1740824978": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288787457_1_1737848211_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "318641697",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017ALYX9SM 알릭스 로고 프린팅 드로스트링 후드 블랙XL",
-        "price_updates": [
-            {
-                "1740929115": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318641697_1_1740041431_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "312307091",
@@ -1741,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312307091_1_1738660253_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "204229658",
@@ -1757,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/204229658_1_1673591957_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "302559580",
@@ -1773,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302559580_1_1739194183_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "307037731",
@@ -1789,23 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307037731_1_1739516449_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "313062241",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "몽클레르 몽클레어 지니어스 알릭스 Alyx 블랙유광 구스다운패딩",
-        "price_updates": [
-            {
-                "1740959417": "1520000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313062241_1_1740959408_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "240051048",
@@ -1821,23 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240051048_1_1731555415_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "295257476",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "3 몽클레어 x 알릭스 마호가니 다운 자켓 다크 그린",
-        "price_updates": [
-            {
-                "1740884765": "1620000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295257476_1_1734608985_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "319430309",
@@ -1847,29 +2055,13 @@
         "name": "ALYX 알릭스 베이지 숏패딩 XL 팔아요",
         "price_updates": [
             {
-                "1740463058": "300000"
+                "1740463058": "250000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319430309_1_1740395985_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319430309_1_1741778466_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "299599805",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(30)알릭스 디스트레스드 5포켓 데님 블랙",
-        "price_updates": [
-            {
-                "1740420062": "310000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299599805_1_1735987235_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "218391127",
@@ -1885,23 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/218391127_1_1739771114_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "314925321",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[3] 몽클레어 알릭스 알몬디 쇼트 다운 블랙 새상품",
-        "price_updates": [
-            {
-                "1740832433": "3600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314925321_1_1741455173_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "317720232",
@@ -1911,13 +2087,13 @@
         "name": "알릭스 alyx 팬츠 46 슬랙스 디자인의 트레이닝 소재",
         "price_updates": [
             {
-                "1740460789": "160000"
+                "1740460789": "145000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/317720232_1_1741615059_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "317664922",
@@ -1933,23 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317664922_1_1739615068_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "304941606",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "1017 알릭스 니트 블랙 L사이즈 새상품",
-        "price_updates": [
-            {
-                "1740200212": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304941606_1_1733664442_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "305025337",
@@ -1965,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305025337_1_1733715046_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "318195267",
@@ -1981,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318195267_1_1739850854_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "264178815",
@@ -1997,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264178815_1_1720863289_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "291710393",
@@ -2013,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291710393_1_1727611829_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "311435724",
@@ -2029,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311435724_1_1740037058_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "248224006",
@@ -2045,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248224006_1_1733218837_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "211281783",
@@ -2061,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/211281783_1_1674108338_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "261445689",
@@ -2077,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261445689_1_1714309205_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "317662867",
@@ -2093,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317662867_1_1739614458_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "255603926",
@@ -2109,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255603926_1_1709584461_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "314936654",
@@ -2125,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314936654_1_1738439099_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "310331300",
@@ -2141,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310331300_1_1736254336_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "251679020",
@@ -2157,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251679020_1_1739118696_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "295090469",
@@ -2173,23 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295090469_1_1733883243_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "184520737",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 데님 자켓",
-        "price_updates": [
-            {
-                "1738899438": "930000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/184520737_1_1732612712_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "262786138",
@@ -2205,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262786138_1_1715174731_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "309539642",
@@ -2221,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309539642_1_1735888130_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "185995981",
@@ -2237,23 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/185995981_1_1651374409_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "207310033",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "(XL) 나이키 X 알릭스 롱슬리브",
-        "price_updates": [
-            {
-                "1739174782": "279000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/207310033_1_1710670262_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "314826019",
@@ -2269,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314826019_1_1739007989_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "310104039",
@@ -2285,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310104039_1_1738980622_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "300900947",
@@ -2301,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300900947_1_1731835265_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "305558093",
@@ -2317,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305558093_1_1741334797_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "223236105",
@@ -2333,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223236105_1_1729706822_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "315742087",
@@ -2349,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315742087_1_1739446647_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "296312238",
@@ -2365,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296312238_1_1729870526_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "315457044",
@@ -2381,23 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315457044_1_1738662115_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "257901060",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 디스트로이드 봄버 100-105사이즈",
-        "price_updates": [
-            {
-                "1738748623": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257901060_1_1732197380_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "304885368",
@@ -2413,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304885368_1_1734287576_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "222194124",
@@ -2429,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222194124_1_1729652191_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "241369832",
@@ -2445,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241369832_1_1734756470_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "197502510",
@@ -2461,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/197502510_1_1692053668_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "111436599",
@@ -2477,23 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/111436599_1_1573231046_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "234717677",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 20ss 미드나이트 아노락 자켓",
-        "price_updates": [
-            {
-                "1738138071": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/234717677_1_1718264150_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "287137405",
@@ -2509,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287137405_1_1725103178_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "244641307",
@@ -2525,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244641307_1_1701266122_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "250528990",
@@ -2541,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250528990_1_1735712031_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "250531638",
@@ -2557,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250531638_1_1737000870_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "309350847",
@@ -2573,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309350847_1_1737000513_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "309150428",
@@ -2589,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309150428_1_1737000494_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "309605694",
@@ -2605,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309605694_1_1735910759_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "302352068",
@@ -2621,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302352068_1_1732497755_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "241974213",
@@ -2637,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241974213_1_1725715716_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "219709083",
@@ -2651,9 +2747,9 @@
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/219709083_1_1726044315_w{res}.jpg",
-        "status": "1",
+        "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "248224881",
@@ -2669,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248224881_1_1733219168_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "293681841",
@@ -2685,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293681841_1_1736410556_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "310860065",
@@ -2701,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310860065_1_1736513195_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "296362456",
@@ -2717,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296362456_1_1729817008_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "306929105",
@@ -2733,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306929105_1_1734955390_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "229708091",
@@ -2749,23 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229708091_1_1717032293_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "240046825",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "32 / 알릭스 스트레이트 가죽 팬츠",
-        "price_updates": [
-            {
-                "1735699747": "530000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/240046825_1_1729242788_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "301304842",
@@ -2781,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301304842_1_1732014354_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "307721991",
@@ -2797,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307721991_1_1734942928_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "245533754",
@@ -2807,29 +2887,13 @@
         "name": "(XL) 알릭스 나일론 트러커 자켓",
         "price_updates": [
             {
-                "1735006293": "490000"
+                "1735006292": "490000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/245533754_1_1733226447_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "305619965",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 블랙 나일론 에비에이터 자켓 L [패딩]",
-        "price_updates": [
-            {
-                "1735436374": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305619965_1_1735711244_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "290591203",
@@ -2845,7 +2909,23 @@
         "product_image": "https://media.bunjang.co.kr/product/290591203_1_1727009171_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "305619965",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "알릭스 블랙 나일론 에비에이터 자켓 L [패딩]",
+        "price_updates": [
+            {
+                "1735436374": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305619965_1_1735711244_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "291422296",
@@ -2861,23 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291422296_1_1734022878_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "196550621",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "[XL] 알릭스 1017 ALYX 9SM 미러로고 백로고 라운드넥 티셔츠",
-        "price_updates": [
-            {
-                "1734830675": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/196550621_1_1674908979_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "222196206",
@@ -2893,7 +2957,23 @@
         "product_image": "https://media.bunjang.co.kr/product/222196206_1_1731483233_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "196550621",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[XL] 알릭스 1017 ALYX 9SM 미러로고 백로고 라운드넥 티셔츠",
+        "price_updates": [
+            {
+                "1734830675": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/196550621_1_1674908979_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "281927457",
@@ -2909,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281927457_1_1722170878_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "248222431",
@@ -2925,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248222431_1_1733218132_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "304649673",
@@ -2941,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304649673_1_1740204227_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "300839219",
@@ -2957,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300839219_1_1733034511_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "295203212",
@@ -2973,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295203212_1_1729303555_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "210351570",
@@ -2989,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/210351570_1_1698168776_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "236844307",
@@ -3005,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236844307_1_1695107515_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "288882012",
@@ -3021,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288882012_1_1738895408_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "253046907",
@@ -3037,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253046907_1_1739156846_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "301434589",
@@ -3053,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301434589_1_1732083373_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "299321425",
@@ -3069,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299321425_1_1731142582_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "246854287",
@@ -3085,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246854287_1_1731362135_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "298878672",
@@ -3101,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298878672_1_1733283921_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "296572914",
@@ -3117,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296572914_1_1730362931_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "253044949",
@@ -3133,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253044949_1_1739156826_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "258605571",
@@ -3149,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258605571_1_1734019988_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "297008919",
@@ -3165,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297008919_1_1730180320_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "212013468",
@@ -3181,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/212013468_1_1674114731_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "297081294",
@@ -3197,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297081294_1_1730116230_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "233188414",
@@ -3213,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/233188414_1_1711016638_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "245822843",
@@ -3229,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245822843_1_1728800148_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "280999601",
@@ -3245,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280999601_1_1721706175_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "281785643",
@@ -3261,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281785643_1_1723560259_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "269975644",
@@ -3275,9 +3355,9 @@
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/269975644_1_1726061117_w{res}.jpg",
-        "status": "1",
+        "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "248801886",
@@ -3293,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248801886_1_1723609390_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "289107037",
@@ -3309,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289107037_1_1726153026_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "258736888",
@@ -3325,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258736888_1_1714983037_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "285284573",
@@ -3341,7 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285284573_1_1724054508_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "283540367",
@@ -3357,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283540367_1_1723611023_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "285412012",
@@ -3373,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285412012_1_1724139478_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "261620223",
@@ -3389,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261620223_1_1714288904_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "276014806",
@@ -3405,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276014806_1_1719652736_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "276661214",
@@ -3421,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276661214_1_1719830796_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "276856639",
@@ -3437,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276856639_1_1719907350_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "277345788",
@@ -3453,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277345788_1_1720079812_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "277345234",
@@ -3469,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277345234_1_1720079691_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "275852216",
@@ -3485,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275852216_1_1719562428_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "275852825",
@@ -3501,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275852825_1_1719562574_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "219955443",
@@ -3517,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219955443_1_1712223096_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "268402317",
@@ -3533,7 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268402317_1_1717223513_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "264161971",
@@ -3549,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264161971_1_1716272734_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "253532744",
@@ -3565,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253532744_1_1710079662_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "234363505",
@@ -3581,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/234363505_1_1698795338_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "259486315",
@@ -3597,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259486315_1_1712575895_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "252344370",
@@ -3613,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252344370_1_1708995232_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "257900569",
@@ -3629,7 +3709,39 @@
         "product_image": "https://media.bunjang.co.kr/product/257900569_1_1711341297_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "321256025",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[xl]알릭스 후드",
+        "price_updates": [
+            {
+                "1741706779": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321256025_1_1741391594_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
+    },
+    {
+        "pid": "306458849",
+        "brands": [
+            "알릭스"
+        ],
+        "name": "[M] 알릭스 후드티",
+        "price_updates": [
+            {
+                "1741704533": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306458849_1_1741789123_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "320192536",
@@ -3645,7 +3757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320192536_1_1740749426_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "319762479",
@@ -3661,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319762479_1_1740556512_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "320026112",
@@ -3677,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320026112_1_1740717248_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "303036766",
@@ -3693,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303036766_1_1740648575_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "283336332",
@@ -3709,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283336332_1_1738561749_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "318957510",
@@ -3725,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318957510_1_1740198669_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "292698886",
@@ -3741,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292698886_1_1735154059_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "318902681",
@@ -3757,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318902681_1_1740153536_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "316651520",
@@ -3773,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316651520_1_1741266733_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "314914647",
@@ -3789,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314914647_1_1738765748_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "204647344",
@@ -3805,7 +3917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/204647344_1_1739676286_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "291649665",
@@ -3821,7 +3933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291649665_1_1736944569_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "316237824",
@@ -3837,7 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316237824_1_1739007006_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "315482592",
@@ -3853,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315482592_1_1738669462_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "307459104",
@@ -3869,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307459104_1_1734832906_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "308893982",
@@ -3885,7 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308893982_1_1735549038_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "309315311",
@@ -3901,7 +4013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309315311_1_1736701928_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "310444380",
@@ -3917,7 +4029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310444380_1_1738220552_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "314217223",
@@ -3933,7 +4045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314217223_1_1738110837_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "313223758",
@@ -3949,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313223758_1_1737689477_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "313490678",
@@ -3965,7 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313490678_1_1737732224_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "313164562",
@@ -3981,7 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313164562_1_1740045959_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "295027466",
@@ -3997,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295027466_1_1737000733_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "304288869",
@@ -4013,7 +4125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304288869_1_1738236746_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "305672188",
@@ -4029,7 +4141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305672188_1_1736813433_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "312768918",
@@ -4045,7 +4157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312768918_1_1737555580_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "312456787",
@@ -4061,7 +4173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312456787_1_1737261953_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "307012066",
@@ -4077,7 +4189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307012066_1_1735827074_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "311393057",
@@ -4093,7 +4205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311393057_1_1736757879_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "308893831",
@@ -4109,7 +4221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308893831_1_1735548994_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "298704265",
@@ -4125,7 +4237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298704265_1_1739211657_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "306740814",
@@ -4141,7 +4253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306740814_1_1734496846_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "309638732",
@@ -4157,7 +4269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309638732_1_1735952280_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "208429834",
@@ -4173,7 +4285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/208429834_1_1736218583_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "306977324",
@@ -4189,7 +4301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306977324_1_1735883191_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "308589171",
@@ -4205,7 +4317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308589171_1_1735393410_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "289717959",
@@ -4221,7 +4333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289717959_1_1734755091_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "260843035",
@@ -4237,7 +4349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260843035_1_1735473306_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "275132503",
@@ -4253,7 +4365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275132503_1_1734673257_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "306207163",
@@ -4269,7 +4381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306207163_1_1734863260_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "284324140",
@@ -4285,39 +4397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284324140_1_1734526552_w{res}.jpg",
         "status": "3",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "293032666",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "알릭스 스키니진 36사이즈",
-        "price_updates": [
-            {
-                "1734236403": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293032666_1_1734255116_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:29"
-    },
-    {
-        "pid": "305341618",
-        "brands": [
-            "알릭스"
-        ],
-        "name": "L 알릭스x오정규 카펜터 팬츠 블랙",
-        "price_updates": [
-            {
-                "1733929407": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305341618_1_1733843510_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "303011554",
@@ -4333,7 +4413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303011554_1_1734712201_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "240334244",
@@ -4349,7 +4429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240334244_1_1734532291_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "260165416",
@@ -4365,7 +4445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260165416_1_1714300034_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     },
     {
         "pid": "246990867",
@@ -4381,6 +4461,6 @@
         "product_image": "https://media.bunjang.co.kr/product/246990867_1_1704326702_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:29"
+        "collected_timestamp": "2025-03-16 03:12:42"
     }
 ]

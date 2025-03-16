@@ -1,0 +1,242 @@
+[
+    {
+        "pid": "321889164",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 a-2 봄버 Entire studio a-2 bomber",
+        "price_updates": [
+            {
+                "1742010121": "188000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321889164_1_1741860354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "319532772",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 프레이트 카고 XL",
+        "price_updates": [
+            {
+                "1742008865": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319532772_1_1740455264_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "321042913",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 플러피 후리스 M",
+        "price_updates": [
+            {
+                "1741995587": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321042913_1_1741134457_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "321158288",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 써멀 후드 집업 XXL",
+        "price_updates": [
+            {
+                "1741997443": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321158288_1_1741179971_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "319243653",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 이수혁 플리스 자켓 M",
+        "price_updates": [
+            {
+                "1741996943": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319243653_1_1741056621_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "305313755",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 데님 dem jeans",
+        "price_updates": [
+            {
+                "1741992563": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305313755_1_1741340875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "298319263",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 soa 푸퍼 패딩",
+        "price_updates": [
+            {
+                "1741988988": "510000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298319263_1_1740153846_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "321087713",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 soa 푸퍼 패딩 그레이 L",
+        "price_updates": [
+            {
+                "1741937581": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321087713_1_1741937625_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "308749255",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 스웻팬츠",
+        "price_updates": [
+            {
+                "1741946188": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308749255_1_1735473026_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "319992398",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "엔타이어스튜디오 A2 봄버 스웜프 M entire studio",
+        "price_updates": [
+            {
+                "1741823132": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319992398_1_1741939100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "298985155",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "[S] Entire studios 엔타이어스튜디오 pfd v2 푸퍼 자켓",
+        "price_updates": [
+            {
+                "1742010399": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298985155_1_1731988776_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "254614235",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "(XL) 엔타이어스튜디오 entirestudios 플러피 오버코트 카키",
+        "price_updates": [
+            {
+                "1742006510": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254614235_1_1734833907_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "310199217",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "[M] 엔타이어스튜디오 스웻 타르 색상셋업 3피스",
+        "price_updates": [
+            {
+                "1741997820": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310199217_1_1736209268_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "322281782",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "이번주23(M)엔타이어스튜디오 a2 봄버 스왐프 카키",
+        "price_updates": [
+            {
+                "1742007631": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322281782_1_1741944674_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    },
+    {
+        "pid": "314571106",
+        "brands": [
+            "엔타이어스튜디오"
+        ],
+        "name": "[XXL]엔타이어스튜디오 하이 넥 후드 집업",
+        "price_updates": [
+            {
+                "1741951557": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314571106_1_1738462213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:33:26"
+    }
+]

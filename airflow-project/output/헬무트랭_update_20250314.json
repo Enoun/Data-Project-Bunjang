@@ -1,0 +1,738 @@
+[
+    {
+        "pid": "314904269",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 포켓 스트라이프 셔츠",
+        "price_updates": [
+            {
+                "1741931184": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314904269_1_1741533163_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "319227441",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 96s/s 코트",
+        "price_updates": [
+            {
+                "1741928563": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319227441_1_1740309576_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "220152234",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 맨투맨 L",
+        "price_updates": [
+            {
+                "1741926997": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220152234_1_1736960057_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "318931691",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 캐릭터 반팔",
+        "price_updates": [
+            {
+                "1741926826": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318931691_1_1740187803_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "254353889",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[s] 헬무트랭 후드 집업 s사이즈 90 95 판매",
+        "price_updates": [
+            {
+                "1741920221": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254353889_1_1708682421_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "299684504",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[31] 03ss 헬무트랭 RUBBER TIRE PRINT 데님팬츠 블랙",
+        "price_updates": [
+            {
+                "1741920800": "730000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299684504_1_1731377844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "170159438",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 자수 로고 티셔츠",
+        "price_updates": [
+            {
+                "1741916086": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/170159438_1_1700142821_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "307943081",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 생지 데님 29 조세핀",
+        "price_updates": [
+            {
+                "1741914734": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307943081_1_1741524852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "322571446",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 Helmut Lang 디스트레스 자켓 M",
+        "price_updates": [
+            {
+                "1741907978": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322571446_1_1741863935_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "322187044",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 빈티지 타입1 데님자켓 52",
+        "price_updates": [
+            {
+                "1741910215": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322187044_1_1741874710_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "320194797",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "1999 헬무트랭 본디지 스트랩 팬츠",
+        "price_updates": [
+            {
+                "1741903412": "1750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320194797_1_1740750144_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "317632090",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 맨투맨",
+        "price_updates": [
+            {
+                "1741911359": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317632090_1_1740640589_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "304926315",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 야상",
+        "price_updates": [
+            {
+                "1741907720": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304926315_1_1733660453_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "319144187",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "유니클로 헬무트랭 블루종 (100)",
+        "price_updates": [
+            {
+                "1741910028": "29000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319144187_1_1740910772_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "234548930",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 티치 집업 L",
+        "price_updates": [
+            {
+                "1741901913": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/234548930_1_1730606645_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "248156952",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[46] 헬무트랭 SS2000 오렌지 데님 자켓",
+        "price_updates": [
+            {
+                "1741903412": "580000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248156952_1_1733055536_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "315379562",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "(L)헬무트랭 masc 데님 트러커 셋업",
+        "price_updates": [
+            {
+                "1741908647": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315379562_1_1738736706_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "318138745",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "90s~헬무트랭 아카이브 생지데님자켓",
+        "price_updates": [
+            {
+                "1741912369": "419000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318138745_1_1741094637_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "284341906",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[48] 헬무트랭 Type 3 화이트 데님 자켓",
+        "price_updates": [
+            {
+                "1741903412": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284341906_1_1723523850_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "183037775",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[M] 헬무트랭 22SS 마르코 믹스 후드 페퍼민트",
+        "price_updates": [
+            {
+                "1741907304": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/183037775_1_1710084863_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "322547668",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 레더자켓 가죽자켓  새상품 2xl",
+        "price_updates": [
+            {
+                "1741872222": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322547668_1_1741861086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "321124547",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1741874549": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321124547_1_1741169792_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "321016227",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 카프리 팬츠",
+        "price_updates": [
+            {
+                "1741869017": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321016227_1_1741869070_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "246382678",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "HELMUT LANG 헬무트랭 데님 자켓",
+        "price_updates": [
+            {
+                "1741879885": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246382678_1_1733123676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "288584980",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 티셔츠 (L)",
+        "price_updates": [
+            {
+                "1741859690": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288584980_1_1735912900_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "257415630",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 맨투맨 M",
+        "price_updates": [
+            {
+                "1741859690": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257415630_1_1735805597_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "304591964",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 카펜더 데님",
+        "price_updates": [
+            {
+                "1741883577": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304591964_1_1740933041_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "276690554",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 반팔 L사이즈",
+        "price_updates": [
+            {
+                "1741868648": "61110"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276690554_1_1733233420_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "316687775",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭(Helmut Lang) 스웨터 자켓 L",
+        "price_updates": [
+            {
+                "1741853625": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316687775_1_1739190893_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "260678891",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[L] 헬무트랭 나일론 트랙자켓",
+        "price_updates": [
+            {
+                "1741878884": "329000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260678891_1_1722150389_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "313093691",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 Helmut Lang 1997 military shirt(최종",
+        "price_updates": [
+            {
+                "1741880250": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313093691_1_1741403897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "235241279",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 로고 럭비 셔츠 xs",
+        "price_updates": [
+            {
+                "1741863098": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/235241279_1_1730266108_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "310007987",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 블루종 바시티 뽀글이 자켓",
+        "price_updates": [
+            {
+                "1741858586": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310007987_1_1736094808_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "285581701",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 아카이브 타이어프린트 진 30",
+        "price_updates": [
+            {
+                "1741883504": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285581701_1_1735359435_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "315289518",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "(32) 헬무트랭 유틸리티 코팅 데님진",
+        "price_updates": [
+            {
+                "1741867825": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315289518_1_1741516772_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "253218995",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 시스루 메쉬 후디",
+        "price_updates": [
+            {
+                "1741865077": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253218995_1_1708611832_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "190556365",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 스냅 버튼 코치 자켓 화이트",
+        "price_updates": [
+            {
+                "1741855361": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/190556365_1_1741100274_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "291826893",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 데님 지퍼 팬츠 바지 33사이즈",
+        "price_updates": [
+            {
+                "1741869549": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291826893_1_1741369042_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "233364465",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "[L] 헬무트랭 와플 하프집 아노락 집업 차콜",
+        "price_updates": [
+            {
+                "1741890173": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233364465_1_1707581334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "295656908",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "텐꼬르소꼬모 헬무트랭 블랙진 데님",
+        "price_updates": [
+            {
+                "1741857663": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295656908_1_1740528606_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "321179332",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "(L) 헬무트랭 피터도 본디지 봄버 자켓",
+        "price_updates": [
+            {
+                "1741842188": "375000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321179332_1_1741874483_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "321035819",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "(M) 헬무트랭 피터도 본디지 봄버 자켓",
+        "price_updates": [
+            {
+                "1741842193": "375000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321035819_1_1741874468_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "321384591",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 패널 스웨터 XL",
+        "price_updates": [
+            {
+                "1741315037": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321384591_1_1741862999_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "307217787",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "00s 헬무트랭 울 다운 쉘 패딩",
+        "price_updates": [
+            {
+                "1741048354": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307217787_1_1737703961_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "255305447",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "헬무트랭 후드 집업 s 90 95 판매",
+        "price_updates": [
+            {
+                "1740469409": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255305447_1_1709359959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:39:58"
+    },
+    {
+        "pid": "286803233",
+        "brands": [
+            "헬무트랭"
+        ],
+        "name": "(46) 헬무트랭 00s 몰스킨 후드 코트",
+        "price_updates": [
+            {
+                "1726242849": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286803233_1_1725985424_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:39:59"
+    }
+]

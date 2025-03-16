@@ -1,179 +1,35 @@
 [
     {
-        "pid": "283889414",
+        "pid": "312212281",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 더블탭스 crst 후드 4사이즈",
+        "name": "더블탭스 wtaps 맨투맨 L사이즈 새상품",
         "price_updates": [
             {
-                "1741613428": "130000"
+                "1742100823": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/283889414_1_1728961292_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/312212281_1_1741089324_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "298291387",
+        "pid": "322814480",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 wtaps 빅버튼 셔츠 자켓",
+        "name": "wtaps 더블탭스 카키 트라우저 블랙 L 33",
         "price_updates": [
             {
-                "1741606282": "180000"
+                "1742090028": "89000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/298291387_1_1730683990_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "261914461",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 버즈셔츠 블랙 새상품 wtaps",
-        "price_updates": [
-            {
-                "1741605748": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261914461_1_1740925973_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "312900204",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 21ss 정글스탁 올리브 xl",
-        "price_updates": [
-            {
-                "1741607157": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312900204_1_1737454854_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322814480_1_1742011235_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "215625902",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "19ss wtaps league shirts xray 더블탭스 리그셔츠",
-        "price_updates": [
-            {
-                "1741598709": "590000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/215625902_1_1740654275_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "316402104",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "XL) wtaps 더블탭스 스팟 롱슬리브 4 긴팔티",
-        "price_updates": [
-            {
-                "1741599825": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316402104_1_1741257419_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "320103723",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "슈프림 더블탭스 베스트 supreme wtaps  택티컬 다운",
-        "price_updates": [
-            {
-                "1741580402": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320103723_1_1741583316_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "319676560",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps tuck01 더블탭스 트라우져 [02]",
-        "price_updates": [
-            {
-                "1741575633": "296000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319676560_1_1741077613_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "313737169",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 비부악 20aw 3사이즈 wtaps 패딩",
-        "price_updates": [
-            {
-                "1741590425": "480000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313737169_1_1739866760_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "132640072",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 홈 사인 반팔 티셔츠 wtaps home sign tee",
-        "price_updates": [
-            {
-                "1741577968": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/132640072_1_1722546930_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "318763813",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 14aw design hoodie 더블탭스 아메카지 후드",
-        "price_updates": [
-            {
-                "1741576159": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318763813_1_1740106351_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
         "pid": "285531596",
@@ -183,109 +39,13 @@
         "name": "[L]더블탭스 15aw 디자인트라우저 wtaps 스웻팬츠",
         "price_updates": [
             {
-                "1741583101": "210000"
+                "1742095339": "210000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/285531596_1_1740363736_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "243409929",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 14fw 어반 후드 판매합니다 떠블탭스 wtaps",
-        "price_updates": [
-            {
-                "1741588215": "59000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/243409929_1_1740737729_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "297971682",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "[L] wtaps finder",
-        "price_updates": [
-            {
-                "1741584740": "370000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297971682_1_1740229316_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "180770578",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "[판매중] wtaps 19aw 정글스키니 L",
-        "price_updates": [
-            {
-                "1741579100": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/180770578_1_1737977732_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "246885129",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 더블탭스 맨투맨",
-        "price_updates": [
-            {
-                "1741564046": "95000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/246885129_1_1740228942_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "312212281",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 맨투맨 L사이즈 새상품",
-        "price_updates": [
-            {
-                "1741568870": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312212281_1_1741089324_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "307752694",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 더풀아오야마 후드 wtaps 슈프림 네이버후드",
-        "price_updates": [
-            {
-                "1741542589": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307752694_1_1740395974_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
         "pid": "227297536",
@@ -295,13 +55,13 @@
         "name": "wtaps 더블탭스 21ss 정글스탁 1사이즈",
         "price_updates": [
             {
-                "1741557077": "150000"
+                "1742086483": "150000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/227297536_1_1703127640_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
         "pid": "245520100",
@@ -311,45 +71,29 @@
         "name": "더블탭스 wtaps 19ss 카키트라우저",
         "price_updates": [
             {
-                "1741557077": "60000"
+                "1742086483": "60000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/245520100_1_1738841115_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "114795426",
+        "pid": "323019448",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 sqd 자켓 네이비 100%정품(wtaps sqd jacket)",
+        "name": "wtaps 크로스본 닥터셔츠 M",
         "price_updates": [
             {
-                "1741533731": "570000"
+                "1742084311": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/114795426_1_1740880777_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/323019448_1_1742084311_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "298348834",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 후드",
-        "price_updates": [
-            {
-                "1741533485": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298348834_1_1741265999_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
         "pid": "175427716",
@@ -359,205 +103,173 @@
         "name": "wtaps udt 후드",
         "price_updates": [
             {
-                "1741570644": "260000"
+                "1742086911": "260000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/175427716_1_1732924876_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "140682337",
+        "pid": "206717381",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 헤비코트",
+        "name": "wtaps 더블텝스 자켓 코치자켓 바시티자캣 야상 깔깔이",
         "price_updates": [
             {
-                "1741535096": "500000"
+                "1742085799": "260000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/140682337_1_1629278848_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "261273788",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 롱 슬리브",
-        "price_updates": [
-            {
-                "1741533485": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261273788_1_1741266014_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "302716122",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 정글셔츠 s",
-        "price_updates": [
-            {
-                "1741566680": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302716122_1_1741398651_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "239757162",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 티셔츠 판매합니다",
-        "price_updates": [
-            {
-                "1741535096": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/239757162_1_1697567877_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "294374198",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 19ss jungle olive XRAY",
-        "price_updates": [
-            {
-                "1741540244": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294374198_1_1738414914_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/206717381_1_1733154408_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "247703078",
+        "pid": "313737169",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 더티오일워싱 데님 판매합니다.",
+        "name": "더블탭스 비부악 20aw 3사이즈 wtaps 패딩",
         "price_updates": [
             {
-                "1741535096": "150000"
+                "1742078555": "480000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/247703078_1_1704362556_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/313737169_1_1739866760_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "309446325",
+        "pid": "246885129",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 반팔티 1size wtaps",
+        "name": "wtaps 더블탭스 맨투맨",
         "price_updates": [
             {
-                "1741528902": "30000"
+                "1742040640": "95000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/309446325_1_1735828388_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "242628782",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 롱슬리브 긴팔 티셔츠",
-        "price_updates": [
-            {
-                "1741491014": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242628782_1_1736122683_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/246885129_1_1740228942_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "88378070",
+        "pid": "261914461",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 x 브리스톨 팬츠 wtaps fcrb bristol",
+        "name": "더블탭스 버즈셔츠 블랙 새상품 wtaps",
         "price_updates": [
             {
-                "1741479347": "280000"
+                "1742046189": "160000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/88378070_1_1653285698_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/261914461_1_1740925973_w{res}.jpg",
         "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "321547932",
+        "pid": "307752694",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 wtaps 스트라이프 롱슬리브 팝니다",
+        "name": "더블탭스 더풀아오야마 후드 wtaps 슈프림 네이버후드",
         "price_updates": [
             {
-                "1741395553": "149000"
+                "1742052306": "210000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321547932_1_1741395754_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:30"
-    },
-    {
-        "pid": "310320410",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps  후드티 xl 팔아요",
-        "price_updates": [
-            {
-                "1741391040": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310320410_1_1741402908_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/307752694_1_1740395974_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "248769094",
+        "pid": "307742004",
         "brands": [
             "wtaps"
         ],
-        "name": "[최종가격] wtaps very skinny M 더블탭스",
+        "name": "wtaps lamf denim pants 더블탭스 데님",
         "price_updates": [
             {
-                "1741434536": "58000"
+                "1742052306": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/248769094_1_1727936649_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/307742004_1_1739977474_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
+    },
+    {
+        "pid": "114795426",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 sqd 자켓 네이비 100%정품(wtaps sqd jacket)",
+        "price_updates": [
+            {
+                "1742054871": "570000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/114795426_1_1740880777_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:25"
+    },
+    {
+        "pid": "185564452",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[2] 20ss 더블탭스 디자인 크루넥 맨투맨 wtaps 그레이",
+        "price_updates": [
+            {
+                "1742020847": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/185564452_1_1657935720_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:25"
+    },
+    {
+        "pid": "243409929",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 14fw 어반 후드 판매합니다 떠블탭스 wtaps",
+        "price_updates": [
+            {
+                "1742018526": "59000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243409929_1_1740737729_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:25"
+    },
+    {
+        "pid": "191540807",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps",
+        "price_updates": [
+            {
+                "1742050836": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/191540807_1_1695149709_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
         "pid": "251152286",
@@ -567,61 +279,477 @@
         "name": "wtaps 민소매",
         "price_updates": [
             {
-                "1741473224": "70000"
+                "1742051883": "70000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/251152286_1_1733005899_w{res}.jpg",
         "status": "0",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "177781148",
+        "pid": "175097973",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 wtaps 턱 트라우저 팬츠 블랙 3사이즈 팝니다",
+        "name": "wtaps 형광 롱슬리브",
         "price_updates": [
             {
-                "1741403535": "399000"
+                "1742051883": "90000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/177781148_1_1718679064_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/175097973_1_1735546968_w{res}.jpg",
         "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-10 14:51:30"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:25"
     },
     {
-        "pid": "247702108",
+        "pid": "294374198",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 스티치 진청 리마 판매합니다",
+        "name": "wtaps 19ss jungle olive XRAY",
         "price_updates": [
             {
-                "1741448409": "150000"
+                "1742037532": "500000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/247702108_1_1703727817_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/294374198_1_1738414914_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "321684530",
+        "pid": "229233115",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 크로스본 닥터셔츠 M",
+        "name": "더블탭스 wtaps 체크셔츠",
         "price_updates": [
             {
-                "1741436601": "200000"
+                "1742010738": "70000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321684530_1_1741436601_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/229233115_1_1738117580_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "254669633",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 리퍼 후드 wtaps 2",
+        "price_updates": [
+            {
+                "1741939780": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254669633_1_1721363482_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "295881544",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps doom 더블탭스 자켓",
+        "price_updates": [
+            {
+                "1741939767": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295881544_1_1741093538_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "320103723",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "슈프림 더블탭스 베스트 supreme wtaps  택티컬 다운",
+        "price_updates": [
+            {
+                "1742012870": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320103723_1_1741924135_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "215661156",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 리차더슨 콜라보 후드",
+        "price_updates": [
+            {
+                "1741939776": "138000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/215661156_1_1739793241_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "297164849",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 X 반스 콜라보 자켓 (wtaps x vans)",
+        "price_updates": [
+            {
+                "1741986864": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297164849_1_1741910242_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "91736951",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 바토스 셔츠 사이즈 m wtaps vatos",
+        "price_updates": [
+            {
+                "1742013733": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/91736951_1_1715051397_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "318763813",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 14aw design hoodie 더블탭스 아메카지 후드",
+        "price_updates": [
+            {
+                "1742000863": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318763813_1_1740106351_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "132640072",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 홈 사인 반팔 티셔츠 wtaps home sign tee",
+        "price_updates": [
+            {
+                "1741963882": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/132640072_1_1722546930_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "179804003",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 19aw college hood 후드 M사이즈",
+        "price_updates": [
+            {
+                "1742009594": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179804003_1_1645437224_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "318460524",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스(wtaps) 팀자켓 xlima",
+        "price_updates": [
+            {
+                "1741913642": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318460524_1_1739958280_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "298291387",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 빅버튼 셔츠 자켓",
+        "price_updates": [
+            {
+                "1741919538": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298291387_1_1730683990_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "310320410",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps  후드티 xl 팔아요",
+        "price_updates": [
+            {
+                "1741911607": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310320410_1_1741402908_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "258448581",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 07 스트라이프 롱슬리브 L",
+        "price_updates": [
+            {
+                "1741901664": "179000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258448581_1_1740467725_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "298348834",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 후드",
+        "price_updates": [
+            {
+                "1741994173": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298348834_1_1741265999_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "88378070",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 x 브리스톨 팬츠 wtaps fcrb bristol",
+        "price_updates": [
+            {
+                "1741919377": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/88378070_1_1653285698_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "176391934",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 셔츠 S사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1741919541": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/176391934_1_1647831376_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "312010710",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[XL] 더블탭스 x 반스 후드 블랙 (wtaps x vans)",
+        "price_updates": [
+            {
+                "1741884383": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312010710_1_1741884271_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "312900204",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 21ss 정글스탁 올리브 xl",
+        "price_updates": [
+            {
+                "1741848202": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312900204_1_1737454854_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "319676560",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps tuck01 더블탭스 트라우져 [02]",
+        "price_updates": [
+            {
+                "1741849399": "286000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319676560_1_1741767028_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "261273788",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 롱 슬리브",
+        "price_updates": [
+            {
+                "1741994173": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261273788_1_1741266014_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "215625902",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "19ss wtaps league shirts xray 더블탭스 리그셔츠",
+        "price_updates": [
+            {
+                "1741868097": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/215625902_1_1740654275_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "297971682",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[L] wtaps finder",
+        "price_updates": [
+            {
+                "1742007814": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297971682_1_1740229316_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "178796418",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 21SS 탐슨 자켓 더블텝스",
+        "price_updates": [
+            {
+                "1741919963": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/178796418_1_1741742092_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "239757162",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 티셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1741965179": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239757162_1_1697567877_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "231770733",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 벤치자켓 팀자켓 팝니다",
+        "price_updates": [
+            {
+                "1741941545": "495000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/231770733_1_1732537058_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "292606593",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 스목 스웻셔츠 새상품팝니다",
+        "price_updates": [
+            {
+                "1741941550": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292606593_1_1728638752_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "309583327",
@@ -631,29 +759,93 @@
         "name": "wtaps 더블탭스 카모 후드",
         "price_updates": [
             {
-                "1741318344": "180000"
+                "1741828755": "180000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/309583327_1_1735901450_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "140145870",
+        "pid": "235901611",
         "brands": [
             "wtaps"
         ],
-        "name": "[최종가격] wtaps 더블탭스 럼버 울 자켓",
+        "name": "더블탭스 QB wtaps 04 블루",
         "price_updates": [
             {
-                "1741356499": "348000"
+                "1741836566": "230000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/140145870_1_1733546215_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/235901611_1_1712724011_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "283889414",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 crst 후드 4사이즈",
+        "price_updates": [
+            {
+                "1741821791": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283889414_1_1728961292_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "309446325",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 반팔티 1size wtaps",
+        "price_updates": [
+            {
+                "1741785767": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309446325_1_1735828388_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "319577335",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 헨리넥 3종 일괄",
+        "price_updates": [
+            {
+                "1741763522": "138000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319577335_1_1740470326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "244210758",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[희귀매물] 더블탭스 wtaps 16aw hbt 자켓 m사이즈",
+        "price_updates": [
+            {
+                "1741784877": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244210758_1_1714050825_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "307749411",
@@ -663,13 +855,173 @@
         "name": "00s 08fw wtaps 더블탭스 레이싱 자켓 텐더로인 패딩",
         "price_updates": [
             {
-                "1741292792": "210000"
+                "1741807490": "210000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/307749411_1_1739977070_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "141937115",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 그리즐리 스웻셔츠",
+        "price_updates": [
+            {
+                "1741885193": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/141937115_1_1610003885_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "237095687",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 니트",
+        "price_updates": [
+            {
+                "1741740842": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237095687_1_1735615139_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "244420383",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 네이버후드 리퍼후드 03 wtaps neighborhood",
+        "price_updates": [
+            {
+                "1741662241": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244420383_1_1721876856_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "180770578",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[판매중] wtaps 19aw 정글스키니 L",
+        "price_updates": [
+            {
+                "1741825918": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/180770578_1_1737977732_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "273748096",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 반팔셔츠",
+        "price_updates": [
+            {
+                "1741752819": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273748096_1_1727051845_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "140682337",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 헤비코트",
+        "price_updates": [
+            {
+                "1741712442": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/140682337_1_1629278848_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "219333677",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps desert storm sqd hoodie",
+        "price_updates": [
+            {
+                "1741744522": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219333677_1_1723784189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "247610329",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 타이거 카모 반바지 xl 판매합니다",
+        "price_updates": [
+            {
+                "1741712442": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247610329_1_1703649758_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "247702108",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 스티치 진청 리마 판매합니다",
+        "price_updates": [
+            {
+                "1741712442": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247702108_1_1703727817_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "175945068",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps",
+        "price_updates": [
+            {
+                "1741646923": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/175945068_1_1728476956_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "287594304",
@@ -685,71 +1037,55 @@
         "product_image": "https://media.bunjang.co.kr/product/287594304_1_1738716251_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "175097973",
+        "pid": "302716122",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 형광 롱슬리브",
+        "name": "wtaps 정글셔츠 s",
         "price_updates": [
             {
-                "1741362770": "90000"
+                "1741654978": "70000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/175097973_1_1735546968_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/302716122_1_1741398651_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "242628782",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 롱슬리브 긴팔 티셔츠",
+        "price_updates": [
+            {
+                "1741491014": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242628782_1_1736122683_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "229233115",
+        "pid": "248769094",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 wtaps 체크셔츠",
+        "name": "[최종가격] wtaps very skinny M 더블탭스",
         "price_updates": [
             {
-                "1741228418": "70000"
+                "1741434536": "58000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/229233115_1_1738117580_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/248769094_1_1727936649_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "257317392",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 옥스포드셔츠 mike",
-        "price_updates": [
-            {
-                "1741438179": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257317392_1_1725236133_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "244420383",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 네이버후드 리퍼후드 03 wtaps neighborhood",
-        "price_updates": [
-            {
-                "1741230085": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/244420383_1_1721876856_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "173679773",
@@ -765,247 +1101,23 @@
         "product_image": "https://media.bunjang.co.kr/product/173679773_1_1718806263_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "185564452",
+        "pid": "140145870",
         "brands": [
             "wtaps"
         ],
-        "name": "[2] 20ss 더블탭스 디자인 크루넥 맨투맨 wtaps 그레이",
+        "name": "[최종가격] wtaps 더블탭스 럼버 울 자켓",
         "price_updates": [
             {
-                "1741268947": "300000"
+                "1741356499": "348000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/185564452_1_1657935720_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "206717381",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 더블텝스 자켓 코치자켓 바시티자캣 야상 깔깔이",
-        "price_updates": [
-            {
-                "1741373125": "260000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/206717381_1_1733154408_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/140145870_1_1733546215_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "297164849",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 X 반스 콜라보 자켓 (wtaps x vans)",
-        "price_updates": [
-            {
-                "1741174908": "115000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297164849_1_1734604350_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "231770733",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 벤치자켓 팀자켓 팝니다",
-        "price_updates": [
-            {
-                "1741339101": "495000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/231770733_1_1732537058_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "292606593",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 스목 스웻셔츠 새상품팝니다",
-        "price_updates": [
-            {
-                "1741339101": "290000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292606593_1_1728638752_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "258448581",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 07 스트라이프 롱슬리브 L",
-        "price_updates": [
-            {
-                "1741135940": "179000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258448581_1_1740467725_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "307742004",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps lamf denim pants 더블탭스 데님",
-        "price_updates": [
-            {
-                "1741123956": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307742004_1_1739977474_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "247610329",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 타이거 카모 반바지 xl 판매합니다",
-        "price_updates": [
-            {
-                "1741279438": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/247610329_1_1703649758_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "140682879",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps n2b 항공자켓 (b-15플라이자켓)",
-        "price_updates": [
-            {
-                "1741279438": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/140682879_1_1703876907_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "273748096",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 반팔셔츠",
-        "price_updates": [
-            {
-                "1741252383": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/273748096_1_1727051845_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "295881544",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps doom 더블탭스 자켓",
-        "price_updates": [
-            {
-                "1741093543": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295881544_1_1741093538_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "215661156",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 리차더슨 콜라보 후드",
-        "price_updates": [
-            {
-                "1741093561": "138000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/215661156_1_1739793241_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "233039433",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 정글 셔츠 2사이즈 wtaps jungle shirt",
-        "price_updates": [
-            {
-                "1741079557": "135000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/233039433_1_1736664845_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "319577335",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 더블탭스 헨리넥 3종 일괄",
-        "price_updates": [
-            {
-                "1740828746": "138000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319577335_1_1740470326_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "235901611",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 QB wtaps 04 블루",
-        "price_updates": [
-            {
-                "1741008218": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/235901611_1_1712724011_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "222572859",
@@ -1021,71 +1133,55 @@
         "product_image": "https://media.bunjang.co.kr/product/222572859_1_1701486558_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "254669633",
+        "pid": "177781148",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 리퍼 후드 wtaps 2",
+        "name": "더블탭스 wtaps 턱 트라우저 팬츠 블랙 3사이즈 팝니다",
         "price_updates": [
             {
-                "1740877444": "170000"
+                "1741403535": "399000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/254669633_1_1721363482_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/177781148_1_1718679064_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "237095687",
+        "pid": "233039433",
         "brands": [
             "wtaps"
         ],
-        "name": "더블탭스 wtaps 니트",
+        "name": "더블탭스 정글 셔츠 2사이즈 wtaps jungle shirt",
         "price_updates": [
             {
-                "1740494122": "70000"
+                "1741079557": "135000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/237095687_1_1735615139_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "257427315",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps m-65 sierra 자켓",
-        "price_updates": [
-            {
-                "1741140967": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257427315_1_1710980283_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "91736951",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 바토스 셔츠 사이즈 m wtaps vatos",
-        "price_updates": [
-            {
-                "1740918769": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/91736951_1_1715051397_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/233039433_1_1736664845_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "247703078",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더티오일워싱 데님 판매합니다.",
+        "price_updates": [
+            {
+                "1741635168": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247703078_1_1704362556_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "303795307",
@@ -1101,23 +1197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303795307_1_1736731512_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "178796418",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 21SS 탐슨 자켓 더블텝스",
-        "price_updates": [
-            {
-                "1740880241": "380000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/178796418_1_1737049540_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "318606472",
@@ -1133,7 +1213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318606472_1_1740030727_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "238237307",
@@ -1149,23 +1229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/238237307_1_1740214843_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "318460524",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스(wtaps) 팀자켓 xlima",
-        "price_updates": [
-            {
-                "1739958146": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318460524_1_1739958280_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "190315884",
@@ -1181,7 +1245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/190315884_1_1696812665_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "301298074",
@@ -1197,23 +1261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301298074_1_1734095758_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "244210758",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "[희귀매물] 더블탭스 wtaps 16aw hbt 자켓 m사이즈",
-        "price_updates": [
-            {
-                "1739842907": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/244210758_1_1714050825_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "146005373",
@@ -1229,23 +1277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/146005373_1_1644711034_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:31"
-    },
-    {
-        "pid": "312010710",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "[XL] 더블탭스 x 반스 후드 블랙 (wtaps x vans)",
-        "price_updates": [
-            {
-                "1739526103": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312010710_1_1738662056_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:31"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "305425382",
@@ -1261,7 +1293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305425382_1_1733895111_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "316981625",
@@ -1277,7 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316981625_1_1739320624_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "259701661",
@@ -1293,7 +1325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259701661_1_1733731110_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "173679460",
@@ -1309,7 +1341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/173679460_1_1718806549_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "247779233",
@@ -1325,39 +1357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247779233_1_1732869868_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 14:51:32"
-    },
-    {
-        "pid": "320494384",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "wtaps 20ss 정글스탁 블랙",
-        "price_updates": [
-            {
-                "1740880021": "438000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320494384_1_1740880088_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:32"
-    },
-    {
-        "pid": "176391934",
-        "brands": [
-            "wtaps"
-        ],
-        "name": "더블탭스 wtaps 셔츠 S사이즈 판매합니다.",
-        "price_updates": [
-            {
-                "1739027032": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/176391934_1_1647831376_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "303267556",
@@ -1373,23 +1373,23 @@
         "product_image": "https://media.bunjang.co.kr/product/303267556_1_1732930370_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "304275614",
+        "pid": "257317392",
         "brands": [
             "wtaps"
         ],
-        "name": "교환) wtaps 24fw 신세틱 자켓 블랙",
+        "name": "wtaps 옥스포드셔츠 mike",
         "price_updates": [
             {
-                "1741075266": "680000"
+                "1741438179": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304275614_1_1733379945_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/257317392_1_1725236133_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "314677370",
@@ -1405,7 +1405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314677370_1_1738327746_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "129254579",
@@ -1421,7 +1421,23 @@
         "product_image": "https://media.bunjang.co.kr/product/129254579_1_1594977319_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "257427315",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps m-65 sierra 자켓",
+        "price_updates": [
+            {
+                "1741140967": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257427315_1_1710980283_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "233784653",
@@ -1437,23 +1453,55 @@
         "product_image": "https://media.bunjang.co.kr/product/233784653_1_1715616852_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
-        "pid": "141937115",
+        "pid": "320494384",
         "brands": [
             "wtaps"
         ],
-        "name": "wtaps 그리즐리 스웻셔츠",
+        "name": "wtaps 20ss 정글스탁 블랙",
         "price_updates": [
             {
-                "1740682034": "250000"
+                "1740880021": "438000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/141937115_1_1610003885_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320494384_1_1740880088_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "140682879",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps n2b 항공자켓 (b-15플라이자켓)",
+        "price_updates": [
+            {
+                "1741279438": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/140682879_1_1703876907_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "304275614",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "교환) wtaps 24fw 신세틱 자켓 블랙",
+        "price_updates": [
+            {
+                "1741075266": "680000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304275614_1_1733379945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "310143859",
@@ -1469,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310143859_1_1736731750_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "247702862",
@@ -1485,7 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247702862_1_1703728463_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "312117856",
@@ -1501,7 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312117856_1_1737100784_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "312067376",
@@ -1517,7 +1565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312067376_1_1737083025_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "312118180",
@@ -1533,7 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312118180_1_1737100891_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "318603836",
@@ -1549,7 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318603836_1_1740030762_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "249695686",
@@ -1565,7 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249695686_1_1738678997_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
     },
     {
         "pid": "142713425",
@@ -1581,6 +1629,1526 @@
         "product_image": "https://media.bunjang.co.kr/product/142713425_1_1701144720_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 14:51:32"
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "172400856",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 후디",
+        "price_updates": [
+            {
+                "1736831360": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/172400856_1_1640526833_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "207223411",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 크로스본 롱슬리브",
+        "price_updates": [
+            {
+                "1740144407": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207223411_1_1732194977_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "233760792",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 가디건 4사이즈",
+        "price_updates": [
+            {
+                "1739782363": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233760792_1_1729651308_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "239756820",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 어반테리터리",
+        "price_updates": [
+            {
+                "1739615327": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239756820_1_1698070310_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "237873141",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 17ss 정글스탁 M",
+        "price_updates": [
+            {
+                "1739857537": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237873141_1_1696065912_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "237873269",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 18ss 정글스탁 M",
+        "price_updates": [
+            {
+                "1739857533": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237873269_1_1696065999_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "204179048",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps shop coat",
+        "price_updates": [
+            {
+                "1739342093": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204179048_1_1667803412_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "174043716",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[2XL] 슈프림 21fw wtaps sic'em 후드 블랙",
+        "price_updates": [
+            {
+                "1740147160": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174043716_1_1697042401_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "233760560",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 나일론 자켓 블루종 블랙 4사이즈",
+        "price_updates": [
+            {
+                "1739782363": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233760560_1_1718538965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "316689539",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 17aw 더플코트",
+        "price_updates": [
+            {
+                "1739191338": "398000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316689539_1_1739240833_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "317233453",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "16aw wtaps x helly hansen PBS L",
+        "price_updates": [
+            {
+                "1739428218": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317233453_1_1739428881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "310046951",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스  플란넬 울 체크 셔츠",
+        "price_updates": [
+            {
+                "1736128492": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310046951_1_1736893838_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "246202245",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 챔피언 후드 베이지 라지",
+        "price_updates": [
+            {
+                "1738831236": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246202245_1_1702452593_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "303325283",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 퍼 자켓",
+        "price_updates": [
+            {
+                "1735404595": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303325283_1_1732949574_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "242869924",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "(M)wtaps 벨벳 반바지",
+        "price_updates": [
+            {
+                "1738058330": "154000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242869924_1_1708525246_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "203695614",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps",
+        "price_updates": [
+            {
+                "1737473304": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203695614_1_1701159982_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "129711342",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "정품 wtaps 더블탭스 20SS FLAMES SS TEE BLAC",
+        "price_updates": [
+            {
+                "1735552062": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/129711342_1_1636944446_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "297372487",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 15aw 정글셔츠 m",
+        "price_updates": [
+            {
+                "1738092576": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297372487_1_1730263995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:26"
+    },
+    {
+        "pid": "308154128",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 다운 자캣 하이스트리트 패숀 남여공용",
+        "price_updates": [
+            {
+                "1738299350": "268800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308154128_1_1735279263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "233362542",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "(구)더블탭스 액스 티셔츠 3(95)사이즈 wtaps",
+        "price_updates": [
+            {
+                "1734700309": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233362542_1_1692190875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "111230981",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 버즈셔츠 판매합니다.",
+        "price_updates": [
+            {
+                "1733934677": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/111230981_1_1572953199_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "233593863",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 정글퍼티그 16ss 반팔셔츠 마이크m 팝니다",
+        "price_updates": [
+            {
+                "1734180369": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233593863_1_1728117531_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "220974131",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 롱슬리브",
+        "price_updates": [
+            {
+                "1735957163": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220974131_1_1693557053_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "239443606",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[m]슈프림 wtaps 맨투맨 블랙",
+        "price_updates": [
+            {
+                "1736102625": "349000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239443606_1_1729403700_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "303691130",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 바시티 자켓 더블탭스 4",
+        "price_updates": [
+            {
+                "1733106978": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303691130_1_1733144286_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "303484745",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 긴팔 wtaps 네이비",
+        "price_updates": [
+            {
+                "1733021793": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303484745_1_1741737753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "307052602",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 스웻셔츠 맨투맨",
+        "price_updates": [
+            {
+                "1735600804": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307052602_1_1734630690_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "210473638",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 아란니트",
+        "price_updates": [
+            {
+                "1732680018": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210473638_1_1696816850_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "200212265",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 베리스키니진 s사이즈",
+        "price_updates": [
+            {
+                "1732579146": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200212265_1_1729829657_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "294783176",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[XL 105]  더블탭스 wtaps XRAY 정글 셔츠 자켓",
+        "price_updates": [
+            {
+                "1732539394": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294783176_1_1731751119_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "242869358",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "(M)wtaps 지브라 반바지",
+        "price_updates": [
+            {
+                "1734432962": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242869358_1_1708569403_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "276768931",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[XXL]wtaps 롱슬리브",
+        "price_updates": [
+            {
+                "1734176681": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276768931_1_1728751290_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "285548302",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 그래픽 로고 반팔티",
+        "price_updates": [
+            {
+                "1731292340": "88000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285548302_1_1731293815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "242868789",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "(M)wtaps 퍼 반바지",
+        "price_updates": [
+            {
+                "1733391964": "154000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242868789_1_1699954199_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "298699518",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[1] 더블탭스 wtaps 17aw straits 더플코트 1사이즈",
+        "price_updates": [
+            {
+                "1730863680": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298699518_1_1730863680_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "248569032",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 카날 wtaps 바시티 자켓",
+        "price_updates": [
+            {
+                "1730197124": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248569032_1_1728373926_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "293394044",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 티셔츠 4사이즈",
+        "price_updates": [
+            {
+                "1730109767": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293394044_1_1728485130_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "260437105",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps",
+        "price_updates": [
+            {
+                "1729687689": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260437105_1_1729693331_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "244509454",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 정글 셔츠",
+        "price_updates": [
+            {
+                "1728980908": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244509454_1_1702307530_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "204166344",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "mike 더블탭스 wtaps 반팔셔츠",
+        "price_updates": [
+            {
+                "1728929752": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204166344_1_1667440292_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "150724244",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "ystrdy's tmmrw ystrdystmmrw wtaps 슈프림",
+        "price_updates": [
+            {
+                "1731142547": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/150724244_1_1733537317_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "295596188",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps x champion 맨투맨 블랙 / XL",
+        "price_updates": [
+            {
+                "1730937481": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295596188_1_1730242766_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "178191989",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps starter 그레이 라지 팝니다",
+        "price_updates": [
+            {
+                "1730525598": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/178191989_1_1708298181_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "140145390",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 정글 스키니 팬츠",
+        "price_updates": [
+            {
+                "1729225378": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/140145390_1_1733031929_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "259569758",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 플레이어 하프집업 스웻셔츠 wtaps",
+        "price_updates": [
+            {
+                "1726484394": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259569758_1_1712648909_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "63543326",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[100] 더블탭스 m65 필드자켓 전체자수 wtaps",
+        "price_updates": [
+            {
+                "1725461155": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/63543326_1_1721630422_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "94810054",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps tour jk 더블탭스 투어 자켓 L사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1724938265": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/94810054_1_1545980522_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "247630630",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 스펠아웃 로고 모크넥 스웻셔츠 맨투맨",
+        "price_updates": [
+            {
+                "1723130254": "108000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247630630_1_1704271359_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "134957020",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[L] wtaps 더블탭스 19ss llw 스웻 셔츠 새상품",
+        "price_updates": [
+            {
+                "1722143582": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/134957020_1_1702716119_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "211435248",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps wls xl 팝니다",
+        "price_updates": [
+            {
+                "1724139102": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/211435248_1_1682857359_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "204231792",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps jacket size 1",
+        "price_updates": [
+            {
+                "1723238644": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204231792_1_1709078347_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "273552774",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 정글 반팔 X 01 사이즈",
+        "price_updates": [
+            {
+                "1720671172": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273552774_1_1718772830_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "204231212",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps  bape 후드 2size",
+        "price_updates": [
+            {
+                "1723238644": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204231212_1_1709078366_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "182029841",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 자켓",
+        "price_updates": [
+            {
+                "1722547419": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/182029841_1_1684590884_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "276796860",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 벤치코트 wtaps",
+        "price_updates": [
+            {
+                "1719891329": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276796860_1_1722234416_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "245059792",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps A-1 M size 판매합니다",
+        "price_updates": [
+            {
+                "1723238644": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245059792_1_1709078270_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "169791983",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 19aw 아웃트리거 후드 블랙 L 새상품",
+        "price_updates": [
+            {
+                "1721986133": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/169791983_1_1645615873_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "211193842",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 맨투맨 크루넥 Medium 미디엄",
+        "price_updates": [
+            {
+                "1718122901": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/211193842_1_1674747085_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "259864525",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 얼반테리토리 티셔츠 3사이즈",
+        "price_updates": [
+            {
+                "1718079029": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259864525_1_1718702855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "102750828",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 14aw 디자인 후디 wtaps 네이버후드",
+        "price_updates": [
+            {
+                "1717341995": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/102750828_1_1701422751_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "251906895",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[3] 16ss wtaps 더블탭스 wfs 자켓",
+        "price_updates": [
+            {
+                "1716714646": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251906895_1_1708434914_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "207500973",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 니트 입니다. 부드러운 소재",
+        "price_updates": [
+            {
+                "1718604305": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207500973_1_1670612931_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "205365276",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps",
+        "price_updates": [
+            {
+                "1716347149": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/205365276_1_1739675373_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "91820849",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "정품)더블탭스 티셔츠 wtaps 발팔티",
+        "price_updates": [
+            {
+                "1713944716": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/91820849_1_1709881894_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "168423295",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[01] 더블탭스 정글 셔츠 데저트 wtaps jungle shirt",
+        "price_updates": [
+            {
+                "1713509647": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/168423295_1_1638860284_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "260537418",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스(wtaps) 14ss 바토스 셔츠(m)",
+        "price_updates": [
+            {
+                "1713398719": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260537418_1_1713398719_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "254862771",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 23ss 정글",
+        "price_updates": [
+            {
+                "1713027949": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254862771_1_1713027940_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "257914940",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 후드 2size(100)",
+        "price_updates": [
+            {
+                "1714623651": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257914940_1_1712123972_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "254559287",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1711004737": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254559287_1_1708841383_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "183114617",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[L]16fw wtaps 유니온셔츠",
+        "price_updates": [
+            {
+                "1711980744": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/183114617_1_1678451943_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:27"
+    },
+    {
+        "pid": "322817531",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 구형 정글스탁 베이지 L 33",
+        "price_updates": [
+            {
+                "1742022546": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322817531_1_1742011245_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "322816187",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 OI dirty blue raw M 32",
+        "price_updates": [
+            {
+                "1742022546": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322816187_1_1742011259_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "316402104",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "XL) wtaps 더블탭스 스팟 롱슬리브 4 긴팔티",
+        "price_updates": [
+            {
+                "1742000105": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316402104_1_1741257419_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "321547932",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 스트라이프 롱슬리브 팝니다",
+        "price_updates": [
+            {
+                "1741763262": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321547932_1_1741395754_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "322486204",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 바지",
+        "price_updates": [
+            {
+                "1741830955": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322486204_1_1741830955_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "320773858",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 카고바지 wtaps cargo",
+        "price_updates": [
+            {
+                "1740988569": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320773858_1_1740994891_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "276383475",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 카키 코치자켓 L",
+        "price_updates": [
+            {
+                "1741420916": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276383475_1_1741067776_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "318868793",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 22SS 올 짚 후디 S",
+        "price_updates": [
+            {
+                "1740238466": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318868793_1_1740141546_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "299112679",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps buds 버즈셔츠 1사이즈",
+        "price_updates": [
+            {
+                "1739685231": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299112679_1_1739685446_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "229586214",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 바람막이 자켓 판매합니다",
+        "price_updates": [
+            {
+                "1739632529": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229586214_1_1739632639_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "302763016",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 20ss 정글셔츠 xl 더블탭스",
+        "price_updates": [
+            {
+                "1738153139": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302763016_1_1736765982_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "319898362",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "[L]wtaps 18ss 정글셔츠 올리브",
+        "price_updates": [
+            {
+                "1740625043": "155000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319898362_1_1740625043_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "318604889",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 17ss 반팔 셔츠",
+        "price_updates": [
+            {
+                "1740029946": "88000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318604889_1_1740451285_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "311116709",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 샴브레이 셔츠 라지",
+        "price_updates": [
+            {
+                "1736851290": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311116709_1_1736649713_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "249412021",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 패딩 토르포 torpor 21fw",
+        "price_updates": [
+            {
+                "1739961851": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249412021_1_1740311662_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "307744066",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "00s wtaps hoodie 더블탭스 후드 빈티지 90s",
+        "price_updates": [
+            {
+                "1736621711": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307744066_1_1735728858_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "306468670",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 더블탭스 카모맨투맨 lima",
+        "price_updates": [
+            {
+                "1736147751": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306468670_1_1736244867_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "290978063",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps / 와플 롱슬리브 블랙 / L",
+        "price_updates": [
+            {
+                "1739175730": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290978063_1_1735266167_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "236219932",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 피너츠 크루넥 맨투맨 wtaps",
+        "price_updates": [
+            {
+                "1735526154": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236219932_1_1735959120_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "233760320",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 크로스본 정글셔츠 3사이즈",
+        "price_updates": [
+            {
+                "1738749990": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233760320_1_1694361034_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "311618331",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "슈프림 wtaps 도쿄 크루넥",
+        "price_updates": [
+            {
+                "1736999448": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311618331_1_1737032739_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "297442088",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "timc inc. TPW pants 02 navy (네이버후드 wtaps",
+        "price_updates": [
+            {
+                "1735984464": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297442088_1_1735984480_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 05:25:28"
+    },
+    {
+        "pid": "277710048",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "더블탭스 wtaps 레이어드 긴팔 4",
+        "price_updates": [
+            {
+                "1720210317": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277710048_1_1720210317_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 05:25:29"
+    },
+    {
+        "pid": "247846124",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps X 반스 후드 03사이즈",
+        "price_updates": [
+            {
+                "1722504629": "93000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247846124_1_1735913990_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 05:25:29"
+    },
+    {
+        "pid": "203885489",
+        "brands": [
+            "wtaps"
+        ],
+        "name": "wtaps 팬츠",
+        "price_updates": [
+            {
+                "1667158304": "88000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203885489_1_1737863805_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-16 05:25:29"
     }
 ]

@@ -1,21 +1,5 @@
 [
     {
-        "pid": "320296088",
-        "brands": [
-            "graphpaper"
-        ],
-        "name": "그라프페이퍼 graphpaper 컬러패스트 데님 자켓 인디고 1",
-        "price_updates": [
-            {
-                "1741563172": "260000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320296088_1_1741612558_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:54"
-    },
-    {
         "pid": "318091905",
         "brands": [
             "graphpaper"
@@ -23,13 +7,61 @@
         "name": "헤드메이너 x graphpaper 푸퍼 패딩 셔츠 L",
         "price_updates": [
             {
-                "1741532670": "700000"
+                "1742049898": "700000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/318091905_1_1741188761_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
+    },
+    {
+        "pid": "322792918",
+        "brands": [
+            "graphpaper"
+        ],
+        "name": "[2]그라프페이퍼 컬러패스트 데님 투턱 팬츠 graphpaper",
+        "price_updates": [
+            {
+                "1741971115": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322792918_1_1741971115_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 03:12:39"
+    },
+    {
+        "pid": "292787397",
+        "brands": [
+            "graphpaper"
+        ],
+        "name": "[1] graphpaper / 그라프페이퍼 토마스메이슨 셔츠 화이트",
+        "price_updates": [
+            {
+                "1741928383": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292787397_1_1741767553_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 03:12:39"
+    },
+    {
+        "pid": "320296088",
+        "brands": [
+            "graphpaper"
+        ],
+        "name": "그라프페이퍼 graphpaper 컬러패스트 데님 자켓 인디고 1",
+        "price_updates": [
+            {
+                "1741905042": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320296088_1_1741612558_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "321740317",
@@ -39,13 +71,13 @@
         "name": "[2]그라프페이퍼 립스탑 져지 트랙팬츠 graphpaper",
         "price_updates": [
             {
-                "1741455943": "250000"
+                "1741749471": "250000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/321740317_1_1741455943_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "321737170",
@@ -61,23 +93,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321737170_1_1741453036_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-10 13:39:54"
-    },
-    {
-        "pid": "292787397",
-        "brands": [
-            "graphpaper"
-        ],
-        "name": "[1] graphpaper / 그라프페이퍼 토마스메이슨 셔츠 화이트",
-        "price_updates": [
-            {
-                "1741527272": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292787397_1_1741108836_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "192033659",
@@ -93,7 +109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/192033659_1_1705283304_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "315289898",
@@ -109,7 +125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315289898_1_1738584768_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "210871554",
@@ -125,7 +141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/210871554_1_1693535403_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "179370299",
@@ -141,23 +157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/179370299_1_1705385752_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-10 13:39:54"
-    },
-    {
-        "pid": "255361827",
-        "brands": [
-            "graphpaper"
-        ],
-        "name": "그리프페이퍼 graphpaper 브로드 밴드칼라 셔츠",
-        "price_updates": [
-            {
-                "1741365610": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255361827_1_1741528061_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     },
     {
         "pid": "311959869",
@@ -173,6 +173,6 @@
         "product_image": "https://media.bunjang.co.kr/product/311959869_1_1738418349_w{res}.jpg",
         "status": "3",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-10 13:39:54"
+        "collected_timestamp": "2025-03-16 03:12:39"
     }
 ]

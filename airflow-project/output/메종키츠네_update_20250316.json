@@ -1,0 +1,5954 @@
+[
+    {
+        "pid": "323007272",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건",
+        "price_updates": [
+            {
+                "1742110993": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323007272_1_1742064653_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "200882394",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 M",
+        "price_updates": [
+            {
+                "1742110996": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200882394_1_1664617959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "302357199",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "바버 메종키츠네 퀼팅 자켓 M,S사이즈",
+        "price_updates": [
+            {
+                "1742110755": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302357199_1_1732499409_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319511024",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네",
+        "price_updates": [
+            {
+                "1742109849": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319511024_1_1741792073_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "318011335",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 바람막이자켓 사이즈XL",
+        "price_updates": [
+            {
+                "1742110117": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318011335_1_1739768907_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314831084",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 카라티 L",
+        "price_updates": [
+            {
+                "1742109754": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314831084_1_1740077176_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314831427",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 카라티 L",
+        "price_updates": [
+            {
+                "1742109754": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314831427_1_1740077201_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "276758688",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L] 메종키츠네 폭스헤드 네이비 반팔 maison kitsune",
+        "price_updates": [
+            {
+                "1742109691": "54000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276758688_1_1734868260_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323094299",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 24fw니트 L사이즈",
+        "price_updates": [
+            {
+                "1742108670": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323094299_1_1742108701_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323094186",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 남성 반팔티 105XL@9941",
+        "price_updates": [
+            {
+                "1742108642": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323094186_1_1742108642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "240982611",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 롱슬리브 정품 블랙",
+        "price_updates": [
+            {
+                "1742109171": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240982611_1_1733939333_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322309165",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A2] 19SS 아더에러x메종키츠네 후드티 판매",
+        "price_updates": [
+            {
+                "1742108371": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322309165_1_1741867074_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301624515",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 패딩",
+        "price_updates": [
+            {
+                "1742108555": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301624515_1_1733926068_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316550623",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트 XL",
+        "price_updates": [
+            {
+                "1742108484": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316550623_1_1739139721_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "300329546",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "새상품))메종키츠네 스웨트셔츠 맨투맨 M",
+        "price_updates": [
+            {
+                "1742108615": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300329546_1_1742108602_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323080334",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티L(100)",
+        "price_updates": [
+            {
+                "1742104994": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323080334_1_1742104994_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322798885",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트 팝니다",
+        "price_updates": [
+            {
+                "1742107326": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322798885_1_1741979167_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322798842",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 롱슬리브 XL",
+        "price_updates": [
+            {
+                "1742104896": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322798842_1_1741979062_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322390181",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 맨투맨 A2",
+        "price_updates": [
+            {
+                "1742104154": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322390181_1_1741907562_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322388487",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 후드티 네이비 XL사이즈 (국내105사이즈)",
+        "price_updates": [
+            {
+                "1742107104": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322388487_1_1742027978_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323069886",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 점퍼",
+        "price_updates": [
+            {
+                "1742102251": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323069886_1_1742102251_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323067389",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 조끼",
+        "price_updates": [
+            {
+                "1742101601": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323067389_1_1742101601_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "171189532",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742106604": "72000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/171189532_1_1680966216_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301566003",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742107078": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301566003_1_1732144969_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "299382225",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티",
+        "price_updates": [
+            {
+                "1742105706": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299382225_1_1737814030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323070191",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후디 후드티 네이비 XXL",
+        "price_updates": [
+            {
+                "1742102338": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323070191_1_1742102338_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "263243240",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 반팔",
+        "price_updates": [
+            {
+                "1742104162": "84640"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263243240_1_1726289922_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "291705814",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 카라 티셔츠",
+        "price_updates": [
+            {
+                "1742105351": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291705814_1_1740835042_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323069729",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스웨트셔츠 맨투맨 차콜 XL",
+        "price_updates": [
+            {
+                "1742102208": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323069729_1_1742102208_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323068850",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스웨트셔츠 맨투맨 화이트 XL",
+        "price_updates": [
+            {
+                "1742101992": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323068850_1_1742102071_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "164522325",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 자켓 (남녀공용)",
+        "price_updates": [
+            {
+                "1742105086": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/164522325_1_1676020494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "203705738",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 국뽕자켓 베이지",
+        "price_updates": [
+            {
+                "1742106622": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203705738_1_1710661190_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "253583634",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "바버 메종키츠네 리버시블 자켓 M",
+        "price_updates": [
+            {
+                "1742106173": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253583634_1_1740282703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319653583",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 셔츠 L (003) 스트라이프",
+        "price_updates": [
+            {
+                "1742103993": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319653583_1_1740492770_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314051663",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 테트리스 반팔 팝니더",
+        "price_updates": [
+            {
+                "1742107388": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314051663_1_1738010866_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "257639418",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 가디건 베이지 L",
+        "price_updates": [
+            {
+                "1742106144": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257639418_1_1711129885_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "199474258",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 금장 코튼 자켓 (백화점판)",
+        "price_updates": [
+            {
+                "1742105127": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199474258_1_1718872684_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "285139650",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 반팔티 라떼 XXl",
+        "price_updates": [
+            {
+                "1742105735": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285139650_1_1739063796_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319479320",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "바버 키츠네 (바버 x 메종키츠네) M 뷰포트",
+        "price_updates": [
+            {
+                "1742104321": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319479320_1_1740409500_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "220001989",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 패치 포켓 반팔 남녀공용 L",
+        "price_updates": [
+            {
+                "1742106341": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220001989_1_1740584090_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317832862",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 롱슬리브 긴팔 티셔츠 블랙 L사이즈",
+        "price_updates": [
+            {
+                "1742107120": "86000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317832862_1_1742052187_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "289981772",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블 폭스 반팔 카라 티셔츠 차콜 색상 카라티 새제품",
+        "price_updates": [
+            {
+                "1742107120": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289981772_1_1742052130_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "255542777",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품 메종키츠네 춘.추용 니트티셔츠 95호 상태우수",
+        "price_updates": [
+            {
+                "1742105591": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255542777_1_1709539494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "256416768",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[40] 메종키츠네 폭스 헤드 데님 셔츠 40사이즈 95 100 판매",
+        "price_updates": [
+            {
+                "1742104515": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256416768_1_1710218611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321431907",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트",
+        "price_updates": [
+            {
+                "1742100521": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321431907_1_1742035904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320697271",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 맨투맨 A2",
+        "price_updates": [
+            {
+                "1742101908": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320697271_1_1742027288_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322115295",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 M",
+        "price_updates": [
+            {
+                "1742099448": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322115295_1_1741619319_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322096518",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 맨투맨",
+        "price_updates": [
+            {
+                "1742099610": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322096518_1_1741613483_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322001896",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티 (정품)",
+        "price_updates": [
+            {
+                "1742098854": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322001896_1_1741595889_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321478561",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[m]메종키츠네 폭스헤드 가디건 베이지멜란지",
+        "price_updates": [
+            {
+                "1742102818": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321478561_1_1742034165_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "294182500",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742101422": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294182500_1_1736226915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312860825",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742100247": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312860825_1_1740641456_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314888851",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 검정",
+        "price_updates": [
+            {
+                "1742101437": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314888851_1_1740210970_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321731506",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[급처] 메종키츠네 폭스헤드 그린 후드 (새 상품)",
+        "price_updates": [
+            {
+                "1742102648": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321731506_1_1741449815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258593437",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 L",
+        "price_updates": [
+            {
+                "1742101492": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258593437_1_1741404889_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321162964",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[남여공용 100]메종키츠네 폭스헤드 베이지 맨투맨",
+        "price_updates": [
+            {
+                "1742102094": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321162964_1_1741181325_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "232837708",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 맨투맨",
+        "price_updates": [
+            {
+                "1742101819": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/232837708_1_1710595790_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313445299",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 퀼팅 자켓 새상품",
+        "price_updates": [
+            {
+                "1742100884": "315000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313445299_1_1739823221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "290867589",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티 M",
+        "price_updates": [
+            {
+                "1742102740": "58000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290867589_1_1730185529_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "275667391",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스트라이프(m) 네이비",
+        "price_updates": [
+            {
+                "1742103792": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275667391_1_1735998068_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323049103",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 m",
+        "price_updates": [
+            {
+                "1742095931": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323049103_1_1742095931_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "315528884",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 티셔츠 판매합니다",
+        "price_updates": [
+            {
+                "1742100390": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315528884_1_1739795317_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317988639",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 네이비 맨투맨 L사이즈 팝니다",
+        "price_updates": [
+            {
+                "1742102297": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317988639_1_1739760584_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "259551691",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[32] 메종키츠네 테이퍼드 핏 데님 팬츠",
+        "price_updates": [
+            {
+                "1742102223": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259551691_1_1716115655_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313606637",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스프라이프 패치 롱슬리브 티셔츠",
+        "price_updates": [
+            {
+                "1742101680": "57000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313606637_1_1741850957_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322903358",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 L사이즈 회색패치",
+        "price_updates": [
+            {
+                "1742096217": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322903358_1_1742027275_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "246670377",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 폭스 후드 판매합니다.",
+        "price_updates": [
+            {
+                "1742101585": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246670377_1_1710722304_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323047689",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "국내매장판 / 메종키츠네 박시 가디건 딥그린",
+        "price_updates": [
+            {
+                "1742095463": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323047689_1_1742095463_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314247388",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 반팔 A2사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1742103121": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314247388_1_1738126747_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323038697",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 화이트",
+        "price_updates": [
+            {
+                "1742092536": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323038697_1_1742092997_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258132559",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742097256": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258132559_1_1711517415_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "281886320",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔",
+        "price_updates": [
+            {
+                "1742097794": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281886320_1_1727019030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "310678042",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건",
+        "price_updates": [
+            {
+                "1742096731": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310678042_1_1742006392_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "183926079",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건",
+        "price_updates": [
+            {
+                "1742096704": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/183926079_1_1739718232_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "307051869",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 칠렉스 폭스 로고패치 후드집업 블랙 (L사이즈)",
+        "price_updates": [
+            {
+                "1742102017": "169670"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307051869_1_1738617755_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316871071",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(새상품) 메종키츠네 폭스헤드 인타르시아 가디건 블랙 xl",
+        "price_updates": [
+            {
+                "1742100519": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316871071_1_1739640611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "318096672",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 xs",
+        "price_updates": [
+            {
+                "1742097748": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318096672_1_1742097813_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322215525",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 집업니트 블루 m",
+        "price_updates": [
+            {
+                "1742095549": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322215525_1_1741684256_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321958733",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티xl 새상품급",
+        "price_updates": [
+            {
+                "1742095113": "166000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321958733_1_1741849631_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "300711546",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[시착 세제품] 메종키츠네 베이비 폭스 바이컬러 가디건 XXL 팝니다.",
+        "price_updates": [
+            {
+                "1742103548": "259000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300711546_1_1739818565_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323032976",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "100/메종키츠네 플리스 집업 자켓",
+        "price_updates": [
+            {
+                "1742090597": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323032976_1_1742090597_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321666437",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[실착 1회] 메종키츠네 그레이폭스헤드 맨투맨 블랙 L",
+        "price_updates": [
+            {
+                "1742099215": "128000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321666437_1_1741431875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "268665719",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 롱슬리브 m",
+        "price_updates": [
+            {
+                "1742099895": "67000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268665719_1_1724509887_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "303796493",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 m 베이지",
+        "price_updates": [
+            {
+                "1742099623": "137800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303796493_1_1733141604_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "305900792",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L] 메종키츠네 후드티 블랙",
+        "price_updates": [
+            {
+                "1742097038": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305900792_1_1740410362_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "300307379",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 퀄티드 블루종자켓",
+        "price_updates": [
+            {
+                "1742097018": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300307379_1_1741942610_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "271048215",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 미개봉 새상품 반팔",
+        "price_updates": [
+            {
+                "1742099748": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271048215_1_1741070517_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321997321",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[M] 메종키츠네 폭스헤드 맨투맨 블랙",
+        "price_updates": [
+            {
+                "1742095319": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321997321_1_1741578918_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319759935",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 해링턴자켓",
+        "price_updates": [
+            {
+                "1742096676": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319759935_1_1740558722_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "303989744",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드집업 블랙 XS",
+        "price_updates": [
+            {
+                "1742097018": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303989744_1_1741942390_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "298212511",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "판매) 메종키츠네 국뽕 셔츠",
+        "price_updates": [
+            {
+                "1742098778": "255000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298212511_1_1737769976_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "273850462",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 반팔티 네이비",
+        "price_updates": [
+            {
+                "1742099744": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273850462_1_1741070535_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "292830307",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 후드 A1 팝니다",
+        "price_updates": [
+            {
+                "1742099066": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292830307_1_1742101007_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317811364",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "푸마x메종키츠네 반팔 M 사이즈",
+        "price_updates": [
+            {
+                "1742099113": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317811364_1_1739684836_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "106329390",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 men S size",
+        "price_updates": [
+            {
+                "1742097811": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/106329390_1_1698813022_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "296368535",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 그레이폭스 네이비 XL",
+        "price_updates": [
+            {
+                "1742097874": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296368535_1_1741343500_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "223591557",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네x아더에러 후드티 터콰이즈 A2",
+        "price_updates": [
+            {
+                "1742100109": "379000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223591557_1_1722489290_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317426632",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 XXl 올블랙 볼드폭스",
+        "price_updates": [
+            {
+                "1742098878": "405000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317426632_1_1740470001_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322971044",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "새상품급)정품 메종키츠네 누운여우 반팔티",
+        "price_updates": [
+            {
+                "1742089851": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322971044_1_1742047265_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "304518382",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "328. 메종키츠네 오프-화이트 더블 폭스 티셔츠 XXL 사이즈",
+        "price_updates": [
+            {
+                "1742099781": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304518382_1_1742002663_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319662934",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 네이비 폭스 헤드 클래식 스웨트셔츠",
+        "price_updates": [
+            {
+                "1742098512": "117000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319662934_1_1741826160_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322084380",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[M] 메종키츠네X까웨 윈드 브레이커 자켓",
+        "price_updates": [
+            {
+                "1742095319": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322084380_1_1741831454_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321221184",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[M]푸마 X 메종키츠네 후드티",
+        "price_updates": [
+            {
+                "1742096345": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321221184_1_1741918602_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320934884",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "푸마 X 메종키츠네 후드티 L",
+        "price_updates": [
+            {
+                "1742094750": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320934884_1_1741179154_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322108752",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블 폭스 맨투맨 xl",
+        "price_updates": [
+            {
+                "1742092955": "86000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322108752_1_1741797733_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319551910",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[새상품] 메종키츠네 그레이 폭스 헤드 패치 클래식 후드티 (블랙)",
+        "price_updates": [
+            {
+                "1742097694": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319551910_1_1740906875_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321205244",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 헤드 가디건 차콜L",
+        "price_updates": [
+            {
+                "1742096099": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321205244_1_1741273618_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "274126992",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스트라이프 자카드 반팔 셔츠 43 사이즈 판매 힙니다.",
+        "price_updates": [
+            {
+                "1742097719": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/274126992_1_1719277740_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322073847",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L/2회착] 메종키츠네 3B 숏슬리브 폴로셔츠 애쉬베이지",
+        "price_updates": [
+            {
+                "1742093930": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322073847_1_1741663983_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320847209",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트",
+        "price_updates": [
+            {
+                "1742090803": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320847209_1_1741011182_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322221456",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[정품] 메종키츠네 트리컬러 가디건 블랙 L사이즈",
+        "price_updates": [
+            {
+                "1742090170": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322221456_1_1741686295_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "315890607",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 s",
+        "price_updates": [
+            {
+                "1742095760": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315890607_1_1742097986_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "159807701",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 카라티",
+        "price_updates": [
+            {
+                "1742094410": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/159807701_1_1626961197_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319453455",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품 메종키츠네 반팔 l",
+        "price_updates": [
+            {
+                "1742095909": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319453455_1_1741041085_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319453188",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품 메종키츠네 반팔 xl",
+        "price_updates": [
+            {
+                "1742095909": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319453188_1_1740436764_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "187349558",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 히든 플라켓 셔츠",
+        "price_updates": [
+            {
+                "1742094426": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/187349558_1_1739640560_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311159118",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A4] 아더에러 메종키츠네 포그 데님",
+        "price_updates": [
+            {
+                "1742093393": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311159118_1_1739197130_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "201637113",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 네이비 반팔티셔츠 L",
+        "price_updates": [
+            {
+                "1742095395": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201637113_1_1722496398_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319282110",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 X 푸마 맨투맨 M",
+        "price_updates": [
+            {
+                "1742093684": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319282110_1_1741867689_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321601552",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 헤드 패치 티셔츠 L",
+        "price_updates": [
+            {
+                "1742089633": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321601552_1_1742089701_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319326813",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 울 가디건 L (100)",
+        "price_updates": [
+            {
+                "1742093371": "208000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319326813_1_1740366093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "282852593",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품)메종키츠네 반팔 네이비 xxl 105",
+        "price_updates": [
+            {
+                "1742095646": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282852593_1_1730814821_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "244633129",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 셔츠 A2사이즈",
+        "price_updates": [
+            {
+                "1742095557": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244633129_1_1730631050_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "294846569",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품 꼼데가르송, 메종키츠네 반팔(긴팔) 티셔츠",
+        "price_updates": [
+            {
+                "1742095387": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294846569_1_1742095037_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "297366696",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "바버 x 메종키츠네 오버셔츠 그린 S사이즈",
+        "price_updates": [
+            {
+                "1742095604": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297366696_1_1741051617_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "220802633",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러폭스 스트라이프 티셔츠 (110/블랙)",
+        "price_updates": [
+            {
+                "1742094425": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220802633_1_1742094414_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "201637133",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 파리지엥 반팔티셔츠 L",
+        "price_updates": [
+            {
+                "1742095395": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/201637133_1_1722495945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314688714",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[정품/새상품급] 메종키츠네 스피디 폭스 패치 맨투맨",
+        "price_updates": [
+            {
+                "1742096383": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314688714_1_1738330833_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "318840877",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트라이컬러 폭스 패치 후드집업 네이비",
+        "price_updates": [
+            {
+                "1742094774": "120030"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318840877_1_1741491842_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "256347422",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트xxL",
+        "price_updates": [
+            {
+                "1742092379": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256347422_1_1710154908_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301967564",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드 맨투맨",
+        "price_updates": [
+            {
+                "1742089559": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301967564_1_1732417006_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "274524309",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 트윈 폭스 A3 반팔 티셔츠 판매",
+        "price_updates": [
+            {
+                "1742095557": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/274524309_1_1719382387_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "291535581",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 미니 폭스헤드 인타르시아 점퍼",
+        "price_updates": [
+            {
+                "1742094223": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291535581_1_1732467419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "310288095",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러x메종키츠네 후드짚업 A3사이즈",
+        "price_updates": [
+            {
+                "1742096172": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310288095_1_1736242703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314822917",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 블랙M",
+        "price_updates": [
+            {
+                "1742093017": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314822917_1_1742093010_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "297144547",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품) 메종키츠네 니트 L",
+        "price_updates": [
+            {
+                "1742092941": "175000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297144547_1_1739508210_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258593455",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티셔츠 L사이즈",
+        "price_updates": [
+            {
+                "1742092619": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258593455_1_1711878181_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "297206743",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 맨투맨 팝니다!",
+        "price_updates": [
+            {
+                "1742089893": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297206743_1_1740456891_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "284999227",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "A3]아더에러x메종키츠네",
+        "price_updates": [
+            {
+                "1742092963": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284999227_1_1736813522_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323026619",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 슬리브",
+        "price_updates": [
+            {
+                "1742088023": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323026619_1_1742088023_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316863169",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[2XL] 메종키츠네 폭스 레귤러 맨투맨 그레이",
+        "price_updates": [
+            {
+                "1742092115": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316863169_1_1740485035_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316666457",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 벡로고 봄버자켓 XL(100)",
+        "price_updates": [
+            {
+                "1742092782": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316666457_1_1741596104_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "229550962",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정품 메종키츠네 포켓 반팔티셔츠 XL사이즈",
+        "price_updates": [
+            {
+                "1742092619": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229550962_1_1689072338_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "292876714",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 m사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1742091147": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292876714_1_1731850894_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "309882962",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 앤드원더 니트 블랙 4사이즈(105)",
+        "price_updates": [
+            {
+                "1742091536": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309882962_1_1738245624_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319412307",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 요가폭스 맨투맨 남여공용 새상품",
+        "price_updates": [
+            {
+                "1742092337": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319412307_1_1741750078_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319809929",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 트리플 폭스 헤드 로고 티셔츠 핑크",
+        "price_updates": [
+            {
+                "1742092852": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319809929_1_1740571553_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "228101886",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 파리지엥 티셔츠 M사이즈",
+        "price_updates": [
+            {
+                "1742091004": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/228101886_1_1722439283_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319411542",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 라이트옐로우 L 남녀공용 새상품",
+        "price_updates": [
+            {
+                "1742092342": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319411542_1_1741750096_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "281868880",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 파리지앵 티셔츠 반팔 라떼",
+        "price_updates": [
+            {
+                "1742089681": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281868880_1_1726404789_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323020012",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[XL] 메종키츠네 빅폭스 니트",
+        "price_updates": [
+            {
+                "1742084676": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323020012_1_1742084676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "250449879",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A2] 아더에러 x 메종키츠네 트윈 폭스헤드 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1742092614": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250449879_1_1705840308_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322494318",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 xl",
+        "price_updates": [
+            {
+                "1742089082": "67000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322494318_1_1741834861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322652871",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 m 판매",
+        "price_updates": [
+            {
+                "1742082655": "57000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322652871_1_1741994096_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322097418",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 남자 가디건L 네이비",
+        "price_updates": [
+            {
+                "1742087068": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322097418_1_1741751026_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322240652",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스트라이프 긴팔티",
+        "price_updates": [
+            {
+                "1742085811": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322240652_1_1741781216_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322642280",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 볼드 폭스 헤드 가디건 M",
+        "price_updates": [
+            {
+                "1742082663": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322642280_1_1741912111_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322644153",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 남성 가디건 S사이즈",
+        "price_updates": [
+            {
+                "1742088839": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322644153_1_1742024968_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320862782",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티",
+        "price_updates": [
+            {
+                "1742087338": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320862782_1_1741017725_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321717967",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 윈드브레이커",
+        "price_updates": [
+            {
+                "1742083995": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321717967_1_1741445079_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322205904",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 핸드라이팅 콤포트 맨투 처분",
+        "price_updates": [
+            {
+                "1742083406": "84640"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322205904_1_1741681025_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320721586",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 울 니트 베이지 XL",
+        "price_updates": [
+            {
+                "1742084140": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320721586_1_1740969753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "140796545",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네맨투맨",
+        "price_updates": [
+            {
+                "1742076596": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/140796545_1_1728825735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "278118391",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔",
+        "price_updates": [
+            {
+                "1742072280": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278118391_1_1727775471_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "308887266",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 (레드)",
+        "price_updates": [
+            {
+                "1742086499": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308887266_1_1741222168_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313148865",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트L",
+        "price_updates": [
+            {
+                "1742089228": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313148865_1_1737562098_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "290014254",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스트라이프 맨투맨",
+        "price_updates": [
+            {
+                "1742088802": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290014254_1_1726711411_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312567089",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트 M",
+        "price_updates": [
+            {
+                "1742082444": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312567089_1_1738005468_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "304882773",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 s사이즈",
+        "price_updates": [
+            {
+                "1742084694": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304882773_1_1740447226_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "303024724",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 003 (105)",
+        "price_updates": [
+            {
+                "1742084768": "161000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303024724_1_1735552635_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312071522",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 헤드 니트",
+        "price_updates": [
+            {
+                "1742079438": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312071522_1_1739678898_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317524547",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 제니자켓 팝니다",
+        "price_updates": [
+            {
+                "1742077843": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317524547_1_1742077864_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "286420142",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 니트",
+        "price_updates": [
+            {
+                "1742085625": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286420142_1_1730953967_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "291202112",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 남성 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742072876": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291202112_1_1727341285_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "280663682",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 남성 L 사이즈",
+        "price_updates": [
+            {
+                "1742079704": "105150"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280663682_1_1740009901_w{res}.jpg",
+        "status": "0",
+        "category_id": "320160700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "218321831",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 여우자수 맨투맨",
+        "price_updates": [
+            {
+                "1742075902": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218321831_1_1705105582_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "286120583",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 acide 맨투맨",
+        "price_updates": [
+            {
+                "1742071000": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286120583_1_1730214571_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "297627218",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 남여 공용 맨투맨",
+        "price_updates": [
+            {
+                "1742085841": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297627218_1_1740574859_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "299289438",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 체크 자켓 S 블랙 Maison Kitsune",
+        "price_updates": [
+            {
+                "1742080265": "104000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299289438_1_1731133677_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "297660521",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 점퍼 (파리에서 구매)",
+        "price_updates": [
+            {
+                "1742088691": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297660521_1_1739246754_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "245891502",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 반팔티",
+        "price_updates": [
+            {
+                "1742085522": "47000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245891502_1_1739439677_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "295088036",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 하늘색 후드티 M",
+        "price_updates": [
+            {
+                "1742080265": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295088036_1_1740457881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "302172144",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 남성용s 여성 맨투맨",
+        "price_updates": [
+            {
+                "1742087253": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302172144_1_1738157749_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317522478",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 빅폭스 헤드 니트 다크그린",
+        "price_updates": [
+            {
+                "1742077869": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317522478_1_1740555693_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313237201",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스헤드 후드티 블랙 (XL)",
+        "price_updates": [
+            {
+                "1742088548": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313237201_1_1738026679_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "227242820",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 아씨드폭스 스프라이트티 xl",
+        "price_updates": [
+            {
+                "1742071840": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/227242820_1_1686912730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "275936279",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "새제품 메종키츠네 칠랙스 반팔 m",
+        "price_updates": [
+            {
+                "1742084911": "88000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/275936279_1_1729819166_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301693491",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 15fw 국뽕 테디자켓",
+        "price_updates": [
+            {
+                "1742084675": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301693491_1_1732191877_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "294108573",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 칠랙스폭스 반팔티",
+        "price_updates": [
+            {
+                "1742068674": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294108573_1_1736251916_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313033774",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 패치 슬라브티(L)",
+        "price_updates": [
+            {
+                "1742084501": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313033774_1_1737526210_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "237991126",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 애시드 맨투맨 M ACIDE 블랙 Maison Kitsune",
+        "price_updates": [
+            {
+                "1742080265": "104000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237991126_1_1729395094_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313238567",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 칠렉스 폭스 패치 그레이 맨투맨(XL)",
+        "price_updates": [
+            {
+                "1742088548": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313238567_1_1738026669_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "290512094",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(새상품급 급처)메종키츠네 23SS 네이버 가디건",
+        "price_updates": [
+            {
+                "1742083356": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290512094_1_1729171163_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "259687772",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 국뽕패딩 네이비 M(2사이즈)",
+        "price_updates": [
+            {
+                "1742087865": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259687772_1_1712738422_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317682496",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 폭스패치 울 니트",
+        "price_updates": [
+            {
+                "1742068674": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317682496_1_1740970702_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "247977759",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(새상품) 정품 메종키츠네 여우자수 반팔티 (L)",
+        "price_updates": [
+            {
+                "1742082389": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247977759_1_1741781434_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "285095290",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티 판매합니다.L사이즈",
+        "price_updates": [
+            {
+                "1742074761": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285095290_1_1740849114_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "290523778",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 로고반팔티 s사이즈 M218",
+        "price_updates": [
+            {
+                "1742073816": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290523778_1_1735815603_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "274781469",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 X 메종키츠네 트리플 폭스헤드 A2 002",
+        "price_updates": [
+            {
+                "1742084512": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/274781469_1_1730733815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "300888576",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 바버 콜라보레이션 기모 맨투맨 스웨트셔츠",
+        "price_updates": [
+            {
+                "1742088638": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300888576_1_1736556012_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "303626985",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(상태좋음)메종키츠네 폭스헤드 클래식 가디건(XXL)",
+        "price_updates": [
+            {
+                "1742088548": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303626985_1_1740440264_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "295236554",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(쿨거시배송비x)메종키츠네 트리컬러 기본셔츠 38",
+        "price_updates": [
+            {
+                "1742082663": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295236554_1_1742092748_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311830112",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "SSG구매 메종키츠네 트리컬러 폭스 블랙 맨투맨 XXL",
+        "price_updates": [
+            {
+                "1742085387": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311830112_1_1736950650_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "264325117",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 ) 폭스헤드 패치 클래식 남여공용 가디건 베이지 L",
+        "price_updates": [
+            {
+                "1742084172": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264325117_1_1742106032_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "174659847",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(새상품) 메종키츠네 빅폭스헤드 니트 아쿠아 M사이즈 판매합니다",
+        "price_updates": [
+            {
+                "1742088715": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174659847_1_1726762358_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322927908",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742034907": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322927908_1_1742034907_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322927588",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742034811": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322927588_1_1742034811_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322919929",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 XL",
+        "price_updates": [
+            {
+                "1742032388": "68000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322919929_1_1742032388_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322953916",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 남성 가디건 M",
+        "price_updates": [
+            {
+                "1742042720": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322953916_1_1742042720_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322974514",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 반팔 티셔츠 XL",
+        "price_updates": [
+            {
+                "1742048147": "46000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322974514_1_1742048147_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322761948",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건",
+        "price_updates": [
+            {
+                "1742060660": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322761948_1_1741959377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322912747",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "푸마 x 메종키츠네 공용 박스티셔츠 화이트",
+        "price_updates": [
+            {
+                "1742030108": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322912747_1_1742037651_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322898812",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 빅폭스헤드 맨투맨 블루 판매",
+        "price_updates": [
+            {
+                "1742026021": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322898812_1_1742026021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "323005846",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 하이넥 풀오버(M)",
+        "price_updates": [
+            {
+                "1742063021": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323005846_1_1742063111_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322972426",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 순모 블랙 가디건 90 23년제품",
+        "price_updates": [
+            {
+                "1742047625": "147000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322972426_1_1742047625_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322715369",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742044401": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322715369_1_1741942978_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322480536",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리폭스 맨투맨 정품 XL",
+        "price_updates": [
+            {
+                "1742036960": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322480536_1_1741827897_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322607005",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 트리플폭스 헤드 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1742032430": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322607005_1_1741874966_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322619186",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "새상품 메종키츠네 가디건 볼드 폭스헤드 패치 M",
+        "price_updates": [
+            {
+                "1742050991": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322619186_1_1741879550_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320591593",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 티셔츠 M",
+        "price_updates": [
+            {
+                "1742059820": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320591593_1_1741568814_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320709450",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(XL)메종키츠네 가디건",
+        "price_updates": [
+            {
+                "1742035818": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320709450_1_1741963422_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321608928",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더플폭스 맨투맨",
+        "price_updates": [
+            {
+                "1742061380": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321608928_1_1742089113_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321810052",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 롱슬리브 s",
+        "price_updates": [
+            {
+                "1742027446": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321810052_1_1741698608_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320669644",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 센스 익스클루시브 후드티 L",
+        "price_updates": [
+            {
+                "1742042092": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320669644_1_1740926294_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321484567",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬 가디건 블랙",
+        "price_updates": [
+            {
+                "1742026761": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321484567_1_1741944515_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322705602",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 메디테이션 폭스 후드 더콰이즈 A3",
+        "price_updates": [
+            {
+                "1742032253": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322705602_1_1742041870_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322421220",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[삼성물산 정품] 메종키츠네 남성 긴팔 셔츠 41 (105~110)사이즈",
+        "price_updates": [
+            {
+                "1742037506": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322421220_1_1741782177_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "253670958",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 패딩",
+        "price_updates": [
+            {
+                "1742061427": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253670958_1_1737472343_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "226846422",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔",
+        "price_updates": [
+            {
+                "1742038417": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226846422_1_1737393886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "252427804",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742054875": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252427804_1_1707296490_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319678819",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742053161": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319678819_1_1740505075_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312121000",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742035089": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312121000_1_1738248243_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "297324077",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742031263": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297324077_1_1730229271_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320847879",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 스트라이프 롱슬리브 긴팔티 네이비",
+        "price_updates": [
+            {
+                "1742046282": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320847879_1_1741391570_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "251420586",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 니트",
+        "price_updates": [
+            {
+                "1742028847": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/251420586_1_1737121989_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258944739",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 L",
+        "price_updates": [
+            {
+                "1742053362": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258944739_1_1713419334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312089777",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 xxl",
+        "price_updates": [
+            {
+                "1742056463": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312089777_1_1737091598_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "296995643",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네자켓XL",
+        "price_updates": [
+            {
+                "1742038916": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296995643_1_1741527125_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258367023",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 네이비 맨투맨",
+        "price_updates": [
+            {
+                "1742038523": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258367023_1_1736096910_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319469116",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 satin 자켓",
+        "price_updates": [
+            {
+                "1742053256": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319469116_1_1740406225_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "303248789",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 xl",
+        "price_updates": [
+            {
+                "1742044310": "195000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303248789_1_1733177079_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "281705513",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티",
+        "price_updates": [
+            {
+                "1742027006": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281705513_1_1732495086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "298739528",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 네이비",
+        "price_updates": [
+            {
+                "1742038195": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298739528_1_1733643590_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317997698",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 네이비",
+        "price_updates": [
+            {
+                "1742028040": "57000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317997698_1_1741408311_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312351793",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 레이어드 셔츠 S",
+        "price_updates": [
+            {
+                "1742049047": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312351793_1_1738082962_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "286315879",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 치노팬츠 34",
+        "price_updates": [
+            {
+                "1742051986": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286315879_1_1724774464_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313330043",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 후드티",
+        "price_updates": [
+            {
+                "1742033356": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313330043_1_1737652321_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "295583487",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 L 바시티 자켓",
+        "price_updates": [
+            {
+                "1742030272": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295583487_1_1729437368_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "221201284",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 L 사이즈",
+        "price_updates": [
+            {
+                "1742044332": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221201284_1_1712789986_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316820356",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 24ss 가디건",
+        "price_updates": [
+            {
+                "1742026199": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316820356_1_1741254631_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "298037861",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 맨투맨",
+        "price_updates": [
+            {
+                "1742025520": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298037861_1_1730557993_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "243458538",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 일본셔츠 XL",
+        "price_updates": [
+            {
+                "1742039300": "275000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243458538_1_1700387090_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "308249486",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(XL) 메종키츠네 블랙 니트",
+        "price_updates": [
+            {
+                "1742025220": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308249486_1_1739494614_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "237071842",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(L)메종키츠네 바람막이 자켓",
+        "price_updates": [
+            {
+                "1742029261": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237071842_1_1729759818_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "318512784",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 그린 기모 맨투맨 M",
+        "price_updates": [
+            {
+                "1742051749": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318512784_1_1739972982_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311260030",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 요가폭스 xl",
+        "price_updates": [
+            {
+                "1742050945": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311260030_1_1738759670_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "262795075",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 카라티",
+        "price_updates": [
+            {
+                "1742047476": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262795075_1_1715179346_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311043109",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 헤드폭스 남성 맨투맨",
+        "price_updates": [
+            {
+                "1742046850": "96000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311043109_1_1742065348_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "317818078",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 M사이즈 검정",
+        "price_updates": [
+            {
+                "1742046234": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317818078_1_1741046215_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301511557",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후리스 베스트 s사이즈",
+        "price_updates": [
+            {
+                "1742041797": "109000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301511557_1_1732705814_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "262765884",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티셔츠 95(정품)",
+        "price_updates": [
+            {
+                "1742037580": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262765884_1_1716895004_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258312083",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[XS]메종키츠네 폭스헤드 맨투맨",
+        "price_updates": [
+            {
+                "1742044494": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258312083_1_1711640133_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "264107912",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 맨투맨L",
+        "price_updates": [
+            {
+                "1742045412": "139000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264107912_1_1728712075_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "270196611",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[XL]메종키츠네 플라워 폭스 반팔",
+        "price_updates": [
+            {
+                "1742052199": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270196611_1_1736067369_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "299141737",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "12598 - 메종키츠네 폭스헤드 맨투맨",
+        "price_updates": [
+            {
+                "1742024914": "128000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299141737_1_1731061460_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "293888068",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 카라티 xl",
+        "price_updates": [
+            {
+                "1742038747": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293888068_1_1738198479_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316738450",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 x 메종키츠네 후드 팝니다.",
+        "price_updates": [
+            {
+                "1742039844": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316738450_1_1739209195_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "310685660",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 티셔츠 (A2)",
+        "price_updates": [
+            {
+                "1742039723": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310685660_1_1739456100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "293888210",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 단가라 스트라이프티셔츠 xl",
+        "price_updates": [
+            {
+                "1742038747": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293888210_1_1738198488_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "271662274",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "A3] 메종키츠네 x 아더에러",
+        "price_updates": [
+            {
+                "1742030018": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271662274_1_1718187295_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "298548881",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 네이비 L 새제품",
+        "price_updates": [
+            {
+                "1742027839": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298548881_1_1730790529_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "263668519",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 포켓 반팔 110 (xxl)",
+        "price_updates": [
+            {
+                "1742025634": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263668519_1_1715866401_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "305655635",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[XL] 메종키츠네 폭스헤드 가디건 베이지",
+        "price_updates": [
+            {
+                "1742067437": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305655635_1_1742067428_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311604900",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건 베이지 L 거의 새상품",
+        "price_updates": [
+            {
+                "1742048427": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311604900_1_1737792470_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "290282712",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 네이비 그레이폭스 헤드 반팔",
+        "price_updates": [
+            {
+                "1742052614": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290282712_1_1729151051_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311260214",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔 트리플컬러폭스 XL",
+        "price_updates": [
+            {
+                "1742050945": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311260214_1_1738759655_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "226836593",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 아더에러 블루폭스 a2",
+        "price_updates": [
+            {
+                "1742037272": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226836593_1_1696397092_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "258311896",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L]메종키츠네 칠랙스 맨투맨",
+        "price_updates": [
+            {
+                "1742044494": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258311896_1_1711639979_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "249811389",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[새상품] 남녀공용 메종키츠네 반팔티",
+        "price_updates": [
+            {
+                "1742041336": "79900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249811389_1_1705384597_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "318076882",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 x 메종키츠네 맨투맨 A1",
+        "price_updates": [
+            {
+                "1742037785": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318076882_1_1739788852_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "278627390",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 기모 조거팬츠 (남녀공용)",
+        "price_updates": [
+            {
+                "1742031269": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/278627390_1_1733462848_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "241062864",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "아더에러 메종키츠네 후드집업 a1",
+        "price_updates": [
+            {
+                "1742029174": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241062864_1_1698579195_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "293830806",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(새상품) 메종키츠네 블루 셔츠 38사이즈",
+        "price_updates": [
+            {
+                "1742026596": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293830806_1_1728988083_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "282747511",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "착2회 메종키츠네 반팔 xl 블랙",
+        "price_updates": [
+            {
+                "1742060386": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282747511_1_1722620869_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311607618",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러폭스 가디건 L(100)",
+        "price_updates": [
+            {
+                "1742048427": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311607618_1_1736853113_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "284029405",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폴로 티셔츠 다크 그레이 M 새상품",
+        "price_updates": [
+            {
+                "1742047158": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284029405_1_1723353027_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319852264",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 칠랙스 맨투맨 m사이즈",
+        "price_updates": [
+            {
+                "1742052842": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319852264_1_1740584005_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "289485120",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 칠랙스 폭스 맨투맨 블랙",
+        "price_updates": [
+            {
+                "1742036491": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289485120_1_1726384634_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "289485512",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 헤드 긴팔 티셔츠 네이비",
+        "price_updates": [
+            {
+                "1742036491": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289485512_1_1726384753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "289484793",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 클래식 가디건 다크그레이",
+        "price_updates": [
+            {
+                "1742036491": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289484793_1_1726384523_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "256300910",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 베이지 가디건 베이지 S사이즈 민트급",
+        "price_updates": [
+            {
+                "1742026108": "156500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256300910_1_1741673738_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "294733094",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "<구매,삽니다> 메종키츠네 파리지앵 맨투맨",
+        "price_updates": [
+            {
+                "1742053845": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294733094_1_1729080060_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "302368361",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 헤드 맨투맨 화이트 남성 001 S",
+        "price_updates": [
+            {
+                "1742053345": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302368361_1_1738836708_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "283000908",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L] 메종키츠네 트리컬러 긴팔 카라티",
+        "price_updates": [
+            {
+                "1742050903": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283000908_1_1741352331_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "294156917",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A3] 아더에러 메종키츠네 트윈폭스 반팔 블랙",
+        "price_updates": [
+            {
+                "1742051838": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294156917_1_1731238482_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "219236060",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "새상품) 메종키츠네 남성S 울100%니트(새상품",
+        "price_updates": [
+            {
+                "1742043758": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219236060_1_1717002683_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "319775061",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[M] 메종키츠네 더블 헤드 폭스 화이트 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742042525": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319775061_1_1740560500_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "318029097",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 울 가디건 L사이즈",
+        "price_updates": [
+            {
+                "1742046784": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318029097_1_1741736828_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "314604161",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 맨투맨 네이비 L사이즈 팝니다",
+        "price_updates": [
+            {
+                "1742038550": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314604161_1_1738304319_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "222734245",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(95호) 메종키츠네 폭스자수 로고 남성 맨투맨",
+        "price_updates": [
+            {
+                "1742038506": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/222734245_1_1742038499_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "224284947",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 벨벳 폭스 헤드 패치 티셔츠 블랙 M",
+        "price_updates": [
+            {
+                "1742035345": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224284947_1_1730155714_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "302520566",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 폭스 가디건 정품 새상품급 팝니다.",
+        "price_updates": [
+            {
+                "1742052614": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302520566_1_1742052626_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "288774796",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(A2) 아더에러 메종키츠네 더블폭스 폴로 카라티",
+        "price_updates": [
+            {
+                "1742042174": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288774796_1_1725960391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "302295869",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 공용 칠렉스 폭스 패치 클래식 맨투맨 M",
+        "price_updates": [
+            {
+                "1742039684": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302295869_1_1739523595_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "313928027",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A1] 메종키츠네 x 아더에러 요가 블루 폭스 맨투맨",
+        "price_updates": [
+            {
+                "1742034887": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313928027_1_1737954126_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311166456",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "빠른배송)메종키츠네 파리지엥 맨투맨",
+        "price_updates": [
+            {
+                "1742030788": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311166456_1_1741917557_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "320434968",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 22ss 트리컬러 폭스 가디건 블랙 S",
+        "price_updates": [
+            {
+                "1742024912": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320434968_1_1740877650_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "283267519",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(추가인하) (L) 메종키츠네 X 토일렛 페이퍼  콜라보 봄버자켓",
+        "price_updates": [
+            {
+                "1742053898": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283267519_1_1741852646_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "273196278",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 투폭스 반팔 S사이즈(정상가 168000원)",
+        "price_updates": [
+            {
+                "1742039646": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273196278_1_1727019480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "254113049",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A2] 메종키츠네 X 아더에러 트리플 폭스 스웨트셔츠 맨투맨 블랙",
+        "price_updates": [
+            {
+                "1742053845": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254113049_1_1725608933_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "303499471",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "SSF정품)메종키츠네 폭스헤드 울 니트 베이지 L",
+        "price_updates": [
+            {
+                "1742036234": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303499471_1_1741347940_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301876628",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[정품 파격가] 메종키츠네 남성 여성 공용 후드집업 L 사이즈 (후드티)",
+        "price_updates": [
+            {
+                "1742037418": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301876628_1_1733131969_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "298283070",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "정가159,000원 품절상품 메종키츠네 X 퓨마 콜라보 맨투맨 정품 상태",
+        "price_updates": [
+            {
+                "1742049424": "123000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298283070_1_1741649426_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322880752",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 L",
+        "price_updates": [
+            {
+                "1742020900": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322880752_1_1742041116_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322093498",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 XL",
+        "price_updates": [
+            {
+                "1742020858": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322093498_1_1741701012_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321954280",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 M사이즈",
+        "price_updates": [
+            {
+                "1742021211": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321954280_1_1742021468_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322634018",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "XL)메종키츠네 네이비 맨투맨",
+        "price_updates": [
+            {
+                "1741992678": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322634018_1_1742078625_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322362194",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(매장판)메종키츠네 존 오버셔츠",
+        "price_updates": [
+            {
+                "1741950706": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322362194_1_1741762673_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321865576",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[XL] (크림판)메종키츠네 폭스 패치 후드 블랙",
+        "price_updates": [
+            {
+                "1741965962": "127000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321865576_1_1742037017_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "321761781",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 맨투맨 L",
+        "price_updates": [
+            {
+                "1742020857": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321761781_1_1741482932_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "271466833",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔",
+        "price_updates": [
+            {
+                "1742017604": "61000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271466833_1_1724213259_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "243899248",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트랙 팬츠",
+        "price_updates": [
+            {
+                "1742019108": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243899248_1_1730446935_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "243899248",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트랙 팬츠",
+        "price_updates": [
+            {
+                "1742019108": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243899248_1_1730446935_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "268305872",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 로고티셔츠 반팔",
+        "price_updates": [
+            {
+                "1742022901": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268305872_1_1717201122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "310730618",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[ 정품/XL ] 메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1742020329": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310730618_1_1736453060_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "288936946",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 반팔",
+        "price_updates": [
+            {
+                "1742018731": "62000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288936946_1_1726053263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "302366922",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 zip up 자켓",
+        "price_updates": [
+            {
+                "1742019127": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302366922_1_1737881319_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "309095501",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 카라티 L",
+        "price_updates": [
+            {
+                "1742017129": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309095501_1_1735648579_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "300242216",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 (미사용새상품)",
+        "price_updates": [
+            {
+                "1742018533": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300242216_1_1731550835_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "312977822",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 롱 슬리브 티셔츠 xxl",
+        "price_updates": [
+            {
+                "1742017121": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312977822_1_1741324153_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "311592559",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[ 정품/XL ] 메종키츠네 후드집업",
+        "price_updates": [
+            {
+                "1742020329": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311592559_1_1736848413_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "264113841",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L] 메종키츠네 폭스 헤드 패치 가디건",
+        "price_updates": [
+            {
+                "1742018477": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264113841_1_1716216622_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322575981",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 XL",
+        "price_updates": [
+            {
+                "1741865281": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322575981_1_1741865281_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "277176194",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 APC 반팔 정품 새상품급 팝니다.",
+        "price_updates": [
+            {
+                "1742017149": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277176194_1_1738680934_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "295667434",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 트리컬러 폭스 포켓 반팔티",
+        "price_updates": [
+            {
+                "1742020921": "64000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295667434_1_1729493149_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322110467",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 블랙 반팔 m",
+        "price_updates": [
+            {
+                "1741918188": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322110467_1_1742104015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "209162477",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 그레이 맨투맨 L 텍달린 새상품",
+        "price_updates": [
+            {
+                "1742019657": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/209162477_1_1714653524_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "287146993",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[A3] 아더에러 메종키츠네 폭스 티셔츠 화이트 반팔",
+        "price_updates": [
+            {
+                "1742016939": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287146993_1_1730153660_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "316418031",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "[L]메종키츠네 럭비 폴로 티셔츠/카라 긴팔 티셔츠",
+        "price_updates": [
+            {
+                "1742017183": "79000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316418031_1_1739085495_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322563699",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "23fw 메종키츠네 니트 L (새상품)",
+        "price_updates": [
+            {
+                "1741861163": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322563699_1_1741861163_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "322639196",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "바버x메종키츠네 폭스헤드 패치 후디",
+        "price_updates": [
+            {
+                "1741909552": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322639196_1_1742093372_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:04"
+    },
+    {
+        "pid": "301663773",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(새상품) 메종키츠네 후드 맨투맨티 M사이즈",
+        "price_updates": [
+            {
+                "1741868937": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301663773_1_1742080559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "320859660",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 버건디 가디건",
+        "price_updates": [
+            {
+                "1741793160": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320859660_1_1742087220_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "322362864",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 윈드브레이커 바람막이 블랙 L",
+        "price_updates": [
+            {
+                "1741762780": "189000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322362864_1_1742018940_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "288891743",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 정품 맨투맨 L사이즈",
+        "price_updates": [
+            {
+                "1741808966": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288891743_1_1726034586_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "256300661",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 3컬러 트리컬러 네이비 가디건 M사이즈",
+        "price_updates": [
+            {
+                "1741824883": "163000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256300661_1_1741673783_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "311588052",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 아더에더 콜라보 블루폭스 한정판 맨투맨",
+        "price_updates": [
+            {
+                "1741781394": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311588052_1_1742036019_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "230147304",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔",
+        "price_updates": [
+            {
+                "1741597486": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230147304_1_1693974292_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "230147209",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 더블폭스 반팔",
+        "price_updates": [
+            {
+                "1741403193": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230147209_1_1693974300_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "319498563",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 긴팔티 메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1741504580": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319498563_1_1741505767_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "297053838",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드집업 L",
+        "price_updates": [
+            {
+                "1741331216": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297053838_1_1730108050_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "307674140",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "Maison Kitsune 메종키츠네 폭스 자수 램스 울 니트",
+        "price_updates": [
+            {
+                "1741450336": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307674140_1_1734924774_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "244744452",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "L) 메종키츠네 가디건 팝니다",
+        "price_updates": [
+            {
+                "1740658585": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244744452_1_1703769854_w{res}.jpg",
+        "status": "0",
+        "category_id": "320",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "312142955",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 후드티 블랙",
+        "price_updates": [
+            {
+                "1740496246": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312142955_1_1740496026_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "320371753",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 파리지앵 맨투맨 L",
+        "price_updates": [
+            {
+                "1741076268": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320371753_1_1740821927_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:05"
+    },
+    {
+        "pid": "310490768",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스패치 코튼 후드 S",
+        "price_updates": [
+            {
+                "1740436050": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310490768_1_1736335466_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-16 07:44:06"
+    },
+    {
+        "pid": "320227677",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 그레이 폭스 헤드 패치 릴렉스드 가디건 블랙 L",
+        "price_updates": [
+            {
+                "1740844765": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320227677_1_1740844617_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:06"
+    },
+    {
+        "pid": "311150660",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스헤드 블랙 반팔 L",
+        "price_updates": [
+            {
+                "1739410155": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311150660_1_1736684144_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:06"
+    },
+    {
+        "pid": "312353427",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 빅헤드 맨투맨",
+        "price_updates": [
+            {
+                "1738245998": "68000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312353427_1_1738246017_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:06"
+    },
+    {
+        "pid": "212939480",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네아더에러 반팔티 a1",
+        "price_updates": [
+            {
+                "1732607827": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/212939480_1_1732607824_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:07"
+    },
+    {
+        "pid": "260042770",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨",
+        "price_updates": [
+            {
+                "1727791611": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260042770_1_1713332740_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:08"
+    },
+    {
+        "pid": "273552844",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 아더에러 a3",
+        "price_updates": [
+            {
+                "1719106946": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273552844_1_1718772850_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:09"
+    },
+    {
+        "pid": "322875584",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건",
+        "price_updates": [
+            {
+                "1742019500": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322875584_1_1742019500_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "322028001",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 울니트",
+        "price_updates": [
+            {
+                "1741957375": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322028001_1_1742040342_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "320922395",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 L사이즈",
+        "price_updates": [
+            {
+                "1742009227": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320922395_1_1742031243_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "316583004",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 맨투맨 XXL",
+        "price_updates": [
+            {
+                "1741965260": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316583004_1_1742006753_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "313874318",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 가디건  s 네이비 택보유",
+        "price_updates": [
+            {
+                "1741970837": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313874318_1_1741754665_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "312897526",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 네이비 자수 셔츠 자켓",
+        "price_updates": [
+            {
+                "1740885124": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312897526_1_1737453970_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "261404421",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 폭스 여우 반팔티",
+        "price_updates": [
+            {
+                "1740825461": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261404421_1_1739421229_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "320315677",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "(L) 메종키츠네 트라이컬러 폭스 미니멀 맨투맨 네이비",
+        "price_updates": [
+            {
+                "1740807336": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320315677_1_1742047540_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "316550589",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 네이비 니트 L",
+        "price_updates": [
+            {
+                "1740118498": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316550589_1_1739139661_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    },
+    {
+        "pid": "289016369",
+        "brands": [
+            "메종키츠네"
+        ],
+        "name": "메종키츠네 반팔티",
+        "price_updates": [
+            {
+                "1736939055": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289016369_1_1736947877_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-16 07:44:10"
+    }
+]

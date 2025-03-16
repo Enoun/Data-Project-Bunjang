@@ -1,0 +1,386 @@
+[
+    {
+        "pid": "318647675",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 버뮤다 카고 쇼츠 m",
+        "price_updates": [
+            {
+                "1741933548": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318647675_1_1740043718_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "312087647",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 후드티",
+        "price_updates": [
+            {
+                "1741922774": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312087647_1_1740321864_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "305242296",
+        "brands": [
+            "erl"
+        ],
+        "name": "남자 디올 패딩 차은우 패딩 erl 콜라보 까나쥬 제품",
+        "price_updates": [
+            {
+                "1741918758": "4690000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305242296_1_1733809215_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "322083020",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 후드 L",
+        "price_updates": [
+            {
+                "1741866859": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322083020_1_1741609518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "260189560",
+        "brands": [
+            "erl"
+        ],
+        "name": "[XL] erl 후드 그린",
+        "price_updates": [
+            {
+                "1741878800": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260189560_1_1713114834_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "260031602",
+        "brands": [
+            "erl"
+        ],
+        "name": "[새상품] erl wet 니트 L",
+        "price_updates": [
+            {
+                "1741857262": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260031602_1_1741857258_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "322688719",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland 팀버랜드 바람막이 자켓",
+        "price_updates": [
+            {
+                "1741933548": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322688719_1_1741933556_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "315246929",
+        "brands": [
+            "erl"
+        ],
+        "name": "Tenderloin 텐더로인 후드 집업",
+        "price_updates": [
+            {
+                "1741926499": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315246929_1_1738572021_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "311576135",
+        "brands": [
+            "erl"
+        ],
+        "name": "텐더로인 Tenderloin 후드 집업",
+        "price_updates": [
+            {
+                "1741926499": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311576135_1_1736843206_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "322659277",
+        "brands": [
+            "erl"
+        ],
+        "name": "리바이스 501 청바지 st justin timberlake (36)",
+        "price_updates": [
+            {
+                "1741921348": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322659277_1_1741921348_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "309360123",
+        "brands": [
+            "erl"
+        ],
+        "name": "Berluti 벨루티 남성 셔츠(R39)",
+        "price_updates": [
+            {
+                "1741915745": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309360123_1_1739324510_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "320738860",
+        "brands": [
+            "erl"
+        ],
+        "name": "벨루티 Berluti 리버서블 2way 남겅 자켓",
+        "price_updates": [
+            {
+                "1741871254": "2900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320738860_1_1740976960_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "255000842",
+        "brands": [
+            "erl"
+        ],
+        "name": "PLAC Berlin B27 Raw 31",
+        "price_updates": [
+            {
+                "1741848670": "15000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255000842_1_1709127170_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "313936716",
+        "brands": [
+            "erl"
+        ],
+        "name": "Tenderloin 텐더로인 미해병 p41 자켓",
+        "price_updates": [
+            {
+                "1741858657": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313936716_1_1737957384_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "310516245",
+        "brands": [
+            "erl"
+        ],
+        "name": "팀버랜드 Timberland 리버시블 다운 패딩 파카",
+        "price_updates": [
+            {
+                "1741886312": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310516245_1_1740292959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "255004591",
+        "brands": [
+            "erl"
+        ],
+        "name": "PLAC 플랙진 Berlin 410 WSHD 31",
+        "price_updates": [
+            {
+                "1741848670": "12000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255004591_1_1720059325_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "218388844",
+        "brands": [
+            "erl"
+        ],
+        "name": "트래디셔널웨더웨어 다운 점퍼 Waverly Down",
+        "price_updates": [
+            {
+                "1741889879": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218388844_1_1738893627_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "317897584",
+        "brands": [
+            "erl"
+        ],
+        "name": "텐더로인 터틀넥 니트 울 tenderloin 앳라코 클로딩",
+        "price_updates": [
+            {
+                "1741878764": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317897584_1_1739977152_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "319438566",
+        "brands": [
+            "erl"
+        ],
+        "name": "A2) 아더에러 Sherlock double coat Camel",
+        "price_updates": [
+            {
+                "1741881950": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319438566_1_1741793141_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "260117850",
+        "brands": [
+            "erl"
+        ],
+        "name": "[L] 슈프림 x 에버라스트 로브 | Supreme x Everlast",
+        "price_updates": [
+            {
+                "1741851010": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260117850_1_1729843489_w{res}.jpg",
+        "status": "0",
+        "category_id": "320400",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "313189117",
+        "brands": [
+            "erl"
+        ],
+        "name": "colimbo overland campaign trousers 30",
+        "price_updates": [
+            {
+                "1741852980": "112000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313189117_1_1737602318_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "318789418",
+        "brands": [
+            "erl"
+        ],
+        "name": "SUITSUPPLY Ferla 울 알파카 실크 글렌체크 Roma 자켓",
+        "price_updates": [
+            {
+                "1741828110": "415000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318789418_1_1741306384_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "321218139",
+        "brands": [
+            "erl"
+        ],
+        "name": "팀버랜드 워크 팬츠 TImberland",
+        "price_updates": [
+            {
+                "1741227234": "42000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321218139_1_1741850282_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:34:53"
+    },
+    {
+        "pid": "322539455",
+        "brands": [
+            "erl"
+        ],
+        "name": "텐더로인 tenderloin 코튼 자켓판매합니다",
+        "price_updates": [
+            {
+                "1741852873": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322539455_1_1741852904_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:34:54"
+    }
+]

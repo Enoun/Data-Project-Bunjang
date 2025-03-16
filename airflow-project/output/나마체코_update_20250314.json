@@ -1,0 +1,306 @@
+[
+    {
+        "pid": "229973505",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "[M] 나마체코 왁스 인디고 데님",
+        "price_updates": [
+            {
+                "1741928009": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229973505_1_1735447425_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "321404114",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 데님 진",
+        "price_updates": [
+            {
+                "1741917868": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321404114_1_1741323650_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "242892658",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 22FW 알레프 피코트 그레이 M",
+        "price_updates": [
+            {
+                "1741921845": "960000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242892658_1_1740545886_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "311669162",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 블랙팬츠 m",
+        "price_updates": [
+            {
+                "1741918488": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311669162_1_1736875259_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "317988556",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 롱슬리브 L",
+        "price_updates": [
+            {
+                "1741919401": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317988556_1_1739760645_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "296138247",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "[XL] 나마체코 블럭 모헤어 니트",
+        "price_updates": [
+            {
+                "1741914207": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296138247_1_1734606615_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "250393372",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "M) 나마체코 Zanyan 데님 _스노우 워싱",
+        "price_updates": [
+            {
+                "1741892130": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250393372_1_1724766635_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "321357136",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 니트",
+        "price_updates": [
+            {
+                "1741877376": "379000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321357136_1_1741280905_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "192548572",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 셔츠",
+        "price_updates": [
+            {
+                "1741877376": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/192548572_1_1726392531_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "261918776",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 snackorna 폴로",
+        "price_updates": [
+            {
+                "1741866213": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261918776_1_1724760376_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "236043308",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 18AW 니트",
+        "price_updates": [
+            {
+                "1741866213": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236043308_1_1695641547_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "312015314",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 isin 데님 M",
+        "price_updates": [
+            {
+                "1741884984": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312015314_1_1738810087_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "290626107",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "[S] 나마체코 코인 셔츠 스카이 블루",
+        "price_updates": [
+            {
+                "1741878578": "285000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290626107_1_1727022676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "311840309",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 행포드 가디건 s 사이즈",
+        "price_updates": [
+            {
+                "1741867185": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311840309_1_1738803762_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "315535738",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "[S]나마체코 칼범데님자켓",
+        "price_updates": [
+            {
+                "1741875867": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315535738_1_1739729189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "202147782",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 Isin 데님팬츠 L 새상품",
+        "price_updates": [
+            {
+                "1741890173": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/202147782_1_1707581345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "221687938",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "[L]나마체코 LAERTES FLAT BOMBER",
+        "price_updates": [
+            {
+                "1741854282": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221687938_1_1732506559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "312012447",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "나마체코 x 카밀아바스 데님자켓 S",
+        "price_updates": [
+            {
+                "1741884984": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312012447_1_1737038531_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    },
+    {
+        "pid": "233722496",
+        "brands": [
+            "나마체코"
+        ],
+        "name": "31일까지 (S) Bluemarble 블루마블 카고 팬츠 나마체코 엑슬림",
+        "price_updates": [
+            {
+                "1741881128": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233722496_1_1741009363_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:36:43"
+    }
+]

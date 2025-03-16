@@ -149,7 +149,7 @@ def collect_and_filter_data(brands, output_file):
             collected_products = parse_product_data(products, brands)
             filtered_products.extend(filter_products(collected_products, brands[0]))
             page += 1
-            if page == 5:
+            if page == 300:
                 break
 
     # 로컬에 저장

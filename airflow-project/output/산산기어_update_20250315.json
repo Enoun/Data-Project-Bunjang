@@ -1,0 +1,3602 @@
+[
+    {
+        "pid": "216965718",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 롱슬리브 블랙",
+        "price_updates": [
+            {
+                "1742016543": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/216965718_1_1677993304_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "313095096",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 로고 반팔 티셔츠 2size",
+        "price_updates": [
+            {
+                "1742016579": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313095096_1_1737545003_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318124573",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2]산산기어 21FW 푸퍼 패딩 라이트 그레이",
+        "price_updates": [
+            {
+                "1742016287": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318124573_1_1741857999_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320102474",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[1] 산산기어 후드티 네이비",
+        "price_updates": [
+            {
+                "1742015889": "33000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320102474_1_1741076556_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321149999",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(2)산산기어 패딩 푸퍼 판매합니다",
+        "price_updates": [
+            {
+                "1742015094": "175000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321149999_1_1741343051_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322416919",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 콘트레스트 자켓 라이트 그레이 [2]",
+        "price_updates": [
+            {
+                "1742014467": "128000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322416919_1_1741882436_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "308383919",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 큐빅 팬츠 3사이즈",
+        "price_updates": [
+            {
+                "1742015048": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308383919_1_1738925187_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "306871508",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 도킹자켓 바람막이 2사이즈",
+        "price_updates": [
+            {
+                "1742015027": "160800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306871508_1_1742015227_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "277796695",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22ss 웨이브 팬츠 1사이즈",
+        "price_updates": [
+            {
+                "1742015024": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277796695_1_1740987569_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318655803",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 라이온즈 자켓 네이비 S M L",
+        "price_updates": [
+            {
+                "1742013339": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318655803_1_1740182633_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321241682",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[XL] 산산기어 X 라이온즈 자켓 네이비",
+        "price_updates": [
+            {
+                "1742010251": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321241682_1_1741566132_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321241558",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[XL] 산산기어 X 라이온즈 자켓 블루",
+        "price_updates": [
+            {
+                "1742010251": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321241558_1_1741566121_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "261058547",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 팬츠",
+        "price_updates": [
+            {
+                "1742013006": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261058547_1_1739248706_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "219188289",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 도킹 2사이즈",
+        "price_updates": [
+            {
+                "1742010424": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219188289_1_1713916405_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "317853923",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 알파자켓 브라운 (1)",
+        "price_updates": [
+            {
+                "1742011442": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317853923_1_1741268768_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322726517",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 지퍼 팬츠 22FW 다크그레이 (2)",
+        "price_updates": [
+            {
+                "1742007393": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322726517_1_1741946998_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "308124844",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 21fw 트랙팬츠 블랙",
+        "price_updates": [
+            {
+                "1742011282": "51000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308124844_1_1741777212_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322833020",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 원드블럭자켓 다크네이비 3사이즈",
+        "price_updates": [
+            {
+                "1742006219": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322833020_1_1742006228_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318751442",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 로고 티셔츠 스카이 블루 - 22SS",
+        "price_updates": [
+            {
+                "1742009799": "56000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318751442_1_1740454742_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "301074869",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 도킹자켓 23FW 블랙",
+        "price_updates": [
+            {
+                "1742010062": "133000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301074869_1_1731914980_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322272795",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 하프 집업 플리스 블랙",
+        "price_updates": [
+            {
+                "1742009480": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322272795_1_1741702168_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322538103",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[4]산산기어 롱슬리브 23FW",
+        "price_updates": [
+            {
+                "1742008267": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322538103_1_1742008255_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322743033",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 윈드블록",
+        "price_updates": [
+            {
+                "1742004340": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322743033_1_1741999880_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "230585856",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22fw 윈드블럭 자켓 바람막이 1사이즈",
+        "price_updates": [
+            {
+                "1742012757": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230585856_1_1742012752_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "292552159",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "김한주 착용/ 산산기어 벤트 팬츠 2size",
+        "price_updates": [
+            {
+                "1742012829": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292552159_1_1733409988_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321945651",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 백팩자켓 라이트그레이 1size",
+        "price_updates": [
+            {
+                "1742009045": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321945651_1_1741532198_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "298184998",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[3] 산산기어 Welding Pants 웰딩팬츠 그레이",
+        "price_updates": [
+            {
+                "1742011161": "42000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298184998_1_1735304557_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321672638",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 팬츠",
+        "price_updates": [
+            {
+                "1742005390": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321672638_1_1741433523_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321670507",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 팬츠",
+        "price_updates": [
+            {
+                "1742005376": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321670507_1_1741433419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321671985",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 팬츠",
+        "price_updates": [
+            {
+                "1742005383": "92000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321671985_1_1741433360_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322829432",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "급처) 산산기어 도킹자켓 1사이즈",
+        "price_updates": [
+            {
+                "1742004979": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322829432_1_1742005617_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321191769",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[4]산산기어 서픽스 푸퍼 자켓 그레이",
+        "price_updates": [
+            {
+                "1742006009": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321191769_1_1741940302_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321674255",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 2사이즈",
+        "price_updates": [
+            {
+                "1742002714": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321674255_1_1741434070_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322513334",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 2.5L warm grey",
+        "price_updates": [
+            {
+                "1742003183": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322513334_1_1742003443_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322126789",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패널드자켓 구해요",
+        "price_updates": [
+            {
+                "1742003890": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322126789_1_1741627484_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321088645",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 24FW 서픽스 경량패딩 아이스 4팝니다.",
+        "price_updates": [
+            {
+                "1742008987": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321088645_1_1741496911_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321616836",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 후드 3사이즈 (시착품)",
+        "price_updates": [
+            {
+                "1742002953": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321616836_1_1742002967_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322586494",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 푸퍼 4사이즈 스카이블루",
+        "price_updates": [
+            {
+                "1742003337": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322586494_1_1741958320_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319247889",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 라이트 자켓 그린 1",
+        "price_updates": [
+            {
+                "1742006507": "66000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319247889_1_1741830927_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318698561",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 삼성 자켓 M 팝니다",
+        "price_updates": [
+            {
+                "1742006474": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318698561_1_1740058221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "304600759",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 롱슬리브 4size",
+        "price_updates": [
+            {
+                "1742006796": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304600759_1_1738034578_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "284299745",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 2 머큐리얼 티셔츠 오프화이트",
+        "price_updates": [
+            {
+                "1742007553": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284299745_1_1723492918_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "298160842",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스키이블루 반팔 2",
+        "price_updates": [
+            {
+                "1742008080": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298160842_1_1730806938_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "317311422",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22fw 바람막이 3사이즈",
+        "price_updates": [
+            {
+                "1742007702": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317311422_1_1741215742_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "288060997",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 로고 티셔츠 반팔 블랙 24ss",
+        "price_updates": [
+            {
+                "1742009501": "58000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288060997_1_1741189246_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "288679169",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패널드 자켓 퍼플 사이즈 2",
+        "price_updates": [
+            {
+                "1742006631": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288679169_1_1731291417_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "260872404",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어  23SS VENT PANTS DARK GREEN",
+        "price_updates": [
+            {
+                "1742008367": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260872404_1_1741879555_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "314952876",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 지퍼 팬츠 다크 브라운 2size",
+        "price_updates": [
+            {
+                "1742006233": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314952876_1_1741521473_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "293893989",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 푸퍼 패딩 다크 그레이 2사이즈",
+        "price_updates": [
+            {
+                "1742008080": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293893989_1_1739865904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "288140889",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 보이롱페이스 브레드 반팔 사이즈2",
+        "price_updates": [
+            {
+                "1742009299": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288140889_1_1726928807_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320319192",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품) 산산기어 스컬처 후드티 차콜",
+        "price_updates": [
+            {
+                "1742004409": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320319192_1_1741795480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "314953797",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 21fw 셔츠자켓 그레이 1 사이즈 새상품",
+        "price_updates": [
+            {
+                "1742008521": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314953797_1_1740362902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "313570628",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 집업",
+        "price_updates": [
+            {
+                "1742003611": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313570628_1_1737786103_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "313460160",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스트링 자켓 [1]",
+        "price_updates": [
+            {
+                "1742003792": "53000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313460160_1_1741858715_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318650179",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 X 삼성 라이온즈 자켓 블루 L 네이비 XL네이비 S 판매합니다",
+        "price_updates": [
+            {
+                "1742008903": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318650179_1_1740396973_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "266367373",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 심 실링 3사이즈",
+        "price_updates": [
+            {
+                "1742002610": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/266367373_1_1739502566_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "308773233",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "밤12시까지만이가격)산산기어 라이트 자켓 차콜 판매합니다",
+        "price_updates": [
+            {
+                "1742008556": "115000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308773233_1_1742008548_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "312075995",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 나일론 트랙 팬츠 그레이 2",
+        "price_updates": [
+            {
+                "1742004583": "23000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312075995_1_1741922059_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "309998376",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 컨버전 자켓 브라운 1사이즈",
+        "price_updates": [
+            {
+                "1742003272": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309998376_1_1736085191_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "298951850",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 롤 콜라보 본 보이드 팬츠",
+        "price_updates": [
+            {
+                "1742002500": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298951850_1_1741369457_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322535567",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 알파 자켓 3사이즈",
+        "price_updates": [
+            {
+                "1741996993": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322535567_1_1742009593_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "312722244",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패치드 웨빙 팬츠 아이보리 3 사이즈",
+        "price_updates": [
+            {
+                "1742003775": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312722244_1_1737370580_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320957078",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[4] 산산기어 서픽스 푸퍼 자켓 그레이 - 24FW",
+        "price_updates": [
+            {
+                "1742000705": "415000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320957078_1_1741255189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320114420",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 롱슬리브 차콜",
+        "price_updates": [
+            {
+                "1741999812": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320114420_1_1740800724_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320369390",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 컨버전 자켓 브라운 - 23FW",
+        "price_updates": [
+            {
+                "1741998692": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320369390_1_1741966383_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "302250040",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 슬링 스트릿 자켓 2사이즈",
+        "price_updates": [
+            {
+                "1742001524": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302250040_1_1738920818_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "299165779",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 와이드스냅팬츠 그레이 2사이즈",
+        "price_updates": [
+            {
+                "1741999334": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299165779_1_1732871300_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "290856752",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 메쉬자켓 그린",
+        "price_updates": [
+            {
+                "1741999479": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290856752_1_1736485005_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "312475131",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "22fw 산산기어 포켓팬츠 블랙 3사이즈",
+        "price_updates": [
+            {
+                "1742002229": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312475131_1_1740310552_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321317119",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 2Way Pocket Pants Black(3size)",
+        "price_updates": [
+            {
+                "1741998257": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321317119_1_1741265607_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319548266",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[L,XL] 산산기어 삼성 라이언드 웜업 슬리브 아이보리",
+        "price_updates": [
+            {
+                "1742000167": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319548266_1_1740461041_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "314618153",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 후드티 3사이즈",
+        "price_updates": [
+            {
+                "1741996052": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314618153_1_1738308910_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318648644",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 삼성라이온즈 자켓 S 블루",
+        "price_updates": [
+            {
+                "1741996194": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318648644_1_1740092081_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "299802116",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "새상품 산산기어 바람막이 포켓 라이트 그레이",
+        "price_updates": [
+            {
+                "1741996672": "188000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299802116_1_1739290110_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "315422541",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "파브레가 파라슈트 세미 와이드 팬츠 3사이즈 산산기어 디서먼트 센트마켓",
+        "price_updates": [
+            {
+                "1742002287": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315422541_1_1741483960_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "241443140",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22fw 롱슬리브 1사이즈",
+        "price_updates": [
+            {
+                "1741998171": "59000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241443140_1_1739363147_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "291077834",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 23FW 롱슬리브 (1 사이즈)",
+        "price_updates": [
+            {
+                "1741998167": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291077834_1_1739363188_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322756382",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 슬래시 후디 자켓 2사이즈 슬래쉬 오프화이트 블루",
+        "price_updates": [
+            {
+                "1741995111": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322756382_1_1741957881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "314782558",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품 급처 2사이즈)산산기어 서픽스 푸퍼 자켓 그레이 - 24FW",
+        "price_updates": [
+            {
+                "1741995595": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314782558_1_1741995428_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320478143",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 벤트 팬츠 그레이 - 23SS",
+        "price_updates": [
+            {
+                "1741991743": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320478143_1_1741086580_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "301270049",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 그레이 자켓",
+        "price_updates": [
+            {
+                "1741976610": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301270049_1_1732003567_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "312907878",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 코듀로이 팬츠 2사이즈",
+        "price_updates": [
+            {
+                "1741978264": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312907878_1_1741876379_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "286726489",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 로고 반팔 23ss",
+        "price_updates": [
+            {
+                "1741977368": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286726489_1_1738321990_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "291580212",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 RSA 반팔 3사이즈",
+        "price_updates": [
+            {
+                "1741974957": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291580212_1_1733581625_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "314728279",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "22fw 산산기어 윈드블록 블랙 2사이즈",
+        "price_updates": [
+            {
+                "1741980293": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314728279_1_1738355791_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "254080872",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 윈드블록 바지 windblock 블루 1 사이즈",
+        "price_updates": [
+            {
+                "1741995150": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254080872_1_1740282746_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "311293624",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22fw 웨이브팬츠 머드카키 2사이즈",
+        "price_updates": [
+            {
+                "1741986977": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311293624_1_1736718694_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320130858",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 푸퍼 자켓 그레이 4사이즈(새상품)",
+        "price_updates": [
+            {
+                "1741984646": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320130858_1_1741984643_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "309233493",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 크로스헤어 메쉬 자켓 바람막이 라이트 그레이",
+        "price_updates": [
+            {
+                "1741993003": "155000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309233493_1_1735777902_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "316663023",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 3L자켓 머드카키 [1] [판매 및 교환]",
+        "price_updates": [
+            {
+                "1741986422": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316663023_1_1741380727_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322731435",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 슬래쉬 후디 자켓",
+        "price_updates": [
+            {
+                "1741948610": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322731435_1_1741948610_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322734118",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 코치자켓1 95",
+        "price_updates": [
+            {
+                "1741949637": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322734118_1_1741949637_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322696312",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 라이트 자켓 그레이",
+        "price_updates": [
+            {
+                "1741936230": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322696312_1_1741936230_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322702552",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 도킹자켓 V2 2사이즈",
+        "price_updates": [
+            {
+                "1741964786": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322702552_1_1741964804_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322714797",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 웨이브데님팬츠 1사이즈",
+        "price_updates": [
+            {
+                "1741942791": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322714797_1_1741958921_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322478003",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 니트",
+        "price_updates": [
+            {
+                "1741955639": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322478003_1_1741826289_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322781345",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 테이프드 후디 블랙 - 24FW",
+        "price_updates": [
+            {
+                "1741965672": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322781345_1_1741969001_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322745099",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패널드 자켓 스카이 블루 3",
+        "price_updates": [
+            {
+                "1741953510": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322745099_1_1741958437_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322733018",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 컨버젼 자켓 2사이즈",
+        "price_updates": [
+            {
+                "1741949201": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322733018_1_1741949303_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322697478",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 원드블락 3l 자켓",
+        "price_updates": [
+            {
+                "1741936615": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322697478_1_1741936675_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322696107",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 메쉬 자켓 그린",
+        "price_updates": [
+            {
+                "1741936164": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322696107_1_1741936164_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322770728",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 지퍼 자켓 라이트 그레이  22fw 사이즈 1",
+        "price_updates": [
+            {
+                "1741963525": "178000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322770728_1_1741963219_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322687492",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 윈드블록 자켓 스카이 블루 22FW 1",
+        "price_updates": [
+            {
+                "1741933059": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322687492_1_1741937341_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322761244",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[3] 산산기어 22SS 매쉬 자켓 스카이블루 바람막이",
+        "price_updates": [
+            {
+                "1741959037": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322761244_1_1741959037_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322584706",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패딩 3사이즈 판매",
+        "price_updates": [
+            {
+                "1741968858": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322584706_1_1741988993_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322288072",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 후드티 판매합니다.",
+        "price_updates": [
+            {
+                "1741967256": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322288072_1_1741707702_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322284920",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 머큐리얼 티셔츠 오프화이트 [3]",
+        "price_updates": [
+            {
+                "1741965873": "36000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322284920_1_1741965888_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322207256",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스프린터 자켓 아쿠아 - 23FW",
+        "price_updates": [
+            {
+                "1741965680": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322207256_1_1741965479_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322058011",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품) 산산기어 스컬처 후드티 차콜",
+        "price_updates": [
+            {
+                "1741941954": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322058011_1_1741795530_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322368981",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 웨이브 팬츠 머드 카키 2",
+        "price_updates": [
+            {
+                "1741935013": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322368981_1_1741764855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322504433",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 테이프드 후디 라이트 그레이",
+        "price_updates": [
+            {
+                "1741969025": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322504433_1_1741969015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322239173",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 테이프 후드 그레이 23ss",
+        "price_updates": [
+            {
+                "1741942993": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322239173_1_1741949669_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322568830",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 윈드블록 23ss 1사이즈",
+        "price_updates": [
+            {
+                "1741964783": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322568830_1_1742010182_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322404251",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 사이드스냅팬츠 v2 차콜 1",
+        "price_updates": [
+            {
+                "1741934626": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322404251_1_1741777448_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322578791",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 사이드스냅 v2 블랙 2사이즈",
+        "price_updates": [
+            {
+                "1741965682": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322578791_1_1741866157_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322264875",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "원가양도!!! 산산기어 삼성 네이비 자켓 M 사이즈",
+        "price_updates": [
+            {
+                "1741963772": "219000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322264875_1_1741963768_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322106651",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 테입드 후드 차콜 (22SS)",
+        "price_updates": [
+            {
+                "1741955050": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322106651_1_1741955000_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321864371",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 지퍼팬츠 23fw 차콜 1사이즈 판매",
+        "price_updates": [
+            {
+                "1741964407": "77710"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321864371_1_1741512801_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321319903",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 윈드블록 1사이즈",
+        "price_updates": [
+            {
+                "1741964597": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321319903_1_1741600202_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320381998",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 flb 바람막이 1사이즈",
+        "price_updates": [
+            {
+                "1741958100": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320381998_1_1741749345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320883144",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 24fw 1사이즈",
+        "price_updates": [
+            {
+                "1741938496": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320883144_1_1741048607_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321315457",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 1사이즈",
+        "price_updates": [
+            {
+                "1741934857": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321315457_1_1741263832_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321811029",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "마지막가격 산산기어 테이프드 후드 차콜 23ss 3사이즈",
+        "price_updates": [
+            {
+                "1741937020": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321811029_1_1741863367_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321816735",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "마지막가격 산산기어 메쉬 자켓 블랙 22ss 2사이즈",
+        "price_updates": [
+            {
+                "1741937020": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321816735_1_1741752028_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321344593",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품) 산산기어 스컬처 후드 차콜",
+        "price_updates": [
+            {
+                "1741960749": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321344593_1_1741795508_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321230075",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 경량패딩 23fw 2사이즈",
+        "price_updates": [
+            {
+                "1741968653": "262440"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321230075_1_1741531662_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320771884",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 이클립스 포켓 자켓 애쉬 브라운 3",
+        "price_updates": [
+            {
+                "1741967327": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320771884_1_1740987972_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321036738",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 테이프트 후디 블랙 2사이즈",
+        "price_updates": [
+            {
+                "1741952906": "83000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321036738_1_1741952954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "316676606",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어",
+        "price_updates": [
+            {
+                "1741968961": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316676606_1_1740149240_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321088311",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스웻집업 브라운 2사이즈",
+        "price_updates": [
+            {
+                "1741954221": "112000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321088311_1_1741879195_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321465314",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 콘트레스트 자켓 그레이 2사이즈",
+        "price_updates": [
+            {
+                "1741943198": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321465314_1_1741536222_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "317942487",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 니트",
+        "price_updates": [
+            {
+                "1741955639": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317942487_1_1741788263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "316560262",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 트랙자켓",
+        "price_updates": [
+            {
+                "1741954886": "104500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316560262_1_1739149818_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "309032255",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 팬츠(3)",
+        "price_updates": [
+            {
+                "1741962840": "98000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309032255_1_1735625090_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "248422824",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 라이트 자켓",
+        "price_updates": [
+            {
+                "1741959503": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248422824_1_1737087915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321592231",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[3] 산산기어 테이프드 후디 라이트 그레이 24FW",
+        "price_updates": [
+            {
+                "1741943456": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321592231_1_1741411059_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "310145486",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 나일론 자켓 4",
+        "price_updates": [
+            {
+                "1741970880": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310145486_1_1736164428_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "257189173",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 도킹자켓 3",
+        "price_updates": [
+            {
+                "1741964243": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257189173_1_1741922292_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "303993047",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22ss 후드티",
+        "price_updates": [
+            {
+                "1741959236": "39770"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303993047_1_1733233349_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "292865996",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 rsa 스트랩 팬츠",
+        "price_updates": [
+            {
+                "1741956916": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292865996_1_1735584260_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "293486548",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "알파인더스트리 산산기어 봄버자켓",
+        "price_updates": [
+            {
+                "1741967938": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293486548_1_1734529196_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "315906332",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 바람막이 1사이즈",
+        "price_updates": [
+            {
+                "1741947259": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315906332_1_1740468839_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "302040884",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 바람막이 (사이즈 2)",
+        "price_updates": [
+            {
+                "1741944902": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302040884_1_1741599926_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "303547273",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 사이드 포켓 팬츠",
+        "price_updates": [
+            {
+                "1741936715": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303547273_1_1741936827_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318647873",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[L] 산산기어 삼성 라이온즈 네이비",
+        "price_updates": [
+            {
+                "1741964861": "259000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318647873_1_1740047931_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "312764334",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 푸퍼 자켓 블랙 (3)",
+        "price_updates": [
+            {
+                "1741962498": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312764334_1_1737382233_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "289963053",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2]산산기어 라이트그린 자켓",
+        "price_updates": [
+            {
+                "1741969121": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289963053_1_1726664230_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "314548236",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[1] 산산기어 지퍼팬츠 그레이",
+        "price_updates": [
+            {
+                "1741970735": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314548236_1_1741705899_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "311057043",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스프린터 자켓 블랙 M",
+        "price_updates": [
+            {
+                "1741967293": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311057043_1_1739300377_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320226905",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패널드 푸퍼 자켓",
+        "price_updates": [
+            {
+                "1741964624": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320226905_1_1741266321_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "256843655",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "1 산산기어 포켓팬츠 블랙",
+        "price_updates": [
+            {
+                "1741950635": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256843655_1_1710549391_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "300574601",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "새상품 산산기어 알파인더스트리 cwu 자켓",
+        "price_updates": [
+            {
+                "1741935091": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300574601_1_1741052673_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "283415317",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 로고 티셔츠 화이트 - 24SS",
+        "price_updates": [
+            {
+                "1741968938": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283415317_1_1732335173_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "311126415",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "3) 산산기어 슬래쉬 아이보리 바람막이 새상품",
+        "price_updates": [
+            {
+                "1741968324": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311126415_1_1741817254_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "315536856",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(3)산산기어 사이드스냅팬츠 브라운",
+        "price_updates": [
+            {
+                "1741967809": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315536856_1_1741020631_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "264978810",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22FW 지퍼 자켓 1",
+        "price_updates": [
+            {
+                "1741952109": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264978810_1_1729679793_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "318201770",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 사이드 스냅 팬츠 2사이즈",
+        "price_updates": [
+            {
+                "1741948240": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318201770_1_1740549420_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320172779",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품) 산산기어 스컬처 후드 차콜",
+        "price_updates": [
+            {
+                "1741937563": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320172779_1_1741853350_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "291814987",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 후드티 블랙 1 실리카겔",
+        "price_updates": [
+            {
+                "1741971490": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291814987_1_1740245104_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319834480",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품) 산산기어 스컬처 후드티 차콜",
+        "price_updates": [
+            {
+                "1741967328": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319834480_1_1741795495_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320042152",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품) 산산기어 스컬처 후드 차콜",
+        "price_updates": [
+            {
+                "1741955745": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320042152_1_1741795518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "292906503",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 더인터내셔널 롱슬리브",
+        "price_updates": [
+            {
+                "1741938897": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292906503_1_1736959730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "260524254",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "1,3)산산기어 지퍼자켓 제이드",
+        "price_updates": [
+            {
+                "1741947190": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260524254_1_1728205321_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "315537496",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(3)22fw 산산기어 롱슬리브 블랙",
+        "price_updates": [
+            {
+                "1741967813": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315537496_1_1741020642_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "290553310",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22SS STRING JACKET-GRAY",
+        "price_updates": [
+            {
+                "1741958917": "63000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290553310_1_1737651468_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "274081775",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2,3] 산산기어 로고 반팔 티셔츠 화이트",
+        "price_updates": [
+            {
+                "1741943637": "95000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/274081775_1_1718959080_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "294147377",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[3] 산산기어 윈드블록 자켓 그레이 판매",
+        "price_updates": [
+            {
+                "1741943122": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294147377_1_1738159844_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "317719949",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 테이프트 푸퍼 자켓 브라운",
+        "price_updates": [
+            {
+                "1741941701": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317719949_1_1739970866_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "256392801",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 21SS 웨이브팬츠 다크그레이",
+        "price_updates": [
+            {
+                "1741936652": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256392801_1_1710297500_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "317362774",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "23fw 산산기어 서픽스 스카이블루",
+        "price_updates": [
+            {
+                "1741965319": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317362774_1_1741853227_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319082824",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 푸퍼 그레이 24fw",
+        "price_updates": [
+            {
+                "1741962270": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319082824_1_1740288192_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319304384",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "2) 산산기어 커버링 팬츠 라이트 카키",
+        "price_updates": [
+            {
+                "1741958675": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319304384_1_1741411644_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "309041787",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어(sansan gear)Big pocket pants  size2",
+        "price_updates": [
+            {
+                "1741947226": "81000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309041787_1_1735628210_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "309168267",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 웨이브 팬츠 머드카키 1size",
+        "price_updates": [
+            {
+                "1741934630": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309168267_1_1741777328_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "276985084",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "1사이즈 새상품 / 산산기어 실리카겔 인터페이스 반팔",
+        "price_updates": [
+            {
+                "1741964470": "125000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276985084_1_1738486482_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "200166909",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[2] 산산기어 22FW CLOSERBLE PANTS (BLACK)",
+        "price_updates": [
+            {
+                "1741954776": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/200166909_1_1693105587_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "264983787",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "새상품) 산산기어 23SS 슬래쉬 슬릿 자켓 1",
+        "price_updates": [
+            {
+                "1741952105": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264983787_1_1726400933_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "320154161",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 라이트 자켓 22ss 그레이 1사이즈",
+        "price_updates": [
+            {
+                "1741947716": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320154161_1_1740736835_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319392850",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 바람막이 산산기어 슬래쉬 슬릿 자켓 아이보리 - 23SS",
+        "price_updates": [
+            {
+                "1741943655": "146000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319392850_1_1741943681_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "262333474",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 튤립 갤로어 티셔츠 3size",
+        "price_updates": [
+            {
+                "1741937255": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262333474_1_1714820111_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "315308740",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "22FW 산산기어 웨이브팬츠 블랙 1사이즈",
+        "price_updates": [
+            {
+                "1741969841": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315308740_1_1739380785_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "315713796",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스웻팬츠 트레이닝 바지 머드카키",
+        "price_updates": [
+            {
+                "1741964470": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315713796_1_1738764267_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319780560",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 카고팬츠(3사이즈) 블랙 23ss",
+        "price_updates": [
+            {
+                "1741940531": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319780560_1_1740743939_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "294172173",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 detachable jacket 챠콜 3사이즈",
+        "price_updates": [
+            {
+                "1741935243": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294172173_1_1740212809_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "316840710",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 테이프드 푸퍼 자켓 브라운 2사이즈 팝니다",
+        "price_updates": [
+            {
+                "1741968326": "369000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316840710_1_1739259861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "305735193",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22fw 서픽스 푸퍼 블루 3사이즈",
+        "price_updates": [
+            {
+                "1741968400": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305735193_1_1739986760_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "290617248",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[1] 산산기어 24ss 서라운드 팬츠 웜그레이",
+        "price_updates": [
+            {
+                "1741958449": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290617248_1_1727017639_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "307349480",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "23fw 산산기어 슬래쉬 슬래시 져지 브라운 [1] 롱슬리브",
+        "price_updates": [
+            {
+                "1741968708": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307349480_1_1741749810_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "316474060",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 23ss 컨버전 자켓 바람막이 블랙 2사이즈 판매",
+        "price_updates": [
+            {
+                "1741964407": "145070"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316474060_1_1742016304_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "316967231",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(구합니다) 산산기어 후디 집업 그레이 24ss",
+        "price_updates": [
+            {
+                "1741945306": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316967231_1_1739467265_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "306988137",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어22FW 1 사이즈 사용감 거의없음",
+        "price_updates": [
+            {
+                "1741948178": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306988137_1_1739441325_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "246694659",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 22fw 사이드 스냅팬츠 아이스베이지(급처)",
+        "price_updates": [
+            {
+                "1741949194": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246694659_1_1740561736_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "242457122",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(미개봉 새상품 1size) 산산기어 22fw 롱슬리브 티셔츠 블랙",
+        "price_updates": [
+            {
+                "1741964470": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242457122_1_1699632102_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "310466576",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(정가판매)24ss 산산기어 슬래시 지퍼 자켓 브라운 3size",
+        "price_updates": [
+            {
+                "1741969257": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310466576_1_1737342632_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "257230024",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "<오늘만 이가격> 산산기어 패널드 다트 팬츠 차콜 23fw 3",
+        "price_updates": [
+            {
+                "1741964243": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257230024_1_1741871248_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322112576",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 후드티 100",
+        "price_updates": [
+            {
+                "1741890947": "46000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322112576_1_1741945057_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322565525",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스프린터자켓 라이트블루 23ss",
+        "price_updates": [
+            {
+                "1741861810": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322565525_1_1741867056_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "322566008",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 2.5L 윈드블락 팬츠 4사이즈",
+        "price_updates": [
+            {
+                "1741886210": "86000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322566008_1_1741939833_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "321164754",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 컨버전 자켓",
+        "price_updates": [
+            {
+                "1741910597": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321164754_1_1741960793_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319676351",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 윈드블락 바람막이 스카이블루 3",
+        "price_updates": [
+            {
+                "1741837901": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319676351_1_1741761660_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:50"
+    },
+    {
+        "pid": "319001464",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 메쉬자켓 스카이블루 4",
+        "price_updates": [
+            {
+                "1741710261": "72000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319001464_1_1741710256_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "321682751",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 푸퍼 자켓 스카이블루 1사이즈 급처",
+        "price_updates": [
+            {
+                "1741514458": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321682751_1_1741514470_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "313538110",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 바람막이 2사이즈",
+        "price_updates": [
+            {
+                "1740897143": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313538110_1_1737774815_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "319950171",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 알파브라운 2",
+        "price_updates": [
+            {
+                "1740643678": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319950171_1_1740642629_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "319746682",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 X 라이온즈 자켓 블루 S",
+        "price_updates": [
+            {
+                "1740551425": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319746682_1_1740551425_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "291828857",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 사이드스냅 2사이즈",
+        "price_updates": [
+            {
+                "1739785656": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291828857_1_1739785648_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:51"
+    },
+    {
+        "pid": "311298025",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 스카이블루 서픽스 1",
+        "price_updates": [
+            {
+                "1737686517": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311298025_1_1736725374_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:52"
+    },
+    {
+        "pid": "297659149",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 로고 후드 24ss",
+        "price_updates": [
+            {
+                "1736348850": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297659149_1_1730538692_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-15 05:32:52"
+    },
+    {
+        "pid": "241912998",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(새상품/ 택o) 산산기어 23ss 제이드 바람막이",
+        "price_updates": [
+            {
+                "1734976485": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/241912998_1_1730201256_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:52"
+    },
+    {
+        "pid": "305400804",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 blf 메쉬 자켓 베이지 2사이즈 팝니다",
+        "price_updates": [
+            {
+                "1733885183": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305400804_1_1741995198_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:52"
+    },
+    {
+        "pid": "294098760",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 심 실링 제이드 3사이즈",
+        "price_updates": [
+            {
+                "1728812481": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294098760_1_1728812481_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:52"
+    },
+    {
+        "pid": "290279059",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 알파자켓 블랙 2",
+        "price_updates": [
+            {
+                "1726845276": "186520"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290279059_1_1727453608_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:52"
+    },
+    {
+        "pid": "321797207",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 sprocket hole jacket 바람막이 1",
+        "price_updates": [
+            {
+                "1741927414": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321797207_1_1741495178_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:53"
+    },
+    {
+        "pid": "318351041",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 패딩",
+        "price_updates": [
+            {
+                "1741923668": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318351041_1_1741542543_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:53"
+    },
+    {
+        "pid": "320518701",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 2.5 윈드블록 팬츠 1사이즈 (마지막 가격)",
+        "price_updates": [
+            {
+                "1741526661": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320518701_1_1741575011_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-15 05:32:53"
+    },
+    {
+        "pid": "319760076",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 피셔 티셔츠",
+        "price_updates": [
+            {
+                "1740555740": "20000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319760076_1_1740555740_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-15 05:32:53"
+    },
+    {
+        "pid": "315436302",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[1]산산기어 스프로켓 바람막이 자켓",
+        "price_updates": [
+            {
+                "1740459200": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315436302_1_1738657296_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:53"
+    },
+    {
+        "pid": "294726877",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[3 size] 산산기어 컨버전 자켓 그레이 - 23FW",
+        "price_updates": [
+            {
+                "1738736412": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294726877_1_1735885542_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "312465826",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 푸퍼 패딩 3사이즈",
+        "price_updates": [
+            {
+                "1737387739": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312465826_1_1737359054_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "310114825",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 서픽스 블루,그레이 2사",
+        "price_updates": [
+            {
+                "1736155268": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310114825_1_1736154837_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "256273989",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 23fw 롱슬리브 차콜 4사이즈",
+        "price_updates": [
+            {
+                "1735893045": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256273989_1_1738096545_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "303777100",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 슬래시 지퍼자켓 라이트그레이 3사이즈 2024ss",
+        "price_updates": [
+            {
+                "1736007444": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303777100_1_1735989614_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "310114604",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "(43만)산산기어 서픽스 푸퍼 2사이즈 (미개봉)택포",
+        "price_updates": [
+            {
+                "1736154614": "430000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310114604_1_1736500949_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "308274499",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "[1] 산산기어 서픽스 블루",
+        "price_updates": [
+            {
+                "1735236974": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308274499_1_1735236974_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    },
+    {
+        "pid": "306372374",
+        "brands": [
+            "산산기어"
+        ],
+        "name": "산산기어 23ss 컨버젼자켓 그레이 3사이즈",
+        "price_updates": [
+            {
+                "1734592001": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306372374_1_1734325287_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-15 05:32:55"
+    }
+]

@@ -1,0 +1,386 @@
+[
+    {
+        "pid": "322078506",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "슈프림 히스테릭글래머 후드 집업 블랙 XL",
+        "price_updates": [
+            {
+                "1741933551": "560000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322078506_1_1741841709_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "282293699",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 트랙자켓 저지 바람막이 L",
+        "price_updates": [
+            {
+                "1741927151": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282293699_1_1740179209_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "282056558",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "빈티지 히스테릭글래머 래빗 프린팅 반팔티셔츠 블랙 L",
+        "price_updates": [
+            {
+                "1741922993": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282056558_1_1723105704_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "322435864",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "슈프림 히스테릭글래머 트랙자켓 M",
+        "price_updates": [
+            {
+                "1741918277": "375000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322435864_1_1741786528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "322357998",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 스네이크진 흑청 30인치",
+        "price_updates": [
+            {
+                "1741919046": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322357998_1_1741761167_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "310800679",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "슈프림 히스테릭글래머 트랙자켓 L",
+        "price_updates": [
+            {
+                "1741922382": "325000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310800679_1_1741400372_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "300204548",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "빈티지 봄버 야상 카키 봄자켓 / 일본빈티지 샵페어리 히스테릭글래머",
+        "price_updates": [
+            {
+                "1741918554": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300204548_1_1741918574_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "322307714",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "슈프림 히스테릭글래머 티셔츠 M 판매",
+        "price_updates": [
+            {
+                "1741909761": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322307714_1_1741909730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "322079165",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "[XL] 슈프림 X 히스테릭글래머 모헤어 집업 후드",
+        "price_updates": [
+            {
+                "1741873888": "579000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322079165_1_1741608362_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "320758539",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 커트코베인 진 (희귀매물)",
+        "price_updates": [
+            {
+                "1741862514": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320758539_1_1741399926_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "252912912",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 니트 XL",
+        "price_updates": [
+            {
+                "1741857490": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252912912_1_1707723116_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "306774345",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "HYSTERIC GLAMOUR 히스테릭글래머 항공점퍼 새제품",
+        "price_updates": [
+            {
+                "1741885928": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306774345_1_1741174427_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "258207130",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 스카잔 L사이즈",
+        "price_updates": [
+            {
+                "1741862973": "610000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258207130_1_1738908162_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "295968366",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 플레이보이 티셔츠 XL",
+        "price_updates": [
+            {
+                "1741882610": "74000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295968366_1_1730028837_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "302121068",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "Supreme 슈프림 히스테릭글래머 메쉬롱슬리브 퍼플",
+        "price_updates": [
+            {
+                "1741878171": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302121068_1_1733746212_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "308819968",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "슈프림 히스테릭글래머 써멀 롱슬리브 와플",
+        "price_updates": [
+            {
+                "1741864927": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308819968_1_1735521479_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "321167967",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 퍽베어 터틀넥 니트",
+        "price_updates": [
+            {
+                "1741182815": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321167967_1_1741182815_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "170782720",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 카고팬츠",
+        "price_updates": [
+            {
+                "1739832850": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/170782720_1_1637652432_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "316295601",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 Rock Me Baby! 그라데이션 니트",
+        "price_updates": [
+            {
+                "1740218842": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316295601_1_1739022575_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "316294938",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 스네이크 롱슬리브",
+        "price_updates": [
+            {
+                "1739022397": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316294938_1_1739022397_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-14 06:27:19"
+    },
+    {
+        "pid": "285483790",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 커트코베인 너바나 티셔츠",
+        "price_updates": [
+            {
+                "1731843459": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285483790_1_1726243235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-14 06:27:20"
+    },
+    {
+        "pid": "204351932",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 디스트로이드진 페인트 화이트 팬츠바지",
+        "price_updates": [
+            {
+                "1731292340": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204351932_1_1731293792_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-14 06:27:20"
+    },
+    {
+        "pid": "158003000",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 fuck 레터링 올프린트 오픈카라 셔츠 남방",
+        "price_updates": [
+            {
+                "1724253573": "88000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/158003000_1_1724291903_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-14 06:27:20"
+    },
+    {
+        "pid": "315075855",
+        "brands": [
+            "히스테릭글래머"
+        ],
+        "name": "히스테릭글래머 스컬 해골 가디건",
+        "price_updates": [
+            {
+                "1739630894": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315075855_1_1738494372_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-14 06:27:21"
+    }
+]

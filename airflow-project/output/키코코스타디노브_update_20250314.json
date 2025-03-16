@@ -1,0 +1,98 @@
+[
+    {
+        "pid": "256243940",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "키코코스타디노브 아식스 우븐자켓",
+        "price_updates": [
+            {
+                "1741933414": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256243940_1_1710072918_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-14 06:34:50"
+    },
+    {
+        "pid": "312901741",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "키코코스타디노브 오네 팬츠 50",
+        "price_updates": [
+            {
+                "1741926991": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312901741_1_1741748349_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:34:50"
+    },
+    {
+        "pid": "316613926",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "(46)키코코스타디노브 CEDID 디스트레스 니트탑",
+        "price_updates": [
+            {
+                "1741914228": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316613926_1_1741820947_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:34:50"
+    },
+    {
+        "pid": "316613696",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "(48)키코코스타디노브 CEDID 디스트레스 니트탑",
+        "price_updates": [
+            {
+                "1741914228": "229000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316613696_1_1741820960_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-14 06:34:50"
+    },
+    {
+        "pid": "316613434",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "(46)키코코스타디노브 아카이드 트라우져",
+        "price_updates": [
+            {
+                "1741914228": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316613434_1_1741820925_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:34:50"
+    },
+    {
+        "pid": "243400327",
+        "brands": [
+            "키코코스타디노브"
+        ],
+        "name": "키코코스타디노브 블랙  Frederick cord 팬츠 46사이즈",
+        "price_updates": [
+            {
+                "1741909458": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/243400327_1_1700354013_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-14 06:34:50"
+    }
+]

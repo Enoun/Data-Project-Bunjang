@@ -8,7 +8,7 @@ airflow-project/.DS_Store
 airflow-project/.env
 airflow-project/core-site.xml
 airflow-project/hdfs-site.xml
-output/
+airflow-project/output/
 __pycath__/
 *.pyc
 

@@ -7,13 +7,13 @@
         "name": "r13 그래피티 셔츠 L",
         "price_updates": [
             {
-                "1742088809": "750000"
+                "1742162108": "750000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/320221225_1_1740799993_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "277372169",
@@ -23,13 +23,29 @@
         "name": "r13 셔츠 삽니다. L사이즈",
         "price_updates": [
             {
-                "1742088809": "500000"
+                "1742162108": "500000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/277372169_1_1724161540_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
+    },
+    {
+        "pid": "250379537",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 알써틴 퍼코트 105",
+        "price_updates": [
+            {
+                "1742166364": "570000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250379537_1_1736209614_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "308798154",
@@ -39,13 +55,13 @@
         "name": "r13 심리스 워크봄버 후드집업 M/L 삽니다",
         "price_updates": [
             {
-                "1742088809": "700000"
+                "1742162108": "700000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/308798154_1_1735488673_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "270395501",
@@ -61,23 +77,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270395501_1_1731400811_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "318302141",
-        "brands": [
-            "r13"
-        ],
-        "name": "r13 누빔 후드베스트",
-        "price_updates": [
-            {
-                "1741844833": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318302141_1_1741986097_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "314526520",
@@ -93,7 +93,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314526520_1_1741924296_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "230496717",
@@ -109,7 +109,23 @@
         "product_image": "https://media.bunjang.co.kr/product/230496717_1_1733714226_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
+    },
+    {
+        "pid": "318302141",
+        "brands": [
+            "r13"
+        ],
+        "name": "r13 누빔 후드베스트",
+        "price_updates": [
+            {
+                "1741844833": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318302141_1_1741986097_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "320180892",
@@ -125,23 +141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320180892_1_1741187515_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "250379537",
-        "brands": [
-            "r13"
-        ],
-        "name": "r13 알써틴 퍼코트 105",
-        "price_updates": [
-            {
-                "1741600334": "570000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/250379537_1_1736209614_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "285024089",
@@ -157,7 +157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285024089_1_1723897447_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "268842918",
@@ -173,7 +173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268842918_1_1724639601_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "317670030",
@@ -189,7 +189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317670030_1_1739869321_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "226923889",
@@ -205,7 +205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226923889_1_1739150252_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "284791728",
@@ -221,7 +221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284791728_1_1723779791_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "304164195",
@@ -237,7 +237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304164195_1_1733317456_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "296279804",
@@ -253,7 +253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296279804_1_1729767556_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "293040752",
@@ -269,7 +269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293040752_1_1734240348_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "282685041",
@@ -285,7 +285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282685041_1_1722593166_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "271496199",
@@ -301,7 +301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271496199_1_1718158705_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "258170175",
@@ -317,7 +317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258170175_1_1711537005_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "315523134",
@@ -333,7 +333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315523134_1_1738679897_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "315306306",
@@ -349,7 +349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315306306_1_1738589143_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "312567510",
@@ -365,7 +365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312567510_1_1737292394_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "322226273",
@@ -381,7 +381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322226273_1_1741687933_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     },
     {
         "pid": "317867801",
@@ -397,7 +397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317867801_1_1739699532_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     },
     {
         "pid": "304438192",
@@ -413,7 +413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304438192_1_1739492891_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     },
     {
         "pid": "313659996",
@@ -429,7 +429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313659996_1_1738503480_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     },
     {
         "pid": "311787411",
@@ -445,7 +445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311787411_1_1736938447_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     },
     {
         "pid": "308368734",
@@ -461,7 +461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308368734_1_1735293046_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     },
     {
         "pid": "306802602",
@@ -477,6 +477,6 @@
         "product_image": "https://media.bunjang.co.kr/product/306802602_1_1735486156_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:09:38"
     }
 ]

@@ -1,51 +1,99 @@
 [
     {
-        "pid": "259254080",
+        "pid": "284999803",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 데님 팬츠",
+        "name": "[S] 써네이 로고 티셔츠 95-100 크림",
         "price_updates": [
             {
-                "1742094342": "105000"
+                "1742189946": "45000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/259254080_1_1712396299_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/284999803_1_1723887748_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "322622555",
+        "pid": "270883148",
         "brands": [
             "써네이"
         ],
-        "name": "이태리 써네이 맨투맨 105~110",
+        "name": "써네이 로고 스트라이프 반팔 M",
         "price_updates": [
             {
-                "1742090835": "188000"
+                "1742189298": "52000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322622555_1_1742036999_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/270883148_1_1722464350_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "319915810",
+        "pid": "318580490",
         "brands": [
             "써네이"
         ],
-        "name": "[XL] 써네이 로고 후드 스틸 블루",
+        "name": "써네이 후드자켓",
         "price_updates": [
             {
-                "1742090844": "125000"
+                "1742178849": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319915810_1_1741185218_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318580490_1_1740553290_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "273626750",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 V넥 셔츠",
+        "price_updates": [
+            {
+                "1742179295": "27070"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/273626750_1_1735523269_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "233214362",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 데님자켓 m (L교환 좋아요)",
+        "price_updates": [
+            {
+                "1742180580": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/233214362_1_1729768621_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "263835271",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 앞로고 롱슬리브 긴팔 그린 L사이즈",
+        "price_updates": [
+            {
+                "1742179923": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263835271_1_1727494835_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "304483396",
@@ -55,13 +103,93 @@
         "name": "써네이 후드 L",
         "price_updates": [
             {
-                "1742086764": "120000"
+                "1742175760": "120000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/304483396_1_1740708542_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "255692675",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드 블랙 M사이즈 새상품",
+        "price_updates": [
+            {
+                "1742176123": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255692675_1_1709647421_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "322622555",
+        "brands": [
+            "써네이"
+        ],
+        "name": "이태리 써네이 맨투맨 105~110",
+        "price_updates": [
+            {
+                "1742168089": "188000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322622555_1_1742036999_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "321577002",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드티 로고 화이트",
+        "price_updates": [
+            {
+                "1742170074": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321577002_1_1741409546_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "285018319",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드티",
+        "price_updates": [
+            {
+                "1742164353": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285018319_1_1740409643_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "296944754",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 쭈리 후드티",
+        "price_updates": [
+            {
+                "1742150139": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296944754_1_1734053676_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "310335906",
@@ -71,45 +199,173 @@
         "name": "써네이 블루 반팔 셔츠 (50)",
         "price_updates": [
             {
-                "1742084806": "60000"
+                "1742167048": "60000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/310335906_1_1739413019_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "223142422",
+        "pid": "319915810",
         "brands": [
             "써네이"
         ],
-        "name": "[미개봉 새상품] 23SS 써네이 반팔 L XL",
+        "name": "[XL] 써네이 로고 후드 스틸 블루",
         "price_updates": [
             {
-                "1742077446": "80000"
+                "1742165438": "125000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/223142422_1_1713088761_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319915810_1_1741185218_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "252900298",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 엠브로이드 후드 다크네이비 XL",
+        "price_updates": [
+            {
+                "1742169612": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/252900298_1_1741910775_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "312293582",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[L]써네이 맨투맨 sunnei",
+        "price_updates": [
+            {
+                "1742115690": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312293582_1_1737184629_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "296845985",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 sunnei 후드 m (100)",
+        "price_updates": [
+            {
+                "1742139476": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296845985_1_1740986464_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "204341979",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이(Sunnei) 프로방스 퍼피 패딩/패딩조끼",
+        "price_updates": [
+            {
+                "1742141111": "353000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204341979_1_1741621626_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "229662714",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이(Sunnei) 셔츠 하이브리드 티 3",
+        "price_updates": [
+            {
+                "1742125325": "49000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229662714_1_1689082379_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "319978533",
+        "pid": "215843555",
         "brands": [
             "써네이"
         ],
-        "name": "써네이(SUNNEI) 엠브로이더드 티셔츠",
+        "name": "sunnei 써네이 반팔티셔츠 새상품 M",
         "price_updates": [
             {
-                "1742053012": "68000"
+                "1742108850": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319978533_1_1741620502_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/215843555_1_1691174770_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "254162888",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 (sunnei) 후드 스틸블루 L",
+        "price_updates": [
+            {
+                "1742113669": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254162888_1_1737209462_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "288502374",
+        "brands": [
+            "써네이"
+        ],
+        "name": "새제품 써네이 sunnei 맨투맨 xl 사이즈 판매",
+        "price_updates": [
+            {
+                "1742137487": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/288502374_1_1733146578_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "300265831",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이(SUNNEI) 블루 워시드 클래식진 라지",
+        "price_updates": [
+            {
+                "1742137430": "630000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300265831_1_1731560078_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "321333181",
@@ -119,13 +375,173 @@
         "name": "[써네이] 22SS 로고 후드티 XL",
         "price_updates": [
             {
-                "1742051742": "65000"
+                "1742145812": "65000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/321333181_1_1741539891_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "281853577",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 반팔",
+        "price_updates": [
+            {
+                "1742123203": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281853577_1_1722144677_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "204496320",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 스트라이프 셔츠",
+        "price_updates": [
+            {
+                "1742108492": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204496320_1_1741080340_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "317162253",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[L]써네이 후드티 네이비",
+        "price_updates": [
+            {
+                "1742133409": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317162253_1_1741612242_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "179956211",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드티 (기모 X)",
+        "price_updates": [
+            {
+                "1742135642": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/179956211_1_1712831313_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "310078258",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 로고 후드 [L]",
+        "price_updates": [
+            {
+                "1742127245": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310078258_1_1740137131_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "303045776",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드 그린 xl",
+        "price_updates": [
+            {
+                "1742126549": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303045776_1_1741860960_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "281951278",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[XL]써네이 반팔 블랙 팝니다.",
+        "price_updates": [
+            {
+                "1742125446": "65000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281951278_1_1722179674_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "317475173",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 멜란지그레이 후드티 M 팝니다",
+        "price_updates": [
+            {
+                "1742138861": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317475173_1_1741770224_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "295534892",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드집업 19fw 네이비",
+        "price_updates": [
+            {
+                "1742123431": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295534892_1_1737349770_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "286706273",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 그래픽 프린트 반소매 티셔츠 라일락 M",
+        "price_updates": [
+            {
+                "1742129917": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286706273_1_1725379244_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "322963146",
@@ -141,311 +557,39 @@
         "product_image": "https://media.bunjang.co.kr/product/322963146_1_1742045443_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "297154525",
+        "pid": "187924060",
         "brands": [
             "써네이"
         ],
-        "name": "[M] 써네이 클래식 빅 로고 엠브로이더드 맨투맨 - 베이지",
+        "name": "써네이 카고숏 그레이 반바지 버뮤다 sunnei",
         "price_updates": [
             {
-                "1742054130": "150000"
+                "1742095066": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/297154525_1_1732765321_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/187924060_1_1720683932_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "204341979",
+        "pid": "319978533",
         "brands": [
             "써네이"
         ],
-        "name": "써네이(Sunnei) 프로방스 퍼피 패딩/패딩조끼",
+        "name": "써네이(SUNNEI) 엠브로이더드 티셔츠",
         "price_updates": [
             {
-                "1742037847": "353000"
+                "1742053012": "68000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/204341979_1_1741621626_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319978533_1_1741620502_w{res}.jpg",
         "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "299634230",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드",
-        "price_updates": [
-            {
-                "1742041339": "60000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299634230_1_1738678196_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "285018319",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드티",
-        "price_updates": [
-            {
-                "1742049869": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/285018319_1_1740409643_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "320327213",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드티",
-        "price_updates": [
-            {
-                "1742012051": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320327213_1_1741874371_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "318580490",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드자켓",
-        "price_updates": [
-            {
-                "1742026786": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318580490_1_1740553290_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "204496320",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 스트라이프 셔츠",
-        "price_updates": [
-            {
-                "1742015947": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/204496320_1_1741080340_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "310078258",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 로고 후드 [L]",
-        "price_updates": [
-            {
-                "1742031168": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310078258_1_1740137131_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "303045776",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드 그린 xl",
-        "price_updates": [
-            {
-                "1742028361": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303045776_1_1741860960_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "277295748",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[S] 써네이 스트라이프 팬츠 블랙",
-        "price_updates": [
-            {
-                "1742042033": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/277295748_1_1736565028_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "281951278",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[XL]써네이 반팔 블랙 팝니다.",
-        "price_updates": [
-            {
-                "1742041925": "65000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/281951278_1_1722179674_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "270883148",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 로고 스트라이프 반팔 M",
-        "price_updates": [
-            {
-                "1742027037": "52000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/270883148_1_1722464350_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "297376028",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 로고 후드 스틸블루",
-        "price_updates": [
-            {
-                "1742014885": "65000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297376028_1_1733083534_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "319257443",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 남성 후드 아노락 오션 블루",
-        "price_updates": [
-            {
-                "1742014769": "148910"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319257443_1_1741008181_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "284999803",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[S] 써네이 로고 티셔츠 95-100 크림",
-        "price_updates": [
-            {
-                "1742010077": "45000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/284999803_1_1723887748_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "252900298",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 엠브로이드 후드 다크네이비 XL",
-        "price_updates": [
-            {
-                "1742021121": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/252900298_1_1741910775_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "286706273",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 그래픽 프린트 반소매 티셔츠 라일락 M",
-        "price_updates": [
-            {
-                "1742034954": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286706273_1_1725379244_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "312293582",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[L]써네이 맨투맨 sunnei",
-        "price_updates": [
-            {
-                "1741944014": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312293582_1_1737184629_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "254162888",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 (sunnei) 후드 스틸블루 L",
-        "price_updates": [
-            {
-                "1741938648": "105000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254162888_1_1737209462_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "306828906",
@@ -461,23 +605,23 @@
         "product_image": "https://media.bunjang.co.kr/product/306828906_1_1742029220_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "187924060",
+        "pid": "299634230",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 카고숏 그레이 반바지 버뮤다 sunnei",
+        "name": "써네이 후드",
         "price_updates": [
             {
-                "1741997934": "180000"
+                "1742041339": "60000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/187924060_1_1720683932_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/299634230_1_1738678196_w{res}.jpg",
         "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "288983451",
@@ -493,23 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288983451_1_1741997925_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "236491487",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[L] Sunnei 써네이 이탈리안 감성 명품 후드티",
-        "price_updates": [
-            {
-                "1741927424": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/236491487_1_1734479004_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "313927664",
@@ -525,7 +653,23 @@
         "product_image": "https://media.bunjang.co.kr/product/313927664_1_1737954002_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "259254080",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 데님 팬츠",
+        "price_updates": [
+            {
+                "1742094342": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259254080_1_1712396299_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "289211326",
@@ -541,7 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289211326_1_1741266718_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "322696457",
@@ -557,23 +701,87 @@
         "product_image": "https://media.bunjang.co.kr/product/322696457_1_1741936270_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "321577002",
+        "pid": "297501919",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 후드티 로고 화이트",
+        "name": "써네이 희귀 쭈리 후드티 그레이 XL",
         "price_updates": [
             {
-                "1742001048": "100000"
+                "1742094930": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321577002_1_1741409546_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/297501919_1_1739342854_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "223142422",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[미개봉 새상품] 23SS 써네이 반팔 L XL",
+        "price_updates": [
+            {
+                "1742077446": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/223142422_1_1713088761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "297154525",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[M] 써네이 클래식 빅 로고 엠브로이더드 맨투맨 - 베이지",
+        "price_updates": [
+            {
+                "1742054130": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297154525_1_1732765321_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "236491487",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[L] Sunnei 써네이 이탈리안 감성 명품 후드티",
+        "price_updates": [
+            {
+                "1741927424": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236491487_1_1734479004_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "320327213",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드티",
+        "price_updates": [
+            {
+                "1742012051": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320327213_1_1741874371_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "292143789",
@@ -589,7 +797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292143789_1_1729133762_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "317286726",
@@ -605,7 +813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317286726_1_1741614797_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "302191161",
@@ -621,167 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302191161_1_1735437731_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "273626750",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 V넥 셔츠",
-        "price_updates": [
-            {
-                "1741925432": "27070"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/273626750_1_1735523269_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "317162253",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[L]써네이 후드티 네이비",
-        "price_updates": [
-            {
-                "1741933161": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317162253_1_1741612242_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "169446142",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드집업 M사이즈",
-        "price_updates": [
-            {
-                "1741982930": "645000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/169446142_1_1636462926_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "311609771",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 로고 자수 맨투맨 S",
-        "price_updates": [
-            {
-                "1741953894": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311609771_1_1736853750_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "295534892",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드집업 19fw 네이비",
-        "price_updates": [
-            {
-                "1741970235": "310000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295534892_1_1737349770_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "317475173",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 멜란지그레이 후드티 M 팝니다",
-        "price_updates": [
-            {
-                "1741965920": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317475173_1_1741770224_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "255692675",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드 블랙 M사이즈 새상품",
-        "price_updates": [
-            {
-                "1741924291": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255692675_1_1709647421_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "315959707",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[L] 19fw 써네이 후드집업",
-        "price_updates": [
-            {
-                "1741926474": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315959707_1_1741159898_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "233214362",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 데님자켓 m (L교환 좋아요)",
-        "price_updates": [
-            {
-                "1742004911": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/233214362_1_1729768621_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "322560390",
-        "brands": [
-            "써네이"
-        ],
-        "name": "(XL) 써네이 네이비 후드티 12.0",
-        "price_updates": [
-            {
-                "1741860014": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322560390_1_1741860014_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "316401851",
@@ -797,39 +845,87 @@
         "product_image": "https://media.bunjang.co.kr/product/316401851_1_1739082121_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "322560673",
+        "pid": "297376028",
         "brands": [
             "써네이"
         ],
-        "name": "(XL) 써네이 네온  검정프린팅 후드티 12.0",
+        "name": "써네이 로고 후드 스틸블루",
         "price_updates": [
             {
-                "1741860108": "120000"
+                "1742014885": "65000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322560673_1_1741860108_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/297376028_1_1733083534_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "229662714",
+        "pid": "169446142",
         "brands": [
             "써네이"
         ],
-        "name": "써네이(Sunnei) 셔츠 하이브리드 티 3",
+        "name": "써네이 후드집업 M사이즈",
         "price_updates": [
             {
-                "1741776184": "49000"
+                "1741982930": "645000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/229662714_1_1689082379_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/169446142_1_1636462926_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "311609771",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 로고 자수 맨투맨 S",
+        "price_updates": [
+            {
+                "1741953894": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311609771_1_1736853750_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "322560390",
+        "brands": [
+            "써네이"
+        ],
+        "name": "(XL) 써네이 네이비 후드티 12.0",
+        "price_updates": [
+            {
+                "1741860014": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322560390_1_1741860014_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "319257443",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 남성 후드 아노락 오션 블루",
+        "price_updates": [
+            {
+                "1742014769": "148910"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319257443_1_1741008181_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "284583540",
@@ -845,7 +941,23 @@
         "product_image": "https://media.bunjang.co.kr/product/284583540_1_1731586220_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "322560673",
+        "brands": [
+            "써네이"
+        ],
+        "name": "(XL) 써네이 네온  검정프린팅 후드티 12.0",
+        "price_updates": [
+            {
+                "1741860108": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322560673_1_1741860108_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "244347851",
@@ -861,23 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244347851_1_1731586183_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "281853577",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 반팔",
-        "price_updates": [
-            {
-                "1741855108": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/281853577_1_1722144677_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "322421212",
@@ -893,39 +989,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322421212_1_1741782175_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "322335278",
+        "pid": "315959707",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 패턴셔츠 (새상품)",
+        "name": "[L] 19fw 써네이 후드집업",
         "price_updates": [
             {
-                "1741754062": "220000"
+                "1741926474": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322335278_1_1741752381_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "296845985",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 sunnei 후드 m (100)",
-        "price_updates": [
-            {
-                "1741693742": "65000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296845985_1_1740986464_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315959707_1_1741159898_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "288507841",
@@ -941,55 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288507841_1_1741880709_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "297501919",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 희귀 쭈리 후드티 그레이 XL",
-        "price_updates": [
-            {
-                "1741838521": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297501919_1_1739342854_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "245874861",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드집업(초판시보리) 그린색상",
-        "price_updates": [
-            {
-                "1741839366": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245874861_1_1734529490_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "320592173",
-        "brands": [
-            "써네이"
-        ],
-        "name": "Sunnei 써네이 네이비 맨투맨 m 판매",
-        "price_updates": [
-            {
-                "1741606880": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320592173_1_1740907258_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "322218320",
@@ -1005,7 +1037,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322218320_1_1741685224_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "322335278",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 패턴셔츠 (새상품)",
+        "price_updates": [
+            {
+                "1741754062": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322335278_1_1741752381_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "263015535",
@@ -1021,7 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263015535_1_1735993976_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "213595728",
@@ -1037,39 +1085,39 @@
         "product_image": "https://media.bunjang.co.kr/product/213595728_1_1727363101_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "285923308",
+        "pid": "245874861",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 로고 자카드 셔츠",
+        "name": "써네이 후드집업(초판시보리) 그린색상",
         "price_updates": [
             {
-                "1741757456": "92340"
+                "1741839366": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/285923308_1_1724426410_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/245874861_1_1734529490_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "263835271",
+        "pid": "320592173",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 앞로고 롱슬리브 긴팔 그린 L사이즈",
+        "name": "Sunnei 써네이 네이비 맨투맨 m 판매",
         "price_updates": [
             {
-                "1741834887": "55000"
+                "1741606880": "90000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/263835271_1_1727494835_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320592173_1_1740907258_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "302874149",
@@ -1085,55 +1133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302874149_1_1739928449_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "241497126",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드티 XL",
-        "price_updates": [
-            {
-                "1741698007": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/241497126_1_1713085139_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "319944922",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 스트라이프 니트",
-        "price_updates": [
-            {
-                "1741691925": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319944922_1_1740640911_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "296944754",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 쭈리 후드티",
-        "price_updates": [
-            {
-                "1741713425": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296944754_1_1734053676_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "230588488",
@@ -1149,7 +1149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230588488_1_1731586152_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "236755757",
@@ -1165,39 +1165,55 @@
         "product_image": "https://media.bunjang.co.kr/product/236755757_1_1731586258_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "179956211",
+        "pid": "241497126",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 후드티 (기모 X)",
+        "name": "써네이 후드티 XL",
         "price_updates": [
             {
-                "1741694095": "180000"
+                "1741698007": "150000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/179956211_1_1712831313_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/241497126_1_1713085139_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "295570036",
+        "pid": "319944922",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 시어링 패디드 오버 재킷 L",
+        "name": "써네이 스트라이프 니트",
         "price_updates": [
             {
-                "1741693671": "230000"
+                "1741691925": "80000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/295570036_1_1738237916_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319944922_1_1740640911_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "285923308",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 로고 자카드 셔츠",
+        "price_updates": [
+            {
+                "1741757456": "92340"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285923308_1_1724426410_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "318494978",
@@ -1213,23 +1229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318494978_1_1740039847_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "288502374",
-        "brands": [
-            "써네이"
-        ],
-        "name": "새제품 써네이 sunnei 맨투맨 xl 사이즈 판매",
-        "price_updates": [
-            {
-                "1741536875": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288502374_1_1733146578_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "233164810",
@@ -1245,87 +1245,23 @@
         "product_image": "https://media.bunjang.co.kr/product/233164810_1_1726652143_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "224077065",
+        "pid": "295570036",
         "brands": [
             "써네이"
         ],
-        "name": "써네이/블랙 청바지/L사이즈 새상품 판매합니다.",
+        "name": "써네이 시어링 패디드 오버 재킷 L",
         "price_updates": [
             {
-                "1741706084": "220000"
+                "1741693671": "230000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/224077065_1_1731586117_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/295570036_1_1738237916_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "224077244",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이/크림 컬러 와이드 팬츠/M사이즈 새상품 판매합니다.",
-        "price_updates": [
-            {
-                "1741706080": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/224077244_1_1731586089_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "207309205",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 반팔티 m 사이즈",
-        "price_updates": [
-            {
-                "1741662388": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/207309205_1_1670070586_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "292458837",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드티 L 사이즈 (새상품)",
-        "price_updates": [
-            {
-                "1741659495": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292458837_1_1730272757_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "300265831",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이(SUNNEI) 블루 워시드 클래식진 라지",
-        "price_updates": [
-            {
-                "1741448506": "630000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300265831_1_1731560078_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "305076281",
@@ -1341,23 +1277,23 @@
         "product_image": "https://media.bunjang.co.kr/product/305076281_1_1739792215_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "215843555",
+        "pid": "224077065",
         "brands": [
             "써네이"
         ],
-        "name": "sunnei 써네이 반팔티셔츠 새상품 M",
+        "name": "써네이/블랙 청바지/L사이즈 새상품 판매합니다.",
         "price_updates": [
             {
-                "1740806850": "100000"
+                "1741706084": "220000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/215843555_1_1691174770_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/224077065_1_1731586117_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "271008949",
@@ -1373,7 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271008949_1_1727860733_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "257679823",
@@ -1389,7 +1325,23 @@
         "product_image": "https://media.bunjang.co.kr/product/257679823_1_1717123058_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "224077244",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이/크림 컬러 와이드 팬츠/M사이즈 새상품 판매합니다.",
+        "price_updates": [
+            {
+                "1741706080": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224077244_1_1731586089_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "260572946",
@@ -1405,7 +1357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260572946_1_1713423271_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "282584888",
@@ -1421,7 +1373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282584888_1_1734516798_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "309243932",
@@ -1437,39 +1389,39 @@
         "product_image": "https://media.bunjang.co.kr/product/309243932_1_1735734651_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
-        "pid": "255444023",
+        "pid": "207309205",
         "brands": [
             "써네이"
         ],
-        "name": "써네이 로고 후드티",
+        "name": "써네이 반팔티 m 사이즈",
         "price_updates": [
             {
-                "1741504185": "150000"
+                "1741662388": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/255444023_1_1709456545_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "230942558",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[새상품] 써네이 / 반팔 화이트 / xl",
-        "price_updates": [
-            {
-                "1741500676": "89000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/230942558_1_1738923728_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/207309205_1_1670070586_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "292458837",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드티 L 사이즈 (새상품)",
+        "price_updates": [
+            {
+                "1741659495": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292458837_1_1730272757_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "305240635",
@@ -1485,7 +1437,23 @@
         "product_image": "https://media.bunjang.co.kr/product/305240635_1_1733808674_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "255444023",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 로고 후드티",
+        "price_updates": [
+            {
+                "1741504185": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255444023_1_1709456545_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "228303238",
@@ -1501,7 +1469,23 @@
         "product_image": "https://media.bunjang.co.kr/product/228303238_1_1687873426_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "230942558",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[새상품] 써네이 / 반팔 화이트 / xl",
+        "price_updates": [
+            {
+                "1741500676": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230942558_1_1738923728_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "258984786",
@@ -1517,23 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258984786_1_1714020781_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "293729548",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이데님 공용",
-        "price_updates": [
-            {
-                "1741102638": "76500"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293729548_1_1728651460_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "272150865",
@@ -1549,7 +1517,39 @@
         "product_image": "https://media.bunjang.co.kr/product/272150865_1_1718357459_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "293729548",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이데님 공용",
+        "price_updates": [
+            {
+                "1741102638": "76500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293729548_1_1728651460_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "283127730",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 긴팔",
+        "price_updates": [
+            {
+                "1741044992": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283127730_1_1722846397_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "309087815",
@@ -1565,7 +1565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309087815_1_1738314947_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "310810910",
@@ -1581,39 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310810910_1_1736497213_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "219764048",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 후드티",
-        "price_updates": [
-            {
-                "1740715418": "175000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/219764048_1_1680305415_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "313951082",
-        "brands": [
-            "써네이"
-        ],
-        "name": "써네이 밀리터리 블레이저",
-        "price_updates": [
-            {
-                "1740866791": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313951082_1_1741684711_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "320183029",
@@ -1629,7 +1597,39 @@
         "product_image": "https://media.bunjang.co.kr/product/320183029_1_1740746444_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "219764048",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 후드티",
+        "price_updates": [
+            {
+                "1740715418": "175000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219764048_1_1680305415_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "313951082",
+        "brands": [
+            "써네이"
+        ],
+        "name": "써네이 밀리터리 블레이저",
+        "price_updates": [
+            {
+                "1740866791": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313951082_1_1741684711_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "319990292",
@@ -1645,7 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319990292_1_1740655406_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "268780686",
@@ -1661,7 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268780686_1_1722433608_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "109597599",
@@ -1677,7 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/109597599_1_1741427215_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "319577231",
@@ -1693,7 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319577231_1_1740470294_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "317692528",
@@ -1703,13 +1703,13 @@
         "name": "써네이 데님팬츠 XL",
         "price_updates": [
             {
-                "1740402690": "150000"
+                "1740402691": "150000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/317692528_1_1739622953_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "224296812",
@@ -1725,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224296812_1_1727861545_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "304932109",
@@ -1741,7 +1741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304932109_1_1733662760_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "303989021",
@@ -1757,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303989021_1_1736820481_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "319547681",
@@ -1773,7 +1773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319547681_1_1740460842_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "319550072",
@@ -1789,7 +1789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319550072_1_1740461616_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "250843390",
@@ -1805,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250843390_1_1706112013_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "300116300",
@@ -1821,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300116300_1_1737279179_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "318181472",
@@ -1837,7 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318181472_1_1739845453_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "300162653",
@@ -1853,7 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300162653_1_1739173119_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "240785117",
@@ -1869,7 +1869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240785117_1_1721602510_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "302531623",
@@ -1885,7 +1885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302531623_1_1732578182_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "313118228",
@@ -1901,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313118228_1_1741040314_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "149193795",
@@ -1917,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/149193795_1_1616244799_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "295870434",
@@ -1933,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295870434_1_1742086449_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "200078980",
@@ -1949,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200078980_1_1736221769_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "237675501",
@@ -1965,7 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237675501_1_1736500368_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "287741199",
@@ -1981,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287741199_1_1725424268_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "290520034",
@@ -1997,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290520034_1_1728378978_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "288520665",
@@ -2013,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288520665_1_1734610830_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "298033916",
@@ -2029,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298033916_1_1730556815_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "303497610",
@@ -2045,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303497610_1_1734004023_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "256834035",
@@ -2061,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256834035_1_1715228096_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "280577447",
@@ -2077,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280577447_1_1721483771_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "277497793",
@@ -2093,7 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277497793_1_1731228783_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "304269379",
@@ -2109,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304269379_1_1734416271_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "205975581",
@@ -2125,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205975581_1_1676096368_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "303937211",
@@ -2141,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303937211_1_1734868366_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "212300158",
@@ -2157,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/212300158_1_1708738443_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "197551322",
@@ -2173,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/197551322_1_1700000173_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "203394222",
@@ -2189,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/203394222_1_1702339481_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "303760106",
@@ -2205,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303760106_1_1733131513_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "194853342",
@@ -2221,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/194853342_1_1716686212_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "310969899",
@@ -2237,23 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310969899_1_1736577148_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
-    },
-    {
-        "pid": "199902623",
-        "brands": [
-            "써네이"
-        ],
-        "name": "[SUNNEI 22ss M]써네이 반팔 그린로고",
-        "price_updates": [
-            {
-                "1732892620": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/199902623_1_1725380042_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "191220719",
@@ -2269,7 +2253,23 @@
         "product_image": "https://media.bunjang.co.kr/product/191220719_1_1705663616_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
+    },
+    {
+        "pid": "199902623",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[SUNNEI 22ss M]써네이 반팔 그린로고",
+        "price_updates": [
+            {
+                "1732892620": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199902623_1_1725380042_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "231009753",
@@ -2285,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231009753_1_1705371325_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "307532261",
@@ -2301,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307532261_1_1735205730_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "255809639",
@@ -2317,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255809639_1_1720391667_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "262143436",
@@ -2333,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262143436_1_1734330948_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "290091972",
@@ -2349,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290091972_1_1726745519_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "287864355",
@@ -2365,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287864355_1_1725493189_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "303293685",
@@ -2381,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303293685_1_1732939697_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "281147610",
@@ -2397,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281147610_1_1721780482_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "276486494",
@@ -2413,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276486494_1_1721544559_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "258419220",
@@ -2429,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258419220_1_1732490706_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "208695021",
@@ -2445,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/208695021_1_1716946404_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "278025414",
@@ -2461,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278025414_1_1721030092_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "221518919",
@@ -2477,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/221518919_1_1716692021_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "298151396",
@@ -2493,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298151396_1_1730619207_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "216333956",
@@ -2509,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/216333956_1_1707524596_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "300327443",
@@ -2525,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300327443_1_1731580126_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "291933761",
@@ -2541,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291933761_1_1727750903_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "297792530",
@@ -2557,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297792530_1_1730459732_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "237477512",
@@ -2573,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237477512_1_1730700762_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "280350378",
@@ -2589,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280350378_1_1729064005_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "287630654",
@@ -2605,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287630654_1_1725353490_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "228584647",
@@ -2621,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228584647_1_1712663518_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "225899215",
@@ -2637,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/225899215_1_1701020795_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "291081185",
@@ -2653,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291081185_1_1727268347_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "253644532",
@@ -2669,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253644532_1_1708820837_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "264794193",
@@ -2685,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264794193_1_1723351987_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "288623484",
@@ -2701,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288623484_1_1725873404_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "240993404",
@@ -2717,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240993404_1_1714874808_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "239782075",
@@ -2733,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239782075_1_1698115350_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "285686011",
@@ -2749,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285686011_1_1724302933_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "287966447",
@@ -2765,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287966447_1_1725539337_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "261688042",
@@ -2781,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261688042_1_1723369266_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "271955605",
@@ -2797,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271955605_1_1721403745_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "282362831",
@@ -2813,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282362831_1_1723965820_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "282363401",
@@ -2829,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282363401_1_1723965798_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "158277975",
@@ -2845,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/158277975_1_1680702913_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "276886456",
@@ -2861,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276886456_1_1720285605_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "260812404",
@@ -2877,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260812404_1_1713872499_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:49"
     },
     {
         "pid": "262732129",
@@ -2893,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262732129_1_1715146563_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "234490733",
@@ -2909,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/234490733_1_1693298945_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "237921217",
@@ -2925,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237921217_1_1696125087_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "206731526",
@@ -2941,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/206731526_1_1711374357_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "237060093",
@@ -2957,23 +2957,23 @@
         "product_image": "https://media.bunjang.co.kr/product/237060093_1_1695394521_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
-        "pid": "260900963",
+        "pid": "277295748",
         "brands": [
             "써네이"
         ],
-        "name": "[XL] 써네이 스몰로고 맨투맨",
+        "name": "[S] 써네이 스트라이프 팬츠 블랙",
         "price_updates": [
             {
-                "1741503351": "45000"
+                "1742042033": "90000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/260900963_1_1741510361_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/277295748_1_1736565028_w{res}.jpg",
         "status": "3",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "299994496",
@@ -2989,7 +2989,23 @@
         "product_image": "https://media.bunjang.co.kr/product/299994496_1_1737029590_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
+    },
+    {
+        "pid": "260900963",
+        "brands": [
+            "써네이"
+        ],
+        "name": "[XL] 써네이 스몰로고 맨투맨",
+        "price_updates": [
+            {
+                "1741503351": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260900963_1_1741510361_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "306866969",
@@ -3005,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306866969_1_1739602821_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "311460559",
@@ -3021,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311460559_1_1736850486_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "318080396",
@@ -3037,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318080396_1_1740027708_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "251987754",
@@ -3053,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251987754_1_1737378889_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "318165592",
@@ -3069,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318165592_1_1741006587_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "261480290",
@@ -3085,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261480290_1_1736877538_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "316086843",
@@ -3101,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316086843_1_1739100994_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "313025481",
@@ -3117,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313025481_1_1739760188_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "310398866",
@@ -3133,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310398866_1_1738248353_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "300911965",
@@ -3149,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300911965_1_1737872025_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "297669019",
@@ -3165,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297669019_1_1738135765_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "314962293",
@@ -3181,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314962293_1_1738571766_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "307919195",
@@ -3197,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307919195_1_1735861991_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "310269690",
@@ -3213,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310269690_1_1736234818_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     },
     {
         "pid": "292987418",
@@ -3229,6 +3245,6 @@
         "product_image": "https://media.bunjang.co.kr/product/292987418_1_1735048513_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:26"
+        "collected_timestamp": "2025-03-17 06:11:50"
     }
 ]

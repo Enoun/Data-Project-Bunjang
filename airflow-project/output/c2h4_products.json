@@ -1,5 +1,37 @@
 [
     {
+        "pid": "311758879",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "넘버나인 c2h4 하이브리드 도킹팬츠 S",
+        "price_updates": [
+            {
+                "1742185160": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311758879_1_1736930049_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:12:59"
+    },
+    {
+        "pid": "206767921",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "c2h4 스태프 유니폼 봄버 자켓 S",
+        "price_updates": [
+            {
+                "1742176890": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/206767921_1_1707581323_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:59"
+    },
+    {
         "pid": "109795386",
         "brands": [
             "c2h4"
@@ -13,7 +45,7 @@
         "product_image": "https://media.bunjang.co.kr/product/109795386_1_1610162890_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "293377570",
@@ -29,7 +61,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293377570_1_1728479804_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "103550317",
@@ -45,23 +77,7 @@
         "product_image": "https://media.bunjang.co.kr/product/103550317_1_1599278013_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:38"
-    },
-    {
-        "pid": "311758879",
-        "brands": [
-            "c2h4"
-        ],
-        "name": "넘버나인 c2h4 하이브리드 도킹팬츠 S",
-        "price_updates": [
-            {
-                "1741938601": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311758879_1_1736930049_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "218841463",
@@ -77,7 +93,7 @@
         "product_image": "https://media.bunjang.co.kr/product/218841463_1_1679504188_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "216725609",
@@ -93,7 +109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/216725609_1_1677772244_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "318521320",
@@ -109,23 +125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318521320_1_1741492632_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:38"
-    },
-    {
-        "pid": "206767921",
-        "brands": [
-            "c2h4"
-        ],
-        "name": "c2h4 스태프 유니폼 봄버 자켓 S",
-        "price_updates": [
-            {
-                "1741801630": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/206767921_1_1707581323_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "224771921",
@@ -141,23 +141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224771921_1_1684717051_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 05:25:38"
-    },
-    {
-        "pid": "151157129",
-        "brands": [
-            "c2h4"
-        ],
-        "name": "c2h4 18ss 테크워어자켓 m",
-        "price_updates": [
-            {
-                "1741586913": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/151157129_1_1711089536_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "315322164",
@@ -173,7 +157,23 @@
         "product_image": "https://media.bunjang.co.kr/product/315322164_1_1738593509_w{res}.jpg",
         "status": "0",
         "category_id": "320160800",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
+    },
+    {
+        "pid": "151157129",
+        "brands": [
+            "c2h4"
+        ],
+        "name": "c2h4 18ss 테크워어자켓 m",
+        "price_updates": [
+            {
+                "1741586913": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/151157129_1_1711089536_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "242394352",
@@ -189,7 +189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242394352_1_1739245207_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "234303838",
@@ -205,7 +205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/234303838_1_1722526641_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "257396529",
@@ -221,7 +221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257396529_1_1740157921_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "306837270",
@@ -237,7 +237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306837270_1_1740206658_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "276661104",
@@ -253,7 +253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276661104_1_1719830762_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "224773458",
@@ -269,7 +269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224773458_1_1685374582_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     },
     {
         "pid": "243347004",
@@ -285,6 +285,6 @@
         "product_image": "https://media.bunjang.co.kr/product/243347004_1_1700302092_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:38"
+        "collected_timestamp": "2025-03-17 06:12:59"
     }
 ]

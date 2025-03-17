@@ -1,147 +1,67 @@
 [
     {
-        "pid": "321054056",
+        "pid": "299107151",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 카모 자켓",
+        "name": "[M/M] 알렉산더왕x아디다스 쭈글이 트랙 셋업 블랙",
         "price_updates": [
             {
-                "1742096178": "190000"
+                "1742191569": "700000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321054056_1_1741540680_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/299107151_1_1741850428_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "293339123",
+        "pid": "253338320",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 X 알렉산더왕 해외판 희귀 1차 플립 트랙탑 버건디져지 마룬 L",
+        "name": "알렉산더왕 트레이닝 팬츠 XS (남녀공용)",
         "price_updates": [
             {
-                "1742094930": "400000"
+                "1742188350": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/293339123_1_1728479217_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/253338320_1_1727443631_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "295455123",
+        "pid": "321801750",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 스타디움 XL",
+        "name": "[S] 아디다스 알렉산더왕 쭈글이 트랙 팬츠 주황",
         "price_updates": [
             {
-                "1742090478": "200000"
+                "1742183003": "130000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/295455123_1_1730263047_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/321801750_1_1741496443_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "255366191",
+        "pid": "298331611",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "H&M X 알렉산더왕 니트",
+        "name": "아디다스 알렉산더왕 져지",
         "price_updates": [
             {
-                "1742084425": "25000"
+                "1742183805": "77000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/255366191_1_1738041551_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "258840262",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스x알렉산더왕 1st 플립 반바지 M",
-        "price_updates": [
-            {
-                "1742085654": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258840262_1_1741835306_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "318239560",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 벨루어 카라티셔츠",
-        "price_updates": [
-            {
-                "1742081957": "108000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318239560_1_1739864948_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/298331611_1_1737508178_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "298653299",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[L]아디다스 알렉산더왕 벨루어 긴팔",
-        "price_updates": [
-            {
-                "1742079668": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298653299_1_1741572763_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "240116156",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 반팔티 미착용품 105사이즈",
-        "price_updates": [
-            {
-                "1742079704": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/240116156_1_1734478494_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "319764470",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "( M ) 아디다스 알렉산더왕 벨루어 긴팔",
-        "price_updates": [
-            {
-                "1742060672": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319764470_1_1741163882_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "168167182",
@@ -151,13 +71,413 @@
         "name": "알렉산더왕/유넥/블랙xs",
         "price_updates": [
             {
-                "1742029230": "50000"
+                "1742181430": "50000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/168167182_1_1731940092_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "282398181",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 져지 티셔츠 M",
+        "price_updates": [
+            {
+                "1742182958": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282398181_1_1742130331_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "321054056",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 카모 자켓",
+        "price_updates": [
+            {
+                "1742179129": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321054056_1_1741540680_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "290789784",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "(XL) 아디다스 알렉산더왕 메쉬 폴로",
+        "price_updates": [
+            {
+                "1742181010": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290789784_1_1741956826_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "313854360",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[상의(XL),하의(M)]알렉산더왕x아디다스 윈드브레이커",
+        "price_updates": [
+            {
+                "1742180147": "770000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313854360_1_1741508179_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "253853925",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[L]아디다스x알렉산더왕 쭈글이 트랙탑",
+        "price_updates": [
+            {
+                "1742178706": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253853925_1_1736831334_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "317710588",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "*옷장정리 알렉산더왕 리플렉트 로고 파이핑 자켓 (새상품)",
+        "price_updates": [
+            {
+                "1742180717": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317710588_1_1740625772_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "300077642",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 밀리터리자켓",
+        "price_updates": [
+            {
+                "1742174662": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300077642_1_1740203755_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "270649776",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 울체크 반바지",
+        "price_updates": [
+            {
+                "1742174343": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270649776_1_1732158413_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "321900726",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 알파카 블루/블랙 니트 M",
+        "price_updates": [
+            {
+                "1742165965": "60000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321900726_1_1741951497_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "317084327",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 반팔 티셔츠 L",
+        "price_updates": [
+            {
+                "1742166712": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317084327_1_1739356071_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "255366191",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "H&M X 알렉산더왕 니트",
+        "price_updates": [
+            {
+                "1742148730": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255366191_1_1738041551_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "312344486",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕xl사이즈 쭈글이",
+        "price_updates": [
+            {
+                "1742167476": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312344486_1_1737200125_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "318239560",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 벨루어 카라티셔츠",
+        "price_updates": [
+            {
+                "1742167698": "102600"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318239560_1_1739864948_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "298653299",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[L]아디다스 알렉산더왕 벨루어 긴팔",
+        "price_updates": [
+            {
+                "1742163404": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298653299_1_1741572763_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "319378740",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 맨투맨 XL",
+        "price_updates": [
+            {
+                "1742123065": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319378740_1_1740381656_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "242233860",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 콜라보 후드티",
+        "price_updates": [
+            {
+                "1742106161": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242233860_1_1730449336_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "318947690",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "한정판 아디다스알렉산더왕 플리스코트",
+        "price_updates": [
+            {
+                "1742124402": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318947690_1_1741339173_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "319764470",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "( M ) 아디다스 알렉산더왕 벨루어 긴팔",
+        "price_updates": [
+            {
+                "1742138250": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319764470_1_1741163882_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "123856762",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 인아웃 자켓",
+        "price_updates": [
+            {
+                "1742135798": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/123856762_1_1685065841_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "304870109",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[S] 티 바이 알렉산더왕 봄버 자켓",
+        "price_updates": [
+            {
+                "1742118827": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304870109_1_1740395584_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "287682390",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[S] 아디다스 알렉산더왕 벨루어 폴로 pk 반팔",
+        "price_updates": [
+            {
+                "1742115387": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287682390_1_1732068518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "122252677",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "정품 1st 아디다스 알렉산더왕 팬츠 초판 네이비 xs",
+        "price_updates": [
+            {
+                "1742125945": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/122252677_1_1728705955_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "255906515",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "정품 알렉산더왕 오버핏 후드티셔츠 105호 상태양호",
+        "price_updates": [
+            {
+                "1742105613": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255906515_1_1709814594_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "238147108",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "<세일> 알렉산더왕 레더 콤보 봄버 가죽 자켓(L 사이즈)",
+        "price_updates": [
+            {
+                "1742120322": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238147108_1_1742037326_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "295455123",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 스타디움 XL",
+        "price_updates": [
+            {
+                "1742090479": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295455123_1_1730263047_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "177850867",
@@ -173,87 +493,23 @@
         "product_image": "https://media.bunjang.co.kr/product/177850867_1_1741259435_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "308933498",
+        "pid": "318625804",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 가죽 자켓 점퍼",
+        "name": "알렉산더왕 아디다스 남녀공용 맨투맨",
         "price_updates": [
             {
-                "1742012556": "250000"
+                "1742105062": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/308933498_1_1735562266_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318625804_1_1740036508_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "318947690",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "한정판 아디다스알렉산더왕 플리스코트",
-        "price_updates": [
-            {
-                "1742040415": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318947690_1_1741339173_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "270649776",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 울체크 반바지",
-        "price_updates": [
-            {
-                "1742018588": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/270649776_1_1732158413_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "219821437",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 콜라보 롱슬리브",
-        "price_updates": [
-            {
-                "1742012667": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/219821437_1_1736559506_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "257275775",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 플리스 가운 코트 L",
-        "price_updates": [
-            {
-                "1742051436": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257275775_1_1710851339_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315442596",
@@ -269,103 +525,55 @@
         "product_image": "https://media.bunjang.co.kr/product/315442596_1_1739454945_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "253338320",
+        "pid": "257275775",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 트레이닝 팬츠 XS (남녀공용)",
+        "name": "알렉산더왕 아디다스 플리스 가운 코트 L",
         "price_updates": [
             {
-                "1742022612": "120000"
+                "1742051436": "350000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/253338320_1_1727443631_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/257275775_1_1710851339_w{res}.jpg",
         "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "315271767",
+        "pid": "303731848",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕X아디다스 크루넥 맨투맨 (L)",
+        "name": "아디다스 알렉산더왕 메쉬 긴팔",
         "price_updates": [
             {
-                "1742033012": "100000"
+                "1742105031": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315271767_1_1740663150_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/303731848_1_1736293237_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "122252677",
+        "pid": "240116156",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "정품 1st 아디다스 알렉산더왕 팬츠 초판 네이비 xs",
+        "name": "알렉산더왕 반팔티 미착용품 105사이즈",
         "price_updates": [
             {
-                "1742023852": "270000"
+                "1742079704": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/122252677_1_1728705955_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/240116156_1_1734478494_w{res}.jpg",
         "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "255906515",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "정품 알렉산더왕 오버핏 후드티셔츠 105호 상태양호",
-        "price_updates": [
-            {
-                "1742023179": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255906515_1_1709814594_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "238147108",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "<세일> 알렉산더왕 레더 콤보 봄버 가죽 자켓(L 사이즈)",
-        "price_updates": [
-            {
-                "1742032886": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/238147108_1_1742037326_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "203037267",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "17F/W 아디다스 알렉산더왕 사이드 버튼 그린 와이드 트랙 팬츠 L",
-        "price_updates": [
-            {
-                "1742014842": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/203037267_1_1707821046_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "322773812",
@@ -381,39 +589,55 @@
         "product_image": "https://media.bunjang.co.kr/product/322773812_1_1741963490_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "321900726",
+        "pid": "315271767",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 알파카 블루/블랙 니트 M",
+        "name": "알렉산더왕X아디다스 크루넥 맨투맨 (L)",
         "price_updates": [
             {
-                "1741994729": "60000"
+                "1742033012": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321900726_1_1741951497_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315271767_1_1740663150_w{res}.jpg",
         "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "321801750",
+        "pid": "278552114",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "[S] 아디다스 알렉산더왕 쭈글이 트랙 팬츠 주황",
+        "name": "(파정) 아디다스X알렉산더왕 팬츠 S(황금매물)",
         "price_updates": [
             {
-                "1742006795": "130000"
+                "1742103536": "300000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321801750_1_1741496443_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/278552114_1_1721878636_w{res}.jpg",
         "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "258840262",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스x알렉산더왕 1st 플립 반바지 M",
+        "price_updates": [
+            {
+                "1742085654": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258840262_1_1741835306_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "322831683",
@@ -429,7 +653,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322831683_1_1742005770_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "293339123",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 X 알렉산더왕 해외판 희귀 1차 플립 트랙탑 버건디져지 마룬 L",
+        "price_updates": [
+            {
+                "1742094930": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293339123_1_1728479217_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "322690568",
@@ -445,119 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322690568_1_1741934242_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "311673109",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 반팔",
-        "price_updates": [
-            {
-                "1742011782": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311673109_1_1737469819_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "300077642",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 밀리터리자켓",
-        "price_updates": [
-            {
-                "1742006428": "750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300077642_1_1740203755_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "298331611",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 져지",
-        "price_updates": [
-            {
-                "1741933132": "77000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298331611_1_1737508178_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "305763582",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 숄카라 니트",
-        "price_updates": [
-            {
-                "1742001284": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305763582_1_1734056551_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "282691528",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 유넥 긴팔",
-        "price_updates": [
-            {
-                "1741935938": "89000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282691528_1_1722592820_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "282398181",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 져지 티셔츠 M",
-        "price_updates": [
-            {
-                "1742011442": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282398181_1_1732802273_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "176509595",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[M]알렉산더왕 라운드 니트/새상품/정품",
-        "price_updates": [
-            {
-                "1741989487": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/176509595_1_1703976638_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "322240626",
@@ -573,23 +701,103 @@
         "product_image": "https://media.bunjang.co.kr/product/322240626_1_1741692574_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "287682390",
+        "pid": "311673109",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "[S] 아디다스 알렉산더왕 벨루어 폴로 pk 반팔",
+        "name": "알렉산더왕 아디다스 반팔",
         "price_updates": [
             {
-                "1742008271": "120000"
+                "1742011782": "55000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/287682390_1_1732068518_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311673109_1_1737469819_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "308933498",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 가죽 자켓 점퍼",
+        "price_updates": [
+            {
+                "1742012556": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308933498_1_1735562266_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "305763582",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 숄카라 니트",
+        "price_updates": [
+            {
+                "1742001284": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305763582_1_1734056551_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "282691528",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 유넥 긴팔",
+        "price_updates": [
+            {
+                "1741935938": "89000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282691528_1_1722592820_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "219821437",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 콜라보 롱슬리브",
+        "price_updates": [
+            {
+                "1742012667": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/219821437_1_1736559506_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "176509595",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[M]알렉산더왕 라운드 니트/새상품/정품",
+        "price_updates": [
+            {
+                "1741989487": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/176509595_1_1703976638_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "301607997",
@@ -605,55 +813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301607997_1_1732165019_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "313854360",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[상의(XL),하의(M)]알렉산더왕x아디다스 윈드브레이커",
-        "price_updates": [
-            {
-                "1742002611": "770000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313854360_1_1741508179_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "253853925",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[L]아디다스x알렉산더왕 쭈글이 트랙탑",
-        "price_updates": [
-            {
-                "1741999662": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253853925_1_1736831334_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "291047590",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(S)아디다스x알렉산더왕 쭈글이 트랙탑",
-        "price_updates": [
-            {
-                "1741988279": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291047590_1_1739087928_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "296365279",
@@ -669,55 +829,23 @@
         "product_image": "https://media.bunjang.co.kr/product/296365279_1_1739853528_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "278552114",
+        "pid": "291047590",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "(파정) 아디다스X알렉산더왕 팬츠 S(황금매물)",
+        "name": "(S)아디다스x알렉산더왕 쭈글이 트랙탑",
         "price_updates": [
             {
-                "1741943527": "300000"
+                "1741988279": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/278552114_1_1721878636_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "299107151",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[M/M] 알렉산더왕x아디다스 쭈글이 트랙 셋업 블랙",
-        "price_updates": [
-            {
-                "1742006650": "700000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299107151_1_1741850428_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "317710588",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "*옷장정리 알렉산더왕 리플렉트 로고 파이핑 자켓 (새상품)",
-        "price_updates": [
-            {
-                "1742005967": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317710588_1_1740625772_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/291047590_1_1739087928_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "294850901",
@@ -733,7 +861,23 @@
         "product_image": "https://media.bunjang.co.kr/product/294850901_1_1729143717_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "203037267",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "17F/W 아디다스 알렉산더왕 사이드 버튼 그린 와이드 트랙 팬츠 L",
+        "price_updates": [
+            {
+                "1742014842": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/203037267_1_1707821046_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "311184142",
@@ -749,23 +893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311184142_1_1736670513_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "311186026",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "S 알렉산더왕 아디다스 알왕 블루 쭈글이 카라 긴팔 티셔츠 폴로",
-        "price_updates": [
-            {
-                "1741955430": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311186026_1_1736671021_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "258353079",
@@ -781,23 +909,23 @@
         "product_image": "https://media.bunjang.co.kr/product/258353079_1_1739958300_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "242233860",
+        "pid": "311186026",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 콜라보 후드티",
+        "name": "S 알렉산더왕 아디다스 알왕 블루 쭈글이 카라 긴팔 티셔츠 폴로",
         "price_updates": [
             {
-                "1741841106": "110000"
+                "1741955430": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/242233860_1_1730449336_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311186026_1_1736671021_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "293608775",
@@ -813,7 +941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293608775_1_1737319649_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "316455020",
@@ -829,7 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316455020_1_1739621743_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "227834519",
@@ -845,7 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/227834519_1_1722093949_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "305852806",
@@ -861,7 +989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305852806_1_1734088682_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "227834762",
@@ -877,7 +1005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/227834762_1_1688042894_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "261768063",
@@ -893,23 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261768063_1_1739030811_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "129221514",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕x페이지식스 18SS 신문 티셔츠 S",
-        "price_updates": [
-            {
-                "1741875988": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/129221514_1_1699111345_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "227987304",
@@ -925,7 +1037,23 @@
         "product_image": "https://media.bunjang.co.kr/product/227987304_1_1699111354_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "129221514",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕x페이지식스 18SS 신문 티셔츠 S",
+        "price_updates": [
+            {
+                "1741875988": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/129221514_1_1699111345_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "322249265",
@@ -941,7 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322249265_1_1741845722_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "288188521",
@@ -957,7 +1085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288188521_1_1725680975_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "318378656",
@@ -973,23 +1101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318378656_1_1739932069_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "243701951",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 울코트",
-        "price_updates": [
-            {
-                "1741787877": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/243701951_1_1707047247_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "224844050",
@@ -1005,23 +1117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224844050_1_1731589493_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "310367354",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 네오프랜 조거팬츠",
-        "price_updates": [
-            {
-                "1741793310": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310367354_1_1736695379_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "205071276",
@@ -1037,7 +1133,23 @@
         "product_image": "https://media.bunjang.co.kr/product/205071276_1_1708953365_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "310367354",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 네오프랜 조거팬츠",
+        "price_updates": [
+            {
+                "1741793310": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310367354_1_1736695379_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "130267316",
@@ -1053,7 +1165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/130267316_1_1715507791_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "280339361",
@@ -1069,7 +1181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280339361_1_1723282329_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "267823794",
@@ -1085,7 +1197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267823794_1_1735852140_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "258203861",
@@ -1101,7 +1213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258203861_1_1723678244_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "246513570",
@@ -1117,39 +1229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246513570_1_1702704679_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "212381489",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 울 램스킨 레더포켓 네이비롱코트 M",
-        "price_updates": [
-            {
-                "1741757669": "321000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/212381489_1_1674488909_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "295808322",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 x 아디다스 후디",
-        "price_updates": [
-            {
-                "1741747301": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295808322_1_1730172709_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "311182481",
@@ -1165,23 +1245,23 @@
         "product_image": "https://media.bunjang.co.kr/product/311182481_1_1736670242_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "297718397",
+        "pid": "295808322",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 벨루어 긴팔",
+        "name": "알렉산더왕 x 아디다스 후디",
         "price_updates": [
             {
-                "1741750407": "180000"
+                "1741747301": "70000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/297718397_1_1738985220_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/295808322_1_1730172709_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "311184680",
@@ -1197,7 +1277,23 @@
         "product_image": "https://media.bunjang.co.kr/product/311184680_1_1736670651_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "297718397",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 벨루어 긴팔",
+        "price_updates": [
+            {
+                "1741750407": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297718397_1_1738985220_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "322027812",
@@ -1213,39 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322027812_1_1741591115_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "304870109",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[S] 티 바이 알렉산더왕 봄버 자켓",
-        "price_updates": [
-            {
-                "1741683261": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304870109_1_1740395584_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "290789784",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "(XL) 아디다스 알렉산더왕 메쉬 폴로",
-        "price_updates": [
-            {
-                "1741739674": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290789784_1_1741956826_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "317729085",
@@ -1261,23 +1325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317729085_1_1739633169_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "110992200",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 X 알렉산더왕 타월 후드 그레이 m사이즈",
-        "price_updates": [
-            {
-                "1741709841": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/110992200_1_1736395825_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "300788319",
@@ -1293,23 +1341,39 @@
         "product_image": "https://media.bunjang.co.kr/product/300788319_1_1741314717_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "292628746",
+        "pid": "110992200",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 x 알렉산더왕 1차 트랙탑 져지(xs)",
+        "name": "아디다스 X 알렉산더왕 타월 후드 그레이 m사이즈",
         "price_updates": [
             {
-                "1741669522": "199500"
+                "1741709841": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/292628746_1_1735581585_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/110992200_1_1736395825_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "212381489",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 울 램스킨 레더포켓 네이비롱코트 M",
+        "price_updates": [
+            {
+                "1741757669": "321000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/212381489_1_1674488909_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "228706496",
@@ -1325,23 +1389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228706496_1_1709760611_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "263102849",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "T ALEXANDER WANG 알렉산더왕 스카이블루 셔츠",
-        "price_updates": [
-            {
-                "1741611734": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/263102849_1_1715431729_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "201983291",
@@ -1357,7 +1405,23 @@
         "product_image": "https://media.bunjang.co.kr/product/201983291_1_1708230181_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "263102849",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "T ALEXANDER WANG 알렉산더왕 스카이블루 셔츠",
+        "price_updates": [
+            {
+                "1741611734": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263102849_1_1715431729_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "288324974",
@@ -1373,7 +1437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288324974_1_1737366045_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "134772920",
@@ -1389,7 +1453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/134772920_1_1735302956_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "164769743",
@@ -1405,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/164769743_1_1729762694_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "309537631",
@@ -1421,71 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309537631_1_1735887539_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "246778586",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 가죽 레더 반바지 숏팬츠 램스킨 양가죽",
-        "price_updates": [
-            {
-                "1741648159": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/246778586_1_1702905638_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "133982818",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 코트 팝니다",
-        "price_updates": [
-            {
-                "1741498740": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/133982818_1_1646011024_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "110606824",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 알왕 윈드브레이커 바람막이",
-        "price_updates": [
-            {
-                "1741576580": "295000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/110606824_1_1634394004_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "254487531",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 포켓 반팔티 판매합니다",
-        "price_updates": [
-            {
-                "1741564883": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254487531_1_1711617475_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "321338268",
@@ -1501,7 +1501,39 @@
         "product_image": "https://media.bunjang.co.kr/product/321338268_1_1741270850_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "292628746",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 x 알렉산더왕 1차 트랙탑 져지(xs)",
+        "price_updates": [
+            {
+                "1741669522": "199500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292628746_1_1735581585_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "246778586",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 가죽 레더 반바지 숏팬츠 램스킨 양가죽",
+        "price_updates": [
+            {
+                "1741648159": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/246778586_1_1702905638_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "321435785",
@@ -1517,7 +1549,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321435785_1_1741335751_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "133982818",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 코트 팝니다",
+        "price_updates": [
+            {
+                "1741498740": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/133982818_1_1646011024_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "321167878",
@@ -1533,23 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321167878_1_1741182787_w{res}.jpg",
         "status": "0",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "312996642",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 트랙팬츠",
-        "price_updates": [
-            {
-                "1741485895": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312996642_1_1738068206_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319351936",
@@ -1565,7 +1597,23 @@
         "product_image": "https://media.bunjang.co.kr/product/319351936_1_1741085601_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "312996642",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 트랙팬츠",
+        "price_updates": [
+            {
+                "1741485895": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312996642_1_1738068206_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "292482432",
@@ -1581,7 +1629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292482432_1_1728032270_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "312666952",
@@ -1597,23 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312666952_1_1737352565_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "321636692",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 X H&M 네오프랜 맨투맨 (국내 L) CH126",
-        "price_updates": [
-            {
-                "1741423500": "48000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321636692_1_1741423500_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "259276513",
@@ -1629,23 +1661,23 @@
         "product_image": "https://media.bunjang.co.kr/product/259276513_1_1712408365_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "317084327",
+        "pid": "321636692",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 반팔 티셔츠 L",
+        "name": "알렉산더왕 X H&M 네오프랜 맨투맨 (국내 L) CH126",
         "price_updates": [
             {
-                "1741245118": "120000"
+                "1741423500": "48000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/317084327_1_1739356071_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/321636692_1_1741423500_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "320150956",
@@ -1661,7 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320150956_1_1741130590_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "233006841",
@@ -1677,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/233006841_1_1691907113_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "169801511",
@@ -1693,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/169801511_1_1636793210_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "213193619",
@@ -1709,39 +1741,39 @@
         "product_image": "https://media.bunjang.co.kr/product/213193619_1_1697466640_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "319378740",
+        "pid": "110606824",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 맨투맨 XL",
+        "name": "아디다스 알렉산더왕 알왕 윈드브레이커 바람막이",
         "price_updates": [
             {
-                "1741150656": "300000"
+                "1741576580": "295000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319378740_1_1740381656_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/110606824_1_1634394004_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "318625804",
+        "pid": "254487531",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕 아디다스 남녀공용 맨투맨",
+        "name": "알렉산더왕 포켓 반팔티 판매합니다",
         "price_updates": [
             {
-                "1741313369": "100000"
+                "1741564883": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318625804_1_1740036508_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/254487531_1_1711617475_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319478711",
@@ -1757,7 +1789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319478711_1_1740714685_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "305853669",
@@ -1773,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305853669_1_1734088892_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "253854175",
@@ -1789,23 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253854175_1_1736399462_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "123856762",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 인아웃 자켓",
-        "price_updates": [
-            {
-                "1741297591": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/123856762_1_1685065841_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "306134559",
@@ -1821,23 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306134559_1_1734225850_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "303731848",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 메쉬 긴팔",
-        "price_updates": [
-            {
-                "1741252166": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303731848_1_1736293237_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "286610898",
@@ -1853,7 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286610898_1_1732772299_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319457719",
@@ -1869,7 +1869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319457719_1_1740489699_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "224248833",
@@ -1885,23 +1885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224248833_1_1698192101_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "259913796",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "[XS,S] 아디디스 알렉산더왕 1st 스냅 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741427187": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259913796_1_1722223619_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "320414252",
@@ -1917,7 +1901,23 @@
         "product_image": "https://media.bunjang.co.kr/product/320414252_1_1740832940_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "259913796",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "[XS,S] 아디디스 알렉산더왕 1st 스냅 팬츠 블랙",
+        "price_updates": [
+            {
+                "1741427187": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259913796_1_1722223619_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "253206364",
@@ -1933,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253206364_1_1730208433_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319578751",
@@ -1949,7 +1949,23 @@
         "product_image": "https://media.bunjang.co.kr/product/319578751_1_1740470805_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "292938276",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "티 바이 알렉산더왕 울 니트",
+        "price_updates": [
+            {
+                "1740555998": "68000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292938276_1_1736136879_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "223875618",
@@ -1965,23 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223875618_1_1698189468_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "224249020",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 쭈글이 추리닝 바지 윈드 트랙 팬츠 L사이즈",
-        "price_updates": [
-            {
-                "1741297894": "570000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/224249020_1_1696581704_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319460444",
@@ -1997,7 +1997,23 @@
         "product_image": "https://media.bunjang.co.kr/product/319460444_1_1740403922_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "224249020",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 쭈글이 추리닝 바지 윈드 트랙 팬츠 L사이즈",
+        "price_updates": [
+            {
+                "1741297894": "570000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/224249020_1_1696581704_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "308005913",
@@ -2013,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308005913_1_1735104547_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315382998",
@@ -2029,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315382998_1_1739884941_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "275629812",
@@ -2045,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275629812_1_1720691254_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "241203323",
@@ -2061,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241203323_1_1698681629_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319802922",
@@ -2077,23 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319802922_1_1741235470_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "284081573",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 레더암 트러커 바시티 자켓",
-        "price_updates": [
-            {
-                "1740385476": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/284081573_1_1723373222_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "307193098",
@@ -2109,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307193098_1_1740246035_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319261696",
@@ -2125,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319261696_1_1740318879_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "313379450",
@@ -2141,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313379450_1_1740007029_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "281052386",
@@ -2157,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281052386_1_1737630210_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "243838705",
@@ -2173,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243838705_1_1700655403_w{res}.jpg",
         "status": "0",
         "category_id": "320160700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "319481414",
@@ -2189,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319481414_1_1740410630_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "134226982",
@@ -2205,23 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/134226982_1_1640882874_w{res}.jpg",
         "status": "0",
         "category_id": "320160800",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "318998683",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 x 유니클로 엑스트라웜 크루넥",
-        "price_updates": [
-            {
-                "1740210959": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318998683_1_1740210959_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "293348446",
@@ -2237,23 +2221,23 @@
         "product_image": "https://media.bunjang.co.kr/product/293348446_1_1741185585_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
-        "pid": "312344486",
+        "pid": "318998683",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "알렉산더왕xl사이즈 쭈글이",
+        "name": "알렉산더왕 x 유니클로 엑스트라웜 크루넥",
         "price_updates": [
             {
-                "1739886539": "400000"
+                "1740210959": "40000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/312344486_1_1737200125_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318998683_1_1740210959_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "201509353",
@@ -2269,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/201509353_1_1736647759_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315383300",
@@ -2285,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315383300_1_1739885178_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "72291689",
@@ -2301,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/72291689_1_1522227105_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "318569407",
@@ -2317,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318569407_1_1740016883_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "71967245",
@@ -2333,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/71967245_1_1736440982_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "259094187",
@@ -2349,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259094187_1_1739527530_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "229815440",
@@ -2365,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229815440_1_1690769225_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "306781977",
@@ -2381,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306781977_1_1734510683_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "205835975",
@@ -2397,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205835975_1_1695344935_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "314317616",
@@ -2413,23 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314317616_1_1738152268_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "247646989",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 X H&M 리플렉티브 푸퍼 패딩",
-        "price_updates": [
-            {
-                "1739442707": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/247646989_1_1703671344_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "312020720",
@@ -2445,7 +2413,23 @@
         "product_image": "https://media.bunjang.co.kr/product/312020720_1_1739521922_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "247646989",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 X H&M 리플렉티브 푸퍼 패딩",
+        "price_updates": [
+            {
+                "1739442707": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247646989_1_1703671344_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "150851388",
@@ -2461,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/150851388_1_1692199278_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "291475631",
@@ -2477,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291475631_1_1739953943_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315125725",
@@ -2493,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315125725_1_1738507021_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "296071801",
@@ -2509,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296071801_1_1729674607_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "242249685",
@@ -2525,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242249685_1_1699491203_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "316976139",
@@ -2541,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316976139_1_1739315718_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "111436918",
@@ -2557,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/111436918_1_1588571376_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "316747321",
@@ -2573,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316747321_1_1739226679_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "291836971",
@@ -2589,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291836971_1_1731725091_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "167124480",
@@ -2605,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/167124480_1_1707214888_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "313294230",
@@ -2621,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313294230_1_1738991188_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315091548",
@@ -2637,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315091548_1_1738498513_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "165071985",
@@ -2653,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/165071985_1_1729762993_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "228820350",
@@ -2669,23 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228820350_1_1688355616_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "261475608",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 xs",
-        "price_updates": [
-            {
-                "1737585758": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261475608_1_1738735449_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "313850499",
@@ -2701,7 +2669,23 @@
         "product_image": "https://media.bunjang.co.kr/product/313850499_1_1737898505_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
+    },
+    {
+        "pid": "261475608",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 xs",
+        "price_updates": [
+            {
+                "1737585758": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261475608_1_1738735449_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "304951263",
@@ -2717,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304951263_1_1733666985_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "314746461",
@@ -2733,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314746461_1_1738374664_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "166703546",
@@ -2749,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/166703546_1_1738193461_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "303974535",
@@ -2765,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303974535_1_1734348528_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315255694",
@@ -2781,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315255694_1_1738873341_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "290862390",
@@ -2797,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290862390_1_1737686975_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "117036576",
@@ -2813,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/117036576_1_1737513139_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "315312805",
@@ -2829,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315312805_1_1738590929_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "219079798",
@@ -2845,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219079798_1_1684474940_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "284350452",
@@ -2861,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284350452_1_1737355445_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "301805736",
@@ -2877,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301805736_1_1732256893_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "298915861",
@@ -2893,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298915861_1_1730962077_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "252176289",
@@ -2909,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252176289_1_1709300114_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:02"
     },
     {
         "pid": "309066019",
@@ -2925,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309066019_1_1735636280_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "287568346",
@@ -2941,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287568346_1_1725324560_w{res}.jpg",
         "status": "1",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "299701518",
@@ -2957,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299701518_1_1731302541_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "304307451",
@@ -2973,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304307451_1_1733390453_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "255213811",
@@ -2989,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255213811_1_1731961966_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "309731906",
@@ -3005,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309731906_1_1735977494_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "298453446",
@@ -3021,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298453446_1_1735728695_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "292368509",
@@ -3037,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292368509_1_1733747778_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "287145930",
@@ -3053,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287145930_1_1725106289_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "82979504",
@@ -3069,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/82979504_1_1702116135_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "306444442",
@@ -3085,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306444442_1_1734348257_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "236426360",
@@ -3101,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236426360_1_1694759827_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "306212640",
@@ -3117,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306212640_1_1734249833_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "102275794",
@@ -3133,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/102275794_1_1702127523_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "229075479",
@@ -3149,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229075479_1_1712636437_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "305244111",
@@ -3165,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305244111_1_1733809814_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "292083712",
@@ -3181,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292083712_1_1727830902_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "306593984",
@@ -3197,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306593984_1_1734423956_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "305779578",
@@ -3213,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305779578_1_1735015429_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "240544615",
@@ -3229,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240544615_1_1733730983_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "204412769",
@@ -3245,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/204412769_1_1734669537_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "220958688",
@@ -3261,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220958688_1_1733625351_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "303732312",
@@ -3277,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303732312_1_1733124425_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "302267388",
@@ -3293,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302267388_1_1736336050_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "305307089",
@@ -3309,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305307089_1_1733832175_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "303731265",
@@ -3325,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303731265_1_1736476172_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "304525845",
@@ -3341,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304525845_1_1733489516_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "294244737",
@@ -3357,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294244737_1_1730203925_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "302044233",
@@ -3373,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302044233_1_1732358720_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "301250904",
@@ -3389,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301250904_1_1735523303_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "293364188",
@@ -3405,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293364188_1_1731052332_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "299120609",
@@ -3421,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299120609_1_1731054607_w{res}.jpg",
         "status": "1",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "287238697",
@@ -3437,7 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287238697_1_1731664211_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "247607359",
@@ -3453,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247607359_1_1731755145_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "301690493",
@@ -3469,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301690493_1_1732191075_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "251661551",
@@ -3485,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251661551_1_1709564782_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "301001459",
@@ -3501,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301001459_1_1731873765_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "141029223",
@@ -3517,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/141029223_1_1702281557_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "243579128",
@@ -3533,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243579128_1_1730868874_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "299464916",
@@ -3549,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299464916_1_1731209448_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "299199800",
@@ -3565,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299199800_1_1731078759_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "298759509",
@@ -3581,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298759509_1_1730884532_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "219418532",
@@ -3597,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219418532_1_1731227936_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "297106260",
@@ -3613,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297106260_1_1730122630_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "293250094",
@@ -3629,23 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293250094_1_1728431982_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "296894274",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스x알렉산더왕 로고 단가라 맨투맨",
-        "price_updates": [
-            {
-                "1730031264": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296894274_1_1730031264_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "297054205",
@@ -3661,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297054205_1_1730108164_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "293488582",
@@ -3677,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293488582_1_1728547973_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "296779166",
@@ -3693,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296779166_1_1731988371_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "210965533",
@@ -3709,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/210965533_1_1673266425_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "296043982",
@@ -3725,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296043982_1_1729665723_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "218530680",
@@ -3741,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/218530680_1_1679279277_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "259913907",
@@ -3757,7 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259913907_1_1722223630_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "265574912",
@@ -3773,7 +3741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/265574912_1_1728603290_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "291480558",
@@ -3789,7 +3757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291480558_1_1730956937_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "162028478",
@@ -3805,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/162028478_1_1629205996_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "243109220",
@@ -3821,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243109220_1_1700126863_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "194126858",
@@ -3837,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/194126858_1_1708781181_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "286162120",
@@ -3853,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286162120_1_1724567996_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "291040905",
@@ -3869,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291040905_1_1727254281_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "223666796",
@@ -3885,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223666796_1_1702519236_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "205534647",
@@ -3901,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205534647_1_1668750390_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "252646883",
@@ -3917,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252646883_1_1707477811_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "259248675",
@@ -3933,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259248675_1_1725405815_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "275164069",
@@ -3949,7 +3917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275164069_1_1722395255_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "288076653",
@@ -3965,7 +3933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288076653_1_1725610892_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "257393658",
@@ -3981,7 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257393658_1_1710938798_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "223611713",
@@ -3997,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223611713_1_1708584583_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "269082516",
@@ -4013,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269082516_1_1723437745_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "285165624",
@@ -4029,7 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285165624_1_1723978110_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "280090269",
@@ -4045,7 +4013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280090269_1_1721228013_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "245558153",
@@ -4061,7 +4029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245558153_1_1719218889_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "285283953",
@@ -4077,7 +4045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285283953_1_1724068290_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "246059246",
@@ -4093,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246059246_1_1719218879_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "281615093",
@@ -4109,7 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281615093_1_1723615643_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "286289927",
@@ -4125,7 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286289927_1_1724640393_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "163270877",
@@ -4141,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/163270877_1_1630410951_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "274313971",
@@ -4157,7 +4125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274313971_1_1719039317_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "163340913",
@@ -4173,7 +4141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/163340913_1_1630484070_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "205818643",
@@ -4189,7 +4157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205818643_1_1683886156_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "280155906",
@@ -4205,7 +4173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280155906_1_1721278809_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "282844491",
@@ -4221,7 +4189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282844491_1_1722680409_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "251361050",
@@ -4237,7 +4205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251361050_1_1706512307_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "235618323",
@@ -4253,7 +4221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235618323_1_1715158338_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "281602071",
@@ -4269,7 +4237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281602071_1_1722076078_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "282050155",
@@ -4285,7 +4253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282050155_1_1722243861_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "274993614",
@@ -4301,7 +4269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274993614_1_1719242560_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "151477551",
@@ -4317,7 +4285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/151477551_1_1704473076_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "275404427",
@@ -4333,7 +4301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275404427_1_1719567528_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "271319351",
@@ -4349,7 +4317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271319351_1_1718084240_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "266797922",
@@ -4365,7 +4333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/266797922_1_1717150860_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "258174248",
@@ -4381,7 +4349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258174248_1_1713629126_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "263114626",
@@ -4397,7 +4365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263114626_1_1715438052_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "195912667",
@@ -4413,7 +4381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/195912667_1_1660040749_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "145105454",
@@ -4429,7 +4397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/145105454_1_1687683875_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "263407491",
@@ -4445,7 +4413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263407491_1_1715677606_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "172487985",
@@ -4461,7 +4429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/172487985_1_1659417536_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "236382633",
@@ -4477,23 +4445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236382633_1_1694705679_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "256866623",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 쭈글이 팬츠 L",
-        "price_updates": [
-            {
-                "1714296229": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/256866623_1_1723561924_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "261664950",
@@ -4509,7 +4461,23 @@
         "product_image": "https://media.bunjang.co.kr/product/261664950_1_1714290961_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
+    },
+    {
+        "pid": "256866623",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "아디다스 알렉산더왕 쭈글이 팬츠 L",
+        "price_updates": [
+            {
+                "1714296229": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256866623_1_1723561924_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "242429897",
@@ -4525,7 +4493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242429897_1_1699616095_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "242610885",
@@ -4541,7 +4509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242610885_1_1699768947_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "260503490",
@@ -4557,7 +4525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260503490_1_1736408477_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "260596254",
@@ -4573,7 +4541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260596254_1_1713434816_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "260235193",
@@ -4589,7 +4557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260235193_1_1738325893_w{res}.jpg",
         "status": "0",
         "category_id": "320160700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "259679686",
@@ -4605,7 +4573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259679686_1_1712734412_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "205484955",
@@ -4621,7 +4589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205484955_1_1729050456_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "235863641",
@@ -4637,7 +4605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235863641_1_1700915201_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "177503455",
@@ -4653,23 +4621,23 @@
         "product_image": "https://media.bunjang.co.kr/product/177503455_1_1671294311_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
-        "pid": "256866909",
+        "pid": "323208275",
         "brands": [
             "알렉산더왕"
         ],
-        "name": "아디다스 알렉산더왕 트랙탑 자카트 져지 버건디 m",
+        "name": "아디다스 알렉산더왕 쭈글이 트랙탑",
         "price_updates": [
             {
-                "1710564883": "500000"
+                "1742137277": "370000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/256866909_1_1738531770_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "product_image": "https://media.bunjang.co.kr/product/323208275_1_1742189938_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "317885610",
@@ -4685,7 +4653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317885610_1_1741513987_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "318051432",
@@ -4701,7 +4669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318051432_1_1741016658_w{res}.jpg",
         "status": "3",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "315385091",
@@ -4717,7 +4685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315385091_1_1740897581_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "311939641",
@@ -4733,23 +4701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311939641_1_1740753516_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "318814090",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "알렉산더왕 아디다스 티셔츠",
-        "price_updates": [
-            {
-                "1740123546": "25000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318814090_1_1740123546_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "316505922",
@@ -4765,7 +4717,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316505922_1_1740803100_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
+    },
+    {
+        "pid": "318814090",
+        "brands": [
+            "알렉산더왕"
+        ],
+        "name": "알렉산더왕 아디다스 티셔츠",
+        "price_updates": [
+            {
+                "1740123546": "25000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318814090_1_1740123546_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "316688661",
@@ -4781,7 +4749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316688661_1_1739191150_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "316082834",
@@ -4797,7 +4765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316082834_1_1740120698_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "314218158",
@@ -4813,7 +4781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314218158_1_1738111637_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "288866396",
@@ -4829,7 +4797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288866396_1_1737602497_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "313706940",
@@ -4845,7 +4813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313706940_1_1740565299_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "316592233",
@@ -4861,7 +4829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316592233_1_1739162551_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "316390164",
@@ -4877,7 +4845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316390164_1_1739154020_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "242517414",
@@ -4893,7 +4861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242517414_1_1739362714_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "307803964",
@@ -4909,7 +4877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307803964_1_1738308297_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "317396548",
@@ -4925,7 +4893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317396548_1_1739504495_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "315519793",
@@ -4941,7 +4909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315519793_1_1738678996_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "306923773",
@@ -4957,7 +4925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306923773_1_1738587309_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "315189096",
@@ -4973,7 +4941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315189096_1_1738552988_w{res}.jpg",
         "status": "3",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "315431381",
@@ -4989,7 +4957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315431381_1_1738654465_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "292868588",
@@ -5005,7 +4973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292868588_1_1729553601_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "298332051",
@@ -5021,7 +4989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298332051_1_1736162084_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "309045274",
@@ -5037,7 +5005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309045274_1_1735629261_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "309227482",
@@ -5053,7 +5021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309227482_1_1741868016_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "245352631",
@@ -5069,23 +5037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245352631_1_1740745278_w{res}.jpg",
         "status": "3",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
-    },
-    {
-        "pid": "293537439",
-        "brands": [
-            "알렉산더왕"
-        ],
-        "name": "아디다스 알렉산더왕 벨루어 S",
-        "price_updates": [
-            {
-                "1728562319": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293537439_1_1728562319_w{res}.jpg",
-        "status": "3",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "274449627",
@@ -5101,7 +5053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274449627_1_1741053717_w{res}.jpg",
         "status": "3",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "251044840",
@@ -5117,7 +5069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251044840_1_1740181410_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "243497338",
@@ -5133,7 +5085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243497338_1_1734656164_w{res}.jpg",
         "status": "3",
         "category_id": "320160800",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "251805957",
@@ -5149,7 +5101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251805957_1_1740181472_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "251943566",
@@ -5165,7 +5117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251943566_1_1738127155_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "216281352",
@@ -5181,7 +5133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/216281352_1_1740186652_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "142521603",
@@ -5197,7 +5149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/142521603_1_1739431618_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "107044465",
@@ -5213,7 +5165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/107044465_1_1739005844_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "103726049",
@@ -5229,7 +5181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/103726049_1_1560623724_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     },
     {
         "pid": "96660438",
@@ -5245,6 +5197,6 @@
         "product_image": "https://media.bunjang.co.kr/product/96660438_1_1548954626_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:43"
+        "collected_timestamp": "2025-03-17 06:10:03"
     }
 ]

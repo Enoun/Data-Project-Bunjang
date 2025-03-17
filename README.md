@@ -8,6 +8,7 @@
 - **데이터 처리:** 수집된 데이터를 정제하고, 브랜드별로 분류합니다.
 - **시세 추적:** 시세 변동을 추적하여 데이터를 제공합니다.
 - **데이터 저장:** 처리된 데이터를 데이터베이스에 저장하여 쉽게 조회할 수 있도록 합니다.
+- **검색 및 분석:** Elasticsearch를 통해 수집된 데이터를 효육적으로 인덱싱하여, 사용자가 빠르게 검색하고 분석할 수 있도록 지원합니다.
 
 ## 시작하기
 
@@ -57,4 +58,62 @@ docker-compose up -d
 
 #### merge:
 
-- 트리거를 받으면 받은 순서대로 데이터베이스를 업데이트합니다. 원래는 S3에서 Cassandra로 바뀌었고, 현재는 Elasticsearch를 이용 중입니다.
+- 트리거를 받으면 받은 순서대로 데이터베이스를 업데이트합니다. 원래는 HDFS를 사용하였으나, 현재는 Elasticsearch를 이용 중입니다.
+
+#### 데이터 구조 예시
+
+```json
+{
+  "_index": "bunjang_products",
+  "_id": "NahamJUBcvtZ8sGd3MeD",
+  "_score": 1,
+  "_source": {
+    "pid": "321679612",
+    "brands": ["니들스"],
+    "name": "니들스 카우보이자켓 판매합니다!",
+    "price_updates": [
+      {
+        "price": 320000,
+        "updated_at": "2025-03-15T03:48:06"
+      }
+    ],
+    "product_image": "https://media.bunjang.co.kr/product/321679612_1_1741435322_w{res}.jpg",
+    "status": "0",
+    "category_id_1": "320",
+    "category_id_2": "320300",
+    "category_id_3": "320300500" 
+    }
+}
+```
+
+##### 프로젝트 구조
+
+data-pipeline-project/
+└── airflow-project/
+    ├── Dockerfile.airflow
+    ├── Dockerfile.elasticsearch
+    ├── Dockerfile.hadoop
+    ├── airflow/
+    │   ├── airflow.cfg                    # Airflow
+    │   ├── dags/                          # Airflow DAG 파일
+    │   │   ├── Merge Trigger Release.py
+    │   │   ├── etl_pipeline_auto.py
+    │   │   └── merge_release.py
+    │   ├── modules/                       # Python 모듈
+    │   │   └── bunjang_crawler.py
+    |   └── output/                        # 출력 데이터
+    ├── docker-compose.override.yml       
+    ├── docker-compose.yml                 # Docker Compose 파일
+    ├── hadoop/                            # Hadoop 관련 파일
+    ├── shared/
+    │   ├── data/                          # 데이터 파일
+    │   │   ├── brands.json
+    │   │   └── brands_test.json
+    │   ├── datanode/                      # Hadoop Datanode 관련 파일
+    │   ├── logs/                          # 로그 파일
+    │   │   ├── dag_id=data_pipeline_etl
+    │   │   ├── dag_processor_manager
+    │   │   └── scheduler
+    │   └── namenode/                      # Hadoop Namenode 관련 파일
+    └── spark/                             # Hadoop Spark 관련 파일
+        └── spark_etl.py

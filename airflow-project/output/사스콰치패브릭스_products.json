@@ -1,35 +1,83 @@
 [
     {
-        "pid": "320546787",
+        "pid": "287149753",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 트랙자켓m 아이엠샵",
+        "name": "사스콰치패브릭스 하프집업",
         "price_updates": [
             {
-                "1742093395": "270000"
+                "1742184078": "289000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320546787_1_1740896523_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/287149753_1_1727275049_w{res}.jpg",
         "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "310786436",
+        "pid": "253024442",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 데님 볼레로 자켓",
+        "name": "사스콰치패브릭스 도킹 스웨트",
         "price_updates": [
             {
-                "1742081341": "250000"
+                "1742184078": "169000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/310786436_1_1736488977_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/253024442_1_1707802959_w{res}.jpg",
         "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "253025651",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 체커보드 슬리브",
+        "price_updates": [
+            {
+                "1742184078": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253025651_1_1707803698_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "239459763",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "[L] 사스콰치패브릭스 니트 반팔 블랙",
+        "price_updates": [
+            {
+                "1742182990": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/239459763_1_1740226235_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "306679606",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 스태디움 자켓",
+        "price_updates": [
+            {
+                "1742169546": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306679606_1_1734454904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "299445033",
@@ -39,13 +87,173 @@
         "name": "사스콰치패브릭스 울리 요루 사파리 자켓 구합니다 L,xl사이즈",
         "price_updates": [
             {
-                "1742083911": "100000000"
+                "1742168521": "100000000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/299445033_1_1731202826_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "322769112",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 봉황자켓 m 팝니다",
+        "price_updates": [
+            {
+                "1742141007": "520000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322769112_1_1742146186_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "304266513",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 셔츠",
+        "price_updates": [
+            {
+                "1742110981": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304266513_1_1741772438_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "304266881",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 셔츠",
+        "price_updates": [
+            {
+                "1742110981": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304266881_1_1741772429_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "304266326",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 셔츠",
+        "price_updates": [
+            {
+                "1742110981": "75000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304266326_1_1741772446_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "309641472",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 니트가디건",
+        "price_updates": [
+            {
+                "1742138308": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309641472_1_1741651578_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "301166315",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 니트 반팔",
+        "price_updates": [
+            {
+                "1742123760": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301166315_1_1741435585_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "210244048",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 플라이트 자켓",
+        "price_updates": [
+            {
+                "1742131495": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/210244048_1_1741820450_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "318350193",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 스트라이프니트 가디건",
+        "price_updates": [
+            {
+                "1742118024": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318350193_1_1742126965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "250011198",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "니들스x사스콰치패브릭스 스타디움 M",
+        "price_updates": [
+            {
+                "1742121039": "455000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/250011198_1_1719482703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "314517849",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "마지막 가격)사스콰치패브릭스 트랙자켓 라이트 그레이",
+        "price_updates": [
+            {
+                "1742113737": "156000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314517849_1_1741627252_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "322411170",
@@ -61,23 +269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322411170_1_1742097524_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322769112",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 봉황자켓 m 팝니다",
-        "price_updates": [
-            {
-                "1742057047": "550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322769112_1_1741961742_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "251338527",
@@ -93,55 +285,39 @@
         "product_image": "https://media.bunjang.co.kr/product/251338527_1_1706501055_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "304266513",
+        "pid": "123192279",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 셔츠",
+        "name": "사스콰치패브릭스 가운 자켓",
         "price_updates": [
             {
-                "1742029326": "75000"
+                "1742101468": "199000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304266513_1_1741772438_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/123192279_1_1738084278_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "304266881",
+        "pid": "123360044",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 셔츠",
+        "name": "사스콰치패브릭스 가운 자켓",
         "price_updates": [
             {
-                "1742029326": "75000"
+                "1742101444": "199000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304266881_1_1741772429_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/123360044_1_1738083602_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "304266326",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 셔츠",
-        "price_updates": [
-            {
-                "1742029326": "75000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304266326_1_1741772446_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "292136579",
@@ -157,23 +333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292136579_1_1727854509_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "309641472",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 니트가디건",
-        "price_updates": [
-            {
-                "1742051732": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309641472_1_1741651578_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "233264026",
@@ -189,23 +349,71 @@
         "product_image": "https://media.bunjang.co.kr/product/233264026_1_1709946731_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "262746256",
+        "pid": "301880150",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "Sasquatchfabrix 사스콰치패브릭스 후드 셔츠",
+        "name": "사스콰치패브릭스 롱슬리브 m",
         "price_updates": [
             {
-                "1742016841": "220000"
+                "1742099656": "70000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/262746256_1_1718858450_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/301880150_1_1741128143_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "301743924",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 스카프 셔츠 m",
+        "price_updates": [
+            {
+                "1742099656": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301743924_1_1733886610_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "261951109",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "스투시 x 사스콰치패브릭스 반팔",
+        "price_updates": [
+            {
+                "1742103066": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261951109_1_1714533798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "310786436",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 데님 볼레로 자켓",
+        "price_updates": [
+            {
+                "1742081341": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310786436_1_1736488977_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "136500277",
@@ -221,23 +429,39 @@
         "product_image": "https://media.bunjang.co.kr/product/136500277_1_1608777022_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "314517849",
+        "pid": "308512626",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "마지막 가격)사스콰치패브릭스 트랙자켓 라이트 그레이",
+        "name": "사스콰치패브릭스 봄버 자켓 L사이즈(105)",
         "price_updates": [
             {
-                "1742016415": "156000"
+                "1742100305": "360000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314517849_1_1741627252_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/308512626_1_1735369528_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "320546787",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 트랙자켓m 아이엠샵",
+        "price_updates": [
+            {
+                "1742093395": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320546787_1_1740896523_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "287656714",
@@ -253,7 +477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287656714_1_1733718800_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "247115193",
@@ -269,7 +493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247115193_1_1703431615_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "315799675",
@@ -285,87 +509,23 @@
         "product_image": "https://media.bunjang.co.kr/product/315799675_1_1738821425_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "123360044",
+        "pid": "262746256",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 가운 자켓",
+        "name": "Sasquatchfabrix 사스콰치패브릭스 후드 셔츠",
         "price_updates": [
             {
-                "1742007737": "199000"
+                "1742016841": "220000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/123360044_1_1738083602_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/262746256_1_1718858450_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "123192279",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 가운 자켓",
-        "price_updates": [
-            {
-                "1742007718": "199000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/123192279_1_1738084278_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "301880150",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 롱슬리브 m",
-        "price_updates": [
-            {
-                "1742005907": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301880150_1_1741128143_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "301743924",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 스카프 셔츠 m",
-        "price_updates": [
-            {
-                "1742005907": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301743924_1_1733886610_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "210244048",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 플라이트 자켓",
-        "price_updates": [
-            {
-                "1741982854": "360000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/210244048_1_1741820450_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "310158921",
@@ -381,7 +541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310158921_1_1742003530_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "303395146",
@@ -397,23 +557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303395146_1_1739883128_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "308512626",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 봄버 자켓 L사이즈(105)",
-        "price_updates": [
-            {
-                "1742003098": "360000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308512626_1_1735369528_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "298757763",
@@ -429,7 +573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298757763_1_1730883999_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "258497879",
@@ -445,23 +589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258497879_1_1725896019_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321963726",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 캐시미어 100% 가디건",
-        "price_updates": [
-            {
-                "1741876260": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321963726_1_1741545666_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "302056049",
@@ -477,7 +605,23 @@
         "product_image": "https://media.bunjang.co.kr/product/302056049_1_1734339273_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "321963726",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 캐시미어 100% 가디건",
+        "price_updates": [
+            {
+                "1741876260": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321963726_1_1741545666_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "311750689",
@@ -493,7 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311750689_1_1736927037_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313296417",
@@ -509,7 +653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313296417_1_1740191965_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "306208678",
@@ -525,7 +669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306208678_1_1734248813_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "287636623",
@@ -541,23 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287636623_1_1725355877_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "301166315",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 니트 반팔",
-        "price_updates": [
-            {
-                "1741866332": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301166315_1_1741435585_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "239287190",
@@ -573,7 +701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239287190_1_1722391030_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304284416",
@@ -589,55 +717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304284416_1_1740350602_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "318350193",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 스트라이프니트 가디건",
-        "price_updates": [
-            {
-                "1741895066": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318350193_1_1739902120_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "239459763",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "[L] 사스콰치패브릭스 니트 반팔 블랙",
-        "price_updates": [
-            {
-                "1741922020": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/239459763_1_1740226235_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "250011198",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "니들스x사스콰치패브릭스 스타디움 M",
-        "price_updates": [
-            {
-                "1741883493": "455000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/250011198_1_1719482703_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "286379050",
@@ -647,13 +727,13 @@
         "name": "사스콰치패브릭스 20SS 오리엔탈 타이다이 셔츠 L",
         "price_updates": [
             {
-                "1741918121": "108000"
+                "1741918122": "108000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/286379050_1_1724675938_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "251493646",
@@ -669,7 +749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251493646_1_1718256442_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "318280112",
@@ -685,7 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318280112_1_1741371074_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "187060790",
@@ -701,7 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/187060790_1_1737371571_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "301333714",
@@ -717,7 +797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301333714_1_1732021880_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "287886308",
@@ -733,7 +813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287886308_1_1733913763_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "253023332",
@@ -749,7 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253023332_1_1707802394_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "303802958",
@@ -765,7 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303802958_1_1741850005_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "315457168",
@@ -781,7 +861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315457168_1_1738662151_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "293114781",
@@ -797,7 +877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293114781_1_1728361402_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "318871184",
@@ -813,7 +893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318871184_1_1740142181_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "278431258",
@@ -829,7 +909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278431258_1_1720443846_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "302965202",
@@ -845,7 +925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302965202_1_1732777585_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "315387662",
@@ -861,7 +941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315387662_1_1739917469_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "315386944",
@@ -877,7 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315386944_1_1738640053_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "312541561",
@@ -893,7 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312541561_1_1737983986_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "298080046",
@@ -909,7 +989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298080046_1_1735516602_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "248377464",
@@ -925,7 +1005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248377464_1_1709195950_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "185358953",
@@ -941,23 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/185358953_1_1736079878_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "279179719",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "2011 사스콰치패브릭스 오르테가 패턴 반바지",
-        "price_updates": [
-            {
-                "1741669035": "99000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/279179719_1_1720786820_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "299400764",
@@ -973,7 +1037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299400764_1_1734141983_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "284654111",
@@ -989,7 +1053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284654111_1_1741475613_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "250492617",
@@ -1005,7 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250492617_1_1738844860_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "173582722",
@@ -1021,7 +1085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/173582722_1_1705486870_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "298465726",
@@ -1037,7 +1101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298465726_1_1730733763_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "257246384",
@@ -1053,7 +1117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257246384_1_1722835251_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "297657628",
@@ -1069,7 +1133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297657628_1_1730385310_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "317280719",
@@ -1085,7 +1149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317280719_1_1740542962_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "279336940",
@@ -1101,7 +1165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279336940_1_1732792051_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "288673476",
@@ -1117,151 +1181,23 @@
         "product_image": "https://media.bunjang.co.kr/product/288673476_1_1728896327_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "320657378",
+        "pid": "279179719",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 스트라이프 후드티 M",
+        "name": "2011 사스콰치패브릭스 오르테가 패턴 반바지",
         "price_updates": [
             {
-                "1741532824": "200000"
+                "1741669035": "99000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320657378_1_1740923578_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/279179719_1_1720786820_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "294580390",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 셋업",
-        "price_updates": [
-            {
-                "1741532595": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294580390_1_1729004846_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "316409608",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 셔츠",
-        "price_updates": [
-            {
-                "1741498144": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316409608_1_1740138857_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "258935057",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "M 사스콰치패브릭스 자수 자켓",
-        "price_updates": [
-            {
-                "1741544370": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258935057_1_1733106780_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "263077139",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 오리엔탈 반팔 셔츠",
-        "price_updates": [
-            {
-                "1741533790": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/263077139_1_1715418321_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "306679606",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 스태디움 자켓",
-        "price_updates": [
-            {
-                "1741532749": "480000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306679606_1_1734454904_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "301335406",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 페이크 레더 빅셔츠",
-        "price_updates": [
-            {
-                "1741532631": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301335406_1_1734961817_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "311331794",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 오버사이즈 컷팅 셔츠",
-        "price_updates": [
-            {
-                "1741515650": "145000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311331794_1_1738316301_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "315716231",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 플라워 데님자켓 M사이즈",
-        "price_updates": [
-            {
-                "1741497336": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315716231_1_1738764914_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "321274198",
@@ -1277,23 +1213,39 @@
         "product_image": "https://media.bunjang.co.kr/product/321274198_1_1741250330_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "315512341",
+        "pid": "294580390",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 웨스턴 나바호 울자켓",
+        "name": "사스콰치패브릭스 셋업",
         "price_updates": [
             {
-                "1741498384": "200000"
+                "1741532595": "800000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315512341_1_1738676919_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/294580390_1_1729004846_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "316409608",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 셔츠",
+        "price_updates": [
+            {
+                "1741498144": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316409608_1_1740138857_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "311138667",
@@ -1309,7 +1261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311138667_1_1741475167_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "280594822",
@@ -1325,7 +1277,55 @@
         "product_image": "https://media.bunjang.co.kr/product/280594822_1_1721491339_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "258935057",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "M 사스콰치패브릭스 자수 자켓",
+        "price_updates": [
+            {
+                "1741544370": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258935057_1_1733106780_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "320657378",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 스트라이프 후드티 M",
+        "price_updates": [
+            {
+                "1741532824": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320657378_1_1740923578_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "263077139",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 오리엔탈 반팔 셔츠",
+        "price_updates": [
+            {
+                "1741533790": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263077139_1_1715418321_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "258799356",
@@ -1341,7 +1341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258799356_1_1712043173_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313692821",
@@ -1357,7 +1357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313692821_1_1739868180_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "256296680",
@@ -1373,7 +1373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256296680_1_1728895726_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "261336349",
@@ -1389,7 +1389,23 @@
         "product_image": "https://media.bunjang.co.kr/product/261336349_1_1735189897_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "301335406",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 페이크 레더 빅셔츠",
+        "price_updates": [
+            {
+                "1741532631": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301335406_1_1734961817_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "307328601",
@@ -1405,7 +1421,23 @@
         "product_image": "https://media.bunjang.co.kr/product/307328601_1_1734769681_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "311331794",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 오버사이즈 컷팅 셔츠",
+        "price_updates": [
+            {
+                "1741515650": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311331794_1_1738316301_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "242229005",
@@ -1421,7 +1453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242229005_1_1741475569_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "251788279",
@@ -1437,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251788279_1_1706802398_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "281832816",
@@ -1453,7 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281832816_1_1728982654_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "254894107",
@@ -1469,23 +1501,23 @@
         "product_image": "https://media.bunjang.co.kr/product/254894107_1_1709052789_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "297887724",
+        "pid": "315716231",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 RASTA HI-GAUGE 모크넥",
+        "name": "사스콰치패브릭스 플라워 데님자켓 M사이즈",
         "price_updates": [
             {
-                "1741479408": "100000"
+                "1741497336": "250000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/297887724_1_1740576032_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315716231_1_1738764914_w{res}.jpg",
         "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "312136754",
@@ -1501,23 +1533,23 @@
         "product_image": "https://media.bunjang.co.kr/product/312136754_1_1737106984_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "261951109",
+        "pid": "297887724",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "스투시 x 사스콰치패브릭스 반팔",
+        "name": "사스콰치패브릭스 RASTA HI-GAUGE 모크넥",
         "price_updates": [
             {
-                "1741144523": "70000"
+                "1741479408": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/261951109_1_1714533798_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/297887724_1_1740576032_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "305613238",
@@ -1533,7 +1565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305613238_1_1741475418_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "286535380",
@@ -1549,7 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286535380_1_1724763410_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "310708046",
@@ -1565,7 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310708046_1_1736433402_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "243813479",
@@ -1581,7 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243813479_1_1700644014_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296526526",
@@ -1597,7 +1629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296526526_1_1729879359_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "316849907",
@@ -1613,7 +1645,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316849907_1_1739621940_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "315512341",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 웨스턴 나바호 울자켓",
+        "price_updates": [
+            {
+                "1741498384": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315512341_1_1738676919_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "312451235",
@@ -1629,23 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312451235_1_1741034948_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "254098178",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 볼레로 후드자켓",
-        "price_updates": [
-            {
-                "1741016407": "165000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254098178_1_1738939164_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "300290964",
@@ -1661,7 +1693,23 @@
         "product_image": "https://media.bunjang.co.kr/product/300290964_1_1741475840_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "254098178",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 볼레로 후드자켓",
+        "price_updates": [
+            {
+                "1741016407": "165000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254098178_1_1738939164_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "319103781",
@@ -1677,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319103781_1_1740252709_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "249209440",
@@ -1693,7 +1741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249209440_1_1734312628_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "303625351",
@@ -1709,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303625351_1_1733060094_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "241275249",
@@ -1725,7 +1773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241275249_1_1731895296_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "213567464",
@@ -1741,7 +1789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/213567464_1_1739961811_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "249635050",
@@ -1757,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249635050_1_1728353042_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "298586043",
@@ -1773,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298586043_1_1730802244_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "315895029",
@@ -1789,7 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315895029_1_1738847345_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "243372737",
@@ -1805,23 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243372737_1_1702655289_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "255071258",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 MA1 항공점퍼",
-        "price_updates": [
-            {
-                "1740928193": "185000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255071258_1_1741475805_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "280547248",
@@ -1837,7 +1869,23 @@
         "product_image": "https://media.bunjang.co.kr/product/280547248_1_1723023815_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
+    },
+    {
+        "pid": "255071258",
+        "brands": [
+            "사스콰치패브릭스"
+        ],
+        "name": "사스콰치패브릭스 MA1 항공점퍼",
+        "price_updates": [
+            {
+                "1740928193": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255071258_1_1741475805_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "276838249",
@@ -1853,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276838249_1_1719902707_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "314656027",
@@ -1869,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314656027_1_1738321533_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "251543261",
@@ -1885,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251543261_1_1706626842_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "292727916",
@@ -1901,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292727916_1_1728146376_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "253555907",
@@ -1917,7 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253555907_1_1708153373_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "285129521",
@@ -1933,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285129521_1_1728301714_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "319910004",
@@ -1949,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319910004_1_1740702109_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "310124248",
@@ -1965,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310124248_1_1740285630_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "292693044",
@@ -1981,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292693044_1_1730785843_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "273352216",
@@ -1997,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273352216_1_1720420204_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "236180621",
@@ -2013,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236180621_1_1739631117_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "308110472",
@@ -2029,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308110472_1_1735153955_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "244249797",
@@ -2045,7 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244249797_1_1739961821_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "244249896",
@@ -2061,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244249896_1_1701224130_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "309855099",
@@ -2077,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309855099_1_1738261076_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "278743845",
@@ -2093,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278743845_1_1720583828_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "302302152",
@@ -2109,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302302152_1_1736267527_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "268067780",
@@ -2125,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268067780_1_1717135624_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "319400524",
@@ -2141,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319400524_1_1740387396_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "316471987",
@@ -2157,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316471987_1_1740542092_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "211858347",
@@ -2173,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/211858347_1_1739631034_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "319839828",
@@ -2189,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319839828_1_1740580020_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "294596936",
@@ -2205,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294596936_1_1729016962_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "275376168",
@@ -2221,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275376168_1_1719391837_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296370141",
@@ -2237,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296370141_1_1729821049_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "231021747",
@@ -2253,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231021747_1_1704164958_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "245362463",
@@ -2269,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245362463_1_1701831995_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "318667377",
@@ -2285,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318667377_1_1740049431_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "253022231",
@@ -2301,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253022231_1_1707801833_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "310704477",
@@ -2317,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310704477_1_1738223528_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304513371",
@@ -2333,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304513371_1_1733485342_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "318666282",
@@ -2349,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318666282_1_1740049113_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "309073743",
@@ -2365,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309073743_1_1735639227_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "256295962",
@@ -2381,39 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256295962_1_1715526048_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "253024442",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 도킹 스웨트",
-        "price_updates": [
-            {
-                "1739152014": "169000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253024442_1_1707802959_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "253025651",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 체커보드 슬리브",
-        "price_updates": [
-            {
-                "1739152014": "169000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253025651_1_1707803698_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "246564843",
@@ -2429,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246564843_1_1702732825_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "293702666",
@@ -2445,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293702666_1_1728643038_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "253026987",
@@ -2461,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253026987_1_1707804243_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "263293403",
@@ -2477,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263293403_1_1741476714_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "298882874",
@@ -2493,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298882874_1_1740285759_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "300469975",
@@ -2509,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300469975_1_1741476626_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "282434078",
@@ -2525,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282434078_1_1722438475_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "298393449",
@@ -2541,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298393449_1_1730714731_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "301477871",
@@ -2557,23 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301477871_1_1737337327_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "287149753",
-        "brands": [
-            "사스콰치패브릭스"
-        ],
-        "name": "사스콰치패브릭스 하프집업",
-        "price_updates": [
-            {
-                "1738736307": "289000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287149753_1_1727275049_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "307893987",
@@ -2589,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307893987_1_1735031672_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "289497514",
@@ -2605,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289497514_1_1726388604_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "246938207",
@@ -2621,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246938207_1_1735468742_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "250500142",
@@ -2637,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250500142_1_1705893007_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296966170",
@@ -2653,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296966170_1_1730072289_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "299799853",
@@ -2669,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299799853_1_1731331637_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313045159",
@@ -2685,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313045159_1_1738850128_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "214087318",
@@ -2701,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/214087318_1_1738532769_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "263902723",
@@ -2717,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263902723_1_1716052407_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "246743717",
@@ -2733,23 +2733,23 @@
         "product_image": "https://media.bunjang.co.kr/product/246743717_1_1733732390_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
-        "pid": "287148699",
+        "pid": "246743717",
         "brands": [
             "사스콰치패브릭스"
         ],
-        "name": "사스콰치패브릭스 자켓",
+        "name": "사스콰치패브릭스 08AW 아카이브 벨루어 져지",
         "price_updates": [
             {
-                "1737862053": "289000"
+                "1738491205": "140000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/287148699_1_1725107245_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/246743717_1_1733732390_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "204450240",
@@ -2765,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/204450240_1_1732492810_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "233473539",
@@ -2781,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/233473539_1_1692281330_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "264161981",
@@ -2797,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264161981_1_1738594691_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313096010",
@@ -2813,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313096010_1_1737586392_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "285481032",
@@ -2829,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285481032_1_1734606402_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313005071",
@@ -2845,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313005071_1_1737515028_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "312911467",
@@ -2861,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312911467_1_1737458330_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313004174",
@@ -2877,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313004174_1_1741842445_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "314504534",
@@ -2893,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314504534_1_1738242433_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "313527980",
@@ -2909,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313527980_1_1737849154_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "311953435",
@@ -2925,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311953435_1_1737019518_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "312470037",
@@ -2941,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312470037_1_1741477253_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "312483050",
@@ -2957,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312483050_1_1737269740_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "308799305",
@@ -2973,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308799305_1_1735489383_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "267277903",
@@ -2989,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267277903_1_1716888474_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "310694652",
@@ -3005,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310694652_1_1736430666_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "309965935",
@@ -3021,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309965935_1_1736079957_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "311764519",
@@ -3037,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311764519_1_1736931382_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "286483256",
@@ -3053,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286483256_1_1724744551_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "255765520",
@@ -3069,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255765520_1_1713420780_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "311198402",
@@ -3085,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311198402_1_1736674561_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304498870",
@@ -3101,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304498870_1_1733480372_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "306422005",
@@ -3117,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306422005_1_1734426401_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "310166094",
@@ -3133,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310166094_1_1736170182_w{res}.jpg",
         "status": "1",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "308766986",
@@ -3149,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308766986_1_1735477829_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "309047155",
@@ -3165,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309047155_1_1735629874_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "240021571",
@@ -3181,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240021571_1_1710669437_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "305083115",
@@ -3197,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305083115_1_1734762985_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296124259",
@@ -3213,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296124259_1_1733866157_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "200338369",
@@ -3229,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200338369_1_1664153944_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "306323838",
@@ -3245,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306323838_1_1734287813_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "306819948",
@@ -3261,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306819948_1_1734522556_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "276228562",
@@ -3277,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276228562_1_1719671819_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "254821105",
@@ -3293,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/254821105_1_1713385694_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "278928291",
@@ -3309,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278928291_1_1720671802_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "280885086",
@@ -3325,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280885086_1_1721657570_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "305219558",
@@ -3341,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305219558_1_1735139019_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304505889",
@@ -3357,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304505889_1_1733482771_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304529904",
@@ -3373,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304529904_1_1733490876_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304524622",
@@ -3389,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304524622_1_1733489072_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304147961",
@@ -3405,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304147961_1_1733312412_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304674479",
@@ -3421,7 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304674479_1_1733562350_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304673537",
@@ -3437,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304673537_1_1733562064_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "297199004",
@@ -3453,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297199004_1_1732943944_w{res}.jpg",
         "status": "1",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304529036",
@@ -3469,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304529036_1_1733490580_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304528108",
@@ -3485,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304528108_1_1733490278_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304534439",
@@ -3501,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304534439_1_1733492374_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304531739",
@@ -3517,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304531739_1_1733491475_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304530787",
@@ -3533,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304530787_1_1733491171_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304516564",
@@ -3549,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304516564_1_1733486369_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304513456",
@@ -3565,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304513456_1_1733485348_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304519329",
@@ -3581,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304519329_1_1733487274_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304515673",
@@ -3597,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304515673_1_1733486078_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304520333",
@@ -3613,7 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304520333_1_1733487572_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304513481",
@@ -3629,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304513481_1_1733485350_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "304675481",
@@ -3645,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304675481_1_1733562653_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "303167364",
@@ -3661,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303167364_1_1732872491_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "293177840",
@@ -3677,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293177840_1_1728384595_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "287791398",
@@ -3693,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287791398_1_1725443533_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "302275768",
@@ -3709,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302275768_1_1733186860_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "302056372",
@@ -3725,7 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302056372_1_1732361678_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "282425941",
@@ -3741,7 +3741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282425941_1_1722435096_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "293535109",
@@ -3757,7 +3757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293535109_1_1728561708_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "300470349",
@@ -3773,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300470349_1_1731653325_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "259302424",
@@ -3789,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259302424_1_1715232714_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296230392",
@@ -3805,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296230392_1_1731748806_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "301456372",
@@ -3821,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301456372_1_1732090643_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "276192165",
@@ -3837,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276192165_1_1719665579_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "285487792",
@@ -3853,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285487792_1_1726557481_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "213567357",
@@ -3869,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/213567357_1_1706405265_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296640913",
@@ -3885,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296640913_1_1729935869_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "273444749",
@@ -3901,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273444749_1_1718764007_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "291977414",
@@ -3917,7 +3917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291977414_1_1728635418_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "299287841",
@@ -3933,7 +3933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299287841_1_1731133216_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296830162",
@@ -3949,7 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296830162_1_1731079427_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "297760229",
@@ -3965,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297760229_1_1730449255_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "214763443",
@@ -3981,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/214763443_1_1739636518_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "297502712",
@@ -3997,7 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297502712_1_1730308271_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "279715096",
@@ -4013,7 +4013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279715096_1_1721046864_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "285487319",
@@ -4029,7 +4029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285487319_1_1728288665_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "270600565",
@@ -4045,7 +4045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270600565_1_1717860583_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "296540559",
@@ -4061,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296540559_1_1729902201_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "225769712",
@@ -4077,7 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/225769712_1_1685614778_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "279756304",
@@ -4093,7 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279756304_1_1721493983_w{res}.jpg",
         "status": "1",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "234783916",
@@ -4109,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/234783916_1_1729263754_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "295573584",
@@ -4125,7 +4125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295573584_1_1729434168_w{res}.jpg",
         "status": "1",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "130402106",
@@ -4141,7 +4141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/130402106_1_1696648403_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "283645640",
@@ -4157,7 +4157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283645640_1_1724238528_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "279875370",
@@ -4173,7 +4173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279875370_1_1724064780_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "293299210",
@@ -4189,7 +4189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293299210_1_1728453898_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "239516750",
@@ -4205,7 +4205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239516750_1_1697383828_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:26"
     },
     {
         "pid": "293290098",
@@ -4221,7 +4221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293290098_1_1728450725_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "281892758",
@@ -4237,7 +4237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281892758_1_1722158574_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "222533704",
@@ -4253,7 +4253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222533704_1_1726068379_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "285477205",
@@ -4269,7 +4269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285477205_1_1724164388_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "285479693",
@@ -4285,7 +4285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285479693_1_1724165424_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "271895860",
@@ -4301,7 +4301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271895860_1_1718269346_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "223261075",
@@ -4317,7 +4317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223261075_1_1722611667_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "288238495",
@@ -4333,7 +4333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288238495_1_1725698599_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "288794851",
@@ -4349,7 +4349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288794851_1_1725968412_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "262398489",
@@ -4365,7 +4365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262398489_1_1716039755_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "279173903",
@@ -4381,7 +4381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279173903_1_1722745538_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "237374358",
@@ -4397,7 +4397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237374358_1_1735467042_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "236181256",
@@ -4413,7 +4413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236181256_1_1700804535_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "236181144",
@@ -4429,7 +4429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236181144_1_1727338136_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "278678031",
@@ -4445,7 +4445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278678031_1_1720534429_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "171381086",
@@ -4461,7 +4461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/171381086_1_1723594413_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "249155692",
@@ -4477,7 +4477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249155692_1_1708271236_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "271797366",
@@ -4493,7 +4493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271797366_1_1739198172_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "259252786",
@@ -4509,7 +4509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259252786_1_1714622381_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "278189342",
@@ -4525,7 +4525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278189342_1_1720369014_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "262796345",
@@ -4541,7 +4541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262796345_1_1720091308_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "259985456",
@@ -4557,7 +4557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259985456_1_1712978080_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "259983871",
@@ -4573,7 +4573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259983871_1_1712977789_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "304526341",
@@ -4589,7 +4589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304526341_1_1733489675_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "322373349",
@@ -4605,7 +4605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322373349_1_1741766272_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "252629846",
@@ -4621,7 +4621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252629846_1_1740959720_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "320152562",
@@ -4637,7 +4637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320152562_1_1740961911_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "317424279",
@@ -4653,7 +4653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317424279_1_1740630670_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "317344026",
@@ -4669,7 +4669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317344026_1_1739463269_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "308985005",
@@ -4685,7 +4685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308985005_1_1735603883_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "317090202",
@@ -4701,7 +4701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317090202_1_1739445202_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "299058325",
@@ -4717,7 +4717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299058325_1_1738382133_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "306482027",
@@ -4733,7 +4733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306482027_1_1734358015_w{res}.jpg",
         "status": "3",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "311316503",
@@ -4749,7 +4749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311316503_1_1738629351_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "295016413",
@@ -4765,7 +4765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295016413_1_1737980555_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "264052381",
@@ -4781,7 +4781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264052381_1_1731460058_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "296255836",
@@ -4797,7 +4797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296255836_1_1738669237_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "309228316",
@@ -4813,7 +4813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309228316_1_1735729713_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "305491136",
@@ -4829,7 +4829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305491136_1_1737076338_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "304891183",
@@ -4845,7 +4845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304891183_1_1733879539_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "302672780",
@@ -4861,7 +4861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302672780_1_1735779423_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "302615373",
@@ -4877,7 +4877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302615373_1_1735282943_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "301474851",
@@ -4893,7 +4893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301474851_1_1736951486_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     },
     {
         "pid": "211858847",
@@ -4909,6 +4909,6 @@
         "product_image": "https://media.bunjang.co.kr/product/211858847_1_1739631097_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:12:27"
     }
 ]

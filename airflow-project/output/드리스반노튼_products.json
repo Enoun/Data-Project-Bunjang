@@ -1,147 +1,19 @@
 [
     {
-        "pid": "320753392",
+        "pid": "303300224",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 데님팬츠 36",
+        "name": "스투시 드리스반노튼 니트 XL",
         "price_updates": [
             {
-                "1742102025": "270000"
+                "1742190673": "520000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320753392_1_1742102015_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/303300224_1_1741517806_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "316253904",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼  21fw 팬츠",
-        "price_updates": [
-            {
-                "1742100865": "650000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316253904_1_1739011679_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "254166634",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 18fw 블레이저",
-        "price_updates": [
-            {
-                "1742100850": "900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254166634_1_1733541779_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "319175136",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 스트라이프 셔츠",
-        "price_updates": [
-            {
-                "1742099162": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319175136_1_1740563090_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "322185886",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 후드 파카",
-        "price_updates": [
-            {
-                "1742095883": "550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322185886_1_1741673970_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "315548097",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "스투시 드리스반노튼 바시티 m",
-        "price_updates": [
-            {
-                "1742096785": "1800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315548097_1_1739636957_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "177333437",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 컬렉션 체크 코트 (M)",
-        "price_updates": [
-            {
-                "1742098270": "2550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/177333437_1_1710631599_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "218379075",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 미착용 리버시블 봄버 100-105",
-        "price_updates": [
-            {
-                "1742098985": "780000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/218379075_1_1740789892_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "322511620",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 셔츠50",
-        "price_updates": [
-            {
-                "1742089777": "89000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322511620_1_1741842393_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "322593537",
@@ -151,29 +23,61 @@
         "name": "[S] 드리스반노튼 테이프드 코트",
         "price_updates": [
             {
-                "1742091747": "195000"
+                "1742188913": "195000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/322593537_1_1741870820_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
-        "pid": "259073458",
+        "pid": "320974152",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 블리치데님자켓 L",
+        "name": "[48] 드리스반노튼 더블 자켓",
         "price_updates": [
             {
-                "1742094375": "380000"
+                "1742189139": "878000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/259073458_1_1716447100_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320974152_1_1741086840_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "190726007",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 자켓",
+        "price_updates": [
+            {
+                "1742187131": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/190726007_1_1655228937_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "323092613",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 드리스반노튼 바시티자켓 S사이즈",
+        "price_updates": [
+            {
+                "1742183957": "1650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323092613_1_1742108272_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "309455732",
@@ -183,13 +87,141 @@
         "name": "[XL] 드리스반노튼 셔츠",
         "price_updates": [
             {
-                "1742090335": "155000"
+                "1742180634": "155000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/309455732_1_1741102959_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "303169555",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 티셔츠 xl",
+        "price_updates": [
+            {
+                "1742179131": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303169555_1_1732873243_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "319175136",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 스트라이프 셔츠",
+        "price_updates": [
+            {
+                "1742178849": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319175136_1_1740563090_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "236366399",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 드리스반노튼 데님 자켓 L",
+        "price_updates": [
+            {
+                "1742179602": "680000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236366399_1_1694696017_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "295594277",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 벨티드 팬츠 46",
+        "price_updates": [
+            {
+                "1742179328": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/295594277_1_1740835466_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "281931299",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 14FW 본디지자켓 아카이브",
+        "price_updates": [
+            {
+                "1742179778": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/281931299_1_1740123685_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "238788584",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 후드티 새상품(S)",
+        "price_updates": [
+            {
+                "1742177351": "261000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238788584_1_1723025249_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "290776565",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 호피 캐시미어 가디건 M",
+        "price_updates": [
+            {
+                "1742174343": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290776565_1_1736249812_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "306162673",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "[L] 드리스반노튼 백지퍼 울 봄버 자켓",
+        "price_updates": [
+            {
+                "1742174336": "1290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306162673_1_1737964820_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "319588550",
@@ -199,13 +231,317 @@
         "name": "드리스반노튼 데님 팬츠",
         "price_updates": [
             {
-                "1742088592": "265000"
+                "1742171461": "265000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/319588550_1_1741264956_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "244901440",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 비스코스 셔츠",
+        "price_updates": [
+            {
+                "1742171492": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244901440_1_1718881169_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "319159373",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 17ss reversible jacket",
+        "price_updates": [
+            {
+                "1742172785": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319159373_1_1740299120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "319103879",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 19fw reversible tie-dye jacket",
+        "price_updates": [
+            {
+                "1742172785": "700000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319103879_1_1740289184_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "322511620",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 셔츠50",
+        "price_updates": [
+            {
+                "1742167629": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322511620_1_1742188861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "296066624",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 정장 셋업",
+        "price_updates": [
+            {
+                "1742165177": "780000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/296066624_1_1733501647_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "312394556",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 드리스반노튼 바시티 자켓m",
+        "price_updates": [
+            {
+                "1742167090": "1750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312394556_1_1741658611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "319070110",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 Dries van noten 화이트 코튼트윌 셔츠 48",
+        "price_updates": [
+            {
+                "1742166375": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319070110_1_1741957553_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "322185886",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 후드 파카",
+        "price_updates": [
+            {
+                "1742142679": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322185886_1_1741673970_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "291131883",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 봄버",
+        "price_updates": [
+            {
+                "1742129154": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291131883_1_1727310772_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "318870866",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 맨투맨",
+        "price_updates": [
+            {
+                "1742117379": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318870866_1_1740142086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "316431484",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 봄버",
+        "price_updates": [
+            {
+                "1742129154": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316431484_1_1739088846_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "320382603",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 체크 셔츠",
+        "price_updates": [
+            {
+                "1742142669": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320382603_1_1740824959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "277486980",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 로고 티셔츠",
+        "price_updates": [
+            {
+                "1742138314": "169000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/277486980_1_1720136115_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "306254883",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "95)드리스반노튼 셔츠",
+        "price_updates": [
+            {
+                "1742130743": "63000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306254883_1_1734261568_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "310498457",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 실크 셔츠 팝니다",
+        "price_updates": [
+            {
+                "1742129931": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310498457_1_1736337661_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "300164783",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 트라우저",
+        "price_updates": [
+            {
+                "1742112004": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300164783_1_1731500482_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "320753392",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 데님팬츠 36",
+        "price_updates": [
+            {
+                "1742138239": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320753392_1_1742102015_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "315883089",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 드리스반노튼 자켓 XL",
+        "price_updates": [
+            {
+                "1742112949": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315883089_1_1740558704_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "287924639",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 팬츠 올리브 44",
+        "price_updates": [
+            {
+                "1742106814": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287924639_1_1735513703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "314915857",
@@ -215,29 +551,221 @@
         "name": "드리스반노튼 백지퍼 봄버M",
         "price_updates": [
             {
-                "1742088722": "1250000"
+                "1742143373": "1250000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314915857_1_1740643463_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/314915857_1_1742115551_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
-        "pid": "266834734",
+        "pid": "245149747",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 브이넥스웨터 S사이즈",
+        "name": "(M)드리스반노튼 푸퍼 패딩 자켓",
         "price_updates": [
             {
-                "1742091827": "220000"
+                "1742142220": "800000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/266834734_1_1736232505_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/245149747_1_1739973231_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "305711118",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 파이톤은사니트",
+        "price_updates": [
+            {
+                "1742145636": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305711118_1_1736312666_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "299666622",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "[31] 드리스반노튼 와이드 데님팬츠",
+        "price_updates": [
+            {
+                "1742116340": "290000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299666622_1_1741153510_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "262249069",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 데님 스트레이트 팬츠 34",
+        "price_updates": [
+            {
+                "1742142042": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262249069_1_1732672234_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "238067998",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 드리스반노튼 반팔(vase tee) / XL 새상품",
+        "price_updates": [
+            {
+                "1742126948": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238067998_1_1724138806_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "314332645",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 셀비지 진 30size",
+        "price_updates": [
+            {
+                "1742115801": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314332645_1_1742115936_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "218379075",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 미착용 리버시블 봄버 100-105",
+        "price_updates": [
+            {
+                "1742145620": "780000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/218379075_1_1740789892_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "314587891",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 22SS haxel hoodie",
+        "price_updates": [
+            {
+                "1742131333": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314587891_1_1740385758_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "238068371",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 드리스반노튼 타이다이 후드(라일락) / M 새상품",
+        "price_updates": [
+            {
+                "1742126948": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/238068371_1_1724138826_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "310523143",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 벨기에산 양모 울니트 XL",
+        "price_updates": [
+            {
+                "1742137706": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310523143_1_1742137720_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "315098902",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "22SS 드리스반노튼 체크 오버 울 슬랙스 46",
+        "price_updates": [
+            {
+                "1742143496": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315098902_1_1741880388_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "315716525",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 23FW PELBECK 벨티드 카고 팬츠 44",
+        "price_updates": [
+            {
+                "1742129917": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315716525_1_1741703250_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "316905326",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "[S] 드리스반노튼 14시즌 워시드 본디지 코트 파카",
+        "price_updates": [
+            {
+                "1742138072": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316905326_1_1741787346_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "321429078",
@@ -253,55 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321429078_1_1741946445_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "238788584",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 후드티 새상품(S)",
-        "price_updates": [
-            {
-                "1742085778": "261000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/238788584_1_1723025249_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "319159373",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 17ss reversible jacket",
-        "price_updates": [
-            {
-                "1742086983": "700000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319159373_1_1740299120_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "319103879",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 19fw reversible tie-dye jacket",
-        "price_updates": [
-            {
-                "1742086983": "700000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319103879_1_1740289184_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "291132255",
@@ -317,39 +797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291132255_1_1727370860_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "291131883",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 봄버",
-        "price_updates": [
-            {
-                "1742037209": "1200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291131883_1_1727310772_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "318870866",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 맨투맨",
-        "price_updates": [
-            {
-                "1742033830": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318870866_1_1740142086_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "291132067",
@@ -365,39 +813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291132067_1_1727310900_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "296066624",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 정장 셋업",
-        "price_updates": [
-            {
-                "1742055775": "780000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296066624_1_1733501647_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "320382603",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 체크 셔츠",
-        "price_updates": [
-            {
-                "1742054048": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320382603_1_1740824959_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "311394414",
@@ -413,7 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311394414_1_1741946463_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "263313529",
@@ -429,71 +845,103 @@
         "product_image": "https://media.bunjang.co.kr/product/263313529_1_1727827620_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
-        "pid": "300164783",
+        "pid": "316253904",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 트라우저",
+        "name": "드리스반노튼  21fw 팬츠",
         "price_updates": [
             {
-                "1742027459": "150000"
+                "1742100865": "650000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/300164783_1_1731500482_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/316253904_1_1739011679_w{res}.jpg",
         "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
-        "pid": "245149747",
+        "pid": "254166634",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "(M)드리스반노튼 푸퍼 패딩 자켓",
+        "name": "드리스반노튼 18fw 블레이저",
         "price_updates": [
             {
-                "1742054035": "800000"
+                "1742100850": "900000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/245149747_1_1739973231_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/254166634_1_1733541779_w{res}.jpg",
         "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
-        "pid": "290776565",
+        "pid": "315548097",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 호피 캐시미어 가디건 M",
+        "name": "스투시 드리스반노튼 바시티 m",
         "price_updates": [
             {
-                "1742018588": "300000"
+                "1742096785": "1800000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/290776565_1_1736249812_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315548097_1_1739636957_w{res}.jpg",
         "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
-        "pid": "295594277",
+        "pid": "177333437",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 벨티드 팬츠 46",
+        "name": "드리스반노튼 컬렉션 체크 코트 (M)",
         "price_updates": [
             {
-                "1742029934": "230000"
+                "1742098270": "2550000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/295594277_1_1740835466_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/177333437_1_1710631599_w{res}.jpg",
         "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "259073458",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 블리치데님자켓 L",
+        "price_updates": [
+            {
+                "1742094375": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259073458_1_1716447100_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:17"
+    },
+    {
+        "pid": "266834734",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 브이넥스웨터 S사이즈",
+        "price_updates": [
+            {
+                "1742091827": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/266834734_1_1736232505_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "282937847",
@@ -509,7 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282937847_1_1736844887_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "301371297",
@@ -525,7 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301371297_1_1739192285_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "281150923",
@@ -541,55 +989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281150923_1_1740457364_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "314332645",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 셀비지 진 30size",
-        "price_updates": [
-            {
-                "1742036724": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314332645_1_1742036757_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "306162673",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "[L] 드리스반노튼 백지퍼 울 봄버 자켓",
-        "price_updates": [
-            {
-                "1742052225": "1290000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306162673_1_1737964820_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "315716525",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 23FW PELBECK 벨티드 카고 팬츠 44",
-        "price_updates": [
-            {
-                "1742034954": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315716525_1_1741703250_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "322279088",
@@ -605,23 +1005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322279088_1_1741955097_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "303300224",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "스투시 드리스반노튼 니트 XL",
-        "price_updates": [
-            {
-                "1742004021": "520000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303300224_1_1741517806_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "306473702",
@@ -637,71 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306473702_1_1736174277_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "310498457",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 실크 셔츠 팝니다",
-        "price_updates": [
-            {
-                "1741951819": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310498457_1_1736337661_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "287924639",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 팬츠 올리브 44",
-        "price_updates": [
-            {
-                "1742010384": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287924639_1_1735513703_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "315883089",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "스투시 드리스반노튼 자켓 XL",
-        "price_updates": [
-            {
-                "1741965570": "550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315883089_1_1740558704_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "295944850",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 데님 자켓 xl",
-        "price_updates": [
-            {
-                "1741933754": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295944850_1_1729605492_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:17"
     },
     {
         "pid": "254299903",
@@ -717,39 +1037,23 @@
         "product_image": "https://media.bunjang.co.kr/product/254299903_1_1711120504_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "236366399",
+        "pid": "295944850",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "스투시 드리스반노튼 데님 자켓 L",
+        "name": "드리스반노튼 데님 자켓 xl",
         "price_updates": [
             {
-                "1742007702": "680000"
+                "1741933754": "250000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/236366399_1_1694696017_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/295944850_1_1729605492_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "305711118",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 파이톤은사니트",
-        "price_updates": [
-            {
-                "1742004808": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305711118_1_1736312666_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "280393917",
@@ -765,7 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280393917_1_1728729216_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "320247600",
@@ -781,23 +1085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320247600_1_1741513523_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "295392988",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "XL 드리스반노튼 22AW VORN 자켓",
-        "price_updates": [
-            {
-                "1741931676": "850000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/295392988_1_1735435169_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "314779308",
@@ -813,7 +1101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314779308_1_1740625376_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "162166880",
@@ -829,7 +1117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/162166880_1_1739885235_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "254496091",
@@ -845,39 +1133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/254496091_1_1711314298_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "315098902",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "22SS 드리스반노튼 체크 오버 울 슬랙스 46",
-        "price_updates": [
-            {
-                "1741966161": "600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315098902_1_1741880388_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "320974152",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "[48] 드리스반노튼 더블 자켓",
-        "price_updates": [
-            {
-                "1741910901": "882000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320974152_1_1741086840_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "257090778",
@@ -893,55 +1149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257090778_1_1738925345_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "320722575",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "(44)14aw 드리스반노튼 울 백지퍼 봄버",
-        "price_updates": [
-            {
-                "1741910159": "2798000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320722575_1_1741192413_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "303169555",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 티셔츠 xl",
-        "price_updates": [
-            {
-                "1741847588": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303169555_1_1732873243_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "244901440",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 비스코스 셔츠",
-        "price_updates": [
-            {
-                "1741853118": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/244901440_1_1718881169_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "301425505",
@@ -957,7 +1165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301425505_1_1732080119_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "299433503",
@@ -973,7 +1181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299433503_1_1741130797_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "260610346",
@@ -989,119 +1197,23 @@
         "product_image": "https://media.bunjang.co.kr/product/260610346_1_1722434560_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "293216345",
+        "pid": "295392988",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 컬렉션 니트M(48size)",
+        "name": "XL 드리스반노튼 22AW VORN 자켓",
         "price_updates": [
             {
-                "1741879617": "300000"
+                "1741931676": "850000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/293216345_1_1737036272_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "262249069",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 데님 스트레이트 팬츠 34",
-        "price_updates": [
-            {
-                "1741845679": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/262249069_1_1732672234_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "314587891",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 22SS haxel hoodie",
-        "price_updates": [
-            {
-                "1741865675": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314587891_1_1740385758_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "248259160",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "스투시 X 드리스반노튼 타이다이 스웻 팬츠",
-        "price_updates": [
-            {
-                "1741856620": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/248259160_1_1731997802_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "281931299",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 14FW 본디지자켓 아카이브",
-        "price_updates": [
-            {
-                "1741919392": "900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/281931299_1_1740123685_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/295392988_1_1735435169_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "174179662",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "[48] 드리스반노튼 해리스트위드 컷팅 울자켓",
-        "price_updates": [
-            {
-                "1741861357": "1380000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/174179662_1_1738844289_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "310523143",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 벨기에산 양모 울니트 XL",
-        "price_updates": [
-            {
-                "1741898210": "680000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310523143_1_1736344535_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "322341416",
@@ -1117,7 +1229,55 @@
         "product_image": "https://media.bunjang.co.kr/product/322341416_1_1741754730_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "293216345",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 컬렉션 니트M(48size)",
+        "price_updates": [
+            {
+                "1741879617": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293216345_1_1737036272_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "174179662",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "[48] 드리스반노튼 해리스트위드 컷팅 울자켓",
+        "price_updates": [
+            {
+                "1741861357": "1380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/174179662_1_1738844289_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "248259160",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "스투시 X 드리스반노튼 타이다이 스웻 팬츠",
+        "price_updates": [
+            {
+                "1741856620": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/248259160_1_1731997802_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "308710350",
@@ -1133,39 +1293,23 @@
         "product_image": "https://media.bunjang.co.kr/product/308710350_1_1735460501_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "321705905",
+        "pid": "320722575",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼 vandal 코트",
+        "name": "(44)14aw 드리스반노튼 울 백지퍼 봄버",
         "price_updates": [
             {
-                "1741757807": "765000"
+                "1741910159": "2798000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321705905_1_1741441972_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320722575_1_1741192413_w{res}.jpg",
         "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "308366764",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "80-90s 드리스반노튼 아카이브 울코트 자켓- 48",
-        "price_updates": [
-            {
-                "1741915248": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308366764_1_1735292363_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "322245656",
@@ -1181,39 +1325,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322245656_1_1741694031_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "263340730",
+        "pid": "308366764",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "드리스반노튼/14FW 코티드 본디지 지퍼 트러커 자켓/M",
+        "name": "80-90s 드리스반노튼 아카이브 울코트 자켓- 48",
         "price_updates": [
             {
-                "1741878749": "2500000"
+                "1741915248": "450000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/263340730_1_1739179234_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/308366764_1_1735292363_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "277486980",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 로고 티셔츠",
-        "price_updates": [
-            {
-                "1741797133": "169000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/277486980_1_1720136115_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "318706451",
@@ -1229,7 +1357,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318706451_1_1742050414_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "263340730",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼/14FW 코티드 본디지 지퍼 트러커 자켓/M",
+        "price_updates": [
+            {
+                "1741878749": "2500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/263340730_1_1739179234_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "301705612",
@@ -1245,7 +1389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301705612_1_1732195059_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "304346593",
@@ -1261,7 +1405,23 @@
         "product_image": "https://media.bunjang.co.kr/product/304346593_1_1736413426_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "321705905",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 vandal 코트",
+        "price_updates": [
+            {
+                "1741757807": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321705905_1_1741441972_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "304848227",
@@ -1277,7 +1437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304848227_1_1740747154_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "293383526",
@@ -1293,7 +1453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293383526_1_1728481842_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "289377830",
@@ -1309,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289377830_1_1738209231_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "310401232",
@@ -1325,7 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310401232_1_1739328595_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "235252623",
@@ -1341,23 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235252623_1_1735578161_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "312394556",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "스투시 드리스반노튼 바시티 자켓m",
-        "price_updates": [
-            {
-                "1741741379": "1750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312394556_1_1741658611_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "240704062",
@@ -1373,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240704062_1_1737470334_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "285130907",
@@ -1389,7 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285130907_1_1723965535_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "217778817",
@@ -1405,55 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/217778817_1_1735578151_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "316931755",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "(교환, 판매) 드리스반노튼 퀼팅 백지퍼 봄버",
-        "price_updates": [
-            {
-                "1741672606": "900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316931755_1_1739281973_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "319070110",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 Dries van noten 화이트 코튼트윌 셔츠 48",
-        "price_updates": [
-            {
-                "1741731700": "85000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319070110_1_1741957553_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "316905326",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "[S] 드리스반노튼 14시즌 워시드 본디지 코트 파카",
-        "price_updates": [
-            {
-                "1741705367": "1500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316905326_1_1741787346_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "302519552",
@@ -1469,39 +1565,23 @@
         "product_image": "https://media.bunjang.co.kr/product/302519552_1_1732555407_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "238067998",
+        "pid": "316931755",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "스투시 드리스반노튼 반팔(vase tee) / XL 새상품",
+        "name": "(교환, 판매) 드리스반노튼 퀼팅 백지퍼 봄버",
         "price_updates": [
             {
-                "1741606884": "100000"
+                "1741672606": "900000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/238067998_1_1724138806_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/316931755_1_1739281973_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "238068371",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "스투시 드리스반노튼 타이다이 후드(라일락) / M 새상품",
-        "price_updates": [
-            {
-                "1741606884": "550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/238068371_1_1724138826_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "319408924",
@@ -1517,23 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319408924_1_1741679432_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "317955148",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "[의류매입]솔로이스트하이더아커만드리스반노튼마틴로즈hba에모스탠스클럽",
-        "price_updates": [
-            {
-                "1741614539": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317955148_1_1739726430_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "220437561",
@@ -1549,55 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220437561_1_1717407121_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "299666622",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "[31] 드리스반노튼 와이드 데님팬츠",
-        "price_updates": [
-            {
-                "1741520154": "290000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299666622_1_1741153510_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "230275768",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "급처 드리스반노튼 비스코스 셔츠 새상품",
-        "price_updates": [
-            {
-                "1741532805": "261720"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/230275768_1_1690771915_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "316431484",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 봄버",
-        "price_updates": [
-            {
-                "1741443653": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316431484_1_1739088846_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "292480720",
@@ -1613,7 +1629,23 @@
         "product_image": "https://media.bunjang.co.kr/product/292480720_1_1728031652_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "230275768",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "급처 드리스반노튼 비스코스 셔츠 새상품",
+        "price_updates": [
+            {
+                "1741532805": "261720"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230275768_1_1690771915_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "223275114",
@@ -1629,23 +1661,23 @@
         "product_image": "https://media.bunjang.co.kr/product/223275114_1_1683357973_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "319088517",
+        "pid": "317955148",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "<스트릿의류매입>디올옴므살로몬드리스반노튼프라다cpfm라프시몬스릭오웬스준야",
+        "name": "[의류매입]솔로이스트하이더아커만드리스반노튼마틴로즈hba에모스탠스클럽",
         "price_updates": [
             {
-                "1741515189": "50000"
+                "1741614539": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319088517_1_1740238845_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/317955148_1_1739726430_w{res}.jpg",
         "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "312868973",
@@ -1661,7 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312868973_1_1738902038_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "227141519",
@@ -1677,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/227141519_1_1706028581_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "315000201",
@@ -1693,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315000201_1_1738499165_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "242992195",
@@ -1709,7 +1741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242992195_1_1740830736_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "306251648",
@@ -1725,39 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306251648_1_1734260725_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "306254883",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "95)드리스반노튼 셔츠",
-        "price_updates": [
-            {
-                "1740402970": "63000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306254883_1_1734261568_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "162166881",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 런웨이 코트 판매합니다.",
-        "price_updates": [
-            {
-                "1740971688": "650000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/162166881_1_1739884924_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "253084222",
@@ -1773,39 +1773,23 @@
         "product_image": "https://media.bunjang.co.kr/product/253084222_1_1719019649_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
-        "pid": "211227302",
+        "pid": "162166881",
         "brands": [
             "드리스반노튼"
         ],
-        "name": "[후딱처분] 드리스반노튼 정장 셋업",
+        "name": "드리스반노튼 런웨이 코트 판매합니다.",
         "price_updates": [
             {
-                "1740553237": "550000"
+                "1740971688": "650000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/211227302_1_1739776123_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/162166881_1_1739884924_w{res}.jpg",
         "status": "0",
-        "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "302525913",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 자켓",
-        "price_updates": [
-            {
-                "1740005251": "1500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302525913_1_1741157463_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "302525913",
@@ -1821,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302525913_1_1741157463_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "318540133",
@@ -1837,7 +1821,55 @@
         "product_image": "https://media.bunjang.co.kr/product/318540133_1_1739983208_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "211227302",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "[후딱처분] 드리스반노튼 정장 셋업",
+        "price_updates": [
+            {
+                "1740553237": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/211227302_1_1739776123_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "318540133",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 와이드 팬츠",
+        "price_updates": [
+            {
+                "1740094989": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318540133_1_1739983208_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "204357743",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 울 팬츠 46사이즈",
+        "price_updates": [
+            {
+                "1740532878": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/204357743_1_1700723824_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "171779684",
@@ -1853,7 +1885,23 @@
         "product_image": "https://media.bunjang.co.kr/product/171779684_1_1739002313_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "319088517",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "<스트릿의류매입>디올옴므살로몬드리스반노튼프라다cpfm라프시몬스릭오웬스준야",
+        "price_updates": [
+            {
+                "1741515189": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319088517_1_1740238845_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "312511451",
@@ -1869,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312511451_1_1737277578_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "242509614",
@@ -1885,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242509614_1_1703734979_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "312237740",
@@ -1901,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312237740_1_1737165695_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "315299440",
@@ -1917,7 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315299440_1_1738587239_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "314294706",
@@ -1933,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314294706_1_1738483447_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "223585200",
@@ -1949,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223585200_1_1723434945_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "284393258",
@@ -1965,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284393258_1_1739314996_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "237902129",
@@ -1981,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237902129_1_1724610425_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "293928090",
@@ -1997,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293928090_1_1728737433_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "317662957",
@@ -2013,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317662957_1_1739614442_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "242487318",
@@ -2029,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242487318_1_1739330041_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "308897285",
@@ -2045,7 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308897285_1_1735550107_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "316048089",
@@ -2061,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316048089_1_1738925727_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "317663298",
@@ -2077,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317663298_1_1739614553_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "317202739",
@@ -2093,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317202739_1_1739418117_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "200318007",
@@ -2109,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200318007_1_1737872034_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "285655804",
@@ -2125,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285655804_1_1731450790_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "286497400",
@@ -2141,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286497400_1_1724749755_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "316570288",
@@ -2157,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316570288_1_1739316157_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "258906192",
@@ -2173,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258906192_1_1712126435_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "302824952",
@@ -2189,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302824952_1_1732704899_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "259361613",
@@ -2205,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259361613_1_1719149477_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "314360511",
@@ -2221,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314360511_1_1739884810_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "296311882",
@@ -2237,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296311882_1_1729776374_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "256760093",
@@ -2253,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256760093_1_1723258949_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "288546057",
@@ -2269,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288546057_1_1732196833_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "285878662",
@@ -2285,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285878662_1_1728963159_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "249318084",
@@ -2301,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249318084_1_1705010865_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "241762270",
@@ -2317,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241762270_1_1699113396_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "312046042",
@@ -2333,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312046042_1_1737076028_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "311514651",
@@ -2349,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311514651_1_1736820822_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "264145712",
@@ -2365,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264145712_1_1729610095_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "312082397",
@@ -2381,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312082397_1_1737088934_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "308337230",
@@ -2397,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308337230_1_1735369054_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "239135989",
@@ -2413,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239135989_1_1697098671_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "307218093",
@@ -2429,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307218093_1_1734846285_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "305588000",
@@ -2445,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305588000_1_1733971634_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "299894429",
@@ -2461,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299894429_1_1734425767_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "304006376",
@@ -2477,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304006376_1_1733238010_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "302662105",
@@ -2493,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302662105_1_1738405518_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "173338788",
@@ -2509,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/173338788_1_1692364620_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "295815569",
@@ -2525,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295815569_1_1731479481_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "222684875",
@@ -2541,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222684875_1_1682841000_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "294359050",
@@ -2557,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294359050_1_1728910220_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "294944246",
@@ -2573,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294944246_1_1729169200_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "299759408",
@@ -2589,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299759408_1_1731925988_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "229852022",
@@ -2605,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229852022_1_1731456318_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "300192512",
@@ -2621,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300192512_1_1731551706_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "295392865",
@@ -2637,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295392865_1_1731549578_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "287458837",
@@ -2653,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287458837_1_1725258387_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "298173746",
@@ -2669,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298173746_1_1730625518_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "259771114",
@@ -2685,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259771114_1_1712810003_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "295972636",
@@ -2701,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295972636_1_1731055070_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "249000471",
@@ -2717,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249000471_1_1704783550_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "240474587",
@@ -2733,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240474587_1_1729041563_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "290890491",
@@ -2749,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290890491_1_1727170530_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "287510439",
@@ -2765,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287510439_1_1727585133_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "291195553",
@@ -2781,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291195553_1_1727338892_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "244387208",
@@ -2797,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244387208_1_1701154179_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "169779352",
@@ -2813,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/169779352_1_1645856238_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "283109809",
@@ -2829,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283109809_1_1722839662_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "275626968",
@@ -2845,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275626968_1_1720960736_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "249779266",
@@ -2861,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249779266_1_1705364071_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "263576134",
@@ -2877,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263576134_1_1715812559_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "288344020",
@@ -2893,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288344020_1_1725765530_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "263426441",
@@ -2909,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263426441_1_1715687588_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "261486058",
@@ -2925,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261486058_1_1714134547_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "283413546",
@@ -2941,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283413546_1_1723030314_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "284409819",
@@ -2957,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284409819_1_1723548977_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "260299783",
@@ -2973,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260299783_1_1734070975_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "220937349",
@@ -2989,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220937349_1_1702433869_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "229747524",
@@ -3005,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229747524_1_1722911828_w{res}.jpg",
         "status": "1",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "174075526",
@@ -3021,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/174075526_1_1644073608_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "233496350",
@@ -3037,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/233496350_1_1737491209_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "176445708",
@@ -3053,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/176445708_1_1644073623_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "228038101",
@@ -3069,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228038101_1_1696659756_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "110232817",
@@ -3085,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/110232817_1_1636475458_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "264326916",
@@ -3101,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264326916_1_1716387673_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "260004011",
@@ -3117,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260004011_1_1712988584_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "263922913",
@@ -3133,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263922913_1_1716087097_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "261615114",
@@ -3149,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261615114_1_1714656133_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "260025362",
@@ -3165,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260025362_1_1718229187_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "259219294",
@@ -3181,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259219294_1_1712377160_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "190649034",
@@ -3197,23 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/190649034_1_1712013432_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:33"
-    },
-    {
-        "pid": "229509334",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "드리스반노튼 90s 알파카혼방 2톤 가디건",
-        "price_updates": [
-            {
-                "1712410287": "193000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/229509334_1_1718947683_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "258014071",
@@ -3229,7 +3261,23 @@
         "product_image": "https://media.bunjang.co.kr/product/258014071_1_1711427548_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
+    },
+    {
+        "pid": "229509334",
+        "brands": [
+            "드리스반노튼"
+        ],
+        "name": "드리스반노튼 90s 알파카혼방 2톤 가디건",
+        "price_updates": [
+            {
+                "1712410287": "193000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229509334_1_1718947683_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "258001839",
@@ -3245,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258001839_1_1711419446_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:33"
+        "collected_timestamp": "2025-03-17 06:10:21"
     },
     {
         "pid": "322356084",
@@ -3261,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322356084_1_1741760466_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "321164637",
@@ -3277,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321164637_1_1741181821_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "284816563",
@@ -3293,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284816563_1_1739961027_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "316621998",
@@ -3309,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316621998_1_1739176312_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "316596051",
@@ -3325,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316596051_1_1739251413_w{res}.jpg",
         "status": "3",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "307037739",
@@ -3341,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307037739_1_1736699231_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "315698495",
@@ -3357,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315698495_1_1738760455_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "315326859",
@@ -3373,7 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315326859_1_1738594863_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "305929293",
@@ -3389,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305929293_1_1738896814_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "315591425",
@@ -3405,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315591425_1_1738729362_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "313993685",
@@ -3421,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313993685_1_1737977479_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "239111716",
@@ -3437,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239111716_1_1736739481_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "311483537",
@@ -3453,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311483537_1_1736784455_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "312428683",
@@ -3469,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312428683_1_1737251595_w{res}.jpg",
         "status": "3",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "258440119",
@@ -3485,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258440119_1_1734919401_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "308211763",
@@ -3501,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308211763_1_1735257752_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "281379021",
@@ -3517,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281379021_1_1735622508_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     },
     {
         "pid": "306596219",
@@ -3533,22 +3581,6 @@
         "product_image": "https://media.bunjang.co.kr/product/306596219_1_1734771891_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:34"
-    },
-    {
-        "pid": "305541806",
-        "brands": [
-            "드리스반노튼"
-        ],
-        "name": "50 드리스반노튼 파워숄더 블루종 자켓",
-        "price_updates": [
-            {
-                "1734742976": "720000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305541806_1_1734347021_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:34"
+        "collected_timestamp": "2025-03-17 06:10:22"
     }
 ]

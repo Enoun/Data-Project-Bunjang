@@ -1,5 +1,85 @@
 [
     {
+        "pid": "320457433",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 03 TOUCH ME I AM SICK 커트 코베인 가디건",
+        "price_updates": [
+            {
+                "1742188991": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320457433_1_1740844773_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "318399887",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 아가일 모헤어 가디건",
+        "price_updates": [
+            {
+                "1742187874": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318399887_1_1740813733_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "289899330",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 04ss 런던 맵 자켓",
+        "price_updates": [
+            {
+                "1742185862": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289899330_1_1733400636_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "311784029",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "(2) AW08 넘버나인 portland기 바시티 자켓",
+        "price_updates": [
+            {
+                "1742187404": "650000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311784029_1_1740512010_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "311758879",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 c2h4 하이브리드 도킹팬츠 S",
+        "price_updates": [
+            {
+                "1742185160": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311758879_1_1736930049_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
         "pid": "295030897",
         "brands": [
             "넘버나인"
@@ -7,61 +87,13 @@
         "name": "[4] 02ss 넘버나인 솔로이스트 힙스터 프린팅 반팔 티셔츠",
         "price_updates": [
             {
-                "1742102092": "264000"
+                "1742183082": "264000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/295030897_1_1729223732_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "306187284",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 (Number Nine) 반팔 티셔츠",
-        "price_updates": [
-            {
-                "1742101557": "35000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306187284_1_1734247067_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "289929729",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "Number (N)ine 넘버나인 티셔츠 XL",
-        "price_updates": [
-            {
-                "1742101564": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/289929729_1_1733283480_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "302859013",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 맨투맨 xl",
-        "price_updates": [
-            {
-                "1742099656": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302859013_1_1736587050_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "318577642",
@@ -71,29 +103,13 @@
         "name": "넘버나인 모헤어 가디건",
         "price_updates": [
             {
-                "1742099162": "100000"
+                "1742178849": "100000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/318577642_1_1740563717_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "320756728",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 모헤어 가디건 커트코베인 (희귀매물)",
-        "price_updates": [
-            {
-                "1742096003": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320756728_1_1741400045_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "317155255",
@@ -103,61 +119,237 @@
         "name": "넘버나인 페인팅 블랙 진",
         "price_updates": [
             {
-                "1742094702": "90000"
+                "1742176753": "90000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/317155255_1_1739377019_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "264315174",
+        "pid": "196554763",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 플란넬셔츠",
+        "name": "넘버나인 오르테가 팬츠",
         "price_updates": [
             {
-                "1742089125": "200000"
+                "1742153852": "190000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/264315174_1_1716381922_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/196554763_1_1722475777_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "323133949",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 x Brth:Breath 투웨이 데님 오픈 카라 자켓",
+        "price_updates": [
+            {
+                "1742118606": "126000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323133949_1_1742118606_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "164411745",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 자켓",
+        "price_updates": [
+            {
+                "1742111259": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/164411745_1_1708940372_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "321411122",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "마지막 가격 [4] 넘버나인 09AW 실크 셔츠",
+        "price_updates": [
+            {
+                "1742105808": "1799000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321411122_1_1742188205_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "316154951",
+        "pid": "288984177",
         "brands": [
             "넘버나인"
         ],
-        "name": "맨즈온 넘버나인 웨스턴 체크 셔츠 블랙",
+        "name": "넘버나인 테일러드 자켓",
         "price_updates": [
             {
-                "1742091169": "35000"
+                "1742137813": "190000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/316154951_1_1742091635_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/288984177_1_1741381572_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "315720451",
+        "pid": "301324866",
         "brands": [
             "넘버나인"
         ],
-        "name": "Number (n)ine 넘버나인 반팔티",
+        "name": "넘버나인 케이블 니트 ZIP 자켓",
         "price_updates": [
             {
-                "1742071328": "76500"
+                "1742123621": "195000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315720451_1_1739967789_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/301324866_1_1732019643_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "285564036",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 눈꽃무늬 라운드 가디건",
+        "price_updates": [
+            {
+                "1742126778": "119000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285564036_1_1738498122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "158361332",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "마지막 가격 [3] 넘버나인 숄 가디건",
+        "price_updates": [
+            {
+                "1742138840": "199000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/158361332_1_1741250023_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "261441982",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 x Loveless 리페어 팬츠",
+        "price_updates": [
+            {
+                "1742127381": "159000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261441982_1_1729319200_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "229509543",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 01AW 앰블럼 디스트로이드 후드",
+        "price_updates": [
+            {
+                "1742121678": "297000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229509543_1_1688965985_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "226667497",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 / 아카이브 펜더 패러디 로고 티셔츠 / 2",
+        "price_updates": [
+            {
+                "1742119332": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226667497_1_1686397904_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "297552598",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "(3) 넘버나인 타카히로미야시타 03 커트기 셔츠",
+        "price_updates": [
+            {
+                "1742138090": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297552598_1_1741780154_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "311265916",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 X 알파인더스트리 B-15 플라이트 퍼 다운 자켓",
+        "price_updates": [
+            {
+                "1742137813": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311265916_1_1742049596_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "271730233",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "2010년대 초반 넘버나인 람브레타 사자 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742121254": "149000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/271730233_1_1722397881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321494273",
@@ -173,7 +365,55 @@
         "product_image": "https://media.bunjang.co.kr/product/321494273_1_1741403521_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "320756728",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 모헤어 가디건 커트코베인 (희귀매물)",
+        "price_updates": [
+            {
+                "1742096003": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320756728_1_1741400045_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "264315174",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 플란넬셔츠",
+        "price_updates": [
+            {
+                "1742089125": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264315174_1_1716381922_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "302859013",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 맨투맨 xl",
+        "price_updates": [
+            {
+                "1742099656": "30000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302859013_1_1736587050_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "258723332",
@@ -189,23 +429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258723332_1_1711974256_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "242450448",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 고담시티 후드",
-        "price_updates": [
-            {
-                "1742044029": "146000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242450448_1_1707895029_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "310124025",
@@ -221,7 +445,39 @@
         "product_image": "https://media.bunjang.co.kr/product/310124025_1_1740719079_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "242450448",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 고담시티 후드",
+        "price_updates": [
+            {
+                "1742044029": "146000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242450448_1_1707895029_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "306187284",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 (Number Nine) 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742101557": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306187284_1_1734247067_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "319598330",
@@ -231,13 +487,13 @@
         "name": "넘버나인 (Number (N)ine)",
         "price_updates": [
             {
-                "1742032389": "168000"
+                "1742032390": "168000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/319598330_1_1740477085_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316514194",
@@ -253,23 +509,71 @@
         "product_image": "https://media.bunjang.co.kr/product/316514194_1_1741335344_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "229509543",
+        "pid": "257716038",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 01AW 앰블럼 디스트로이드 후드",
+        "name": "넘버나인 패치데님 패치진 0x28",
         "price_updates": [
             {
-                "1742043720": "297000"
+                "1742103178": "200000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/229509543_1_1688965985_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/257716038_1_1734659710_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "289929729",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "Number (N)ine 넘버나인 티셔츠 XL",
+        "price_updates": [
+            {
+                "1742101564": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289929729_1_1733283480_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "315720451",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "Number (n)ine 넘버나인 반팔티",
+        "price_updates": [
+            {
+                "1742071328": "76500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315720451_1_1739967789_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "316154951",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "맨즈온 넘버나인 웨스턴 체크 셔츠 블랙",
+        "price_updates": [
+            {
+                "1742091168": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316154951_1_1742108364_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "190800076",
@@ -285,39 +589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/190800076_1_1675250502_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "311784029",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "(2) AW08 넘버나인 portland기 바시티 자켓",
-        "price_updates": [
-            {
-                "1742049088": "650000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311784029_1_1740512010_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "311265916",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 X 알파인더스트리 B-15 플라이트 퍼 다운 자켓",
-        "price_updates": [
-            {
-                "1742052195": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311265916_1_1742049596_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "322723509",
@@ -333,7 +605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322723509_1_1741952996_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321812618",
@@ -349,7 +621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321812618_1_1741499673_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "221033139",
@@ -365,23 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/221033139_1_1735699236_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "288984177",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 테일러드 자켓",
-        "price_updates": [
-            {
-                "1741964904": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/288984177_1_1741381572_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "315072885",
@@ -397,23 +653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315072885_1_1740852237_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "290550319",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "06FW 넘버나인 noir vest",
-        "price_updates": [
-            {
-                "1742010946": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290550319_1_1726995525_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "306608868",
@@ -429,7 +669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306608868_1_1742001115_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "318054246",
@@ -445,7 +685,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318054246_1_1742001078_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "290550319",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "06FW 넘버나인 noir vest",
+        "price_updates": [
+            {
+                "1742010946": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290550319_1_1726995525_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316044221",
@@ -461,7 +717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316044221_1_1738924558_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "318909394",
@@ -477,55 +733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318909394_1_1740896813_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "296225945",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 롤링스톤즈 패러디 티셔츠",
-        "price_updates": [
-            {
-                "1741931557": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/296225945_1_1729749768_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "283001137",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 롤링스톤즈 패러디 티셔츠",
-        "price_updates": [
-            {
-                "1741931557": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/283001137_1_1725948088_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "196554763",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 오르테가 팬츠",
-        "price_updates": [
-            {
-                "1741934355": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/196554763_1_1722475777_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "156702795",
@@ -541,23 +749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/156702795_1_1660430192_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "311758879",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 c2h4 하이브리드 도킹팬츠 S",
-        "price_updates": [
-            {
-                "1741938601": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311758879_1_1736930049_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321187951",
@@ -573,7 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321187951_1_1741674103_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321183115",
@@ -589,55 +781,55 @@
         "product_image": "https://media.bunjang.co.kr/product/321183115_1_1741925103_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321409343",
         "brands": [
             "넘버나인"
         ],
-        "name": "[4] 넘버나인 09AW 울팬츠",
+        "name": "마지막 가격 [4] 넘버나인 09AW 울팬츠",
         "price_updates": [
             {
-                "1741878369": "1499000"
+                "1741878369": "1299000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321409343_1_1741325831_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/321409343_1_1742188188_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "318399887",
+        "pid": "296225945",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 아가일 모헤어 가디건",
+        "name": "넘버나인 롤링스톤즈 패러디 티셔츠",
         "price_updates": [
             {
-                "1741857929": "110000"
+                "1741931557": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318399887_1_1740813733_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/296225945_1_1729749768_w{res}.jpg",
         "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "285564036",
+        "pid": "283001137",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 눈꽃무늬 라운드 가디건",
+        "name": "넘버나인 롤링스톤즈 패러디 티셔츠",
         "price_updates": [
             {
-                "1741868321": "119000"
+                "1741931557": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/285564036_1_1738498122_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/283001137_1_1725948088_w{res}.jpg",
         "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "300314419",
@@ -653,7 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300314419_1_1735139526_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255612868",
@@ -669,7 +861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255612868_1_1740494551_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255611312",
@@ -685,39 +877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255611312_1_1739352219_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "290132937",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 팬츠",
-        "price_updates": [
-            {
-                "1741757133": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290132937_1_1726808142_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "291061633",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 미야시타 맨투맨",
-        "price_updates": [
-            {
-                "1741786264": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291061633_1_1739970556_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "305223209",
@@ -733,23 +893,23 @@
         "product_image": "https://media.bunjang.co.kr/product/305223209_1_1733802178_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "322235378",
+        "pid": "291061633",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 SS02 아카이브 런웨이 팬츠",
+        "name": "넘버나인 미야시타 맨투맨",
         "price_updates": [
             {
-                "1741690969": "280000"
+                "1741786264": "50000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322235378_1_1741691143_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/291061633_1_1739970556_w{res}.jpg",
         "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "235273406",
@@ -765,7 +925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235273406_1_1693795184_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255610958",
@@ -781,39 +941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255610958_1_1709600309_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "289899330",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 04ss 런던 맵 자켓",
-        "price_updates": [
-            {
-                "1741763660": "270000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/289899330_1_1733400636_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "307471492",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "[3] 넘버나인 08AW 포틀랜드 코위찬 가디건",
-        "price_updates": [
-            {
-                "1741791682": "415000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307471492_1_1741791554_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255612217",
@@ -829,23 +957,23 @@
         "product_image": "https://media.bunjang.co.kr/product/255612217_1_1709696104_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "245572091",
+        "pid": "307471492",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 도킹자켓 number(n)ine",
+        "name": "[3] 넘버나인 08AW 포틀랜드 코위찬 가디건",
         "price_updates": [
             {
-                "1741757133": "1250000"
+                "1741791682": "415000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/245572091_1_1740292505_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/307471492_1_1741791554_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "246319758",
@@ -861,23 +989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246319758_1_1735368273_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "321409598",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "[3] 넘버나인 09AW 알파카 니트 판초",
-        "price_updates": [
-            {
-                "1741708724": "499000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321409598_1_1741326072_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "256141019",
@@ -893,23 +1005,23 @@
         "product_image": "https://media.bunjang.co.kr/product/256141019_1_1710866570_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "164411745",
+        "pid": "290132937",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 자켓",
+        "name": "넘버나인 팬츠",
         "price_updates": [
             {
-                "1741745223": "100000"
+                "1741757133": "400000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/164411745_1_1708940372_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/290132937_1_1726808142_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "313887234",
@@ -925,39 +1037,23 @@
         "product_image": "https://media.bunjang.co.kr/product/313887234_1_1737924551_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "321410674",
+        "pid": "321409598",
         "brands": [
             "넘버나인"
         ],
-        "name": "[4] 넘버나인 09AW 버튼 백 브이넥 니트 탑",
+        "name": "마지막 가격 [3] 넘버나인 09AW 알파카 니트 판초",
         "price_updates": [
             {
-                "1741708724": "499000"
+                "1741708724": "399000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321410674_1_1741326379_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/321409598_1_1742188160_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "322121932",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 - 06SS 스컬 로즈 블레이저",
-        "price_updates": [
-            {
-                "1741622859": "490000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322121932_1_1741622859_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "113358206",
@@ -973,7 +1069,23 @@
         "product_image": "https://media.bunjang.co.kr/product/113358206_1_1721108015_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "321410674",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "마지막 가격 [4] 넘버나인 09AW 버튼 백 브이넥 니트 탑",
+        "price_updates": [
+            {
+                "1741708724": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321410674_1_1742188169_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "313887170",
@@ -989,39 +1101,23 @@
         "product_image": "https://media.bunjang.co.kr/product/313887170_1_1737932162_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "230879021",
+        "pid": "322121932",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 03 페이즐리셔츠 3 size",
+        "name": "넘버나인 - 06SS 스컬 로즈 블레이저",
         "price_updates": [
             {
-                "1741698096": "150000"
+                "1741622859": "490000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/230879021_1_1699786058_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322121932_1_1741622859_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "158361332",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "마지막 가격 [3] 넘버나인 숄 가디건",
-        "price_updates": [
-            {
-                "1741708724": "199000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/158361332_1_1741250023_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "296709820",
@@ -1037,7 +1133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296709820_1_1741705704_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255613403",
@@ -1053,7 +1149,39 @@
         "product_image": "https://media.bunjang.co.kr/product/255613403_1_1735368212_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "230879021",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 03 페이즐리셔츠 3 size",
+        "price_updates": [
+            {
+                "1741698096": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/230879021_1_1699786058_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "245572091",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 도킹자켓 number(n)ine",
+        "price_updates": [
+            {
+                "1741757133": "1250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245572091_1_1740292505_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "152031128",
@@ -1069,7 +1197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/152031128_1_1675247839_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "226670511",
@@ -1085,183 +1213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226670511_1_1686399713_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "170583187",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 타카히로미야시타 블랙 셔츠 베스트",
-        "price_updates": [
-            {
-                "1741612076": "87000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/170583187_1_1737077313_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "276675672",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "(3) 넘버나인 커트 코베인 티셔츠",
-        "price_updates": [
-            {
-                "1741610663": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/276675672_1_1726726494_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "245444284",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 07 레이어드 뮤직노트 코트",
-        "price_updates": [
-            {
-                "1741610857": "799000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245444284_1_1732266591_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "299612243",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "아카이브 넘버나인 07aw 오르테가 셔츠",
-        "price_updates": [
-            {
-                "1741605745": "259000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299612243_1_1735949078_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "245557845",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "06 S/S Number nine 넘버나인 액슬 로즈 컬렉션 베스트",
-        "price_updates": [
-            {
-                "1741603227": "1150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/245557845_1_1731394111_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "297552598",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "(3) 넘버나인 타카히로미야시타 03 커트기 셔츠",
-        "price_updates": [
-            {
-                "1741668003": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297552598_1_1741780154_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "319801852",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "[정품] 넘버나인 aw03 커트코베인 니트 3",
-        "price_updates": [
-            {
-                "1741604088": "1200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319801852_1_1740569122_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "306957036",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "Number (n)ine 넘버나인 05aw 오르테가 팬츠",
-        "price_updates": [
-            {
-                "1741598881": "360000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306957036_1_1739872105_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "321410132",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "[4] 넘버나인 09AW 숄 칼라 니트 가디건",
-        "price_updates": [
-            {
-                "1741580255": "699000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321410132_1_1741326154_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "287655513",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 베이프 메카닉 셔츠",
-        "price_updates": [
-            {
-                "1741578296": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287655513_1_1725363185_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "319846285",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 코듀로이 웨스턴 무스탕",
-        "price_updates": [
-            {
-                "1741525488": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319846285_1_1740582031_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321697203",
@@ -1277,71 +1229,87 @@
         "product_image": "https://media.bunjang.co.kr/product/321697203_1_1741439771_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "320570840",
+        "pid": "170583187",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 오버핏 반팔",
+        "name": "넘버나인 타카히로미야시타 블랙 셔츠 베스트",
         "price_updates": [
             {
-                "1740901980": "13900"
+                "1741612076": "87000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320570840_1_1740901980_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/170583187_1_1737077313_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "276675672",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "(3) 넘버나인 커트 코베인 티셔츠",
+        "price_updates": [
+            {
+                "1741610663": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/276675672_1_1726726494_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "321411122",
+        "pid": "245444284",
         "brands": [
             "넘버나인"
         ],
-        "name": "[4] 넘버나인 09AW 실크 셔츠",
+        "name": "넘버나인 07 레이어드 뮤직노트 코트",
         "price_updates": [
             {
-                "1741326574": "1999000"
+                "1741610857": "799000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321411122_1_1741330004_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/245444284_1_1732266591_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "299612243",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "아카이브 넘버나인 07aw 오르테가 셔츠",
+        "price_updates": [
+            {
+                "1741605745": "259000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299612243_1_1735949078_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "257396054",
+        "pid": "245557845",
         "brands": [
             "넘버나인"
         ],
-        "name": "[3x32] 넘버나인 04AW 코듀로이 팬츠",
+        "name": "06 S/S Number nine 넘버나인 액슬 로즈 컬렉션 베스트",
         "price_updates": [
             {
-                "1741527129": "250000"
+                "1741603227": "1150000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/257396054_1_1715442183_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/245557845_1_1731394111_w{res}.jpg",
         "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "321409893",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "[4] 넘버나인 09AW 알파카 니트 가디건",
-        "price_updates": [
-            {
-                "1741326053": "799000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321409893_1_1741326053_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "321410801",
@@ -1357,7 +1325,103 @@
         "product_image": "https://media.bunjang.co.kr/product/321410801_1_1741326436_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "321410132",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "마지막 가격 [4] 넘버나인 09AW 숄 칼라 니트 가디건",
+        "price_updates": [
+            {
+                "1741580255": "599000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321410132_1_1742188213_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "319801852",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "[정품] 넘버나인 aw03 커트코베인 니트 3",
+        "price_updates": [
+            {
+                "1741604088": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319801852_1_1740569122_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "287655513",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 베이프 메카닉 셔츠",
+        "price_updates": [
+            {
+                "1741578296": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287655513_1_1725363185_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "319846285",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 코듀로이 웨스턴 무스탕",
+        "price_updates": [
+            {
+                "1741525488": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319846285_1_1740582031_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "321409893",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "마지막 가격 [4] 넘버나인 09AW 알파카 니트 가디건",
+        "price_updates": [
+            {
+                "1741326053": "699000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321409893_1_1742188145_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "306957036",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "Number (n)ine 넘버나인 05aw 오르테가 팬츠",
+        "price_updates": [
+            {
+                "1741598881": "360000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306957036_1_1739872105_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "303792909",
@@ -1373,55 +1437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303792909_1_1733141179_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "315959073",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "numbernine 넘버나인 코위찬 니트집업",
-        "price_updates": [
-            {
-                "1741359320": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315959073_1_1738893595_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "290536192",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 06ss 페인팅 베스트",
-        "price_updates": [
-            {
-                "1741491270": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290536192_1_1726990868_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "321136726",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "2004AW 넘버나인 Heart Tribal Bontage Pants",
-        "price_updates": [
-            {
-                "1741173309": "697000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321136726_1_1741173309_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "306328286",
@@ -1437,7 +1453,39 @@
         "product_image": "https://media.bunjang.co.kr/product/306328286_1_1734646584_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "315959073",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "numbernine 넘버나인 코위찬 니트집업",
+        "price_updates": [
+            {
+                "1741359320": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315959073_1_1738893595_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "290536192",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 06ss 페인팅 베스트",
+        "price_updates": [
+            {
+                "1741491270": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290536192_1_1726990868_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "273583306",
@@ -1453,7 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273583306_1_1724739852_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "243002714",
@@ -1469,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243002714_1_1700046916_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "295239460",
@@ -1485,39 +1533,23 @@
         "product_image": "https://media.bunjang.co.kr/product/295239460_1_1729315538_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
-        "pid": "301324866",
+        "pid": "320570840",
         "brands": [
             "넘버나인"
         ],
-        "name": "넘버나인 케이블 니트 ZIP 자켓",
+        "name": "넘버나인 오버핏 반팔",
         "price_updates": [
             {
-                "1741269727": "195000"
+                "1740901980": "13900"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/301324866_1_1732019643_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320570840_1_1740901980_w{res}.jpg",
         "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "315633259",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 number nine 니트 스웨터",
-        "price_updates": [
-            {
-                "1741176148": "145000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315633259_1_1741176189_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "281439153",
@@ -1533,7 +1565,23 @@
         "product_image": "https://media.bunjang.co.kr/product/281439153_1_1731941898_w{res}.jpg",
         "status": "0",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "315633259",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 number nine 니트 스웨터",
+        "price_updates": [
+            {
+                "1741176148": "145000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315633259_1_1741176189_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "315076244",
@@ -1549,7 +1597,23 @@
         "product_image": "https://media.bunjang.co.kr/product/315076244_1_1738494476_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:29"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "257396054",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "[3x32] 넘버나인 04AW 코듀로이 팬츠",
+        "price_updates": [
+            {
+                "1741527129": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/257396054_1_1715442183_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "245490063",
@@ -1565,23 +1629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245490063_1_1735367435_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:29"
-    },
-    {
-        "pid": "319083365",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "<스트릿의류매입>넘버나인혜인서존갈리아노paf프로젝트gr에이시넥틱스xlim",
-        "price_updates": [
-            {
-                "1741515189": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319083365_1_1740236855_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "230878235",
@@ -1597,7 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230878235_1_1699786043_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "146284615",
@@ -1613,23 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/146284615_1_1702123206_w{res}.jpg",
         "status": "0",
         "category_id": "320500999",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "226667497",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 / 아카이브 펜더 패러디 로고 티셔츠 / 2",
-        "price_updates": [
-            {
-                "1741089109": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/226667497_1_1686397904_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "277346899",
@@ -1645,7 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277346899_1_1720080082_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "315969298",
@@ -1661,7 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315969298_1_1738898093_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "318646481",
@@ -1677,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318646481_1_1740287514_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "313475268",
@@ -1693,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313475268_1_1737726653_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "302746124",
@@ -1709,7 +1741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302746124_1_1741859330_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "314198066",
@@ -1725,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314198066_1_1741045602_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "238100442",
@@ -1741,23 +1773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/238100442_1_1724897401_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "259943630",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "미야시타 넘버나인 테일러드 자켓",
-        "price_updates": [
-            {
-                "1740362276": "590000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259943630_1_1712928979_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316218220",
@@ -1773,7 +1789,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316218220_1_1740970084_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "259943630",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "미야시타 넘버나인 테일러드 자켓",
+        "price_updates": [
+            {
+                "1740362276": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259943630_1_1712928979_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "264175000",
@@ -1789,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264175000_1_1716344980_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "220117299",
@@ -1805,7 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220117299_1_1739856973_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "310051522",
@@ -1821,7 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310051522_1_1736131120_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "298968877",
@@ -1837,7 +1869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298968877_1_1730978882_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "272967482",
@@ -1853,7 +1885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/272967482_1_1721092870_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "310959838",
@@ -1869,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310959838_1_1736574104_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "311938727",
@@ -1885,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311938727_1_1737095912_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "263716966",
@@ -1901,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263716966_1_1721838687_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "229509901",
@@ -1917,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229509901_1_1739688734_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255612450",
@@ -1933,7 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255612450_1_1709601752_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "250901816",
@@ -1949,7 +1981,23 @@
         "product_image": "https://media.bunjang.co.kr/product/250901816_1_1706167588_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "319083365",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "<스트릿의류매입>넘버나인혜인서존갈리아노paf프로젝트gr에이시넥틱스xlim",
+        "price_updates": [
+            {
+                "1741515189": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319083365_1_1740236855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "234214777",
@@ -1965,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/234214777_1_1739257402_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "310477480",
@@ -1981,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310477480_1_1736331410_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "320196767",
@@ -1997,23 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320196767_1_1740750797_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "320457433",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 03 TOUCH ME I AM SICK 커트 코베인 가디건",
-        "price_updates": [
-            {
-                "1740844773": "900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320457433_1_1740844773_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "319042681",
@@ -2029,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319042681_1_1740371027_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "296942348",
@@ -2045,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296942348_1_1730042032_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "102078838",
@@ -2061,23 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/102078838_1_1725197070_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "257716038",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 패치데님 패치진 0x28",
-        "price_updates": [
-            {
-                "1740048716": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/257716038_1_1734659710_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "318240730",
@@ -2093,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318240730_1_1739865297_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255611168",
@@ -2109,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255611168_1_1709600507_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "210408412",
@@ -2125,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/210408412_1_1694455162_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "232415068",
@@ -2141,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/232415068_1_1691410692_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "282208001",
@@ -2157,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282208001_1_1741786559_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "317725465",
@@ -2173,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317725465_1_1739631869_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "128865194",
@@ -2189,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/128865194_1_1670917103_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "250162370",
@@ -2205,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250162370_1_1709696134_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "245487045",
@@ -2221,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245487045_1_1735368129_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "207700232",
@@ -2237,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/207700232_1_1738716458_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "193202825",
@@ -2253,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/193202825_1_1687530219_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "309325240",
@@ -2269,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309325240_1_1735790631_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316616383",
@@ -2285,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316616383_1_1739170209_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316681943",
@@ -2301,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316681943_1_1739189413_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316358420",
@@ -2317,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316358420_1_1739067541_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "272055568",
@@ -2333,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/272055568_1_1734016670_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "232918665",
@@ -2349,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/232918665_1_1691825665_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316384338",
@@ -2365,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316384338_1_1739107206_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "258724145",
@@ -2381,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258724145_1_1712025020_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316359851",
@@ -2397,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316359851_1_1739068070_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "236427462",
@@ -2413,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236427462_1_1694760477_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "287950029",
@@ -2429,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287950029_1_1725533408_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "309250157",
@@ -2445,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309250157_1_1735736474_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "296129719",
@@ -2461,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296129719_1_1729690266_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "316435031",
@@ -2477,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316435031_1_1739089753_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "131114654",
@@ -2493,23 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/131114654_1_1691165047_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "271730233",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "2010년대 초반 넘버나인 람브레타 사자 반팔 티셔츠",
-        "price_updates": [
-            {
-                "1738930434": "149000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/271730233_1_1722397881_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "267626790",
@@ -2525,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267626790_1_1723396894_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "312695356",
@@ -2541,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312695356_1_1737361775_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "305906802",
@@ -2557,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305906802_1_1734106080_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "293527670",
@@ -2573,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293527670_1_1728559751_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "237617302",
@@ -2589,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237617302_1_1695787400_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "269053913",
@@ -2605,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269053913_1_1733884888_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "311490971",
@@ -2621,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311490971_1_1737454110_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "310655065",
@@ -2637,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310655065_1_1736417218_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "306321619",
@@ -2653,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306321619_1_1734283966_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "255716798",
@@ -2669,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255716798_1_1712213739_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "172374080",
@@ -2685,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/172374080_1_1638959545_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "182203317",
@@ -2701,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/182203317_1_1682791251_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "301174111",
@@ -2717,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301174111_1_1731943581_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "295144279",
@@ -2733,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295144279_1_1729259207_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "305906977",
@@ -2749,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305906977_1_1734606394_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "305635921",
@@ -2765,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305635921_1_1733989160_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "258720823",
@@ -2781,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258720823_1_1717991258_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "229267512",
@@ -2797,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229267512_1_1705294252_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "176351693",
@@ -2813,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/176351693_1_1731230100_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "304511515",
@@ -2829,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304511515_1_1733558621_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "307420855",
@@ -2845,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307420855_1_1734796158_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "269904081",
@@ -2861,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269904081_1_1741521117_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "258805798",
@@ -2877,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258805798_1_1712046582_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "172720044",
@@ -2893,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/172720044_1_1639235505_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "303877272",
@@ -2909,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303877272_1_1733909726_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "297615858",
@@ -2925,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297615858_1_1730372804_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "291232459",
@@ -2941,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291232459_1_1739846342_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "154444807",
@@ -2957,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/154444807_1_1731467842_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "276661104",
@@ -2973,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/276661104_1_1719830762_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "226530202",
@@ -2989,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226530202_1_1725680187_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "263909524",
@@ -3005,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263909524_1_1716268195_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "237619266",
@@ -3021,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237619266_1_1695789102_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "237618033",
@@ -3037,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237618033_1_1695788030_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "298867384",
@@ -3053,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298867384_1_1730944381_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "288435969",
@@ -3069,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288435969_1_1725784332_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "158005225",
@@ -3085,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/158005225_1_1675070104_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "293271454",
@@ -3101,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293271454_1_1728443298_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "292093462",
@@ -3117,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292093462_1_1727835769_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "228911200",
@@ -3133,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228911200_1_1688437501_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "212554686",
@@ -3149,23 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/212554686_1_1679275431_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "261441982",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 x Loveless 리페어 팬츠",
-        "price_updates": [
-            {
-                "1730200405": "159000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261441982_1_1729319200_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "246220969",
@@ -3181,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246220969_1_1710878930_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "296035235",
@@ -3197,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296035235_1_1729672456_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "261536022",
@@ -3213,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261536022_1_1714190270_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "295923931",
@@ -3229,23 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295923931_1_1729600316_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "290690267",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 디즈니 리암 갤러거 후드티 100사이즈",
-        "price_updates": [
-            {
-                "1729416433": "305000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290690267_1_1727071345_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "267627920",
@@ -3261,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267627920_1_1724266238_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "284203119",
@@ -3277,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284203119_1_1723461363_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "296068131",
@@ -3293,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296068131_1_1729679941_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "269977240",
@@ -3309,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269977240_1_1724495866_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "271108647",
@@ -3325,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271108647_1_1725158522_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "231079662",
@@ -3341,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231079662_1_1721890689_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "230105314",
@@ -3357,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230105314_1_1718966479_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "172819180",
@@ -3373,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/172819180_1_1678743462_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "231367737",
@@ -3389,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231367737_1_1713219464_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "289760929",
@@ -3405,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289760929_1_1726546996_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "291064029",
@@ -3421,23 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291064029_1_1727262857_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "221224673",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 number (n)ine 04시즌 패치데님쇼츠",
-        "price_updates": [
-            {
-                "1727944378": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/221224673_1_1720102586_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "290690098",
@@ -3453,7 +3405,23 @@
         "product_image": "https://media.bunjang.co.kr/product/290690098_1_1727071278_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
+    },
+    {
+        "pid": "221224673",
+        "brands": [
+            "넘버나인"
+        ],
+        "name": "넘버나인 number (n)ine 04시즌 패치데님쇼츠",
+        "price_updates": [
+            {
+                "1727944378": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/221224673_1_1720102586_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "287751126",
@@ -3469,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287751126_1_1727835499_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "231436056",
@@ -3485,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231436056_1_1690555920_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "248687626",
@@ -3501,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248687626_1_1704536415_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "284204017",
@@ -3517,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284204017_1_1723461342_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "267626397",
@@ -3533,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267626397_1_1723396987_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "267628320",
@@ -3549,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267628320_1_1724266248_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "223027536",
@@ -3565,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223027536_1_1684713033_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "248687540",
@@ -3581,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248687540_1_1704536364_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "223220820",
@@ -3597,23 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/223220820_1_1684713033_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "243175183",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 x 말보로 티셔츠 90",
-        "price_updates": [
-            {
-                "1722505704": "43000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/243175183_1_1704502204_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "256885715",
@@ -3629,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256885715_1_1710573879_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "224565076",
@@ -3645,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224565076_1_1684506407_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "282912821",
@@ -3661,7 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282912821_1_1722733669_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "230479351",
@@ -3677,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230479351_1_1702434114_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "280903548",
@@ -3693,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280903548_1_1721646309_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "240873023",
@@ -3709,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240873023_1_1698418129_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "279703273",
@@ -3725,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279703273_1_1722156255_w{res}.jpg",
         "status": "1",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "280122967",
@@ -3741,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280122967_1_1721264731_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "234256960",
@@ -3757,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/234256960_1_1692943981_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "205598274",
@@ -3773,7 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/205598274_1_1687530262_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "230076060",
@@ -3789,7 +3741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230076060_1_1724266154_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "268868448",
@@ -3805,7 +3757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268868448_1_1717338979_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "261764823",
@@ -3821,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261764823_1_1714377367_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "158389953",
@@ -3837,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/158389953_1_1706888976_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "267603885",
@@ -3853,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267603885_1_1716984460_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "267628597",
@@ -3869,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/267628597_1_1724266207_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "187953809",
@@ -3885,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/187953809_1_1678289681_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "167171957",
@@ -3901,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/167171957_1_1712297557_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "263863875",
@@ -3917,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263863875_1_1716028549_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "261804020",
@@ -3933,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261804020_1_1714396928_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "200628547",
@@ -3949,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200628547_1_1664383939_w{res}.jpg",
         "status": "1",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "201045856",
@@ -3965,7 +3917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/201045856_1_1698744386_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "262659127",
@@ -3981,7 +3933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262659127_1_1715078579_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "259553823",
@@ -3997,7 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259553823_1_1713752743_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "209513087",
@@ -4013,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/209513087_1_1672028213_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "200631095",
@@ -4029,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200631095_1_1664390543_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "158428634",
@@ -4045,23 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/158428634_1_1625499521_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:30"
-    },
-    {
-        "pid": "256973929",
-        "brands": [
-            "넘버나인"
-        ],
-        "name": "넘버나인 봄버 자켓",
-        "price_updates": [
-            {
-                "1710644983": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/256973929_1_1710846256_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:30"
+        "collected_timestamp": "2025-03-17 06:13:28"
     },
     {
         "pid": "322722677",
@@ -4077,23 +4013,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322722677_1_1741945595_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
-        "pid": "321686757",
+        "pid": "322235378",
         "brands": [
             "넘버나인"
         ],
-        "name": "NUMBER (N)INE 넘버나인 아카이브 페인트 디스트로이드 데님 팬츠",
+        "name": "넘버나인 SS02 아카이브 런웨이 팬츠",
         "price_updates": [
             {
-                "1741437209": "80000"
+                "1741690969": "280000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321686757_1_1741446000_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322235378_1_1741691143_w{res}.jpg",
         "status": "3",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "305573968",
@@ -4109,7 +4045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305573968_1_1741066353_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "314962067",
@@ -4125,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314962067_1_1739351574_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "319412044",
@@ -4141,7 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319412044_1_1740390648_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "319034093",
@@ -4157,7 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319034093_1_1740222172_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "305398237",
@@ -4173,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305398237_1_1738831278_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "317172387",
@@ -4189,7 +4125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317172387_1_1739450601_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "315232854",
@@ -4205,7 +4141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315232854_1_1738567656_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "314197396",
@@ -4221,7 +4157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314197396_1_1739162889_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "261933071",
@@ -4237,7 +4173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261933071_1_1737121735_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "237621685",
@@ -4253,7 +4189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237621685_1_1741005154_w{res}.jpg",
         "status": "3",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "314281938",
@@ -4269,7 +4205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314281938_1_1738139862_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "308024540",
@@ -4285,7 +4221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308024540_1_1737608232_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "311491000",
@@ -4301,7 +4237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311491000_1_1737121761_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "134985503",
@@ -4317,7 +4253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/134985503_1_1736771923_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "310847052",
@@ -4333,7 +4269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310847052_1_1736509258_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "303876026",
@@ -4349,7 +4285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303876026_1_1736112547_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "309277341",
@@ -4365,7 +4301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309277341_1_1737549268_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "307306005",
@@ -4381,7 +4317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307306005_1_1734763277_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "305228067",
@@ -4397,7 +4333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305228067_1_1735139040_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "277983045",
@@ -4413,7 +4349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/277983045_1_1734765749_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "290236019",
@@ -4429,7 +4365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290236019_1_1737988911_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "146291321",
@@ -4445,7 +4381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/146291321_1_1740980241_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     },
     {
         "pid": "163979787",
@@ -4461,6 +4397,6 @@
         "product_image": "https://media.bunjang.co.kr/product/163979787_1_1740675599_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:31"
+        "collected_timestamp": "2025-03-17 06:13:30"
     }
 ]

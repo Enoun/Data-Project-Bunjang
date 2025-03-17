@@ -7,13 +7,29 @@
         "name": "erl 버뮤다 카고 쇼츠 m",
         "price_updates": [
             {
-                "1742099634": "350000"
+                "1742185635": "350000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/318647675_1_1740043718_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "259335646",
+        "brands": [
+            "erl"
+        ],
+        "name": "정품 디올 erl 라이트핑크 스웨트 맨투맨",
+        "price_updates": [
+            {
+                "1742174567": "1350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/259335646_1_1712467696_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322960242",
@@ -23,13 +39,77 @@
         "name": "리바이스 erl 버뮤다팬츠 데님팬츠 데님 반바지 사이즈 34 팝니다",
         "price_updates": [
             {
-                "1742052634": "400000"
+                "1742163798": "400000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/322960242_1_1742044426_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "323106150",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 스월 후드 L",
+        "price_updates": [
+            {
+                "1742111618": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323106150_1_1742111652_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "322083020",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 후드 L",
+        "price_updates": [
+            {
+                "1742123694": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322083020_1_1741609518_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "260189560",
+        "brands": [
+            "erl"
+        ],
+        "name": "[XL] erl 후드 그린",
+        "price_updates": [
+            {
+                "1742138100": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260189560_1_1713114834_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "260031602",
+        "brands": [
+            "erl"
+        ],
+        "name": "[새상품] erl wet 니트 L",
+        "price_updates": [
+            {
+                "1742112719": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/260031602_1_1742112714_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "320963534",
@@ -42,42 +122,10 @@
                 "1742050919": "360000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320963534_1_1741174187_w{res}.jpg",
-        "status": "0",
+        "product_image": "https://media.bunjang.co.kr/product/320963534_1_1742181596_w{res}.jpg",
+        "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "322083020",
-        "brands": [
-            "erl"
-        ],
-        "name": "erl 후드 L",
-        "price_updates": [
-            {
-                "1741960488": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322083020_1_1741609518_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "260031602",
-        "brands": [
-            "erl"
-        ],
-        "name": "[새상품] erl wet 니트 L",
-        "price_updates": [
-            {
-                "1741938296": "410000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/260031602_1_1741938290_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "209680361",
@@ -93,23 +141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/209680361_1_1739103575_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "260189560",
-        "brands": [
-            "erl"
-        ],
-        "name": "[XL] erl 후드 그린",
-        "price_updates": [
-            {
-                "1741878800": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/260189560_1_1713114834_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "305242296",
@@ -125,7 +157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305242296_1_1733809215_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "321028361",
@@ -141,39 +173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321028361_1_1741106956_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "259335646",
-        "brands": [
-            "erl"
-        ],
-        "name": "정품 디올 erl 라이트핑크 스웨트 맨투맨",
-        "price_updates": [
-            {
-                "1741535235": "1350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/259335646_1_1712467696_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "319871082",
-        "brands": [
-            "erl"
-        ],
-        "name": "erl 스월 후디 후드 xl 이알엘",
-        "price_updates": [
-            {
-                "1741577350": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319871082_1_1740606995_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "283999986",
@@ -189,7 +189,23 @@
         "product_image": "https://media.bunjang.co.kr/product/283999986_1_1723339814_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "319871082",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 스월 후디 후드 xl 이알엘",
+        "price_updates": [
+            {
+                "1741577350": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319871082_1_1740606995_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "259335465",
@@ -205,23 +221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259335465_1_1712467600_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "279930465",
-        "brands": [
-            "erl"
-        ],
-        "name": "erl 셔츠 데님 스타패턴",
-        "price_updates": [
-            {
-                "1740155334": "234000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/279930465_1_1738927851_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "303543283",
@@ -237,7 +237,23 @@
         "product_image": "https://media.bunjang.co.kr/product/303543283_1_1733038933_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "279930465",
+        "brands": [
+            "erl"
+        ],
+        "name": "erl 셔츠 데님 스타패턴",
+        "price_updates": [
+            {
+                "1740155334": "234000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279930465_1_1738927851_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "303543025",
@@ -253,7 +269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303543025_1_1733038860_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "316579247",
@@ -269,7 +285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316579247_1_1739926661_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "302421809",
@@ -285,7 +301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302421809_1_1732523232_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "296513452",
@@ -301,7 +317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296513452_1_1731139793_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "261735733",
@@ -317,7 +333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261735733_1_1731311057_w{res}.jpg",
         "status": "1",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "294709959",
@@ -333,7 +349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294709959_1_1729073652_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "292480456",
@@ -349,7 +365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292480456_1_1728031583_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "278391777",
@@ -365,39 +381,39 @@
         "product_image": "https://media.bunjang.co.kr/product/278391777_1_1720436394_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
-        "pid": "217767046",
+        "pid": "307160810",
         "brands": [
             "erl"
         ],
-        "name": "Tenderloin 니트 스위터",
+        "name": "Timberland Quilted Corduroy Hunting JKT",
         "price_updates": [
             {
-                "1742094853": "185000"
+                "1742191932": "125000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/217767046_1_1678632924_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/307160810_1_1736360392_w{res}.jpg",
         "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
-        "pid": "276827648",
+        "pid": "317853827",
         "brands": [
             "erl"
         ],
-        "name": "디써티원 티셔츠 princeton overlay print t-shirt",
+        "name": "수트서플라이 lazio 52 ferla 원단",
         "price_updates": [
             {
-                "1742088696": "24000"
+                "1742187546": "369000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/276827648_1_1719900004_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/317853827_1_1741233315_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "318789418",
@@ -407,13 +423,141 @@
         "name": "SUITSUPPLY Ferla 울 알파카 실크 글렌체크 Roma 자켓",
         "price_updates": [
             {
-                "1742083950": "405000"
+                "1742186936": "400000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/318789418_1_1741306384_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "217767046",
+        "brands": [
+            "erl"
+        ],
+        "name": "Tenderloin 니트 스위터",
+        "price_updates": [
+            {
+                "1742183313": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/217767046_1_1678632924_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "255000842",
+        "brands": [
+            "erl"
+        ],
+        "name": "PLAC Berlin B27 Raw 31",
+        "price_updates": [
+            {
+                "1742175347": "15000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255000842_1_1709127170_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "255004591",
+        "brands": [
+            "erl"
+        ],
+        "name": "PLAC 플랙진 Berlin 410 WSHD 31",
+        "price_updates": [
+            {
+                "1742175347": "12000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/255004591_1_1720059325_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "290229708",
+        "brands": [
+            "erl"
+        ],
+        "name": "[1] wonderland 나일론 파카 베이지",
+        "price_updates": [
+            {
+                "1742167830": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290229708_1_1740389548_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "310516245",
+        "brands": [
+            "erl"
+        ],
+        "name": "팀버랜드 Timberland 리버시블 다운 패딩 파카",
+        "price_updates": [
+            {
+                "1742153525": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310516245_1_1740292959_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "319438566",
+        "brands": [
+            "erl"
+        ],
+        "name": "A2) 아더에러 Sherlock double coat Camel",
+        "price_updates": [
+            {
+                "1742163741": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319438566_1_1741793141_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "317127424",
+        "brands": [
+            "erl"
+        ],
+        "name": "elise overland",
+        "price_updates": [
+            {
+                "1742141169": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317127424_1_1739367664_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "245334412",
+        "brands": [
+            "erl"
+        ],
+        "name": "tenderloin 텐더로인 cpo 자켓",
+        "price_updates": [
+            {
+                "1742113140": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/245334412_1_1707381474_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "218388844",
@@ -423,13 +567,45 @@
         "name": "트래디셔널웨더웨어 다운 점퍼 Waverly Down",
         "price_updates": [
             {
-                "1742060114": "115000"
+                "1742139985": "115000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/218388844_1_1738893627_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "206288875",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland 팀버랜드 점퍼(바람막이)",
+        "price_updates": [
+            {
+                "1742122263": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/206288875_1_1728026611_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "164511914",
+        "brands": [
+            "erl"
+        ],
+        "name": "(가격인하)텐더로인 tenderloin 워크셔츠",
+        "price_updates": [
+            {
+                "1742120184": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/164511914_1_1729584407_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322971105",
@@ -443,9 +619,9 @@
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/322971105_1_1742047278_w{res}.jpg",
-        "status": "0",
+        "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322978068",
@@ -461,23 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322978068_1_1742049186_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "290229708",
-        "brands": [
-            "erl"
-        ],
-        "name": "[1] wonderland 나일론 파카 베이지",
-        "price_updates": [
-            {
-                "1742031851": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290229708_1_1740389548_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "307735229",
@@ -493,55 +653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307735229_1_1734947532_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "310516245",
-        "brands": [
-            "erl"
-        ],
-        "name": "팀버랜드 Timberland 리버시블 다운 패딩 파카",
-        "price_updates": [
-            {
-                "1742050933": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310516245_1_1740292959_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "319438566",
-        "brands": [
-            "erl"
-        ],
-        "name": "A2) 아더에러 Sherlock double coat Camel",
-        "price_updates": [
-            {
-                "1742051068": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319438566_1_1741793141_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "313189117",
-        "brands": [
-            "erl"
-        ],
-        "name": "colimbo overland campaign trousers 30",
-        "price_updates": [
-            {
-                "1742033965": "112000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313189117_1_1737602318_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322688719",
@@ -557,23 +669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322688719_1_1741933556_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "317853827",
-        "brands": [
-            "erl"
-        ],
-        "name": "수트서플라이 lazio 52 ferla 원단",
-        "price_updates": [
-            {
-                "1741983171": "369000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317853827_1_1741233315_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322743377",
@@ -589,7 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322743377_1_1742037849_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "301830792",
@@ -605,55 +701,23 @@
         "product_image": "https://media.bunjang.co.kr/product/301830792_1_1737107042_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
-        "pid": "320738860",
+        "pid": "276827648",
         "brands": [
             "erl"
         ],
-        "name": "벨루티 Berluti 리버서블 2way 남겅 자켓",
+        "name": "디써티원 티셔츠 princeton overlay print t-shirt",
         "price_updates": [
             {
-                "1741871254": "2900000"
+                "1742088696": "24000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320738860_1_1740976960_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/276827648_1_1719900004_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "255000842",
-        "brands": [
-            "erl"
-        ],
-        "name": "PLAC Berlin B27 Raw 31",
-        "price_updates": [
-            {
-                "1741848670": "15000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/255000842_1_1709127170_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "309360123",
-        "brands": [
-            "erl"
-        ],
-        "name": "Berluti 벨루티 남성 셔츠(R39)",
-        "price_updates": [
-            {
-                "1741915745": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309360123_1_1739324510_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322364689",
@@ -669,7 +733,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322364689_1_1741763384_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "320738860",
+        "brands": [
+            "erl"
+        ],
+        "name": "벨루티 Berluti 리버서블 2way 남겅 자켓",
+        "price_updates": [
+            {
+                "1741871254": "2900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320738860_1_1740976960_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "315246929",
@@ -685,7 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315246929_1_1738572021_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "311576135",
@@ -701,7 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311576135_1_1736843206_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322659277",
@@ -717,23 +797,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322659277_1_1741921348_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
-        "pid": "255004591",
+        "pid": "313189117",
         "brands": [
             "erl"
         ],
-        "name": "PLAC 플랙진 Berlin 410 WSHD 31",
+        "name": "colimbo overland campaign trousers 30",
         "price_updates": [
             {
-                "1741848670": "12000"
+                "1742033965": "112000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/255004591_1_1720059325_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/313189117_1_1737602318_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "322507147",
@@ -749,23 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322507147_1_1741840534_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "216582916",
-        "brands": [
-            "erl"
-        ],
-        "name": "(새상품)Plac 크림색 플랙진 berlin 31사이즈",
-        "price_updates": [
-            {
-                "1742004119": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/216582916_1_1735076144_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "317897584",
@@ -781,7 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317897584_1_1739977152_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "260117850",
@@ -797,23 +861,23 @@
         "product_image": "https://media.bunjang.co.kr/product/260117850_1_1729843489_w{res}.jpg",
         "status": "0",
         "category_id": "320400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
-        "pid": "245334412",
+        "pid": "216582916",
         "brands": [
             "erl"
         ],
-        "name": "tenderloin 텐더로인 cpo 자켓",
+        "name": "(새상품)Plac 크림색 플랙진 berlin 31사이즈",
         "price_updates": [
             {
-                "1741774718": "190000"
+                "1742004119": "40000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/245334412_1_1707381474_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/216582916_1_1735076144_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "252112101",
@@ -829,7 +893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252112101_1_1707052152_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "316140210",
@@ -845,23 +909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316140210_1_1740538117_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "317127424",
-        "brands": [
-            "erl"
-        ],
-        "name": "elise overland",
-        "price_updates": [
-            {
-                "1741619756": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317127424_1_1739367664_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "313071592",
@@ -877,7 +925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313071592_1_1740841820_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "312315855",
@@ -893,7 +941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312315855_1_1737191240_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "306100532",
@@ -909,71 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306100532_1_1738022773_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "164511914",
-        "brands": [
-            "erl"
-        ],
-        "name": "(가격인하)텐더로인 tenderloin 워크셔츠",
-        "price_updates": [
-            {
-                "1741840594": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/164511914_1_1729584407_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "294345059",
-        "brands": [
-            "erl"
-        ],
-        "name": "무료배송 팀버랜드 자켓 네이비 Timberland M (100)",
-        "price_updates": [
-            {
-                "1741691701": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294345059_1_1739068618_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "317277226",
-        "brands": [
-            "erl"
-        ],
-        "name": "29)팀버랜드 Timberland 스트레이트 코튼 팬츠",
-        "price_updates": [
-            {
-                "1741750714": "22000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317277226_1_1741336433_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "320860150",
-        "brands": [
-            "erl"
-        ],
-        "name": "익스트림 Extreme 빈티지 밴드티 Winterland 1995년 제작",
-        "price_updates": [
-            {
-                "1741795596": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320860150_1_1741015992_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "97722925",
@@ -989,7 +973,55 @@
         "product_image": "https://media.bunjang.co.kr/product/97722925_1_1728471967_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "317277226",
+        "brands": [
+            "erl"
+        ],
+        "name": "29)팀버랜드 Timberland 스트레이트 코튼 팬츠",
+        "price_updates": [
+            {
+                "1741750714": "22000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317277226_1_1741336433_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "294345059",
+        "brands": [
+            "erl"
+        ],
+        "name": "무료배송 팀버랜드 자켓 네이비 Timberland M (100)",
+        "price_updates": [
+            {
+                "1741691701": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294345059_1_1739068618_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:46"
+    },
+    {
+        "pid": "320860150",
+        "brands": [
+            "erl"
+        ],
+        "name": "익스트림 Extreme 빈티지 밴드티 Winterland 1995년 제작",
+        "price_updates": [
+            {
+                "1741795596": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320860150_1_1741015992_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "310085402",
@@ -1005,7 +1037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310085402_1_1736144776_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "321321614",
@@ -1021,7 +1053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321321614_1_1741265697_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 05:25:36"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "321218139",
@@ -1037,55 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321218139_1_1741850282_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "208984558",
-        "brands": [
-            "erl"
-        ],
-        "name": "몽클레어 berling 봄버패딩 2 새상품 판매합니다.",
-        "price_updates": [
-            {
-                "1741564038": "1380000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/208984558_1_1701783484_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "313914039",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland 팀버랜드 오버셔츠자켓사이즈 L",
-        "price_updates": [
-            {
-                "1741649827": "69000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313914039_1_1737948252_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:36"
-    },
-    {
-        "pid": "317591920",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland 팀버랜드 플리스 자켓 뽀글이",
-        "price_updates": [
-            {
-                "1741537179": "28000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317591920_1_1739593442_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:46"
     },
     {
         "pid": "309984459",
@@ -1101,7 +1085,39 @@
         "product_image": "https://media.bunjang.co.kr/product/309984459_1_1736081485_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "208984558",
+        "brands": [
+            "erl"
+        ],
+        "name": "몽클레어 berling 봄버패딩 2 새상품 판매합니다.",
+        "price_updates": [
+            {
+                "1741564038": "1380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/208984558_1_1701783484_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "317591920",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland 팀버랜드 플리스 자켓 뽀글이",
+        "price_updates": [
+            {
+                "1741537179": "28000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317591920_1_1739593442_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296849415",
@@ -1117,7 +1133,23 @@
         "product_image": "https://media.bunjang.co.kr/product/296849415_1_1741622842_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "313914039",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland 팀버랜드 오버셔츠자켓사이즈 L",
+        "price_updates": [
+            {
+                "1741649827": "69000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313914039_1_1737948252_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296591552",
@@ -1133,7 +1165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296591552_1_1729921181_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "246924672",
@@ -1149,7 +1181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246924672_1_1705607755_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "289597530",
@@ -1165,7 +1197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289597530_1_1729023622_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "311150591",
@@ -1181,7 +1213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311150591_1_1736661151_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "319044095",
@@ -1197,7 +1229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319044095_1_1740225200_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "313974333",
@@ -1213,23 +1245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313974333_1_1737970606_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "287457880",
-        "brands": [
-            "erl"
-        ],
-        "name": "90s 더블알엘 doublerl rrl 데님 청반바지",
-        "price_updates": [
-            {
-                "1739326190": "168000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/287457880_1_1725257958_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "165396603",
@@ -1245,7 +1261,23 @@
         "product_image": "https://media.bunjang.co.kr/product/165396603_1_1712138544_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "287457880",
+        "brands": [
+            "erl"
+        ],
+        "name": "90s 더블알엘 doublerl rrl 데님 청반바지",
+        "price_updates": [
+            {
+                "1739326190": "168000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/287457880_1_1725257958_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "264061800",
@@ -1261,23 +1293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264061800_1_1726971701_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "206288875",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland 팀버랜드 점퍼(바람막이)",
-        "price_updates": [
-            {
-                "1741185392": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/206288875_1_1728026611_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "285487388",
@@ -1293,7 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285487388_1_1724169466_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "316259149",
@@ -1309,7 +1325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316259149_1_1739013109_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "247599312",
@@ -1325,23 +1341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247599312_1_1740179647_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "312343125",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland X Nina Chanel Abney 후드티",
-        "price_updates": [
-            {
-                "1740349473": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312343125_1_1741414008_w{res}.jpg",
-        "status": "1",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "307979882",
@@ -1357,7 +1357,23 @@
         "product_image": "https://media.bunjang.co.kr/product/307979882_1_1735092057_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "312343125",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland X Nina Chanel Abney 후드티",
+        "price_updates": [
+            {
+                "1740349473": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312343125_1_1741414008_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "306870167",
@@ -1373,7 +1389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306870167_1_1734539052_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "302888676",
@@ -1389,7 +1405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302888676_1_1732724796_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "301240716",
@@ -1405,39 +1421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301240716_1_1731993949_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "307160810",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland Quilted Corduroy Hunting JKT",
-        "price_updates": [
-            {
-                "1741500658": "125000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307160810_1_1736360392_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "306812924",
-        "brands": [
-            "erl"
-        ],
-        "name": "House of Peerless 소가죽 레이싱 자켓",
-        "price_updates": [
-            {
-                "1737712295": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306812924_1_1734520541_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "309941767",
@@ -1453,23 +1437,23 @@
         "product_image": "https://media.bunjang.co.kr/product/309941767_1_1740705027_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
-        "pid": "320670868",
+        "pid": "306812924",
         "brands": [
             "erl"
         ],
-        "name": "러프사이드 Featherless Jumper \"Oatmeal\"",
+        "name": "House of Peerless 소가죽 레이싱 자켓",
         "price_updates": [
             {
-                "1740926575": "120000"
+                "1737712295": "130000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320670868_1_1742097261_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "product_image": "https://media.bunjang.co.kr/product/306812924_1_1734520541_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "194016155",
@@ -1485,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/194016155_1_1705475110_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "318242065",
@@ -1501,7 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318242065_1_1739865722_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "259167962",
@@ -1517,7 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259167962_1_1739493479_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "284216223",
@@ -1533,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284216223_1_1741513468_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "312558317",
@@ -1549,7 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312558317_1_1737290217_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "230143870",
@@ -1565,39 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/230143870_1_1729058350_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "315594218",
-        "brands": [
-            "erl"
-        ],
-        "name": "(A-77) Timberland 팀버랜드 집업",
-        "price_updates": [
-            {
-                "1738730286": "45000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315594218_1_1738730403_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "264277473",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland 팀버랜드 화이트 반팔라운드티",
-        "price_updates": [
-            {
-                "1738978185": "10000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/264277473_1_1738978287_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "251941687",
@@ -1613,7 +1565,39 @@
         "product_image": "https://media.bunjang.co.kr/product/251941687_1_1706936789_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "315594218",
+        "brands": [
+            "erl"
+        ],
+        "name": "(A-77) Timberland 팀버랜드 집업",
+        "price_updates": [
+            {
+                "1738730286": "45000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315594218_1_1738730403_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "264277473",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland 팀버랜드 화이트 반팔라운드티",
+        "price_updates": [
+            {
+                "1738978185": "10000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/264277473_1_1738978287_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258566704",
@@ -1629,7 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258566704_1_1729073941_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "221039433",
@@ -1645,7 +1629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/221039433_1_1728967935_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "232913106",
@@ -1661,7 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/232913106_1_1735443564_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "259649598",
@@ -1677,7 +1661,23 @@
         "product_image": "https://media.bunjang.co.kr/product/259649598_1_1712717724_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "320670868",
+        "brands": [
+            "erl"
+        ],
+        "name": "러프사이드 Featherless Jumper \"Oatmeal\"",
+        "price_updates": [
+            {
+                "1740926575": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320670868_1_1742130565_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296112958",
@@ -1693,7 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296112958_1_1729686214_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "250894147",
@@ -1709,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250894147_1_1728994335_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "251051045",
@@ -1725,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251051045_1_1735302519_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "242166680",
@@ -1741,7 +1741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242166680_1_1736338534_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "305792456",
@@ -1757,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305792456_1_1734068294_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "206032802",
@@ -1773,7 +1773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/206032802_1_1668957190_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "251032486",
@@ -1789,7 +1789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251032486_1_1731211352_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "320175013",
@@ -1805,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320175013_1_1740744031_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "318828665",
@@ -1821,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318828665_1_1740128256_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "187229156",
@@ -1837,7 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/187229156_1_1686485694_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "245146003",
@@ -1853,7 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/245146003_1_1701670803_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "265325641",
@@ -1869,23 +1869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/265325641_1_1739048413_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "310245552",
-        "brands": [
-            "erl"
-        ],
-        "name": "L100 Timberland 면 맨투맨 블랙 L-546",
-        "price_updates": [
-            {
-                "1736226396": "12000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310245552_1_1736315154_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "288323629",
@@ -1901,7 +1885,23 @@
         "product_image": "https://media.bunjang.co.kr/product/288323629_1_1725736972_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "310245552",
+        "brands": [
+            "erl"
+        ],
+        "name": "L100 Timberland 면 맨투맨 블랙 L-546",
+        "price_updates": [
+            {
+                "1736226396": "12000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310245552_1_1736315154_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "298265590",
@@ -1917,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298265590_1_1731115662_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "246914232",
@@ -1933,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246914232_1_1705968547_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "293390680",
@@ -1949,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293390680_1_1729138876_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "222798352",
@@ -1965,7 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222798352_1_1737554867_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "307822579",
@@ -1981,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307822579_1_1735000315_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "283714334",
@@ -1997,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283714334_1_1734085539_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "220574190",
@@ -2013,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220574190_1_1729079058_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "303311020",
@@ -2029,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303311020_1_1732945061_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "263488597",
@@ -2045,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263488597_1_1739332318_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "286354217",
@@ -2061,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286354217_1_1724667263_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "305063548",
@@ -2077,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305063548_1_1733729416_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "301829636",
@@ -2093,7 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301829636_1_1732265052_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "112625761",
@@ -2109,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/112625761_1_1574921710_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "309025002",
@@ -2125,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309025002_1_1735622552_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "253610941",
@@ -2141,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253610941_1_1740225925_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "301829451",
@@ -2157,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301829451_1_1732264988_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "240215744",
@@ -2173,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240215744_1_1733073264_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "187424677",
@@ -2189,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/187424677_1_1683010668_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "302405286",
@@ -2205,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302405286_1_1732517910_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296590739",
@@ -2221,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296590739_1_1729920895_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296429692",
@@ -2237,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296429692_1_1729843501_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296842072",
@@ -2253,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296842072_1_1730018279_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296827550",
@@ -2269,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296827550_1_1730014592_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296843787",
@@ -2285,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296843787_1_1730018705_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "296839254",
@@ -2301,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296839254_1_1730017601_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "211334584",
@@ -2317,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/211334584_1_1678618657_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "297209285",
@@ -2333,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297209285_1_1730185054_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "170223995",
@@ -2349,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/170223995_1_1637157907_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "227937880",
@@ -2365,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/227937880_1_1703405217_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "299243815",
@@ -2381,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299243815_1_1737159342_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "298993995",
@@ -2397,23 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298993995_1_1730985505_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "293616835",
-        "brands": [
-            "erl"
-        ],
-        "name": "Timberland 팀버랜드 L",
-        "price_updates": [
-            {
-                "1728613030": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293616835_1_1728646884_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "220940967",
@@ -2429,7 +2413,23 @@
         "product_image": "https://media.bunjang.co.kr/product/220940967_1_1728010470_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "293616835",
+        "brands": [
+            "erl"
+        ],
+        "name": "Timberland 팀버랜드 L",
+        "price_updates": [
+            {
+                "1728613030": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293616835_1_1728646884_w{res}.jpg",
+        "status": "1",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "298821012",
@@ -2445,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298821012_1_1730901840_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "266879778",
@@ -2461,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/266879778_1_1739531526_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "291887744",
@@ -2477,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291887744_1_1727706467_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "294799560",
@@ -2493,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294799560_1_1729119776_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "269405329",
@@ -2509,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269405329_1_1722603127_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "202760863",
@@ -2525,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/202760863_1_1711789506_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "185593848",
@@ -2541,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/185593848_1_1650536052_w{res}.jpg",
         "status": "0",
         "category_id": "320500999",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "185593813",
@@ -2557,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/185593813_1_1650395612_w{res}.jpg",
         "status": "0",
         "category_id": "320500999",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258286131",
@@ -2573,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258286131_1_1711626632_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "288203523",
@@ -2589,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288203523_1_1725686554_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "185899708",
@@ -2605,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/185899708_1_1727785887_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "185502863",
@@ -2621,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/185502863_1_1652603245_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "287528781",
@@ -2637,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287528781_1_1738558875_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "291506043",
@@ -2653,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291506043_1_1737160112_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "195587853",
@@ -2669,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/195587853_1_1723433402_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "226081907",
@@ -2685,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226081907_1_1685890804_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "251805554",
@@ -2701,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251805554_1_1720052005_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "281180633",
@@ -2717,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281180633_1_1721796040_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "285901595",
@@ -2733,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285901595_1_1739535246_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "252944761",
@@ -2749,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252944761_1_1707737784_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "281235018",
@@ -2765,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281235018_1_1740472611_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "279856740",
@@ -2781,23 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279856740_1_1721123155_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "279757183",
-        "brands": [
-            "erl"
-        ],
-        "name": "(31in) 플래시드웨이브 플랙 Berlin 69V wshd J612",
-        "price_updates": [
-            {
-                "1721068965": "39000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/279757183_1_1721068965_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "279818919",
@@ -2813,7 +2797,23 @@
         "product_image": "https://media.bunjang.co.kr/product/279818919_1_1721110549_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "279757183",
+        "brands": [
+            "erl"
+        ],
+        "name": "(31in) 플래시드웨이브 플랙 Berlin 69V wshd J612",
+        "price_updates": [
+            {
+                "1721068965": "39000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/279757183_1_1721068965_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "262737583",
@@ -2829,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262737583_1_1719286864_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "244669155",
@@ -2845,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244669155_1_1701307888_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "201922787",
@@ -2861,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/201922787_1_1665490388_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "255595277",
@@ -2877,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255595277_1_1719640006_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "247184557",
@@ -2893,23 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/247184557_1_1715414861_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "262334856",
-        "brands": [
-            "erl"
-        ],
-        "name": "(0515) Timberland 팀버랜드 후드 티셔츠 XL",
-        "price_updates": [
-            {
-                "1714820846": "19800"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/262334856_1_1714820846_w{res}.jpg",
-        "status": "1",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "255598201",
@@ -2925,7 +2909,23 @@
         "product_image": "https://media.bunjang.co.kr/product/255598201_1_1719539358_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
+    },
+    {
+        "pid": "262334856",
+        "brands": [
+            "erl"
+        ],
+        "name": "(0515) Timberland 팀버랜드 후드 티셔츠 XL",
+        "price_updates": [
+            {
+                "1714820846": "19800"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262334856_1_1714820846_w{res}.jpg",
+        "status": "1",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "262229282",
@@ -2941,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262229282_1_1716445663_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "256714765",
@@ -2957,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256714765_1_1713056995_w{res}.jpg",
         "status": "0",
         "category_id": "320",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258357254",
@@ -2973,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258357254_1_1711694594_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "235771541",
@@ -2989,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235771541_1_1694189061_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258909535",
@@ -3005,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258909535_1_1712128186_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "259587250",
@@ -3021,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259587250_1_1712657908_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258277465",
@@ -3037,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258277465_1_1711622435_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258293313",
@@ -3053,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258293313_1_1711629949_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "259207973",
@@ -3069,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259207973_1_1739535538_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "258164237",
@@ -3085,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258164237_1_1711534058_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "225401732",
@@ -3101,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/225401732_1_1685278339_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "255596091",
@@ -3117,23 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255596091_1_1709702034_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
-    },
-    {
-        "pid": "321403961",
-        "brands": [
-            "erl"
-        ],
-        "name": "Xxl) Guess usa by erl 후드",
-        "price_updates": [
-            {
-                "1741686918": "30000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321403961_1_1741531555_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:47"
     },
     {
         "pid": "312448528",
@@ -3149,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312448528_1_1741584127_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "306472828",
@@ -3165,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306472828_1_1739415587_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "282117650",
@@ -3181,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282117650_1_1740211991_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "316861067",
@@ -3197,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316861067_1_1739264780_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "316477572",
@@ -3213,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316477572_1_1740447009_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "306501893",
@@ -3229,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306501893_1_1739211371_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "314772829",
@@ -3245,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314772829_1_1738830670_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "313121772",
@@ -3261,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313121772_1_1737552335_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "301375132",
@@ -3277,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301375132_1_1737304871_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "308006412",
@@ -3293,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308006412_1_1735547243_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "299603024",
@@ -3309,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299603024_1_1731324137_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "322539455",
@@ -3325,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322539455_1_1741852904_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "313936716",
@@ -3341,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313936716_1_1742004072_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "312693841",
@@ -3357,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312693841_1_1737361423_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "314369665",
@@ -3373,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314369665_1_1739613881_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "310167731",
@@ -3389,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310167731_1_1736389585_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "313302621",
@@ -3405,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313302621_1_1737939583_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "299240505",
@@ -3421,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299240505_1_1736592453_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "293292474",
@@ -3437,7 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293292474_1_1738259242_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "310222082",
@@ -3453,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310222082_1_1736829529_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "307984635",
@@ -3469,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307984635_1_1735115097_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "313200399",
@@ -3485,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313200399_1_1737606740_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "269025611",
@@ -3501,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269025611_1_1738644286_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "309790397",
@@ -3517,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309790397_1_1735995280_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "310963352",
@@ -3533,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310963352_1_1736575165_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "308530749",
@@ -3549,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308530749_1_1737295300_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "305656471",
@@ -3565,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305656471_1_1736633439_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "289999673",
@@ -3581,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289999673_1_1735330360_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "307690603",
@@ -3597,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307690603_1_1734931680_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     },
     {
         "pid": "307001986",
@@ -3613,6 +3597,6 @@
         "product_image": "https://media.bunjang.co.kr/product/307001986_1_1734614407_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:37"
+        "collected_timestamp": "2025-03-17 06:12:48"
     }
 ]

@@ -1,19 +1,35 @@
 [
     {
-        "pid": "251249689",
+        "pid": "314586798",
         "brands": [
             "커마웨어"
         ],
-        "name": "(m)cmmawear 커마웨어 파이핑 트랙자켓 블랙",
+        "name": "커마웨어 포푸라 블레이저 cmmawear popura blazer",
         "price_updates": [
             {
-                "1742094216": "550000"
+                "1742188799": "850000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/251249689_1_1741436270_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/314586798_1_1741318439_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "category_id": "320500100",
+        "collected_timestamp": "2025-03-17 06:09:37"
+    },
+    {
+        "pid": "321682828",
+        "brands": [
+            "커마웨어"
+        ],
+        "name": "커마웨어 ARTICULATED BACK-ZIP TROUSERS",
+        "price_updates": [
+            {
+                "1742130076": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321682828_1_1741522753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "322943800",
@@ -29,23 +45,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322943800_1_1742039934_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
-        "pid": "321682828",
+        "pid": "286641676",
         "brands": [
             "커마웨어"
         ],
-        "name": "커마웨어 ARTICULATED BACK-ZIP TROUSERS",
+        "name": "커마웨어 데님 자켓 L",
         "price_updates": [
             {
-                "1742040085": "450000"
+                "1742104781": "780000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321682828_1_1741522753_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/286641676_1_1729846452_w{res}.jpg",
         "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "293409910",
@@ -61,23 +77,39 @@
         "product_image": "https://media.bunjang.co.kr/product/293409910_1_1729072480_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
-        "pid": "314586798",
+        "pid": "251249689",
         "brands": [
             "커마웨어"
         ],
-        "name": "커마웨어 포푸라 블레이저 cmmawear popura blazer",
+        "name": "(m)cmmawear 커마웨어 파이핑 트랙자켓 블랙",
         "price_updates": [
             {
-                "1742047258": "850000"
+                "1742094216": "550000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314586798_1_1741318439_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/251249689_1_1741436270_w{res}.jpg",
         "status": "0",
-        "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:09:37"
+    },
+    {
+        "pid": "292982483",
+        "brands": [
+            "커마웨어"
+        ],
+        "name": "커마웨어 베트윙 자켓 23FW  L size",
+        "price_updates": [
+            {
+                "1742100060": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292982483_1_1736766763_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "322189321",
@@ -93,39 +125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322189321_1_1741675247_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
-    },
-    {
-        "pid": "316844544",
-        "brands": [
-            "커마웨어"
-        ],
-        "name": "커마웨어 크레센트 자켓, cmmawear crescent jacket",
-        "price_updates": [
-            {
-                "1741752033": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316844544_1_1739644656_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
-    },
-    {
-        "pid": "292982483",
-        "brands": [
-            "커마웨어"
-        ],
-        "name": "커마웨어 베트윙 자켓 23FW  L size",
-        "price_updates": [
-            {
-                "1741829772": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292982483_1_1736766763_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "319994923",
@@ -141,39 +141,23 @@
         "product_image": "https://media.bunjang.co.kr/product/319994923_1_1740656790_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
-        "pid": "286641676",
+        "pid": "316844544",
         "brands": [
             "커마웨어"
         ],
-        "name": "커마웨어 데님 자켓 L",
+        "name": "커마웨어 크레센트 자켓, cmmawear crescent jacket",
         "price_updates": [
             {
-                "1741626468": "780000"
+                "1741752033": "250000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/286641676_1_1729846452_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/316844544_1_1739644656_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
-    },
-    {
-        "pid": "309389263",
-        "brands": [
-            "커마웨어"
-        ],
-        "name": "커마웨어 테크니컬 롱슬리브 sizeL",
-        "price_updates": [
-            {
-                "1741517166": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309389263_1_1741271233_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "222147444",
@@ -189,7 +173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222147444_1_1721804005_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "294594364",
@@ -205,7 +189,23 @@
         "product_image": "https://media.bunjang.co.kr/product/294594364_1_1738835375_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
+    },
+    {
+        "pid": "309389263",
+        "brands": [
+            "커마웨어"
+        ],
+        "name": "커마웨어 테크니컬 롱슬리브 sizeL",
+        "price_updates": [
+            {
+                "1741517166": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309389263_1_1741271233_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "317989189",
@@ -221,7 +221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317989189_1_1739760822_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "172744974",
@@ -237,7 +237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/172744974_1_1713289483_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "261321861",
@@ -253,23 +253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261321861_1_1714017163_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:15"
-    },
-    {
-        "pid": "306063107",
-        "brands": [
-            "커마웨어"
-        ],
-        "name": "커마웨어 3m 아티큐레이티드 슬리브 자켓 블랙",
-        "price_updates": [
-            {
-                "1738506204": "485000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306063107_1_1738506260_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "296200546",
@@ -285,7 +269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296200546_1_1730356252_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "257247924",
@@ -301,7 +285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257247924_1_1728574507_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "273566836",
@@ -317,7 +301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273566836_1_1738979229_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "283130909",
@@ -333,7 +317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283130909_1_1722847642_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "258728906",
@@ -349,7 +333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258728906_1_1716523995_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "321733890",
@@ -365,7 +349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321733890_1_1741668632_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     },
     {
         "pid": "310160725",
@@ -381,6 +365,6 @@
         "product_image": "https://media.bunjang.co.kr/product/310160725_1_1736907811_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:15"
+        "collected_timestamp": "2025-03-17 06:09:37"
     }
 ]

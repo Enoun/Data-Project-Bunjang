@@ -1,243 +1,35 @@
 [
     {
-        "pid": "280356857",
+        "pid": "323284195",
         "brands": [
             "마리아노"
         ],
-        "name": "마리아노 포에버 레더 자켓 L삽니다(급구..)",
+        "name": "마리아노 크리스마스 스웨터 가디건 신상",
         "price_updates": [
             {
-                "1742101984": "17150"
+                "1742191337": "800000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/280356857_1_1731026140_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "319231420",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "Magliano 마리아노 가디건 블루 라지사이즈",
-        "price_updates": [
-            {
-                "1742099732": "490000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319231420_1_1740310730_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/323284195_1_1742191337_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
-        "pid": "199390204",
+        "pid": "317587682",
         "brands": [
             "마리아노"
         ],
-        "name": "(마지막특가)마리아노 루비나치 패턴 셔츠",
+        "name": "마리아노 포에버 코트 M",
         "price_updates": [
             {
-                "1742097890": "80000"
+                "1742191605": "850000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/199390204_1_1740201711_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/317587682_1_1740226564_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322674968",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "(S) 마리아노 프로빈시아 팬츠",
-        "price_updates": [
-            {
-                "1742094448": "380000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322674968_1_1741928288_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322135265",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 리버서블 봄버 magliano",
-        "price_updates": [
-            {
-                "1742091380": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322135265_1_1742006692_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322693297",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "Magliano 마리아노 크리스마스 가디건",
-        "price_updates": [
-            {
-                "1742089905": "580000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322693297_1_1741935188_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "282448907",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 리버서블 블레이저 L",
-        "price_updates": [
-            {
-                "1742092598": "580000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282448907_1_1723425222_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "305548835",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 고양이 모헤어 니트 레드",
-        "price_updates": [
-            {
-                "1742092280": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305548835_1_1741388919_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "302472600",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[L] MAGLIANO 마리아노 GENET 워크 팬츠",
-        "price_updates": [
-            {
-                "1742093339": "480000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302472600_1_1742093424_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "305433854",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 빔보 가디건 s",
-        "price_updates": [
-            {
-                "1742089108": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305433854_1_1741063744_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "318658144",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[XL] 마리아노 magliano 패딩 베스트",
-        "price_updates": [
-            {
-                "1742090343": "310000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318658144_1_1741756559_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322844395",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[M] 마리아노 크리스마스 가디건 핑크",
-        "price_updates": [
-            {
-                "1742082648": "750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322844395_1_1742010269_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "305055020",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 19aw 봄버 m사이즈",
-        "price_updates": [
-            {
-                "1742085246": "490000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305055020_1_1741611877_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "240358379",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 오버사이즈 가디건 블루",
-        "price_updates": [
-            {
-                "1742082186": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/240358379_1_1739009246_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "302739362",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 Freaky 포켓 카고 팬츠",
-        "price_updates": [
-            {
-                "1742083349": "339000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302739362_1_1732896563_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "321888244",
@@ -247,13 +39,461 @@
         "name": "마리아노 크리스마스 가디건 L",
         "price_updates": [
             {
-                "1742079212": "700000"
+                "1742184889": "700000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/321888244_1_1741909813_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "240358379",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 오버사이즈 가디건 블루",
+        "price_updates": [
+            {
+                "1742185550": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240358379_1_1739009246_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "291780352",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 / 벨티드 쇼츠 / xs",
+        "price_updates": [
+            {
+                "1742185619": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291780352_1_1737078963_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "321545117",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 맨투맨M",
+        "price_updates": [
+            {
+                "1742179580": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321545117_1_1741653694_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "282369908",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 24ss 가디건 새상품 L",
+        "price_updates": [
+            {
+                "1742182089": "398000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282369908_1_1740140533_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "280356857",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 포에버 레더 자켓 L삽니다(급구..)",
+        "price_updates": [
+            {
+                "1742182968": "17150"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280356857_1_1731026140_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "302472600",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[L] MAGLIANO 마리아노 GENET 워크 팬츠",
+        "price_updates": [
+            {
+                "1742181169": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302472600_1_1742093424_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "318658144",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[XL] 마리아노 magliano 패딩 베스트",
+        "price_updates": [
+            {
+                "1742180625": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318658144_1_1741756559_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "322844395",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[M] 마리아노 크리스마스 가디건 핑크",
+        "price_updates": [
+            {
+                "1742172886": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322844395_1_1742010269_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "321990099",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[ XXL ] 마리아노 빔보 가디건 화이트",
+        "price_updates": [
+            {
+                "1742172717": "850000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321990099_1_1741669358_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "305433854",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 빔보 가디건 s",
+        "price_updates": [
+            {
+                "1742173395": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305433854_1_1741063744_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "292994544",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "24ss 마리아노(magliano) 언레귤러 데님 M",
+        "price_updates": [
+            {
+                "1742173398": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292994544_1_1740618598_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "322135265",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 리버서블 봄버 magliano",
+        "price_updates": [
+            {
+                "1742165778": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322135265_1_1742133419_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "300497346",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 가디건 새제품 L사이즈",
+        "price_updates": [
+            {
+                "1742163282": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/300497346_1_1733640908_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "319045368",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "(M)마리아노 그램파 가디건",
+        "price_updates": [
+            {
+                "1742170136": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319045368_1_1741500543_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "319231420",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "Magliano 마리아노 가디건 블루 라지사이즈",
+        "price_updates": [
+            {
+                "1742165270": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319231420_1_1740310730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "323151920",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 니트 베스트",
+        "price_updates": [
+            {
+                "1742123555": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323151920_1_1742123555_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300500",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "322607457",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 가디건 L",
+        "price_updates": [
+            {
+                "1742118503": "480000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322607457_1_1741875221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "322145793",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[ XL ] 마리아노 백로고 자카드 빅 가디건",
+        "price_updates": [
+            {
+                "1742131711": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322145793_1_1741669418_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "322145652",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[ L ] 마리아노 스파다 벨티드 울 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742131711": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322145652_1_1741656093_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120200",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "321090972",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 프로테스타 워크 자켓(L)",
+        "price_updates": [
+            {
+                "1742121153": "1100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321090972_1_1741608761_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "284334592",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 팬츠(L)",
+        "price_updates": [
+            {
+                "1742119195": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284334592_1_1737217192_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "294940652",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[S] 마리아노 노마드 셔츠 아이보리",
+        "price_updates": [
+            {
+                "1742145728": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294940652_1_1733179086_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "315596496",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 자카드 가디건 핑크 L",
+        "price_updates": [
+            {
+                "1742143222": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315596496_1_1742143218_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "317129353",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[S] 마리아노 플랫톤 3d 데님",
+        "price_updates": [
+            {
+                "1742137681": "399000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317129353_1_1739740673_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "294934129",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[S] 마리아노 드렁크 쓰리버튼 자켓",
+        "price_updates": [
+            {
+                "1742145728": "380000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294934129_1_1741683354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "229634376",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노(MAGLIANO) 오프화이트 데님 팬츠",
+        "price_updates": [
+            {
+                "1742141101": "249000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/229634376_1_1741621598_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "315338591",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 세미 시스루 더블 재킷 블랙 S",
+        "price_updates": [
+            {
+                "1742135539": "420000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315338591_1_1738599284_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "285817770",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "미시착새상품/m) 마리아노 화이트 반팔 티 셔츠",
+        "price_updates": [
+            {
+                "1742128766": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285817770_1_1724381683_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "322298152",
@@ -269,55 +509,119 @@
         "product_image": "https://media.bunjang.co.kr/product/322298152_1_1741717985_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
-        "pid": "321545117",
+        "pid": "322674968",
         "brands": [
             "마리아노"
         ],
-        "name": "마리아노 맨투맨M",
+        "name": "(S) 마리아노 프로빈시아 팬츠",
         "price_updates": [
             {
-                "1742044060": "230000"
+                "1742094448": "380000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321545117_1_1741653694_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322674968_1_1741928288_w{res}.jpg",
         "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
-        "pid": "294940652",
+        "pid": "282448907",
         "brands": [
             "마리아노"
         ],
-        "name": "[S] 마리아노 노마드 셔츠 아이보리",
+        "name": "마리아노 리버서블 블레이저 L",
         "price_updates": [
             {
-                "1742056756": "280000"
+                "1742092598": "580000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/294940652_1_1733179086_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/282448907_1_1723425222_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "315274264",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 lametta jeans",
+        "price_updates": [
+            {
+                "1742103105": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315274264_1_1742103115_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "305548835",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 고양이 모헤어 니트 레드",
+        "price_updates": [
+            {
+                "1742092280": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305548835_1_1741388919_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "305055020",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 19aw 봄버 m사이즈",
+        "price_updates": [
+            {
+                "1742085246": "490000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305055020_1_1741611877_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "199390204",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "(마지막특가)마리아노 루비나치 패턴 셔츠",
+        "price_updates": [
+            {
+                "1742097890": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/199390204_1_1740201711_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
-        "pid": "319045368",
+        "pid": "302739362",
         "brands": [
             "마리아노"
         ],
-        "name": "(M)마리아노 그램파 가디건",
+        "name": "마리아노 Freaky 포켓 카고 팬츠",
         "price_updates": [
             {
-                "1742045955": "190000"
+                "1742083349": "339000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319045368_1_1741500543_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/302739362_1_1732896563_w{res}.jpg",
         "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "308123245",
@@ -333,7 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308123245_1_1739678263_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "294947420",
@@ -349,55 +653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294947420_1_1741683397_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "285817770",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "미시착새상품/m) 마리아노 화이트 반팔 티 셔츠",
-        "price_updates": [
-            {
-                "1742041559": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/285817770_1_1724381683_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322607457",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 가디건 L",
-        "price_updates": [
-            {
-                "1741939316": "480000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322607457_1_1741875221_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "321090972",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 프로테스타 워크 자켓(L)",
-        "price_updates": [
-            {
-                "1741974970": "1100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321090972_1_1741608761_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "258761055",
@@ -413,23 +669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258761055_1_1721380386_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "284334592",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 팬츠(L)",
-        "price_updates": [
-            {
-                "1742008203": "600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/284334592_1_1737217192_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "278746493",
@@ -445,23 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278746493_1_1720655789_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "317587682",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 포에버 코트 M",
-        "price_updates": [
-            {
-                "1741999470": "850000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317587682_1_1740226564_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "294942819",
@@ -477,7 +701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294942819_1_1739843608_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "314239476",
@@ -493,7 +717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314239476_1_1740089651_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "301297432",
@@ -509,7 +733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301297432_1_1735915103_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "271006183",
@@ -525,7 +749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271006183_1_1719764633_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "320431802",
@@ -541,71 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320431802_1_1740837312_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "282369908",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 24ss 가디건 새상품 L",
-        "price_updates": [
-            {
-                "1742001609": "398000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282369908_1_1740140533_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "317129353",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[S] 마리아노 플랫톤 3d 데님",
-        "price_updates": [
-            {
-                "1741956602": "399000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317129353_1_1739740673_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "229634376",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노(MAGLIANO) 오프화이트 데님 팬츠",
-        "price_updates": [
-            {
-                "1742014496": "249000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/229634376_1_1741621598_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "315338591",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 세미 시스루 더블 재킷 블랙 S",
-        "price_updates": [
-            {
-                "1741996491": "420000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315338591_1_1738599284_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "313649935",
@@ -621,7 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313649935_1_1741944182_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "293446205",
@@ -637,7 +797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293446205_1_1737455642_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "302557788",
@@ -653,71 +813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302557788_1_1741321331_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "321990099",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[ XXL ] 마리아노 빔보 가디건 화이트",
-        "price_updates": [
-            {
-                "1741920725": "850000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321990099_1_1741669358_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "292994544",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "24ss 마리아노(magliano) 언레귤러 데님 M",
-        "price_updates": [
-            {
-                "1741951417": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292994544_1_1740618598_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "290203970",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[S] 마리아노 언레귤러 콘타디노 워시 팬츠",
-        "price_updates": [
-            {
-                "1741931557": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290203970_1_1726817508_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "282574868",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "23ss 마리아노 언레귤러 콘타디노 워시 팬츠",
-        "price_updates": [
-            {
-                "1741931557": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282574868_1_1725173630_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "321238155",
@@ -733,7 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321238155_1_1741236623_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "301821168",
@@ -749,7 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301821168_1_1741923087_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "308523365",
@@ -765,7 +861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308523365_1_1735372706_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657556",
@@ -781,23 +877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657556_1_1733011437_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "315596496",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 자카드 가디건 핑크 L",
-        "price_updates": [
-            {
-                "1741888204": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315596496_1_1741309967_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657685",
@@ -813,39 +893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657685_1_1733011355_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322145793",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[ XL ] 마리아노 백로고 자카드 빅 가디건",
-        "price_updates": [
-            {
-                "1741836875": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322145793_1_1741669418_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "291780352",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 / 벨티드 쇼츠 / xs",
-        "price_updates": [
-            {
-                "1741915977": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291780352_1_1737078963_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "319651505",
@@ -861,23 +909,39 @@
         "product_image": "https://media.bunjang.co.kr/product/319651505_1_1740521741_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
-        "pid": "322145652",
+        "pid": "290203970",
         "brands": [
             "마리아노"
         ],
-        "name": "[ L ] 마리아노 스파다 벨티드 울 팬츠 블랙",
+        "name": "[S] 마리아노 언레귤러 콘타디노 워시 팬츠",
         "price_updates": [
             {
-                "1741836875": "600000"
+                "1741931557": "250000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322145652_1_1741656093_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/290203970_1_1726817508_w{res}.jpg",
         "status": "0",
-        "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "282574868",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "23ss 마리아노 언레귤러 콘타디노 워시 팬츠",
+        "price_updates": [
+            {
+                "1741931557": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282574868_1_1725173630_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "310092121",
@@ -893,23 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310092121_1_1742021031_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "294934129",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[S] 마리아노 드렁크 쓰리버튼 자켓",
-        "price_updates": [
-            {
-                "1741799416": "380000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294934129_1_1741683354_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "310651015",
@@ -925,7 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310651015_1_1736415849_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "297906995",
@@ -941,7 +989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297906995_1_1733193697_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "304442465",
@@ -957,7 +1005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304442465_1_1740886784_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "311309123",
@@ -973,23 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311309123_1_1740270735_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "322131039",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "magliano 마리아노 자켓",
-        "price_updates": [
-            {
-                "1741663272": "385000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322131039_1_1741682325_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "322126772",
@@ -999,13 +1031,13 @@
         "name": "마리아노 워크자켓 m 급처",
         "price_updates": [
             {
-                "1741627437": "500000"
+                "1741627437": "480000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322126772_1_1741627437_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322126772_1_1742130434_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "226809689",
@@ -1021,23 +1053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226809689_1_1707865382_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "315274264",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 lametta jeans",
-        "price_updates": [
-            {
-                "1741700146": "234000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315274264_1_1740024704_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "305248708",
@@ -1053,7 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305248708_1_1733811286_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "313970360",
@@ -1069,23 +1085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313970360_1_1737969194_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "290233702",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "MAGLAN(마리아노)  마리나 풀오버 M",
-        "price_updates": [
-            {
-                "1741693568": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290233702_1_1731415636_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "305603908",
@@ -1101,23 +1101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305603908_1_1738340408_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "294949874",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[S] 마리아노 프로빈시아 스포츠 팬츠 그레이",
-        "price_updates": [
-            {
-                "1741707346": "370000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294949874_1_1741683416_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "290935198",
@@ -1133,7 +1117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290935198_1_1734845124_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "273236214",
@@ -1149,7 +1133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273236214_1_1735927436_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "310814994",
@@ -1165,7 +1149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310814994_1_1736498603_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "311350777",
@@ -1181,7 +1165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311350777_1_1739800551_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "219466352",
@@ -1197,71 +1181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219466352_1_1729504064_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "320552471",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 가디건",
-        "price_updates": [
-            {
-                "1740897423": "1368000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320552471_1_1740897423_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "270492796",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 patch cotton pants",
-        "price_updates": [
-            {
-                "1741565592": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/270492796_1_1717841380_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "320220445",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "Magliano 마리아노 후드집업",
-        "price_updates": [
-            {
-                "1741501665": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320220445_1_1740757842_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "316590985",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 오버사이즈 v넥 가디건 블루 L",
-        "price_updates": [
-            {
-                "1741571029": "225000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316590985_1_1741100758_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "235389360",
@@ -1277,7 +1197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235389360_1_1702983844_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "234997196",
@@ -1293,23 +1213,55 @@
         "product_image": "https://media.bunjang.co.kr/product/234997196_1_1693561058_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
-        "pid": "303944274",
+        "pid": "320552471",
         "brands": [
             "마리아노"
         ],
         "name": "마리아노 가디건",
         "price_updates": [
             {
-                "1740917974": "500000"
+                "1740897423": "1368000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/303944274_1_1738372659_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320552471_1_1740897423_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "270492796",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 patch cotton pants",
+        "price_updates": [
+            {
+                "1741565592": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/270492796_1_1717841380_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "320220445",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "Magliano 마리아노 후드집업",
+        "price_updates": [
+            {
+                "1741501665": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320220445_1_1740757842_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "241996844",
@@ -1325,7 +1277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241996844_1_1734314301_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "283814614",
@@ -1341,7 +1293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283814614_1_1736333795_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "308475975",
@@ -1357,7 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308475975_1_1737236222_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "290919766",
@@ -1373,7 +1325,23 @@
         "product_image": "https://media.bunjang.co.kr/product/290919766_1_1729131026_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "316590985",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 오버사이즈 v넥 가디건 블루 L",
+        "price_updates": [
+            {
+                "1741571029": "225000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316590985_1_1741100758_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "309232233",
@@ -1389,7 +1357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309232233_1_1735730985_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "309830237",
@@ -1405,23 +1373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309830237_1_1736601865_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "300497346",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 가디건 새제품 L사이즈",
-        "price_updates": [
-            {
-                "1740843087": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300497346_1_1733640908_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "316109328",
@@ -1437,7 +1389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316109328_1_1738942481_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "319327332",
@@ -1453,7 +1405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319327332_1_1740366296_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "240849137",
@@ -1469,7 +1421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240849137_1_1740226485_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "263628459",
@@ -1485,7 +1437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263628459_1_1738909075_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "317980600",
@@ -1501,7 +1453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317980600_1_1739757126_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "242377144",
@@ -1517,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242377144_1_1728144681_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "287000907",
@@ -1533,7 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287000907_1_1725025821_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "248883919",
@@ -1549,7 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248883919_1_1731926123_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "264019345",
@@ -1565,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264019345_1_1716159662_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "304924559",
@@ -1581,7 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304924559_1_1734311666_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "287144909",
@@ -1597,7 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287144909_1_1725106008_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "317360160",
@@ -1613,7 +1565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317360160_1_1739476246_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "264143964",
@@ -1629,7 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264143964_1_1730107445_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "318804995",
@@ -1645,23 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318804995_1_1740120577_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "310516889",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 가디건",
-        "price_updates": [
-            {
-                "1739461596": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/310516889_1_1736342727_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "318105943",
@@ -1677,7 +1613,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318105943_1_1739796459_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "310516889",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 가디건",
+        "price_updates": [
+            {
+                "1739461596": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/310516889_1_1736342727_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "300556831",
@@ -1693,7 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300556831_1_1734412694_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "317683913",
@@ -1709,7 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317683913_1_1739620607_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "302349064",
@@ -1725,7 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302349064_1_1738225096_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "263483651",
@@ -1741,23 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263483651_1_1723903599_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "258731258",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 팬츠 S사이즈",
-        "price_updates": [
-            {
-                "1738840637": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258731258_1_1721792243_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "316718029",
@@ -1773,7 +1709,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316718029_1_1739198967_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "258731258",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 팬츠 S사이즈",
+        "price_updates": [
+            {
+                "1738840637": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258731258_1_1721792243_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "308942413",
@@ -1789,7 +1741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308942413_1_1735564953_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "284883968",
@@ -1805,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284883968_1_1729732650_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "316046486",
@@ -1821,7 +1773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316046486_1_1741622565_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "316977845",
@@ -1837,7 +1789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316977845_1_1739317433_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "266623370",
@@ -1853,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/266623370_1_1740477298_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "280357443",
@@ -1869,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280357443_1_1721377726_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292656701",
@@ -1885,7 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292656701_1_1736926242_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657231",
@@ -1901,7 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657231_1_1728120309_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "287278746",
@@ -1917,7 +1869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287278746_1_1737741686_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "302755780",
@@ -1933,7 +1885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302755780_1_1732682150_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657128",
@@ -1949,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657128_1_1728120268_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657352",
@@ -1965,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657352_1_1728120348_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "239476764",
@@ -1981,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239476764_1_1730512673_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292656995",
@@ -1997,7 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292656995_1_1728120226_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "310237092",
@@ -2013,23 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310237092_1_1736313436_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "311660839",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "L 마리아노 빔보 가디건 화이트 미개봉 새제품 판매",
-        "price_updates": [
-            {
-                "1736869348": "599000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311660839_1_1736869348_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "307379143",
@@ -2045,7 +1981,23 @@
         "product_image": "https://media.bunjang.co.kr/product/307379143_1_1734784027_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
+    },
+    {
+        "pid": "311660839",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "L 마리아노 빔보 가디건 화이트 미개봉 새제품 판매",
+        "price_updates": [
+            {
+                "1736869348": "599000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311660839_1_1736869348_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "307084440",
@@ -2061,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307084440_1_1736240164_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657925",
@@ -2077,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657925_1_1728120556_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292657810",
@@ -2093,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292657810_1_1728120515_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "307460567",
@@ -2109,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307460567_1_1734833471_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "285710163",
@@ -2125,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285710163_1_1724312971_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "244126435",
@@ -2141,7 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244126435_1_1734096824_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "309083233",
@@ -2157,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309083233_1_1735643337_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "289093931",
@@ -2173,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289093931_1_1735177448_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "306808789",
@@ -2189,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306808789_1_1741944274_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "246708041",
@@ -2205,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246708041_1_1702866711_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "221719211",
@@ -2221,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/221719211_1_1725369472_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "306216316",
@@ -2237,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306216316_1_1734251876_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "279281321",
@@ -2253,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279281321_1_1732261230_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "299672624",
@@ -2269,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299672624_1_1731461160_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "295301452",
@@ -2285,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295301452_1_1732101625_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "246113842",
@@ -2301,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246113842_1_1731047179_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "285852062",
@@ -2317,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285852062_1_1732019650_w{res}.jpg",
         "status": "1",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "269462526",
@@ -2333,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269462526_1_1728986103_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "259727998",
@@ -2349,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259727998_1_1715156178_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "300547718",
@@ -2365,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300547718_1_1731677020_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "174621020",
@@ -2381,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/174621020_1_1731580807_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "299689873",
@@ -2397,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299689873_1_1731640649_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "298870422",
@@ -2413,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298870422_1_1730944544_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "290659135",
@@ -2429,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290659135_1_1730097391_w{res}.jpg",
         "status": "1",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "255284808",
@@ -2445,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/255284808_1_1712933791_w{res}.jpg",
         "status": "0",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "269054351",
@@ -2461,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269054351_1_1728043271_w{res}.jpg",
         "status": "1",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "297245751",
@@ -2477,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297245751_1_1733989956_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292656320",
@@ -2493,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292656320_1_1728119995_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292211089",
@@ -2509,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292211089_1_1727880038_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "292214554",
@@ -2525,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292214554_1_1727881370_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "244968576",
@@ -2541,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/244968576_1_1727853448_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "282156699",
@@ -2557,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282156699_1_1726624585_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "252691357",
@@ -2573,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252691357_1_1726216815_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "287509960",
@@ -2589,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287509960_1_1725459384_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "236698977",
@@ -2605,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236698977_1_1725492726_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "279931856",
@@ -2621,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279931856_1_1721158427_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "272220897",
@@ -2637,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/272220897_1_1718374360_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "270153616",
@@ -2653,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270153616_1_1717989017_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "274935504",
@@ -2669,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274935504_1_1719228243_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "240872069",
@@ -2685,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240872069_1_1698417534_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:52"
     },
     {
         "pid": "312794705",
@@ -2701,7 +2653,23 @@
         "product_image": "https://media.bunjang.co.kr/product/312794705_1_1740650935_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
+    },
+    {
+        "pid": "290233702",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "MAGLAN(마리아노)  마리나 풀오버 M",
+        "price_updates": [
+            {
+                "1741693568": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290233702_1_1731415636_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "322032262",
@@ -2717,23 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322032262_1_1741592601_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "321917819",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[m]마리아노 크리스마스 가디건 신형",
-        "price_updates": [
-            {
-                "1741526125": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321917819_1_1741529056_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "321695455",
@@ -2749,7 +2701,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321695455_1_1741499734_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
+    },
+    {
+        "pid": "321917819",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[m]마리아노 크리스마스 가디건 신형",
+        "price_updates": [
+            {
+                "1741526125": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321917819_1_1741529056_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "321196059",
@@ -2765,7 +2733,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321196059_1_1741198347_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
+    },
+    {
+        "pid": "303944274",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "마리아노 가디건",
+        "price_updates": [
+            {
+                "1740917974": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303944274_1_1738372659_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "296099695",
@@ -2781,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296099695_1_1734737275_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "317863951",
@@ -2797,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317863951_1_1741012893_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "316199791",
@@ -2813,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316199791_1_1740439579_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "312293588",
@@ -2829,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312293588_1_1737184630_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "299422055",
@@ -2845,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299422055_1_1739100705_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "318581096",
@@ -2861,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318581096_1_1740021624_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "319665240",
@@ -2877,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319665240_1_1741574341_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "302681354",
@@ -2893,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302681354_1_1739582781_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "309434148",
@@ -2909,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309434148_1_1739369454_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "316474876",
@@ -2925,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316474876_1_1739100410_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "307630458",
@@ -2941,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307630458_1_1740471196_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "303984195",
@@ -2957,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303984195_1_1739926090_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "312042227",
@@ -2973,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312042227_1_1737585800_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "309670262",
@@ -2989,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309670262_1_1738468676_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "316439591",
@@ -3005,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316439591_1_1739090914_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "312565570",
@@ -3021,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312565570_1_1739195865_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "315585910",
@@ -3037,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315585910_1_1739338763_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "301701255",
@@ -3053,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301701255_1_1736995302_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "314490419",
@@ -3069,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314490419_1_1738238859_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "311273535",
@@ -3085,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311273535_1_1738846213_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "313501369",
@@ -3101,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313501369_1_1737783638_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "312956556",
@@ -3117,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312956556_1_1738514728_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "311993605",
@@ -3133,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311993605_1_1737031855_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "311044658",
@@ -3149,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311044658_1_1736599950_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "311748654",
@@ -3165,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311748654_1_1736926394_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "310313338",
@@ -3181,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310313338_1_1736249193_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "306089420",
@@ -3197,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306089420_1_1736079154_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "306542047",
@@ -3213,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306542047_1_1735522234_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "304330259",
@@ -3229,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304330259_1_1735398939_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "252931466",
@@ -3245,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252931466_1_1735036530_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "307258777",
@@ -3261,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307258777_1_1734748807_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "281146056",
@@ -3277,23 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281146056_1_1734435479_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "307472170",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "[판매] 마리아노 크리스마스 스웨터 코코넛 라일락 (L size)",
-        "price_updates": [
-            {
-                "1734837560": "330000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307472170_1_1734837560_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "307109726",
@@ -3309,7 +3277,23 @@
         "product_image": "https://media.bunjang.co.kr/product/307109726_1_1735553408_w{res}.jpg",
         "status": "3",
         "category_id": "320120200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
+    },
+    {
+        "pid": "307472170",
+        "brands": [
+            "마리아노"
+        ],
+        "name": "[판매] 마리아노 크리스마스 스웨터 코코넛 라일락 (L size)",
+        "price_updates": [
+            {
+                "1734837560": "330000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307472170_1_1734837560_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300600",
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "291298409",
@@ -3325,23 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291298409_1_1735310056_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
-    },
-    {
-        "pid": "300306439",
-        "brands": [
-            "마리아노"
-        ],
-        "name": "마리아노 코트 -GOLDEN DOUBLE BREASTED COAT",
-        "price_updates": [
-            {
-                "1734324488": "850000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/300306439_1_1734341410_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "305814995",
@@ -3357,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305814995_1_1735532524_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "206951426",
@@ -3373,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/206951426_1_1734684374_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "288130731",
@@ -3389,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288130731_1_1735564748_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "302391179",
@@ -3405,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302391179_1_1738305311_w{res}.jpg",
         "status": "3",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     },
     {
         "pid": "248177273",
@@ -3421,6 +3389,6 @@
         "product_image": "https://media.bunjang.co.kr/product/248177273_1_1741406561_w{res}.jpg",
         "status": "3",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 05:25:39"
+        "collected_timestamp": "2025-03-17 06:11:53"
     }
 ]

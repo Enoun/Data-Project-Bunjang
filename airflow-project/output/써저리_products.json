@@ -1,35 +1,67 @@
 [
     {
-        "pid": "259254449",
+        "pid": "306467450",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 언본소사이어티",
+        "name": "[써저리 맛] 라퍼 본 바시티 자켓 -L-",
         "price_updates": [
             {
-                "1742094051": "110000"
+                "1742191870": "150000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/259254449_1_1716093759_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/306467450_1_1741563419_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "305651230",
+        "pid": "292546908",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 언본소사이어티 후드",
+        "name": "새상품 써저리 모노그램 클로버 데님 l",
         "price_updates": [
             {
-                "1742094051": "85000"
+                "1742189150": "85000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/305651230_1_1741490883_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/292546908_1_1739423819_w{res}.jpg",
         "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "313486043",
+        "brands": [
+            "써저리"
+        ],
+        "name": "ONE)) Sur8ery 써저리 리버시블 본 퍼 자켓",
+        "price_updates": [
+            {
+                "1742188915": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313486043_1_1740975904_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "319765555",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 벌룬팬츠",
+        "price_updates": [
+            {
+                "1742185404": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319765555_1_1741661117_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322523959",
@@ -39,77 +71,605 @@
         "name": "[S] 써저리 미르 스카잔",
         "price_updates": [
             {
-                "1742092269": "340000"
+                "1742184000": "340000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322523959_1_1741850572_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322523959_1_1742112008_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "226878997",
+        "pid": "282060995",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 코스트퍼킬로 모터자켓 M",
+        "name": "(새상품) 써저리 surgery double jeans 'black' (",
         "price_updates": [
             {
-                "1742092657": "220000"
+                "1742187980": "70000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/226878997_1_1741175570_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/282060995_1_1741697409_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "313952625",
+        "pid": "322110757",
         "brands": [
             "써저리"
         ],
-        "name": "L 써저리 본 엠보싱 마원 자켓 블랙",
+        "name": "써저리 카모 더블 폴딩 팬츠",
         "price_updates": [
             {
-                "1742092600": "379000"
+                "1742181763": "280000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/313952625_1_1739678406_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322110757_1_1741618843_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "318947524",
+        "pid": "319477390",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 노매뉴얼 4Z TRACKJACKET - 테크니컬 트랙 자켓",
+        "name": "(구매글) M또는L 사이즈 써저리 바시티 본 자켓 데님컬러 Surgery",
         "price_updates": [
             {
-                "1742092657": "43000"
+                "1742185502": "280000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318947524_1_1741998388_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319477390_1_1740408783_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "304425769",
+        "pid": "275229164",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 본 바시티 ver.2 블랙 (L)",
+        "name": "써저리 process 011",
         "price_updates": [
             {
-                "1742091734": "300000"
+                "1742182972": "390000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304425769_1_1736588149_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/275229164_1_1724157249_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "318777376",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 데님 블랙 L사이즈",
+        "price_updates": [
+            {
+                "1742183729": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318777376_1_1740111205_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "320013288",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(L)초판 써저리 클로버 데님 팬츠",
+        "price_updates": [
+            {
+                "1742181438": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320013288_1_1740661520_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "249318801",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 데님 셋업 'surgery curved denim' M사이즈",
+        "price_updates": [
+            {
+                "1742182311": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/249318801_1_1712103983_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500999",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322168664",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 데님 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742175298": "78000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322168664_1_1741833110_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322446655",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 레더자켓 M사이즈",
+        "price_updates": [
+            {
+                "1742175048": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322446655_1_1742189090_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "262954597",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 테크니컬 자켓/팬츠 s 사이즈 팝니다",
+        "price_updates": [
+            {
+                "1742179660": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262954597_1_1729224279_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "313503787",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(네고o)새상품 써저리 언본소사이어티 자켓(써져리) L사이즈",
+        "price_updates": [
+            {
+                "1742176983": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313503787_1_1741850025_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "244078975",
+        "brands": [
+            "써저리"
+        ],
+        "name": "M/써저리 2m 곱창팬츠 더블진 플레임",
+        "price_updates": [
+            {
+                "1742173149": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244078975_1_1720314861_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "301679093",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 surgery process 011 새상품급 말도안되는가격에 던져",
+        "price_updates": [
+            {
+                "1742176489": "339000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301679093_1_1732554495_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "236960478",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리[SURGERY] [M] 리메이크 데님 버뮤다 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742173724": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/236960478_1_1734918555_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322302601",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 바시티 ver.2 (size L)",
+        "price_updates": [
+            {
+                "1742164312": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322302601_1_1742174739_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322899013",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리메이크 벌룬팬츠 블루 xs",
+        "price_updates": [
+            {
+                "1742156203": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322899013_1_1742104030_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "293848357",
+        "brands": [
+            "써저리"
+        ],
+        "name": "[L] 써저리 리메이크 마원",
+        "price_updates": [
+            {
+                "1742169280": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/293848357_1_1728714013_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "323159917",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리Surgery 버뮤다 폴딩 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742126271": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323159917_1_1742125719_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322094420",
+        "brands": [
+            "써저리"
+        ],
+        "name": "S 써저리 ma-1 카키 자켓",
+        "price_updates": [
+            {
+                "1742138873": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322094420_1_1742124987_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322650843",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 ma-1 자켓 L",
+        "price_updates": [
+            {
+                "1742142157": "320000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322650843_1_1741917703_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322620281",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리미티드 백팩팬츠(초기버전)",
+        "price_updates": [
+            {
+                "1742131791": "55000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322620281_1_1741963505_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "322746091",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(L)써저리 앞뒤 리버시블 후드자켓",
+        "price_updates": [
+            {
+                "1742107608": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322746091_1_1741955760_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "321430669",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 퍼 자켓 ( one size )",
+        "price_updates": [
+            {
+                "1742137262": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321430669_1_1742018028_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "321173755",
+        "brands": [
+            "써저리"
+        ],
+        "name": "M) 써저리 30도 진 블랙",
+        "price_updates": [
+            {
+                "1742127487": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321173755_1_1741184574_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "321360119",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 팝업스토어 한정 리미티드 자켓",
+        "price_updates": [
+            {
+                "1742137259": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321360119_1_1741285687_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "321701520",
+        "brands": [
+            "써저리"
+        ],
+        "name": "surgery clover logo hoodi 써저리 클로버 후드",
+        "price_updates": [
+            {
+                "1742111242": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321701520_1_1741485221_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "283829804",
+        "brands": [
+            "써저리"
+        ],
+        "name": "surgery 써저리 후드티",
+        "price_updates": [
+            {
+                "1742127306": "81220"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283829804_1_1737052279_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "262092977",
+        "brands": [
+            "써저리"
+        ],
+        "name": "[써저리] 블루 데님 L",
+        "price_updates": [
+            {
+                "1742142489": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/262092977_1_1737817578_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "318396304",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 모노그램 클로버 진 M",
+        "price_updates": [
+            {
+                "1742135042": "109000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318396304_1_1739938517_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "315972519",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 로고 후드 차콜 L",
+        "price_updates": [
+            {
+                "1742121230": "128250"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315972519_1_1738899370_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "240881997",
+        "brands": [
+            "써저리"
+        ],
+        "name": "한정판 써저리 스와로브스키 청자켓 s",
+        "price_updates": [
+            {
+                "1742108032": "210000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/240881997_1_1708842060_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "314681890",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(L) 써저리 디스트로이드 거즈 셔츠 아이보리",
+        "price_updates": [
+            {
+                "1742118691": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314681890_1_1738328963_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "244550739",
+        "brands": [
+            "써저리"
+        ],
+        "name": "[XS]써저리 리메이크 벌룬 팬츠",
+        "price_updates": [
+            {
+                "1742115132": "258000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/244550739_1_1701703831_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "319030757",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 크로아상 점퍼 카키 L",
+        "price_updates": [
+            {
+                "1742108027": "405000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319030757_1_1740665646_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "291906192",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 집업 점퍼 피그먼트팬츠 디테일 바시티 자켓 M",
+        "price_updates": [
+            {
+                "1742132086": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291906192_1_1736858649_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "304317813",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(S유일매물,새상품)써저리 커브 레이어드 라이더 자켓",
+        "price_updates": [
+            {
+                "1742137422": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304317813_1_1741936263_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "222824646",
+        "brands": [
+            "써저리"
+        ],
+        "name": "진심 개이쁜 이든메이드 써저리 오버핏 후드 집업 팝니다 (그레이)",
+        "price_updates": [
+            {
+                "1742138618": "28000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/222824646_1_1741804757_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322849173",
@@ -125,247 +685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322849173_1_1742011693_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "318227957",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 후드",
-        "price_updates": [
-            {
-                "1742087927": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318227957_1_1739861484_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "306913196",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 페이즐리 후드티 차콜",
-        "price_updates": [
-            {
-                "1742087962": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306913196_1_1738574037_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "316970152",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 유니버스 반팔티셔츠",
-        "price_updates": [
-            {
-                "1742087953": "35000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316970152_1_1739303285_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "320139949",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 리메이크 데님 버뮤다팬츠 블루 데님",
-        "price_updates": [
-            {
-                "1742087953": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320139949_1_1740731979_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "318213789",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 유니버스 반팔티(화이트)",
-        "price_updates": [
-            {
-                "1742087927": "35000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318213789_1_1742088114_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "316970067",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리  쇼츠 레깅스 블랙",
-        "price_updates": [
-            {
-                "1742087953": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316970067_1_1739303007_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "312723610",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 커브드 데님 스와로브스키 청자켓",
-        "price_updates": [
-            {
-                "1742087962": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312723610_1_1742088067_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "314775762",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로바 데님팬츠 (구버전)",
-        "price_updates": [
-            {
-                "1742087953": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314775762_1_1738384945_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "317280448",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 X언본소사이어티 후드(새상품)",
-        "price_updates": [
-            {
-                "1742087953": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317280448_1_1739442585_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "305582553",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 모노그램 클로버 진 블루 데님S사이즈",
-        "price_updates": [
-            {
-                "1742087953": "112000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305582553_1_1733969258_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "305582342",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 모노그램 클로버 진 블랙 데님L사이즈",
-        "price_updates": [
-            {
-                "1742087953": "112000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305582342_1_1733969165_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "318380755",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 리메이크 벌룬팬츠 데님 그레이(M)",
-        "price_updates": [
-            {
-                "1742087927": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318380755_1_1739943306_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "313503787",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(네고o)새상품 써저리 언본소사이어티 자켓(써져리) L사이즈",
-        "price_updates": [
-            {
-                "1742089285": "370000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313503787_1_1741850025_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322092390",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[L] 써저리 트위스티드 팬츠 블랙 써져리",
-        "price_updates": [
-            {
-                "1742081089": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322092390_1_1741612304_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "320013288",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(L)초판 써저리 클로버 데님 팬츠",
-        "price_updates": [
-            {
-                "1742087538": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320013288_1_1740661520_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322174795",
@@ -381,103 +701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322174795_1_1741669562_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322446655",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 레더자켓 M사이즈",
-        "price_updates": [
-            {
-                "1742052450": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322446655_1_1742053850_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322650843",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 본 ma-1 자켓 L",
-        "price_updates": [
-            {
-                "1742053974": "320000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322650843_1_1741917703_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "321430669",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 퍼 자켓 ( one size )",
-        "price_updates": [
-            {
-                "1742059556": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321430669_1_1742018028_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "321360119",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 팝업스토어 한정 리미티드 자켓",
-        "price_updates": [
-            {
-                "1742059564": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321360119_1_1741285687_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "319580913",
-        "brands": [
-            "써저리"
-        ],
-        "name": "Surgery(써저리) HPG 후드",
-        "price_updates": [
-            {
-                "1742055562": "71250"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319580913_1_1740549798_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "313486043",
-        "brands": [
-            "써저리"
-        ],
-        "name": "ONE)) Sur8ery 써저리 리버시블 본 퍼 자켓",
-        "price_updates": [
-            {
-                "1742070568": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313486043_1_1740975904_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322891530",
@@ -487,109 +711,29 @@
         "name": "써저리 바시티 자켓 m 팝니다",
         "price_updates": [
             {
-                "1742028172": "210000"
+                "1742104094": "210000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/322891530_1_1742027542_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "322899013",
+        "pid": "322092390",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 리메이크 벌룬팬츠 블루 xs",
+        "name": "[L] 써저리 트위스티드 팬츠 블랙 써져리",
         "price_updates": [
             {
-                "1742051469": "120000"
+                "1742081089": "150000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322899013_1_1742026081_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322110757",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 카모 더블 폴딩 팬츠",
-        "price_updates": [
-            {
-                "1742012735": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322110757_1_1741618843_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322092390_1_1741612304_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322620281",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 리미티드 백팩팬츠(초기버전)",
-        "price_updates": [
-            {
-                "1742032339": "55000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322620281_1_1741963505_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322746091",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(L)써저리 앞뒤 리버시블 후드자켓",
-        "price_updates": [
-            {
-                "1742035003": "260000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322746091_1_1741955760_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "321775820",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 리메이크 오버 후드집업",
-        "price_updates": [
-            {
-                "1742019786": "170000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321775820_1_1741919638_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "321173755",
-        "brands": [
-            "써저리"
-        ],
-        "name": "M) 써저리 30도 진 블랙",
-        "price_updates": [
-            {
-                "1742048469": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321173755_1_1741184574_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "309990478",
@@ -605,7 +749,55 @@
         "product_image": "https://media.bunjang.co.kr/product/309990478_1_1740046161_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "318227957",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 후드",
+        "price_updates": [
+            {
+                "1742087927": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318227957_1_1739861484_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "242818928",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 바지 S",
+        "price_updates": [
+            {
+                "1742097581": "100000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/242818928_1_1728897644_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "292604510",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 데님 m",
+        "price_updates": [
+            {
+                "1742096657": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292604510_1_1734487169_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "254176976",
@@ -615,13 +807,29 @@
         "name": "써저리 프로세스 006",
         "price_updates": [
             {
-                "1742016206": "320000"
+                "1742099012": "320000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/254176976_1_1729513929_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "306913196",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 페이즐리 후드티 차콜",
+        "price_updates": [
+            {
+                "1742087962": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306913196_1_1738574037_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "274802853",
@@ -637,71 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274802853_1_1741221107_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "293848357",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[L] 써저리 리메이크 마원",
-        "price_updates": [
-            {
-                "1742020456": "600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/293848357_1_1728714013_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "243459694",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 데님 자켓 트러커",
-        "price_updates": [
-            {
-                "1742042827": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/243459694_1_1739706912_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "237056846",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 프로세스 008 s",
-        "price_updates": [
-            {
-                "1742019671": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/237056846_1_1734992316_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "289593332",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 반팔티 L사이즈",
-        "price_updates": [
-            {
-                "1742019225": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/289593332_1_1726427812_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "318522568",
@@ -711,253 +855,61 @@
         "name": "써저리 클로버 데님팬츠 L",
         "price_updates": [
             {
-                "1742009147": "80000"
+                "1742095141": "80000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318522568_1_1740109763_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318522568_1_1742095739_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "292546908",
+        "pid": "259254449",
         "brands": [
             "써저리"
         ],
-        "name": "새상품 써저리 모노그램 클로버 데님 l",
+        "name": "써저리 언본소사이어티",
         "price_updates": [
             {
-                "1742048662": "85000"
+                "1742094051": "110000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/292546908_1_1739423819_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "314681890",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(L) 써저리 디스트로이드 거즈 셔츠 아이보리",
-        "price_updates": [
-            {
-                "1742028003": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314681890_1_1738328963_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "292546531",
-        "brands": [
-            "써저리"
-        ],
-        "name": "새상품 써저리 블루 클로버 데님 l",
-        "price_updates": [
-            {
-                "1742048662": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292546531_1_1739423802_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "318526053",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 트리플 스컬 스웻팬츠",
-        "price_updates": [
-            {
-                "1742009147": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318526053_1_1740109812_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "321661233",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리(Surgery) 프로세스 005 품절 매물 올립니당(size M)",
-        "price_updates": [
-            {
-                "1742030545": "410000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321661233_1_1741578872_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "244078975",
-        "brands": [
-            "써저리"
-        ],
-        "name": "M/써저리 2m 곱창팬츠 더블진 플레임",
-        "price_updates": [
-            {
-                "1742044571": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/244078975_1_1720314861_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "303849943",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 30도 워시드 블루 데님 바지",
-        "price_updates": [
-            {
-                "1742029719": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303849943_1_1738228062_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "306467450",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[써저리 맛] 라퍼 본 바시티 자켓 -L-",
-        "price_updates": [
-            {
-                "1742029387": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306467450_1_1741563419_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "308482565",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(새상품)Surgery 써저리 사이드 집 벨벳 자켓 s",
-        "price_updates": [
-            {
-                "1742026408": "260000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308482565_1_1736130251_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "285543152",
-        "brands": [
-            "써저리"
-        ],
-        "name": "새상품 써저리 롱슬리브 S 사이즈 판매합니다.",
-        "price_updates": [
-            {
-                "1742045250": "43000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/285543152_1_1732866723_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/259254449_1_1716093759_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "291906192",
+        "pid": "226878997",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 집업 점퍼 피그먼트팬츠 디테일 바시티 자켓 M",
+        "name": "써저리 코스트퍼킬로 모터자켓 M",
         "price_updates": [
             {
-                "1742038530": "160000"
+                "1742092657": "220000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/291906192_1_1736858649_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/226878997_1_1741175570_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "262954597",
+        "pid": "316970152",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 테크니컬 자켓/팬츠 s 사이즈 팝니다",
+        "name": "써저리 클로버 유니버스 반팔티셔츠",
         "price_updates": [
             {
-                "1742008935": "120000"
+                "1742087953": "35000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/262954597_1_1729224279_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/316970152_1_1739303285_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "249318801",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 데님 셋업 'surgery curved denim' M사이즈",
-        "price_updates": [
-            {
-                "1742017038": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/249318801_1_1712103983_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500999",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "314611421",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[Surgery]써저리 더블 폴딩 오버 와이드 배기진 카모팬츠 L",
-        "price_updates": [
-            {
-                "1742020263": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314611421_1_1742020282_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "292961909",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 surgery 집업 테크니컬 자켓 라이트그레이 s",
-        "price_updates": [
-            {
-                "1742028189": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292961909_1_1732207549_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322796935",
@@ -973,23 +925,295 @@
         "product_image": "https://media.bunjang.co.kr/product/322796935_1_1741975358_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "322094420",
+        "pid": "243459694",
         "brands": [
             "써저리"
         ],
-        "name": "S 써저리 ma-1 카키 자켓",
+        "name": "써저리 클로버 데님 자켓 트러커",
         "price_updates": [
             {
-                "1741965779": "300000"
+                "1742042827": "120000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322094420_1_1741612921_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/243459694_1_1739706912_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "237056846",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 프로세스 008 s",
+        "price_updates": [
+            {
+                "1742019671": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237056846_1_1734992316_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "289593332",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 반팔티 L사이즈",
+        "price_updates": [
+            {
+                "1742019225": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/289593332_1_1726427812_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "320139949",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리메이크 데님 버뮤다팬츠 블루 데님",
+        "price_updates": [
+            {
+                "1742087953": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320139949_1_1740731979_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120700",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "318213789",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로버 유니버스 반팔티(화이트)",
+        "price_updates": [
+            {
+                "1742087927": "35000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318213789_1_1742088114_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "305651230",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 언본소사이어티 후드",
+        "price_updates": [
+            {
+                "1742094051": "85000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305651230_1_1741490883_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "319580913",
+        "brands": [
+            "써저리"
+        ],
+        "name": "Surgery(써저리) HPG 후드",
+        "price_updates": [
+            {
+                "1742055562": "71250"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319580913_1_1740549798_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "312723610",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 커브드 데님 스와로브스키 청자켓",
+        "price_updates": [
+            {
+                "1742087962": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312723610_1_1742088067_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "316970067",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리  쇼츠 레깅스 블랙",
+        "price_updates": [
+            {
+                "1742087953": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316970067_1_1739303007_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "247779577",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(급처) 써저리 클로버 데님 S 사이즈",
+        "price_updates": [
+            {
+                "1742030668": "89900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/247779577_1_1741170881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "321661233",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리(Surgery) 프로세스 005 품절 매물 올립니당(size M)",
+        "price_updates": [
+            {
+                "1742030545": "410000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321661233_1_1741578872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "313952625",
+        "brands": [
+            "써저리"
+        ],
+        "name": "L 써저리 본 엠보싱 마원 자켓 블랙",
+        "price_updates": [
+            {
+                "1742092600": "379000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313952625_1_1739678406_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "304425769",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 바시티 ver.2 블랙 (L)",
+        "price_updates": [
+            {
+                "1742091734": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304425769_1_1736588149_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "305582553",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 모노그램 클로버 진 블루 데님S사이즈",
+        "price_updates": [
+            {
+                "1742087953": "112000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305582553_1_1733969258_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "305582342",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 모노그램 클로버 진 블랙 데님L사이즈",
+        "price_updates": [
+            {
+                "1742087953": "112000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305582342_1_1733969165_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "314775762",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 클로바 데님팬츠 (구버전)",
+        "price_updates": [
+            {
+                "1742087953": "110000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314775762_1_1738384945_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "317280448",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 X언본소사이어티 후드(새상품)",
+        "price_updates": [
+            {
+                "1742087953": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317280448_1_1739442585_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "303849943",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 30도 워시드 블루 데님 바지",
+        "price_updates": [
+            {
+                "1742029719": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303849943_1_1738228062_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322772002",
@@ -1002,10 +1226,90 @@
                 "1741962818": "199000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322772002_1_1741962818_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322772002_1_1742137346_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "285543152",
+        "brands": [
+            "써저리"
+        ],
+        "name": "새상품 써저리 롱슬리브 S 사이즈 판매합니다.",
+        "price_updates": [
+            {
+                "1742098663": "43000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/285543152_1_1732866723_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "318380755",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리메이크 벌룬팬츠 데님 그레이(M)",
+        "price_updates": [
+            {
+                "1742087927": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318380755_1_1739943306_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "308482565",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(새상품)Surgery 써저리 사이드 집 벨벳 자켓 s",
+        "price_updates": [
+            {
+                "1742026408": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308482565_1_1736130251_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "314931798",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 테크니컬 집업 자켓 s사이즈",
+        "price_updates": [
+            {
+                "1742105311": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314931798_1_1740474830_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "313306316",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 커팅 데님 바시티 자켓 L (지코착용)",
+        "price_updates": [
+            {
+                "1742096709": "550000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/313306316_1_1737657624_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "321125633",
@@ -1021,23 +1325,55 @@
         "product_image": "https://media.bunjang.co.kr/product/321125633_1_1741169447_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "322302601",
+        "pid": "318947524",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 본 바시티 ver.2 (size L)",
+        "name": "써저리 노매뉴얼 4Z TRACKJACKET - 테크니컬 트랙 자켓",
         "price_updates": [
             {
-                "1742000899": "240000"
+                "1742092657": "43000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322302601_1_1741733929_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318947524_1_1741998388_w{res}.jpg",
         "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "314611421",
+        "brands": [
+            "써저리"
+        ],
+        "name": "[Surgery]써저리 더블 폴딩 오버 와이드 배기진 카모팬츠 L",
+        "price_updates": [
+            {
+                "1742020263": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314611421_1_1742020282_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "292961909",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 surgery 집업 테크니컬 자켓 라이트그레이 s",
+        "price_updates": [
+            {
+                "1742028189": "190000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292961909_1_1732207549_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "292917968",
@@ -1053,7 +1389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292917968_1_1728253224_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "320849815",
@@ -1069,71 +1405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320849815_1_1742033667_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "321701520",
-        "brands": [
-            "써저리"
-        ],
-        "name": "surgery clover logo hoodi 써저리 클로버 후드",
-        "price_updates": [
-            {
-                "1741951542": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321701520_1_1741485221_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "292604510",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 데님 m",
-        "price_updates": [
-            {
-                "1741970179": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292604510_1_1734487169_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "319765555",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 벌룬팬츠",
-        "price_updates": [
-            {
-                "1741928665": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319765555_1_1741661117_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "261432910",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 메탈 플래닛 반팔 L",
-        "price_updates": [
-            {
-                "1741923110": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261432910_1_1734936774_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "317932325",
@@ -1149,7 +1421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317932325_1_1742002808_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "317326162",
@@ -1165,7 +1437,23 @@
         "product_image": "https://media.bunjang.co.kr/product/317326162_1_1740651305_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
+    },
+    {
+        "pid": "318526053",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 트리플 스컬 스웻팬츠",
+        "price_updates": [
+            {
+                "1742009147": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318526053_1_1742095772_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "312841929",
@@ -1181,87 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312841929_1_1737435954_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "282060995",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(새상품) 써저리 surgery double jeans 'black' (",
-        "price_updates": [
-            {
-                "1741958449": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282060995_1_1741697409_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "322168664",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 데님 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741912776": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322168664_1_1741833110_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "304317813",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(S유일매물,새상품)써저리 커브 레이어드 라이더 자켓",
-        "price_updates": [
-            {
-                "1741965030": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304317813_1_1741936263_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "236960478",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리[SURGERY] [M] 리메이크 데님 버뮤다 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741967367": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/236960478_1_1734918555_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "312186043",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 2m 곱창바지 L 미발매제품 판매",
-        "price_updates": [
-            {
-                "1741939034": "159000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/312186043_1_1737695821_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "322126228",
@@ -1277,23 +1485,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322126228_1_1741797667_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "319477390",
+        "pid": "312186043",
         "brands": [
             "써저리"
         ],
-        "name": "(구매글) M또는L 사이즈 써저리 바시티 본 자켓 데님컬러 Surgery",
+        "name": "써저리 2m 곱창바지 L 미발매제품 판매",
         "price_updates": [
             {
-                "1741922111": "280000"
+                "1741939034": "159000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/319477390_1_1740408783_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/312186043_1_1737695821_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "303763308",
@@ -1309,23 +1517,23 @@
         "product_image": "https://media.bunjang.co.kr/product/303763308_1_1733391336_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "286167619",
+        "pid": "261432910",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 클로버 진 m사이즈",
+        "name": "써저리 메탈 플래닛 반팔 L",
         "price_updates": [
             {
-                "1741863793": "60000"
+                "1741923110": "40000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/286167619_1_1724569862_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/261432910_1_1734936774_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "263551865",
@@ -1341,55 +1549,23 @@
         "product_image": "https://media.bunjang.co.kr/product/263551865_1_1715931310_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
-        "pid": "318396304",
+        "pid": "286167619",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 모노그램 클로버 진 M",
+        "name": "써저리 클로버 진 m사이즈",
         "price_updates": [
             {
-                "1741855898": "109000"
+                "1741863793": "60000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318396304_1_1739938517_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/286167619_1_1724569862_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "318777376",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 데님 블랙 L사이즈",
-        "price_updates": [
-            {
-                "1741856770": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318777376_1_1740111205_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "315972519",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 로고 후드 차콜 L",
-        "price_updates": [
-            {
-                "1741844868": "128250"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315972519_1_1738899370_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:19"
     },
     {
         "pid": "279090330",
@@ -1405,7 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/279090330_1_1738569743_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "302058184",
@@ -1421,39 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302058184_1_1737864840_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "183598476",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(L) 써저리 롱슬리브 white",
-        "price_updates": [
-            {
-                "1741749437": "74000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/183598476_1_1722763018_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "215382904",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(OS) 써저리 리메이크 오버 후드재킷 lavender",
-        "price_updates": [
-            {
-                "1741749437": "360000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/215382904_1_1739761635_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "310130868",
@@ -1469,39 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310130868_1_1736159996_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "253484935",
-        "brands": [
-            "써저리"
-        ],
-        "name": "(OS) 써저리 본 엠보싱 푸퍼 재킷 black",
-        "price_updates": [
-            {
-                "1741749437": "600000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/253484935_1_1739761734_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "306805529",
-        "brands": [
-            "써저리"
-        ],
-        "name": "Surgery 써저리 곱창진 BLACK DYED KHAKI",
-        "price_updates": [
-            {
-                "1741785396": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306805529_1_1741665988_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "240084129",
@@ -1517,7 +1629,23 @@
         "product_image": "https://media.bunjang.co.kr/product/240084129_1_1701140563_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "306805529",
+        "brands": [
+            "써저리"
+        ],
+        "name": "Surgery 써저리 곱창진 BLACK DYED KHAKI",
+        "price_updates": [
+            {
+                "1741785396": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306805529_1_1741665988_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "321480712",
@@ -1533,23 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321480712_1_1742038009_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "222824646",
-        "brands": [
-            "써저리"
-        ],
-        "name": "진심 개이쁜 이든메이드 써저리 오버핏 후드 집업 팝니다 (그레이)",
-        "price_updates": [
-            {
-                "1741804731": "28000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/222824646_1_1741804757_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "280288206",
@@ -1565,39 +1677,23 @@
         "product_image": "https://media.bunjang.co.kr/product/280288206_1_1741707214_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
-        "pid": "315537134",
+        "pid": "183598476",
         "brands": [
             "써저리"
         ],
-        "name": "써저리 다이아몬드 팬츠 M",
+        "name": "(L) 써저리 롱슬리브 white",
         "price_updates": [
             {
-                "1741697924": "49990"
+                "1741749437": "74000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315537134_1_1738685279_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/183598476_1_1722763018_w{res}.jpg",
         "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "275229164",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 process 011",
-        "price_updates": [
-            {
-                "1741698417": "390000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/275229164_1_1724157249_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "283631932",
@@ -1613,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/283631932_1_1723116624_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "288217610",
@@ -1629,23 +1725,39 @@
         "product_image": "https://media.bunjang.co.kr/product/288217610_1_1741701790_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
-        "pid": "237499781",
+        "pid": "215382904",
         "brands": [
             "써저리"
         ],
-        "name": "[M] 써저리 프로세스 006 (Process 006)",
+        "name": "(OS) 써저리 리메이크 오버 후드재킷 lavender",
         "price_updates": [
             {
-                "1741671148": "350000"
+                "1741749437": "360000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/237499781_1_1740647081_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/215382904_1_1739761635_w{res}.jpg",
         "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "253484935",
+        "brands": [
+            "써저리"
+        ],
+        "name": "(OS) 써저리 본 엠보싱 푸퍼 재킷 black",
+        "price_updates": [
+            {
+                "1741749437": "600000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/253484935_1_1739761734_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "286687293",
@@ -1661,7 +1773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286687293_1_1738440615_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "288817603",
@@ -1677,7 +1789,23 @@
         "product_image": "https://media.bunjang.co.kr/product/288817603_1_1736305562_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "237499781",
+        "brands": [
+            "써저리"
+        ],
+        "name": "[M] 써저리 프로세스 006 (Process 006)",
+        "price_updates": [
+            {
+                "1741671148": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/237499781_1_1740647081_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "282438227",
@@ -1693,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282438227_1_1722440965_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "311656417",
@@ -1709,7 +1837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311656417_1_1741597175_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "294548871",
@@ -1725,87 +1853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294548871_1_1740725225_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "313306316",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 본 커팅 데님 바시티 자켓 L (지코착용)",
-        "price_updates": [
-            {
-                "1741606534": "550000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/313306316_1_1737657624_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "317985862",
-        "brands": [
-            "써저리"
-        ],
-        "name": "<의류매입>발렌시아가릭오웬스크롬하츠paf지방시베트멍슈프림오클리팔라스써저리",
-        "price_updates": [
-            {
-                "1741614539": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317985862_1_1739759400_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "301964874",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 스커트 팬츠",
-        "price_updates": [
-            {
-                "1741557312": "135000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301964874_1_1732348649_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "254702505",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 스켈레톤 바람막이 M",
-        "price_updates": [
-            {
-                "1741508022": "420000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254702505_1_1708936675_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "254228546",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 본 바시티 자켓 L",
-        "price_updates": [
-            {
-                "1741531774": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/254228546_1_1732496571_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "288139486",
@@ -1821,7 +1869,23 @@
         "product_image": "https://media.bunjang.co.kr/product/288139486_1_1737533680_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "301964874",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 스커트 팬츠",
+        "price_updates": [
+            {
+                "1741557312": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/301964874_1_1732348649_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "321419792",
@@ -1837,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321419792_1_1741330008_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "321420050",
@@ -1853,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321420050_1_1741330106_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "261109011",
@@ -1869,23 +1933,23 @@
         "product_image": "https://media.bunjang.co.kr/product/261109011_1_1736148239_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
-        "pid": "320737109",
+        "pid": "254702505",
         "brands": [
             "써저리"
         ],
-        "name": "써저리컬렉션라인  비건레더 자켓 공용",
+        "name": "써저리 스켈레톤 바람막이 M",
         "price_updates": [
             {
-                "1740976275": "250000"
+                "1741508022": "420000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320737109_1_1741331925_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/254702505_1_1708936675_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317657016",
@@ -1901,7 +1965,23 @@
         "product_image": "https://media.bunjang.co.kr/product/317657016_1_1741448828_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "317985862",
+        "brands": [
+            "써저리"
+        ],
+        "name": "<의류매입>발렌시아가릭오웬스크롬하츠paf지방시베트멍슈프림오클리팔라스써저리",
+        "price_updates": [
+            {
+                "1741614539": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317985862_1_1739759400_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "280981682",
@@ -1917,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280981682_1_1721698452_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "291168070",
@@ -1933,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291168070_1_1737019628_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "276701290",
@@ -1949,7 +2029,23 @@
         "product_image": "https://media.bunjang.co.kr/product/276701290_1_1737555470_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "254228546",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 본 바시티 자켓 L",
+        "price_updates": [
+            {
+                "1741531774": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/254228546_1_1732496571_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318946862",
@@ -1965,23 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318946862_1_1740978202_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "283829804",
-        "brands": [
-            "써저리"
-        ],
-        "name": "surgery 써저리 후드티",
-        "price_updates": [
-            {
-                "1741185904": "81220"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/283829804_1_1737052279_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "297311888",
@@ -1997,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297311888_1_1734358470_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "231655445",
@@ -2013,23 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231655445_1_1709460638_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "262092977",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[써저리] 블루 데님 L",
-        "price_updates": [
-            {
-                "1741018819": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/262092977_1_1737817578_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "295264878",
@@ -2045,23 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295264878_1_1730972566_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "244550739",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[XS]써저리 리메이크 벌룬 팬츠",
-        "price_updates": [
-            {
-                "1741331761": "258000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/244550739_1_1701703831_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319944997",
@@ -2077,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319944997_1_1740640936_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "285208787",
@@ -2093,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285208787_1_1738729085_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "294033477",
@@ -2109,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294033477_1_1738109191_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "292173918",
@@ -2125,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292173918_1_1735364535_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "246269461",
@@ -2141,7 +2189,23 @@
         "product_image": "https://media.bunjang.co.kr/product/246269461_1_1732103461_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "320737109",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리컬렉션라인  비건레더 자켓 공용",
+        "price_updates": [
+            {
+                "1740976275": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320737109_1_1741331925_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "320353909",
@@ -2157,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320353909_1_1740817248_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "314246373",
@@ -2173,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314246373_1_1738126345_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "289527250",
@@ -2189,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289527250_1_1726440433_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "259017929",
@@ -2205,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259017929_1_1716453215_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319155701",
@@ -2221,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319155701_1_1740287746_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "239982391",
@@ -2237,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239982391_1_1732781608_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "260166284",
@@ -2253,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260166284_1_1734369086_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319960352",
@@ -2269,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319960352_1_1740645781_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "302629321",
@@ -2285,39 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302629321_1_1732616300_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "240881997",
-        "brands": [
-            "써저리"
-        ],
-        "name": "한정판 써저리 스와로브스키 청자켓 s",
-        "price_updates": [
-            {
-                "1740573104": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/240881997_1_1708842060_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "319030757",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 크로아상 점퍼 카키 L",
-        "price_updates": [
-            {
-                "1740694913": "405000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319030757_1_1740665646_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317370776",
@@ -2333,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317370776_1_1740655996_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "265127370",
@@ -2349,7 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/265127370_1_1718867127_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317821425",
@@ -2365,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317821425_1_1740304901_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "254614198",
@@ -2381,23 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/254614198_1_1739866046_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "242818928",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 바지 S",
-        "price_updates": [
-            {
-                "1739980841": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/242818928_1_1728897644_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "292044761",
@@ -2413,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292044761_1_1735364543_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "320367883",
@@ -2429,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320367883_1_1740820857_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317977453",
@@ -2445,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317977453_1_1739755591_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "316419909",
@@ -2461,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316419909_1_1740160019_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318232929",
@@ -2477,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318232929_1_1741407643_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "259990311",
@@ -2493,23 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259990311_1_1740086790_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "314931798",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 테크니컬 집업 자켓 s사이즈",
-        "price_updates": [
-            {
-                "1740568498": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/314931798_1_1740474830_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318510519",
@@ -2525,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318510519_1_1740383907_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "316954841",
@@ -2541,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316954841_1_1739419071_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "312222759",
@@ -2557,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312222759_1_1738809345_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "296736178",
@@ -2573,23 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296736178_1_1730363023_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "301679093",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 surgery process 011 새상품급 말도안되는가격에 던져",
-        "price_updates": [
-            {
-                "1741079048": "339000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301679093_1_1732554495_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "300205242",
@@ -2605,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300205242_1_1739734089_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "272250162",
@@ -2621,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/272250162_1_1728800980_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "263044046",
@@ -2637,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263044046_1_1732942020_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "290936360",
@@ -2653,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290936360_1_1739263926_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "316850858",
@@ -2669,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316850858_1_1741513929_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "316910542",
@@ -2685,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316910542_1_1739352048_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "61793836",
@@ -2701,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/61793836_1_1734856147_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "303601212",
@@ -2717,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303601212_1_1734321363_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "251393606",
@@ -2733,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251393606_1_1731379486_w{res}.jpg",
         "status": "0",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317139470",
@@ -2749,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317139470_1_1739371002_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "305027018",
@@ -2765,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305027018_1_1736314275_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "315823661",
@@ -2781,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315823661_1_1738826594_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317058125",
@@ -2797,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317058125_1_1739348144_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317961000",
@@ -2813,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317961000_1_1739734835_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "295959910",
@@ -2829,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295959910_1_1729610097_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "315221958",
@@ -2845,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315221958_1_1738564197_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "315365475",
@@ -2861,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315365475_1_1738630873_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "289625118",
@@ -2877,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289625118_1_1731299732_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "275138816",
@@ -2893,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275138816_1_1719306400_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "266853168",
@@ -2909,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/266853168_1_1738667408_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "315524525",
@@ -2925,23 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315524525_1_1741605833_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:28"
-    },
-    {
-        "pid": "315090872",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 프로세스 008 L사이즈",
-        "price_updates": [
-            {
-                "1738498349": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315090872_1_1742009436_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "314772653",
@@ -2957,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314772653_1_1738383973_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "313183208",
@@ -2973,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313183208_1_1737599490_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "314089578",
@@ -2989,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314089578_1_1738039776_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "296512804",
@@ -3005,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296512804_1_1729869587_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "301791106",
@@ -3021,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301791106_1_1733900353_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "302178156",
@@ -3037,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302178156_1_1732423944_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "298661142",
@@ -3053,7 +3021,23 @@
         "product_image": "https://media.bunjang.co.kr/product/298661142_1_1732941664_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "315090872",
+        "brands": [
+            "써저리"
+        ],
+        "name": "17일까지만 20)써저리 프로세스 008 L사이즈",
+        "price_updates": [
+            {
+                "1738498349": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315090872_1_1742126829_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "219848272",
@@ -3069,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/219848272_1_1680362824_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "310777553",
@@ -3085,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310777553_1_1740304236_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "306788462",
@@ -3101,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306788462_1_1736414182_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:28"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "290609915",
@@ -3117,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290609915_1_1729066980_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "312505883",
@@ -3133,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312505883_1_1737276057_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "308779540",
@@ -3149,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308779540_1_1735602766_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "243842148",
@@ -3165,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243842148_1_1736749016_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "300564660",
@@ -3181,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300564660_1_1737204330_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "310544777",
@@ -3197,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310544777_1_1736353035_w{res}.jpg",
         "status": "0",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "310787932",
@@ -3213,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310787932_1_1736489477_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "287771440",
@@ -3229,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287771440_1_1736160696_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "262614129",
@@ -3245,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262614129_1_1735531719_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "303070670",
@@ -3261,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303070670_1_1734524073_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "306049635",
@@ -3277,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306049635_1_1735279179_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "309031692",
@@ -3293,23 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309031692_1_1735624834_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
-    },
-    {
-        "pid": "306370697",
-        "brands": [
-            "써저리"
-        ],
-        "name": "[마지막 가격 곧 삭제] 써저리 백 포스 스웨트 자켓 블랙 M사이즈 판매",
-        "price_updates": [
-            {
-                "1736145428": "160000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306370697_1_1735391777_w{res}.jpg",
-        "status": "1",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "250939197",
@@ -3325,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/250939197_1_1706184912_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "307766626",
@@ -3341,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307766626_1_1734957226_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "252062570",
@@ -3357,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/252062570_1_1734705713_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "201850606",
@@ -3373,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/201850606_1_1733948488_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "300939011",
@@ -3389,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300939011_1_1738223331_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "306172698",
@@ -3405,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306172698_1_1734238905_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "299317634",
@@ -3421,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299317634_1_1731141556_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "292768089",
@@ -3437,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292768089_1_1740687371_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "303200368",
@@ -3453,7 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303200368_1_1732959113_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "263280522",
@@ -3469,7 +3437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263280522_1_1732342913_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "257189360",
@@ -3485,7 +3453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257189360_1_1717498692_w{res}.jpg",
         "status": "0",
         "category_id": "320500999",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "243770282",
@@ -3501,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/243770282_1_1732622570_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "260635622",
@@ -3517,7 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260635622_1_1715269506_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "297537889",
@@ -3533,7 +3501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297537889_1_1730350469_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "301466770",
@@ -3549,7 +3517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301466770_1_1732093546_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "297315282",
@@ -3565,7 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297315282_1_1734358477_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "297312644",
@@ -3581,7 +3549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297312644_1_1734358488_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "280273287",
@@ -3597,7 +3565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280273287_1_1721326881_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "237107023",
@@ -3613,7 +3581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/237107023_1_1730175039_w{res}.jpg",
         "status": "0",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "296966626",
@@ -3629,7 +3597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296966626_1_1730072713_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "299828050",
@@ -3645,7 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299828050_1_1734141271_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "298771178",
@@ -3661,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298771178_1_1730888202_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "293403281",
@@ -3677,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293403281_1_1730802569_w{res}.jpg",
         "status": "1",
         "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "297967454",
@@ -3693,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297967454_1_1730539378_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "293161523",
@@ -3709,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293161523_1_1728378793_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "242746982",
@@ -3725,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242746982_1_1731671840_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "291517824",
@@ -3741,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291517824_1_1729842968_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "296250302",
@@ -3757,7 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296250302_1_1729758022_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "292739898",
@@ -3773,7 +3741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292739898_1_1729473502_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "295915674",
@@ -3789,7 +3757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295915674_1_1729598468_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "289798657",
@@ -3805,7 +3773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289798657_1_1728797344_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "240093841",
@@ -3821,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240093841_1_1732629846_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "280611440",
@@ -3837,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280611440_1_1723350952_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "284700235",
@@ -3853,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284700235_1_1723716475_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "164394834",
@@ -3869,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/164394834_1_1631536732_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "287387181",
@@ -3885,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287387181_1_1725201278_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "273081385",
@@ -3901,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273081385_1_1718620122_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "281962928",
@@ -3917,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281962928_1_1722190472_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "275618863",
@@ -3933,7 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/275618863_1_1726330702_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "259721766",
@@ -3949,7 +3917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259721766_1_1726132544_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "289069667",
@@ -3965,7 +3933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289069667_1_1726154545_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "285609229",
@@ -3981,7 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285609229_1_1724244424_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "262106265",
@@ -3997,7 +3965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262106265_1_1716248746_w{res}.jpg",
         "status": "1",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "253192932",
@@ -4013,7 +3981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253192932_1_1713547507_w{res}.jpg",
         "status": "1",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "286461400",
@@ -4029,7 +3997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286461400_1_1730993226_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "285782862",
@@ -4045,7 +4013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285782862_1_1724340997_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "284238785",
@@ -4061,7 +4029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284238785_1_1723458287_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "224495482",
@@ -4077,7 +4045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224495482_1_1716441747_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "272034057",
@@ -4093,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/272034057_1_1721362155_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "246852362",
@@ -4109,7 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/246852362_1_1713524606_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "280987150",
@@ -4125,7 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280987150_1_1722248435_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "281486588",
@@ -4141,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281486588_1_1721949252_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "254181809",
@@ -4157,7 +4125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/254181809_1_1708575505_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "253766207",
@@ -4173,7 +4141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253766207_1_1720302035_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "264383552",
@@ -4189,7 +4157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264383552_1_1716602239_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "268185836",
@@ -4205,7 +4173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268185836_1_1724244228_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "274116444",
@@ -4221,7 +4189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274116444_1_1718968553_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "271120332",
@@ -4237,7 +4205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271120332_1_1718016901_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "269659918",
@@ -4253,7 +4221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/269659918_1_1717591916_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "256151406",
@@ -4269,7 +4237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/256151406_1_1709999787_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "264347610",
@@ -4285,7 +4253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264347610_1_1716423344_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "242482364",
@@ -4301,7 +4269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242482364_1_1699672365_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "259082128",
@@ -4317,7 +4285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259082128_1_1712247202_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "263313382",
@@ -4333,7 +4301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263313382_1_1715599824_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "263131575",
@@ -4349,7 +4317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263131575_1_1715464273_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "262023808",
@@ -4365,7 +4333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262023808_1_1740291293_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "238291682",
@@ -4381,7 +4349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/238291682_1_1698665511_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "259859464",
@@ -4397,7 +4365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259859464_1_1713084117_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "253673513",
@@ -4413,7 +4381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/253673513_1_1708700380_w{res}.jpg",
         "status": "0",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "260048873",
@@ -4429,7 +4397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260048873_1_1715704546_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "258878679",
@@ -4445,7 +4413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258878679_1_1712108799_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "258565386",
@@ -4461,7 +4429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258565386_1_1711863392_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "249595845",
@@ -4477,23 +4445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249595845_1_1710950652_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
-    },
-    {
-        "pid": "256946600",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 클로버 데님 팬츠 m",
-        "price_updates": [
-            {
-                "1710604536": "95000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/256946600_1_1724590813_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "249893904",
@@ -4509,7 +4461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249893904_1_1710674350_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "322899343",
@@ -4525,7 +4477,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322899343_1_1742026178_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "321775820",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 리메이크 오버 후드집업",
+        "price_updates": [
+            {
+                "1742019786": "170000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321775820_1_1741919638_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318583346",
@@ -4541,7 +4509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318583346_1_1742040510_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "302104115",
@@ -4554,26 +4522,10 @@
                 "1741874634": "57000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/302104115_1_1741931932_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/302104115_1_1742101902_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
-    },
-    {
-        "pid": "320626580",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 패치데님 M사이즈",
-        "price_updates": [
-            {
-                "1740916327": "50000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320626580_1_1740916327_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "284824762",
@@ -4589,7 +4541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284824762_1_1741837910_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "306266737",
@@ -4605,7 +4557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306266737_1_1738135651_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "320849118",
@@ -4621,39 +4573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320849118_1_1741158409_w{res}.jpg",
         "status": "3",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:29"
-    },
-    {
-        "pid": "311644822",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 가죽자켓",
-        "price_updates": [
-            {
-                "1740732167": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311644822_1_1738916184_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
-    },
-    {
-        "pid": "319318588",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 MA-1 카키 (S)",
-        "price_updates": [
-            {
-                "1740875539": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319318588_1_1740803038_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "305111932",
@@ -4669,7 +4589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305111932_1_1739240544_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319811330",
@@ -4685,7 +4605,39 @@
         "product_image": "https://media.bunjang.co.kr/product/319811330_1_1740571955_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "311644822",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 가죽자켓",
+        "price_updates": [
+            {
+                "1740732167": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/311644822_1_1738916184_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "319318588",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 MA-1 카키 (S)",
+        "price_updates": [
+            {
+                "1740875539": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319318588_1_1740803038_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319986661",
@@ -4701,7 +4653,23 @@
         "product_image": "https://media.bunjang.co.kr/product/319986661_1_1741060461_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
+    },
+    {
+        "pid": "320626580",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 패치데님 M사이즈",
+        "price_updates": [
+            {
+                "1740916327": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320626580_1_1740916327_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "316164206",
@@ -4717,7 +4685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316164206_1_1738987492_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "306804671",
@@ -4733,7 +4701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306804671_1_1741418623_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317859028",
@@ -4749,7 +4717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317859028_1_1741169805_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "312134347",
@@ -4765,7 +4733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312134347_1_1740386019_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319811725",
@@ -4781,7 +4749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319811725_1_1740660018_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319587854",
@@ -4797,7 +4765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319587854_1_1740474150_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318764821",
@@ -4813,7 +4781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318764821_1_1740130782_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318121507",
@@ -4829,7 +4797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318121507_1_1739800333_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "318230284",
@@ -4845,7 +4813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318230284_1_1739862356_w{res}.jpg",
         "status": "3",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "313715809",
@@ -4861,7 +4829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313715809_1_1739374560_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317406189",
@@ -4877,7 +4845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317406189_1_1740457304_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "317873008",
@@ -4893,7 +4861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317873008_1_1740122076_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "319089300",
@@ -4909,7 +4877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319089300_1_1740239178_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "293515795",
@@ -4925,7 +4893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293515795_1_1739008031_w{res}.jpg",
         "status": "3",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "314193131",
@@ -4941,7 +4909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314193131_1_1739459116_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:20"
     },
     {
         "pid": "312820647",
@@ -4957,7 +4925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312820647_1_1737427568_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "317012893",
@@ -4973,7 +4941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317012893_1_1739333881_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "304056382",
@@ -4989,7 +4957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304056382_1_1736836741_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "316940948",
@@ -5005,7 +4973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316940948_1_1739453326_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "317318338",
@@ -5021,7 +4989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317318338_1_1739594407_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "314457507",
@@ -5037,7 +5005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314457507_1_1738583977_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "302956063",
@@ -5053,7 +5021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302956063_1_1736214661_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "315599323",
@@ -5069,7 +5037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315599323_1_1738732107_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "312814824",
@@ -5085,7 +5053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312814824_1_1737424994_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "315926787",
@@ -5101,7 +5069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315926787_1_1739073903_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "311284066",
@@ -5117,7 +5085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311284066_1_1736700821_w{res}.jpg",
         "status": "3",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "312893340",
@@ -5133,7 +5101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312893340_1_1737452532_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "313438532",
@@ -5149,7 +5117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313438532_1_1737715340_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "307580327",
@@ -5165,7 +5133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307580327_1_1735347703_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "306808933",
@@ -5181,7 +5149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306808933_1_1739102953_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "314774564",
@@ -5197,7 +5165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314774564_1_1738554143_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "310799914",
@@ -5213,7 +5181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310799914_1_1736493555_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "313866692",
@@ -5229,7 +5197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313866692_1_1737903344_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "314762708",
@@ -5245,7 +5213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314762708_1_1738380579_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "258207862",
@@ -5261,7 +5229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258207862_1_1739188742_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "312662854",
@@ -5277,7 +5245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312662854_1_1738565190_w{res}.jpg",
         "status": "3",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "301498602",
@@ -5293,7 +5261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301498602_1_1738422681_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "311636214",
@@ -5309,7 +5277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311636214_1_1738232400_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "304373790",
@@ -5325,7 +5293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304373790_1_1735298695_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "313594016",
@@ -5341,7 +5309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313594016_1_1737793151_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "264141278",
@@ -5357,7 +5325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264141278_1_1737469639_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "313617204",
@@ -5373,23 +5341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313617204_1_1737800652_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
-    },
-    {
-        "pid": "298773082",
-        "brands": [
-            "써저리"
-        ],
-        "name": "써저리 데님(surgery) 단하루",
-        "price_updates": [
-            {
-                "1737386181": "84000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298773082_1_1737387967_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "299643020",
@@ -5405,7 +5357,23 @@
         "product_image": "https://media.bunjang.co.kr/product/299643020_1_1737770284_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
+    },
+    {
+        "pid": "298773082",
+        "brands": [
+            "써저리"
+        ],
+        "name": "써저리 데님(surgery) 단하루",
+        "price_updates": [
+            {
+                "1737386181": "84000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298773082_1_1737387967_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "312263689",
@@ -5421,7 +5389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312263689_1_1737214674_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "311734373",
@@ -5437,7 +5405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311734373_1_1736921855_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "305208742",
@@ -5453,7 +5421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305208742_1_1736049548_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "299414675",
@@ -5469,7 +5437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299414675_1_1731170833_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "309906618",
@@ -5485,7 +5453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309906618_1_1738216944_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "311736259",
@@ -5501,7 +5469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311736259_1_1736939975_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "312159971",
@@ -5517,7 +5485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312159971_1_1737115522_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "309688204",
@@ -5533,7 +5501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309688204_1_1736820897_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "309647979",
@@ -5549,7 +5517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309647979_1_1735927244_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "309314628",
@@ -5565,7 +5533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309314628_1_1737525844_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "300697048",
@@ -5581,7 +5549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/300697048_1_1736689164_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "308070275",
@@ -5597,7 +5565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308070275_1_1736230597_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "307618474",
@@ -5613,7 +5581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307618474_1_1735575046_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "306967986",
@@ -5629,7 +5597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306967986_1_1734598989_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "266843437",
@@ -5645,7 +5613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/266843437_1_1736241359_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "309608584",
@@ -5661,7 +5629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309608584_1_1736260499_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "303251177",
@@ -5677,7 +5645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303251177_1_1735563294_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "308870282",
@@ -5693,7 +5661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308870282_1_1735541725_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "303535834",
@@ -5709,7 +5677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303535834_1_1733036908_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "297314251",
@@ -5725,7 +5693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297314251_1_1734871263_w{res}.jpg",
         "status": "3",
         "category_id": "320500100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "303288007",
@@ -5741,7 +5709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303288007_1_1734872499_w{res}.jpg",
         "status": "3",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "296153870",
@@ -5757,7 +5725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296153870_1_1734846120_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "306635597",
@@ -5773,7 +5741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306635597_1_1734844865_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "305908255",
@@ -5789,7 +5757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305908255_1_1734612482_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "305837590",
@@ -5805,7 +5773,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305837590_1_1736695098_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "264301100",
@@ -5821,7 +5789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264301100_1_1726334783_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     },
     {
         "pid": "130129396",
@@ -5837,6 +5805,6 @@
         "product_image": "https://media.bunjang.co.kr/product/130129396_1_1740675706_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:29"
+        "collected_timestamp": "2025-03-17 06:12:21"
     }
 ]

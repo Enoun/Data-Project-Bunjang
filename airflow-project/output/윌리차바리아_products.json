@@ -1,67 +1,35 @@
 [
     {
-        "pid": "322044939",
+        "pid": "311075812",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "윌리차바리아 싱글스티치 롱슬리브",
+        "name": "[L] 윌리차바리아 반팔",
         "price_updates": [
             {
-                "1742092882": "115000"
+                "1742189881": "70000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322044939_1_1741596823_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "280053080",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 데님 팬츠",
-        "price_updates": [
-            {
-                "1742092882": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/280053080_1_1737454585_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "261416864",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 반팔 티셔츠",
-        "price_updates": [
-            {
-                "1742092882": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261416864_1_1721547354_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/311075812_1_1736610150_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
-        "pid": "316638071",
+        "pid": "297505322",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "윌리차바리아 그레이 스웻 후드 집업",
+        "name": "윌리차바리아 후드집업 m",
         "price_updates": [
             {
-                "1742092882": "195000"
+                "1742183978": "230000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/316638071_1_1741158691_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/297505322_1_1739255441_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "311415184",
@@ -71,13 +39,13 @@
         "name": "[XL] 윌리차바리아 deep dish tee",
         "price_updates": [
             {
-                "1742090354": "135000"
+                "1742180615": "135000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/311415184_1_1736846327_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "311415589",
@@ -87,29 +55,13 @@
         "name": "[XL] 윌리차바리아 EASY MONEY STRIPE 버팔로 티",
         "price_updates": [
             {
-                "1742090357": "135000"
+                "1742180612": "135000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/311415589_1_1736846343_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "311075812",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "[L] 윌리차바리아 반팔",
-        "price_updates": [
-            {
-                "1742085034": "70000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/311075812_1_1736610150_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "305185956",
@@ -119,29 +71,141 @@
         "name": "[M] WILLY CHAVARRIA 윌리차바리아 워리어 봄버 워시드블랙",
         "price_updates": [
             {
-                "1742085287": "400000"
+                "1742171077": "400000"
             }
         ],
         "product_image": "https://media.bunjang.co.kr/product/305185956_1_1738248749_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
-        "pid": "318489027",
+        "pid": "294270255",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "L 윌리차바리아 훌리건 맨투맨",
+        "name": "윌리차바리아 24ss 블랙와이드데님 팝니다.",
         "price_updates": [
             {
-                "1742052408": "400000"
+                "1742159707": "300000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318489027_1_1742041488_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/294270255_1_1734744650_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "290946020",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 베이스볼 셔츠 m",
+        "price_updates": [
+            {
+                "1742112502": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290946020_1_1740373443_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "309379007",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 훌리건 맨투맨 라지",
+        "price_updates": [
+            {
+                "1742113246": "160000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309379007_1_1735817234_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "302664683",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "[M] 윌리차바리아 마운틴 퍼프 자켓",
+        "price_updates": [
+            {
+                "1742131561": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/302664683_1_1733033504_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "290353546",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 위즘 데님 자켓",
+        "price_updates": [
+            {
+                "1742140612": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/290353546_1_1726900440_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "317150333",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 트러커 자켓 M (오버핏)",
+        "price_updates": [
+            {
+                "1742138291": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317150333_1_1741619075_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "286511761",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 카고팬츠 s사이즈",
+        "price_updates": [
+            {
+                "1742113236": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/286511761_1_1740635375_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "258967785",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "마인데님 윌리차바리아 데님자켓 minedenim",
+        "price_updates": [
+            {
+                "1742113140": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258967785_1_1732014947_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "322939056",
@@ -157,23 +221,71 @@
         "product_image": "https://media.bunjang.co.kr/product/322939056_1_1742038343_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
-        "pid": "309379007",
+        "pid": "322044939",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "윌리차바리아 훌리건 맨투맨 라지",
+        "name": "윌리차바리아 싱글스티치 롱슬리브",
         "price_updates": [
             {
-                "1742028190": "160000"
+                "1742092882": "115000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/309379007_1_1735817234_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322044939_1_1741596823_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "280053080",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 데님 팬츠",
+        "price_updates": [
+            {
+                "1742092882": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/280053080_1_1737454585_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "261416864",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1742092882": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261416864_1_1721547354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "318489027",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "L 윌리차바리아 훌리건 맨투맨",
+        "price_updates": [
+            {
+                "1742052408": "400000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318489027_1_1742041488_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "263234543",
@@ -189,23 +301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263234543_1_1733799224_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "297505322",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 후드집업 m",
-        "price_updates": [
-            {
-                "1742015553": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297505322_1_1739255441_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "290579405",
@@ -221,71 +317,23 @@
         "product_image": "https://media.bunjang.co.kr/product/290579405_1_1740707972_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
-        "pid": "317150333",
+        "pid": "316638071",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "윌리차바리아 트러커 자켓 M (오버핏)",
+        "name": "윌리차바리아 그레이 스웻 후드 집업",
         "price_updates": [
             {
-                "1742049890": "900000"
+                "1742092882": "195000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/317150333_1_1741619075_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/316638071_1_1741158691_w{res}.jpg",
         "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "302664683",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "[M] 윌리차바리아 마운틴 퍼프 자켓",
-        "price_updates": [
-            {
-                "1742032214": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/302664683_1_1733033504_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "286511761",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 카고팬츠 s사이즈",
-        "price_updates": [
-            {
-                "1742028196": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/286511761_1_1740635375_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "322709053",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 시드 자켓",
-        "price_updates": [
-            {
-                "1741940674": "120000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322709053_1_1741940674_w{res}.jpg",
-        "status": "1",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "298554440",
@@ -301,7 +349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298554440_1_1742001028_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "287541500",
@@ -317,23 +365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287541500_1_1741600533_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "301482781",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 후드 초희귀 매물",
-        "price_updates": [
-            {
-                "1741947488": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/301482781_1_1732098461_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "316012451",
@@ -349,23 +381,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316012451_1_1738913658_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
-        "pid": "284317229",
+        "pid": "301482781",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "윌리차바리아 버팔로 티셔츠",
+        "name": "윌리차바리아 후드 초희귀 매물",
         "price_updates": [
             {
-                "1741844215": "90000"
+                "1741947488": "300000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/284317229_1_1733493751_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/301482781_1_1732098461_w{res}.jpg",
         "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "322065326",
@@ -381,7 +413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322065326_1_1741603936_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "251109269",
@@ -397,55 +429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/251109269_1_1738639365_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "316638608",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 빅윌리클럽 헤비 롱슬리브",
-        "price_updates": [
-            {
-                "1741844215": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316638608_1_1739537245_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "294270255",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 24ss 블랙와이드데님 팝니다.",
-        "price_updates": [
-            {
-                "1741921975": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294270255_1_1734744650_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "316687146",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 버팔로 트랙자켓(구해요)",
-        "price_updates": [
-            {
-                "1741840511": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316687146_1_1739190753_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "322063925",
@@ -461,7 +445,55 @@
         "product_image": "https://media.bunjang.co.kr/product/322063925_1_1741603489_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "284317229",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 버팔로 티셔츠",
+        "price_updates": [
+            {
+                "1741844215": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/284317229_1_1733493751_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "316638608",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 빅윌리클럽 헤비 롱슬리브",
+        "price_updates": [
+            {
+                "1741844215": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316638608_1_1739537245_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "316687146",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 버팔로 트랙자켓(구해요)",
+        "price_updates": [
+            {
+                "1741840511": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316687146_1_1739190753_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "303263319",
@@ -477,23 +509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303263319_1_1732928358_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "258967785",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "마인데님 윌리차바리아 데님자켓 minedenim",
-        "price_updates": [
-            {
-                "1741774718": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258967785_1_1732014947_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "322044825",
@@ -509,7 +525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322044825_1_1741596782_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "321215386",
@@ -525,7 +541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321215386_1_1741225732_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "321214664",
@@ -541,87 +557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321214664_1_1741225315_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "303653251",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "INTODUSK 윌리차바리아 치노 트랙 자켓 블랙 L사이즈",
-        "price_updates": [
-            {
-                "1741655184": "370000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303653251_1_1741655357_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "292972281",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 롱슬리브",
-        "price_updates": [
-            {
-                "1741532631": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292972281_1_1731654902_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "261416982",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 반팔 티셔츠",
-        "price_updates": [
-            {
-                "1741515650": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261416982_1_1733493730_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "319031944",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 스웻 후드 집업",
-        "price_updates": [
-            {
-                "1741532631": "195000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319031944_1_1740384144_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "269121426",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 실버레에크 데님",
-        "price_updates": [
-            {
-                "1741499118": "310000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/269121426_1_1736096451_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "321322589",
@@ -637,23 +573,55 @@
         "product_image": "https://media.bunjang.co.kr/product/321322589_1_1741265979_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
-        "pid": "267794518",
+        "pid": "303653251",
         "brands": [
             "윌리차바리아"
         ],
-        "name": "시드 바이 윌리차바리아 울 아노락 셔츠",
+        "name": "INTODUSK 윌리차바리아 치노 트랙 자켓 블랙 L사이즈",
+        "price_updates": [
+            {
+                "1741655184": "370000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303653251_1_1741655357_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "292972281",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 롱슬리브",
         "price_updates": [
             {
                 "1741532631": "90000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/267794518_1_1737454617_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/292972281_1_1731654902_w{res}.jpg",
         "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "261416982",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 반팔 티셔츠",
+        "price_updates": [
+            {
+                "1741515650": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261416982_1_1733493730_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "282518823",
@@ -669,7 +637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/282518823_1_1733494048_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "280037521",
@@ -685,7 +653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280037521_1_1733493762_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "314768504",
@@ -701,7 +669,39 @@
         "product_image": "https://media.bunjang.co.kr/product/314768504_1_1738382577_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "319031944",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 스웻 후드 집업",
+        "price_updates": [
+            {
+                "1741532631": "195000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319031944_1_1740384144_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "269121426",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 실버레에크 데님",
+        "price_updates": [
+            {
+                "1741499118": "310000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/269121426_1_1736096451_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120600",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "292969940",
@@ -717,7 +717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292969940_1_1737454628_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "264307668",
@@ -733,7 +733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/264307668_1_1721547338_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "296014460",
@@ -749,23 +749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296014460_1_1735096713_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "290353546",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 위즘 데님 자켓",
-        "price_updates": [
-            {
-                "1741311082": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290353546_1_1726900440_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "308762196",
@@ -781,7 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308762196_1_1735476506_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "306559955",
@@ -797,23 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306559955_1_1734412380_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "299830156",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 트랙자켓",
-        "price_updates": [
-            {
-                "1740892705": "240000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/299830156_1_1740892564_w{res}.jpg",
-        "status": "0",
-        "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "315098542",
@@ -829,7 +797,23 @@
         "product_image": "https://media.bunjang.co.kr/product/315098542_1_1738500313_w{res}.jpg",
         "status": "0",
         "category_id": "320300600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "299830156",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 트랙자켓",
+        "price_updates": [
+            {
+                "1740892705": "240000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/299830156_1_1740892564_w{res}.jpg",
+        "status": "0",
+        "category_id": "320500200",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "298883704",
@@ -845,7 +829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298883704_1_1741850475_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "315227973",
@@ -861,7 +845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315227973_1_1741302387_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "315230665",
@@ -877,23 +861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315230665_1_1741239479_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "290946020",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 베이스볼 셔츠 m",
-        "price_updates": [
-            {
-                "1740373405": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/290946020_1_1740373443_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "317767094",
@@ -909,7 +877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317767094_1_1739669853_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "297307513",
@@ -925,7 +893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297307513_1_1732640724_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "242971073",
@@ -941,7 +909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242971073_1_1719479515_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "298881902",
@@ -957,7 +925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/298881902_1_1733493721_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "280933188",
@@ -973,7 +941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/280933188_1_1721655506_w{res}.jpg",
         "status": "0",
         "category_id": "320210300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "316686534",
@@ -989,7 +957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316686534_1_1739190566_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "286958012",
@@ -1005,7 +973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286958012_1_1725008820_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "297956043",
@@ -1021,7 +989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297956043_1_1733493812_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "289664679",
@@ -1037,7 +1005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289664679_1_1727941681_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "285481439",
@@ -1053,7 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285481439_1_1731144818_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "310246080",
@@ -1069,7 +1037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310246080_1_1741595404_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "286286548",
@@ -1085,7 +1053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286286548_1_1737454610_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "296702628",
@@ -1101,7 +1069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296702628_1_1735392812_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "272672125",
@@ -1117,7 +1085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/272672125_1_1718515326_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "278820350",
@@ -1133,7 +1101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278820350_1_1725980999_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "294308549",
@@ -1149,7 +1117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294308549_1_1732678006_w{res}.jpg",
         "status": "1",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "303686882",
@@ -1165,7 +1133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303686882_1_1733111955_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "297367336",
@@ -1181,7 +1149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297367336_1_1730262183_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "268659872",
@@ -1197,7 +1165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268659872_1_1717300499_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "294671826",
@@ -1213,7 +1181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294671826_1_1729062251_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "259028617",
@@ -1229,7 +1197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259028617_1_1712218385_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "270442040",
@@ -1245,7 +1213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270442040_1_1717833084_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "262075808",
@@ -1261,7 +1229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262075808_1_1732181977_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "286097132",
@@ -1277,7 +1245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/286097132_1_1725620819_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "287595969",
@@ -1293,7 +1261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287595969_1_1725339036_w{res}.jpg",
         "status": "1",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "254590073",
@@ -1309,7 +1277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/254590073_1_1711939346_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "315386363",
@@ -1325,7 +1293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315386363_1_1738641571_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "321735585",
@@ -1341,7 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321735585_1_1741451902_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "320040273",
@@ -1357,7 +1325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320040273_1_1740764475_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "315261251",
@@ -1373,7 +1341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315261251_1_1740994638_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "308416335",
@@ -1389,23 +1357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308416335_1_1740409604_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "318309067",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 빅윌리 스타디움 트랙자켓 xl",
-        "price_updates": [
-            {
-                "1740796217": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318309067_1_1739884525_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "316233554",
@@ -1421,7 +1373,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316233554_1_1740218501_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
+    },
+    {
+        "pid": "318309067",
+        "brands": [
+            "윌리차바리아"
+        ],
+        "name": "윌리차바리아 빅윌리 스타디움 트랙자켓 xl",
+        "price_updates": [
+            {
+                "1740796217": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318309067_1_1739884525_w{res}.jpg",
+        "status": "3",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "319153010",
@@ -1437,7 +1405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319153010_1_1740286795_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "308416152",
@@ -1453,7 +1421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308416152_1_1740410710_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "258761200",
@@ -1469,7 +1437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258761200_1_1740143349_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "319032079",
@@ -1485,7 +1453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319032079_1_1740443375_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "318363459",
@@ -1501,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318363459_1_1739924494_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "316249360",
@@ -1517,7 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316249360_1_1739330652_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "316080025",
@@ -1533,7 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316080025_1_1738933803_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "312610581",
@@ -1549,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312610581_1_1737315534_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "312794588",
@@ -1565,7 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312794588_1_1737629854_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "293227508",
@@ -1581,7 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293227508_1_1734929669_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "261564122",
@@ -1597,7 +1565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261564122_1_1737773013_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "313129141",
@@ -1613,7 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313129141_1_1737633128_w{res}.jpg",
         "status": "3",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "308417034",
@@ -1629,7 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308417034_1_1737091984_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "311678484",
@@ -1645,7 +1613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311678484_1_1736895102_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "308760783",
@@ -1661,7 +1629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308760783_1_1735476133_w{res}.jpg",
         "status": "3",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "310235069",
@@ -1677,7 +1645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310235069_1_1736259052_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "297956873",
@@ -1693,7 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297956873_1_1734961592_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "305964418",
@@ -1709,7 +1677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305964418_1_1734620483_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "307148317",
@@ -1725,7 +1693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307148317_1_1734686991_w{res}.jpg",
         "status": "3",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "307835632",
@@ -1741,23 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307835632_1_1735008775_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:24"
-    },
-    {
-        "pid": "305962826",
-        "brands": [
-            "윌리차바리아"
-        ],
-        "name": "윌리차바리아 워리어 퀼팅 자켓 블랙 xl",
-        "price_updates": [
-            {
-                "1734269075": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305962826_1_1734349444_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "284203154",
@@ -1773,7 +1725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/284203154_1_1737094279_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     },
     {
         "pid": "301464641",
@@ -1789,6 +1741,6 @@
         "product_image": "https://media.bunjang.co.kr/product/301464641_1_1740534630_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:24"
+        "collected_timestamp": "2025-03-17 06:11:08"
     }
 ]

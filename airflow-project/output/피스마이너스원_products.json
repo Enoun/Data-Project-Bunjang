@@ -1,19 +1,739 @@
 [
     {
-        "pid": "304171770",
+        "pid": "201048545",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "피스마이너스원 스웻팬츠 L",
+        "name": "피스마이너스원 초판 목로고 블랙 후드 os(피마원 정품)",
         "price_updates": [
             {
-                "1742095994": "230000"
+                "1742189398": "470000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/304171770_1_1733319595_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/201048545_1_1741156120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322127451",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 워크팬츠 카키",
+        "price_updates": [
+            {
+                "1742187739": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322127451_1_1741628557_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "323027002",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 윈드브레이커",
+        "price_updates": [
+            {
+                "1742182138": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323027002_1_1742088843_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322053166",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 롱슬리브 검정",
+        "price_updates": [
+            {
+                "1742184012": "142500"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322053166_1_1741599855_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "220832704",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[FREE]피스마이너스원 피마원 프라그먼트 롱슬리브",
+        "price_updates": [
+            {
+                "1742187139": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/220832704_1_1740876737_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "323264213",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[M] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 블랙 지디",
+        "price_updates": [
+            {
+                "1742182954": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323264213_1_1742182954_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322694577",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 스타일 L (새상품)",
+        "price_updates": [
+            {
+                "1742180499": "90000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322694577_1_1742055792_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "182701314",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[FREE] 피스마이너스원 터틀넥",
+        "price_updates": [
+            {
+                "1742181442": "549000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/182701314_1_1724673800_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "303964022",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 후드절개맨투맨",
+        "price_updates": [
+            {
+                "1742182375": "450000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/303964022_1_1741071900_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "261741822",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 X 나이키 롱슬리브 XL",
+        "price_updates": [
+            {
+                "1742182198": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261741822_1_1739284131_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "207782624",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원(피마원) 조거팬츠 #1 L사이즈",
+        "price_updates": [
+            {
+                "1742182131": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/207782624_1_1671068458_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "297785731",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 PMO BULLDOG PARKA #1 BLACK",
+        "price_updates": [
+            {
+                "1742182996": "917000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/297785731_1_1730457594_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321938859",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키X피스마이너스원 롱슬리브 화이트",
+        "price_updates": [
+            {
+                "1742179302": "50000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321938859_1_1741530714_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "162130081",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[FREE] 피스마이너스원 롱 슬리브 티셔츠 #1 화이트 (손목로고)",
+        "price_updates": [
+            {
+                "1742181441": "439000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/162130081_1_1695034123_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "309216919",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 주피터 후디 그레이",
+        "price_updates": [
+            {
+                "1742180193": "280000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309216919_1_1740195303_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "308808592",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 손목로고 롱슬리브",
+        "price_updates": [
+            {
+                "1742180199": "220000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308808592_1_1735705866_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "268148716",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 x 피스마이너스원 롱슬리브 티셔츠 화이트 XL (새 상품)",
+        "price_updates": [
+            {
+                "1742179657": "108000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/268148716_1_1732108277_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321048185",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "S)피스마이너스원 조거팬츠",
+        "price_updates": [
+            {
+                "1742173511": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321048185_1_1741219704_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321257509",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "(풀구성) 피스마이너스원 버건디 워크팬츠",
+        "price_updates": [
+            {
+                "1742171352": "510000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321257509_1_1742107790_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "319757453",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "지드래곤 GD 지디 권지용 피스마이너스원 피마원 PMO 반팔 응원봉 키링",
+        "price_updates": [
+            {
+                "1742174702": "199900"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319757453_1_1742174941_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "320292466",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[F] 피스마이너스원 퀼티드 자켓",
+        "price_updates": [
+            {
+                "1742170917": "645000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320292466_1_1742033456_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "320228412",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "(풀구성)피스마이너스원 아쿠아 팬츠",
+        "price_updates": [
+            {
+                "1742171309": "900000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320228412_1_1742107881_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "298536357",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키x피스마이너스원 팬츠 판매합니다(새상품, 한국사이즈M)",
+        "price_updates": [
+            {
+                "1742170839": "185000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/298536357_1_1730785769_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "316200471",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피마원 피스마이너스원 쿵푸자켓",
+        "price_updates": [
+            {
+                "1742166622": "1500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316200471_1_1738996563_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "312982623",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 풀오버 후드",
+        "price_updates": [
+            {
+                "1742152508": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312982623_1_1741659536_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "317900864",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 봄버자켓 세이지그린 팝니다",
+        "price_updates": [
+            {
+                "1742155404": "1200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/317900864_1_1741332380_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "227117813",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[M]나이키 x 피스마이너스원 와이드 팬츠 블랙",
+        "price_updates": [
+            {
+                "1742153488": "200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/227117813_1_1686809485_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "256603054",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 권도 팬츠 M사이즈 (미착용)",
+        "price_updates": [
+            {
+                "1742164566": "123000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/256603054_1_1740787274_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120999",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "282104198",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원X나이키 그냥해 3XL 새상품",
+        "price_updates": [
+            {
+                "1742163880": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/282104198_1_1736387512_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "291290495",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[XXL] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 흰색 지디",
+        "price_updates": [
+            {
+                "1742169660": "158000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/291290495_1_1740901096_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "323176689",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 주피터 후드티",
+        "price_updates": [
+            {
+                "1742129772": "260000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323176689_1_1742129772_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "323120107",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[L] 피스마이너스원 주피터 후드 그레이",
+        "price_updates": [
+            {
+                "1742115007": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323120107_1_1742115007_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "323120377",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[L] 피스마이너스원 주피터 후드 블랙",
+        "price_updates": [
+            {
+                "1742115072": "270000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323120377_1_1742115072_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "323220074",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[S] 피스마이너스원 프라그먼트 데이지 후드",
+        "price_updates": [
+            {
+                "1742141912": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/323220074_1_1742142029_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322450802",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 풀오버 후드",
+        "price_updates": [
+            {
+                "1742126786": "267300"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322450802_1_1741791661_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322536112",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "Gd 롱슬리브 새제품 xL사이즈 나이키 x 피스마이너스원",
+        "price_updates": [
+            {
+                "1742125561": "197000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322536112_1_1741957523_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322536982",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "Gd 롱슬리브 새제품 L사이즈 나이키 x 피스마이너스원",
+        "price_updates": [
+            {
+                "1742125548": "129000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322536982_1_1741957562_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "309079794",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 코트",
+        "price_updates": [
+            {
+                "1742141993": "3300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309079794_1_1742143930_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "294867150",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 타이다이셔츠",
+        "price_updates": [
+            {
+                "1742139023": "800000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/294867150_1_1741773354_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210400",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321603712",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "(M) 피스마이너스원 X 주피터 화이트 반팔 판매합니다",
+        "price_updates": [
+            {
+                "1742137561": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321603712_1_1741504735_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "308443672",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 타이다이 멀티",
+        "price_updates": [
+            {
+                "1742113557": "750000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/308443672_1_1741772127_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "312857737",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 다운 패딩 블랙 / os",
+        "price_updates": [
+            {
+                "1742117218": "1040000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/312857737_1_1741754232_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "318707713",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[os] 피스마이너스원 워크팬츠 챠콜그레이",
+        "price_updates": [
+            {
+                "1742136600": "390000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318707713_1_1741831278_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "292572442",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 프라그먼트 데이지 후드",
+        "price_updates": [
+            {
+                "1742113554": "1000000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/292572442_1_1741772115_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322440558",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 818 반팔",
+        "price_updates": [
+            {
+                "1742102583": "680000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322440558_1_1742024120_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322440157",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 콜레트 반팔",
+        "price_updates": [
+            {
+                "1742102583": "890000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322440157_1_1741787872_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "322362292",
@@ -29,391 +749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322362292_1_1741762599_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322694577",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 피스마이너스원 스타일 L (새상품)",
-        "price_updates": [
-            {
-                "1742093217": "90000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322694577_1_1742055792_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "323027002",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 윈드브레이커",
-        "price_updates": [
-            {
-                "1742088178": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/323027002_1_1742088843_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321257509",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 버건디 워크팬츠 판매합니다",
-        "price_updates": [
-            {
-                "1742093701": "510000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321257509_1_1741244373_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "319571439",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[L] 피스마이너스원 바시티 자켓",
-        "price_updates": [
-            {
-                "1742094672": "2200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319571439_1_1742094701_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "320228412",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 아쿠아 팬츠 판매합니다.",
-        "price_updates": [
-            {
-                "1742093677": "900000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320228412_1_1740760974_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "316264938",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 슬리브",
-        "price_updates": [
-            {
-                "1742090484": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316264938_1_1740812399_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321603712",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "(M) 피스마이너스원 X 주피터 화이트 반팔 판매합니다",
-        "price_updates": [
-            {
-                "1742087786": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321603712_1_1741504735_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "320979692",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[M] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 흰색",
-        "price_updates": [
-            {
-                "1742086953": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320979692_1_1741088353_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321661056",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "(이번 주말까지 한정)피스마이너스원 X 주피터 gd티셔츠 블랙 L 판매",
-        "price_updates": [
-            {
-                "1742085049": "205000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321661056_1_1741857676_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "291289806",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[XL] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 블랙",
-        "price_updates": [
-            {
-                "1742086953": "210000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291289806_1_1733899703_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "304891333",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 다운패딩",
-        "price_updates": [
-            {
-                "1742082311": "1300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304891333_1_1742082280_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "316523295",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 푸퍼패딩s",
-        "price_updates": [
-            {
-                "1742082311": "1300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/316523295_1_1741316051_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "319134148",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 퀄팅 데이지자켓",
-        "price_updates": [
-            {
-                "1742082311": "1100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319134148_1_1741764285_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "306301824",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 풀오버후드os",
-        "price_updates": [
-            {
-                "1742082311": "350000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306301824_1_1742082258_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "261609012",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 나이키 와이드팬츠 팝니다",
-        "price_updates": [
-            {
-                "1742082749": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261609012_1_1726283111_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "304518325",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 초판 차콜후드",
-        "price_updates": [
-            {
-                "1742063600": "590000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304518325_1_1737559818_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "317900864",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 봄버자켓 세이지그린 팝니다",
-        "price_updates": [
-            {
-                "1742076809": "1200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/317900864_1_1741332380_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "308808592",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 손목로고 롱슬리브",
-        "price_updates": [
-            {
-                "1742065065": "220000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308808592_1_1735705866_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "220832704",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[FREE]피스마이너스원 피마원 프라그먼트 롱슬리브",
-        "price_updates": [
-            {
-                "1742058815": "590000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/220832704_1_1740876737_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "268148716",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 x 피스마이너스원 롱슬리브 티셔츠 화이트 XL (새 상품)",
-        "price_updates": [
-            {
-                "1742057279": "108000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/268148716_1_1732108277_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322861598",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 롱슬리브 s 구합니다",
-        "price_updates": [
-            {
-                "1742015497": "100000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322861598_1_1742015497_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322440558",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 818 반팔",
-        "price_updates": [
-            {
-                "1742012291": "680000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322440558_1_1742024120_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322440157",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 콜레트 반팔",
-        "price_updates": [
-            {
-                "1742012292": "890000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322440157_1_1741787872_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322053166",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 롱슬리브 검정",
-        "price_updates": [
-            {
-                "1742022350": "150000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322053166_1_1741599855_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "322823539",
@@ -429,23 +765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322823539_1_1742002748_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321862977",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 데님 자켓 #1 인디고",
-        "price_updates": [
-            {
-                "1742047236": "1130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321862977_1_1741624294_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "321791114",
@@ -461,7 +781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321791114_1_1742079274_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "322078301",
@@ -477,7 +797,55 @@
         "product_image": "https://media.bunjang.co.kr/product/322078301_1_1741772532_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321862977",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 데님 자켓 #1 인디고",
+        "price_updates": [
+            {
+                "1742100130": "1120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321862977_1_1741624294_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "316264938",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 슬리브",
+        "price_updates": [
+            {
+                "1742090484": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/316264938_1_1740812399_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321661056",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 X 주피터 gd티셔츠 블랙 L 판매",
+        "price_updates": [
+            {
+                "1742085049": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321661056_1_1742172053_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "284622637",
@@ -493,55 +861,151 @@
         "product_image": "https://media.bunjang.co.kr/product/284622637_1_1732070684_w{res}.jpg",
         "status": "0",
         "category_id": "320180998",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "316200471",
+        "pid": "320979692",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "피마원 피스마이너스원 쿵푸자켓",
+        "name": "[M] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 흰색",
         "price_updates": [
             {
-                "1742032306": "1500000"
+                "1742086953": "150000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/316200471_1_1738996563_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/320979692_1_1741088353_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "304891333",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 다운패딩",
+        "price_updates": [
+            {
+                "1742082311": "1300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304891333_1_1742082280_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "319571439",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[L] 피스마이너스원 바시티 자켓",
+        "price_updates": [
+            {
+                "1742094672": "2200000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/319571439_1_1742094701_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "182701314",
+        "pid": "316523295",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "[FREE] 피스마이너스원 터틀넥",
+        "name": "피스마이너스원 푸퍼패딩s",
         "price_updates": [
             {
-                "1742040635": "549000"
+                "1742082311": "1300000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/182701314_1_1724673800_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/316523295_1_1741316051_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "320760225",
+        "pid": "319134148",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "나이키 x 피스마이너스원 롱슬리브 티셔츠 화이트 (DR0097-100)",
+        "name": "피스마이너스원 퀄팅 데이지자켓",
         "price_updates": [
             {
-                "1742015708": "99000"
+                "1742082311": "1100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/320760225_1_1741415718_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319134148_1_1741764285_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320300400",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "304518325",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 초판 차콜후드",
+        "price_updates": [
+            {
+                "1742063600": "590000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304518325_1_1737559818_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "304171770",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 스웻팬츠 L",
+        "price_updates": [
+            {
+                "1742095994": "230000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304171770_1_1733319595_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "306301824",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 풀오버후드os",
+        "price_updates": [
+            {
+                "1742082311": "350000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306301824_1_1742082258_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "261609012",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 나이키 와이드팬츠 팝니다",
+        "price_updates": [
+            {
+                "1742082749": "250000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261609012_1_1726283111_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "292882318",
@@ -557,7 +1021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292882318_1_1736489691_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "318611249",
@@ -573,167 +1037,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318611249_1_1740036728_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "312857737",
+        "pid": "203097156",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "피스마이너스원 다운 패딩 블랙 / os",
+        "name": "피스마이너스원 패디드 풀오버 블랙",
         "price_updates": [
             {
-                "1742030103": "1040000"
+                "1742099992": "400000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/312857737_1_1741754232_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/203097156_1_1670457926_w{res}.jpg",
         "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "318707713",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[os] 피스마이너스원 워크팬츠 챠콜그레이",
-        "price_updates": [
-            {
-                "1742048978": "390000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318707713_1_1741831278_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "315830498",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 피스마이너스원 롱슬리브 XL 판매",
-        "price_updates": [
-            {
-                "1742012509": "60000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315830498_1_1741007820_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "230263684",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 프라그먼트 콘비니 티셔츠 화이트",
-        "price_updates": [
-            {
-                "1742051191": "104000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/230263684_1_1711926964_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "201048545",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 초판 목로고 블랙 후드 os(피마원 정품)",
-        "price_updates": [
-            {
-                "1742017086": "470000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/201048545_1_1741156120_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "232102006",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[미개봉새제품 L] 피스마이너스원 콘비니 티셔츠 블랙,화이트",
-        "price_updates": [
-            {
-                "1742032845": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/232102006_1_1719814079_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "162130081",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[FREE] 피스마이너스원 롱 슬리브 티셔츠 #1 화이트 (손목로고)",
-        "price_updates": [
-            {
-                "1742040638": "439000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/162130081_1_1695034123_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "232102249",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[미개봉새제품 L] 피스마이너스원 콘비니 롱슬리브 화이트,블랙",
-        "price_updates": [
-            {
-                "1742032849": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/232102249_1_1740699534_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322678755",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 긴팔",
-        "price_updates": [
-            {
-                "1741929747": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322678755_1_1741929747_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322127451",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 워크팬츠 카키",
-        "price_updates": [
-            {
-                "1741940570": "590000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322127451_1_1741628557_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "322670394",
@@ -749,71 +1069,103 @@
         "product_image": "https://media.bunjang.co.kr/product/322670394_1_1741926375_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "321938859",
+        "pid": "230263684",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "나이키X피스마이너스원 롱슬리브 화이트",
+        "name": "피스마이너스원 프라그먼트 콘비니 티셔츠 화이트",
         "price_updates": [
             {
-                "1741932457": "50000"
+                "1742051191": "104000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321938859_1_1741530714_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/230263684_1_1711926964_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "322536112",
+        "pid": "291289806",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "Gd 롱슬리브 새제품 xL사이즈 나이키 x 피스마이너스원",
+        "name": "[XL] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 블랙",
         "price_updates": [
             {
-                "1741940237": "197000"
+                "1742086953": "210000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322536112_1_1741957523_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/291289806_1_1733899703_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "322536982",
+        "pid": "322861598",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "Gd 롱슬리브 새제품 L사이즈 나이키 x 피스마이너스원",
+        "name": "피스마이너스원 롱슬리브 s 구합니다",
         "price_updates": [
             {
-                "1741940254": "129000"
+                "1742015497": "100000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322536982_1_1741957562_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/322861598_1_1742015497_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "322536416",
+        "pid": "232102006",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "Gd 롱슬리브 새제품 xl사이즈 나이키 x 피스마이너스원",
+        "name": "[미개봉새제품 L] 피스마이너스원 콘비니 티셔츠 블랙,화이트",
         "price_updates": [
             {
-                "1741940245": "109000"
+                "1742032845": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/322536416_1_1741957552_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/232102006_1_1719814079_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "232102249",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[미개봉새제품 L] 피스마이너스원 콘비니 롱슬리브 화이트,블랙",
+        "price_updates": [
+            {
+                "1742032849": "180000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/232102249_1_1740699534_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "322678755",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 긴팔",
+        "price_updates": [
+            {
+                "1741929747": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/322678755_1_1741929747_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "216639899",
@@ -829,23 +1181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/216639899_1_1677719158_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "308443672",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 타이다이 멀티",
-        "price_updates": [
-            {
-                "1741957538": "750000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/308443672_1_1741772127_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "226986628",
@@ -861,7 +1197,23 @@
         "product_image": "https://media.bunjang.co.kr/product/226986628_1_1741671040_w{res}.jpg",
         "status": "0",
         "category_id": "320400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "320760225",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 x 피스마이너스원 롱슬리브 티셔츠 화이트 (DR0097-100)",
+        "price_updates": [
+            {
+                "1742015708": "99000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320760225_1_1741415718_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "294040491",
@@ -877,71 +1229,23 @@
         "product_image": "https://media.bunjang.co.kr/product/294040491_1_1740719475_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "207782624",
+        "pid": "315830498",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "피스마이너스원(피마원) 조거팬츠 #1 L사이즈",
+        "name": "나이키 피스마이너스원 롱슬리브 XL 판매",
         "price_updates": [
             {
-                "1742005089": "185000"
+                "1742012509": "60000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/207782624_1_1671068458_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "292572442",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 프라그먼트 데이지 후드",
-        "price_updates": [
-            {
-                "1741957535": "1000000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292572442_1_1741772115_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "261741822",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 X 나이키 롱슬리브 XL",
-        "price_updates": [
-            {
-                "1741936524": "185000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/261741822_1_1739284131_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/315830498_1_1741007820_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "227117813",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[M]나이키 x 피스마이너스원 와이드 팬츠 블랙",
-        "price_updates": [
-            {
-                "1741999585": "200000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/227117813_1_1686809485_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "292652756",
@@ -957,23 +1261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292652756_1_1742006327_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "297785731",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 PMO BULLDOG PARKA #1 BLACK",
-        "price_updates": [
-            {
-                "1742006799": "917000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297785731_1_1730457594_w{res}.jpg",
-        "status": "0",
-        "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "229479799",
@@ -989,7 +1277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229479799_1_1688923185_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "310979948",
@@ -1005,7 +1293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310979948_1_1736580201_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "294696535",
@@ -1021,23 +1309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/294696535_1_1741992438_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "282104198",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원X나이키 그냥해 3XL 새상품",
-        "price_updates": [
-            {
-                "1741964672": "250000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/282104198_1_1736387512_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "260766478",
@@ -1053,103 +1325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260766478_1_1725290706_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "319757453",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "지드래곤 GD 지디 권지용 피스마이너스원 피마원 PMO 반팔 응원봉 키링",
-        "price_updates": [
-            {
-                "1741941824": "199900"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319757453_1_1741863316_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321048185",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "S)피스마이너스원 조거팬츠",
-        "price_updates": [
-            {
-                "1741911138": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321048185_1_1741219704_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "294867150",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 타이다이셔츠",
-        "price_updates": [
-            {
-                "1741909025": "800000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/294867150_1_1741773354_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "322450802",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 풀오버 후드",
-        "price_updates": [
-            {
-                "1741801154": "297000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/322450802_1_1741791661_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "303964022",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 후드절개맨투맨",
-        "price_updates": [
-            {
-                "1741924680": "450000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/303964022_1_1741071900_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "283058935",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 풀오버 후드",
-        "price_updates": [
-            {
-                "1741853438": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/283058935_1_1725485635_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "322460575",
@@ -1165,7 +1341,23 @@
         "product_image": "https://media.bunjang.co.kr/product/322460575_1_1741797452_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "283058935",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 풀오버 후드",
+        "price_updates": [
+            {
+                "1741853438": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/283058935_1_1725485635_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "178523291",
@@ -1181,39 +1373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/178523291_1_1741733648_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "166180587",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 3/4 데미지 롱슬리브 니트 티셔츠",
-        "price_updates": [
-            {
-                "1741911970": "300000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/166180587_1_1677115733_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210700",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "305679678",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "급처 피스마이너스원 프라그먼트 후드집업 L",
-        "price_updates": [
-            {
-                "1741862631": "470000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/305679678_1_1740619639_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "322497032",
@@ -1229,7 +1389,39 @@
         "product_image": "https://media.bunjang.co.kr/product/322497032_1_1741836107_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "166180587",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 3/4 데미지 롱슬리브 니트 티셔츠",
+        "price_updates": [
+            {
+                "1741911970": "300000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/166180587_1_1677115733_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210700",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "305679678",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "급처 피스마이너스원 프라그먼트 후드집업 L",
+        "price_updates": [
+            {
+                "1741862631": "470000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/305679678_1_1740619639_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "313260469",
@@ -1245,7 +1437,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313260469_1_1737704530_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "235462733",
@@ -1261,7 +1453,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235462733_1_1738248788_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "312498170",
@@ -1277,7 +1469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312498170_1_1741789337_w{res}.jpg",
         "status": "0",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "293643768",
@@ -1293,23 +1485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293643768_1_1734666221_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "203097156",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 패디드 풀오버 블랙",
-        "price_updates": [
-            {
-                "1741783265": "400000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/203097156_1_1670457926_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "313702168",
@@ -1325,7 +1501,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313702168_1_1737851301_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "220641636",
@@ -1341,7 +1517,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220641636_1_1741464699_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "257107158",
@@ -1357,7 +1533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/257107158_1_1738507219_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "316470520",
@@ -1373,23 +1549,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316470520_1_1739534648_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "298536357",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키x피스마이너스원 팬츠 판매합니다(새상품, 한국사이즈M)",
-        "price_updates": [
-            {
-                "1741772825": "185000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/298536357_1_1730785769_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "317265043",
@@ -1405,23 +1565,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317265043_1_1741701770_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "256603054",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 권도 팬츠 M사이즈 (미착용)",
-        "price_updates": [
-            {
-                "1741749870": "123000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/256603054_1_1740787274_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "235690895",
@@ -1437,7 +1581,7 @@
         "product_image": "https://media.bunjang.co.kr/product/235690895_1_1740586651_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "308908490",
@@ -1453,55 +1597,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308908490_1_1738223353_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "321905963",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[L] 피스마이너스원 x 주피터 티셔츠 블랙 L",
-        "price_updates": [
-            {
-                "1741523554": "340000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321905963_1_1741523582_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "263620694",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[os] 피스마이너스원 챠콜 그레이 워크팬츠",
-        "price_updates": [
-            {
-                "1741619526": "500000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/263620694_1_1715877947_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "167682711",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 롱슬리브 살몬",
-        "price_updates": [
-            {
-                "1741570849": "370000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/167682711_1_1739613320_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "321671053",
@@ -1517,23 +1613,39 @@
         "product_image": "https://media.bunjang.co.kr/product/321671053_1_1741838694_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "261974432",
+        "pid": "263620694",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "나이키 피스마이너스원 롱슬리브 티셔츠 화이트 XXL",
+        "name": "[os] 피스마이너스원 챠콜 그레이 워크팬츠",
         "price_updates": [
             {
-                "1741577565": "120000"
+                "1741619526": "500000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/261974432_1_1732096876_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/263620694_1_1715877947_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320120100",
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "321905963",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "[L] 피스마이너스원 x 주피터 티셔츠 블랙 L",
+        "price_updates": [
+            {
+                "1741523554": "340000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321905963_1_1741523582_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210100",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "321463385",
@@ -1549,7 +1661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321463385_1_1741345849_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "321670524",
@@ -1565,39 +1677,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321670524_1_1741432950_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "312795054",
+        "pid": "167682711",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "[XL] 나이키 피스마이너스원 롱슬리브 티셔츠 블랙 해외판",
+        "name": "피스마이너스원 롱슬리브 살몬",
         "price_updates": [
             {
-                "1741556904": "190000"
+                "1741570849": "370000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/312795054_1_1741139664_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/167682711_1_1739613320_w{res}.jpg",
         "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "309216919",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 주피터 후디 그레이",
-        "price_updates": [
-            {
-                "1741483732": "280000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309216919_1_1740195303_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210500",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "321616421",
@@ -1613,7 +1709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/321616421_1_1741417871_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "321617785",
@@ -1629,7 +1725,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321617785_1_1741925260_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "226488131",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 나이키 와이드 팬츠 L",
+        "price_updates": [
+            {
+                "1741558691": "150000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/226488131_1_1733655013_w{res}.jpg",
+        "status": "0",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "318424841",
@@ -1645,7 +1757,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318424841_1_1740102495_w{res}.jpg",
         "status": "1",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "316973214",
@@ -1661,7 +1773,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316973214_1_1740550220_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "261974432",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 롱슬리브 티셔츠 화이트 XXL",
+        "price_updates": [
+            {
+                "1741577565": "120000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/261974432_1_1732096876_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "288804825",
@@ -1677,7 +1805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288804825_1_1725971901_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "293360185",
@@ -1693,7 +1821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/293360185_1_1732633612_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "253213882",
@@ -1709,23 +1837,23 @@
         "product_image": "https://media.bunjang.co.kr/product/253213882_1_1741135323_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
-        "pid": "315319547",
+        "pid": "312795054",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "구매) 피스마이너스원 푸퍼 자켓",
+        "name": "[XL] 나이키 피스마이너스원 롱슬리브 티셔츠 블랙 해외판",
         "price_updates": [
             {
-                "1740655227": "500000"
+                "1741556904": "190000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/315319547_1_1738592811_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/312795054_1_1741139664_w{res}.jpg",
         "status": "0",
-        "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "236000424",
@@ -1741,7 +1869,23 @@
         "product_image": "https://media.bunjang.co.kr/product/236000424_1_1694400866_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
+    },
+    {
+        "pid": "315319547",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "구매) 피스마이너스원 푸퍼 자켓",
+        "price_updates": [
+            {
+                "1740655227": "500000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315319547_1_1738592811_w{res}.jpg",
+        "status": "0",
+        "category_id": "320300300",
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "320356484",
@@ -1757,7 +1901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320356484_1_1740936422_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "320241612",
@@ -1773,7 +1917,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320241612_1_1741565576_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "241504635",
@@ -1789,7 +1933,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241504635_1_1740491292_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "319489823",
@@ -1805,23 +1949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319489823_1_1740447110_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "291290495",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[XXL] 나이키 피스마이너스원 피마원 롱슬리브 긴팔 티셔츠 흰색 지디",
-        "price_updates": [
-            {
-                "1741220523": "158000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/291290495_1_1740901096_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "312497445",
@@ -1837,7 +1965,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312497445_1_1739967097_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "316657365",
@@ -1853,7 +1981,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316657365_1_1739182697_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "318507526",
@@ -1869,7 +1997,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318507526_1_1739971599_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "315210576",
@@ -1885,7 +2013,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315210576_1_1739333174_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "224288079",
@@ -1901,7 +2029,7 @@
         "product_image": "https://media.bunjang.co.kr/product/224288079_1_1687332805_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "228118630",
@@ -1917,7 +2045,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228118630_1_1720587919_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "311514408",
@@ -1933,7 +2061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311514408_1_1740409296_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "220872738",
@@ -1949,7 +2077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220872738_1_1739971838_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "318342200",
@@ -1965,7 +2093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318342200_1_1739895295_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "281009236",
@@ -1981,7 +2109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281009236_1_1741866342_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "131445632",
@@ -1997,7 +2125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/131445632_1_1623025533_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "233175551",
@@ -2013,7 +2141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/233175551_1_1701783729_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "299828598",
@@ -2029,7 +2157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299828598_1_1737203711_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "220780461",
@@ -2045,7 +2173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220780461_1_1699327746_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "238447169",
@@ -2061,7 +2189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/238447169_1_1715814292_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "315679807",
@@ -2077,7 +2205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315679807_1_1738755745_w{res}.jpg",
         "status": "1",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "287946853",
@@ -2093,7 +2221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287946853_1_1741523486_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "290790877",
@@ -2109,7 +2237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/290790877_1_1739075033_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "233328626",
@@ -2125,7 +2253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/233328626_1_1739038402_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "288060177",
@@ -2141,7 +2269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288060177_1_1738454085_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "175483604",
@@ -2157,7 +2285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/175483604_1_1682158246_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "260014255",
@@ -2173,7 +2301,7 @@
         "product_image": "https://media.bunjang.co.kr/product/260014255_1_1718189719_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "312861071",
@@ -2189,7 +2317,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312861071_1_1738467701_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "315471113",
@@ -2205,7 +2333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315471113_1_1738667293_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "192013307",
@@ -2221,7 +2349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/192013307_1_1725101123_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "314642338",
@@ -2237,7 +2365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314642338_1_1738316964_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:21"
     },
     {
         "pid": "249673572",
@@ -2253,23 +2381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/249673572_1_1705288855_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "180502554",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 프라그먼트 후드집업",
-        "price_updates": [
-            {
-                "1737790926": "880000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/180502554_1_1650660921_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "171212766",
@@ -2285,7 +2397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/171212766_1_1707200024_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "175483152",
@@ -2301,7 +2413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/175483152_1_1682158256_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "285332881",
@@ -2317,7 +2429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/285332881_1_1735468251_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "311939464",
@@ -2333,7 +2445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311939464_1_1740045672_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "313062977",
@@ -2349,7 +2461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313062977_1_1737595792_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "312061163",
@@ -2365,7 +2477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312061163_1_1737080361_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "302796792",
@@ -2381,7 +2493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302796792_1_1732695948_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "302796546",
@@ -2397,7 +2509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302796546_1_1732695864_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "309423590",
@@ -2413,7 +2525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309423590_1_1735821823_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "302698562",
@@ -2429,7 +2541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302698562_1_1732773375_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "259183546",
@@ -2445,7 +2557,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259183546_1_1728132034_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "304147120",
@@ -2461,7 +2573,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304147120_1_1733312155_w{res}.jpg",
         "status": "0",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "305625945",
@@ -2477,7 +2589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/305625945_1_1733986974_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "241410515",
@@ -2493,7 +2605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/241410515_1_1736695195_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "306942602",
@@ -2509,7 +2621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306942602_1_1741274518_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "306924437",
@@ -2525,7 +2637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306924437_1_1734584181_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "297306416",
@@ -2541,7 +2653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297306416_1_1730986899_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "240310759",
@@ -2557,7 +2669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/240310759_1_1724987237_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "301820088",
@@ -2573,7 +2685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/301820088_1_1732261903_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "302981762",
@@ -2589,7 +2701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302981762_1_1732782906_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "297349428",
@@ -2605,7 +2717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297349428_1_1731832454_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "153483453",
@@ -2621,7 +2733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/153483453_1_1620301985_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "299336792",
@@ -2637,7 +2749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/299336792_1_1731147435_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "295922903",
@@ -2653,7 +2765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295922903_1_1741456223_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "194201320",
@@ -2669,7 +2781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/194201320_1_1658476797_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "297432999",
@@ -2685,7 +2797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297432999_1_1730283910_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "228188605",
@@ -2701,7 +2813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228188605_1_1735335890_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "228189766",
@@ -2717,7 +2829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/228189766_1_1735335938_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "295132035",
@@ -2733,7 +2845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295132035_1_1729255844_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "297665996",
@@ -2749,7 +2861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297665996_1_1730444910_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "263721136",
@@ -2765,7 +2877,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263721136_1_1715924177_w{res}.jpg",
         "status": "0",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "288973423",
@@ -2781,7 +2893,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288973423_1_1727714528_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "144446484",
@@ -2797,7 +2909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/144446484_1_1662757382_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "292162955",
@@ -2813,7 +2925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292162955_1_1727864214_w{res}.jpg",
         "status": "1",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "248651412",
@@ -2829,7 +2941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/248651412_1_1706289055_w{res}.jpg",
         "status": "0",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "292824520",
@@ -2845,7 +2957,7 @@
         "product_image": "https://media.bunjang.co.kr/product/292824520_1_1732884925_w{res}.jpg",
         "status": "0",
         "category_id": "320500200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "291181365",
@@ -2861,7 +2973,7 @@
         "product_image": "https://media.bunjang.co.kr/product/291181365_1_1727499719_w{res}.jpg",
         "status": "1",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "287962657",
@@ -2877,7 +2989,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287962657_1_1725539492_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "222034332",
@@ -2893,7 +3005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222034332_1_1714611764_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "287962976",
@@ -2909,7 +3021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287962976_1_1725539511_w{res}.jpg",
         "status": "0",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "287962761",
@@ -2925,7 +3037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/287962761_1_1725539501_w{res}.jpg",
         "status": "0",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "274349250",
@@ -2941,7 +3053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/274349250_1_1723093950_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "263224755",
@@ -2957,7 +3069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263224755_1_1724109705_w{res}.jpg",
         "status": "1",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "226351107",
@@ -2973,7 +3085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/226351107_1_1688740881_w{res}.jpg",
         "status": "0",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "229564583",
@@ -2989,7 +3101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/229564583_1_1718174434_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "200711009",
@@ -3005,7 +3117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/200711009_1_1718174508_w{res}.jpg",
         "status": "0",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "155426670",
@@ -3021,7 +3133,7 @@
         "product_image": "https://media.bunjang.co.kr/product/155426670_1_1622294133_w{res}.jpg",
         "status": "0",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "281798747",
@@ -3037,7 +3149,7 @@
         "product_image": "https://media.bunjang.co.kr/product/281798747_1_1722101446_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "278871838",
@@ -3053,7 +3165,7 @@
         "product_image": "https://media.bunjang.co.kr/product/278871838_1_1720793014_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "271445063",
@@ -3069,7 +3181,7 @@
         "product_image": "https://media.bunjang.co.kr/product/271445063_1_1718110908_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "239169952",
@@ -3085,7 +3197,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239169952_1_1714873985_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "273141960",
@@ -3101,7 +3213,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273141960_1_1718633396_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "273936501",
@@ -3117,7 +3229,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273936501_1_1718893752_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "270827422",
@@ -3133,7 +3245,7 @@
         "product_image": "https://media.bunjang.co.kr/product/270827422_1_1718108728_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "258310229",
@@ -3149,7 +3261,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258310229_1_1711983532_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "238862439",
@@ -3165,7 +3277,7 @@
         "product_image": "https://media.bunjang.co.kr/product/238862439_1_1714873947_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "268250376",
@@ -3181,7 +3293,7 @@
         "product_image": "https://media.bunjang.co.kr/product/268250376_1_1717241088_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "263356122",
@@ -3197,7 +3309,7 @@
         "product_image": "https://media.bunjang.co.kr/product/263356122_1_1736249039_w{res}.jpg",
         "status": "0",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "262199186",
@@ -3213,7 +3325,7 @@
         "product_image": "https://media.bunjang.co.kr/product/262199186_1_1714989581_w{res}.jpg",
         "status": "1",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "261445844",
@@ -3229,7 +3341,7 @@
         "product_image": "https://media.bunjang.co.kr/product/261445844_1_1714113115_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "134022689",
@@ -3245,7 +3357,7 @@
         "product_image": "https://media.bunjang.co.kr/product/134022689_1_1601129262_w{res}.jpg",
         "status": "1",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "121444588",
@@ -3261,7 +3373,7 @@
         "product_image": "https://media.bunjang.co.kr/product/121444588_1_1591897485_w{res}.jpg",
         "status": "0",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "259975077",
@@ -3277,7 +3389,7 @@
         "product_image": "https://media.bunjang.co.kr/product/259975077_1_1712971260_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "258060663",
@@ -3293,7 +3405,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258060663_1_1712721942_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "220946409",
@@ -3309,23 +3421,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220946409_1_1712331330_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "258859026",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 피스마이너스원 xxl 포장채로 드려요",
-        "price_updates": [
-            {
-                "1712072494": "155000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/258859026_1_1712072494_w{res}.jpg",
-        "status": "0",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "246909006",
@@ -3341,7 +3437,23 @@
         "product_image": "https://media.bunjang.co.kr/product/246909006_1_1706254443_w{res}.jpg",
         "status": "1",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
+    },
+    {
+        "pid": "258859026",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 xxl 포장채로 드려요",
+        "price_updates": [
+            {
+                "1712072494": "155000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/258859026_1_1712072494_w{res}.jpg",
+        "status": "0",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "254516393",
@@ -3357,7 +3469,7 @@
         "product_image": "https://media.bunjang.co.kr/product/254516393_1_1708925665_w{res}.jpg",
         "status": "0",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:39"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "258061156",
@@ -3373,39 +3485,7 @@
         "product_image": "https://media.bunjang.co.kr/product/258061156_1_1711451963_w{res}.jpg",
         "status": "0",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:39"
-    },
-    {
-        "pid": "232319487",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 권도 팬츠 S",
-        "price_updates": [
-            {
-                "1710643564": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/232319487_1_1691328022_w{res}.jpg",
-        "status": "0",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "321621532",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 피스마이너스원 롱슬리브 티셔츠 블랙 s",
-        "price_updates": [
-            {
-                "1742014597": "140000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/321621532_1_1741674483_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "321996106",
@@ -3421,7 +3501,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321996106_1_1741744125_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
+    },
+    {
+        "pid": "321621532",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 롱슬리브 티셔츠 블랙 s",
+        "price_updates": [
+            {
+                "1742014597": "140000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321621532_1_1741674483_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "322535099",
@@ -3437,39 +3533,7 @@
         "product_image": "https://media.bunjang.co.kr/product/322535099_1_1741936071_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "320202110",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키&피스마이너스원 와이드팬츠 블랙 (S)",
-        "price_updates": [
-            {
-                "1741837349": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320202110_1_1740752588_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "319705250",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "XXL 나이키 피스마이너스원 롱슬리브 110",
-        "price_updates": [
-            {
-                "1741671921": "110000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/319705250_1_1740536210_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "321719478",
@@ -3485,23 +3549,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321719478_1_1741505720_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
-        "pid": "321338986",
+        "pid": "319705250",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "피스마이너스원 나이키 롱슬리브 L",
+        "name": "XXL 나이키 피스마이너스원 롱슬리브 110",
         "price_updates": [
             {
-                "1741271080": "80000"
+                "1741671921": "110000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/321338986_1_1741274351_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/319705250_1_1740536210_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "321016128",
@@ -3517,7 +3581,23 @@
         "product_image": "https://media.bunjang.co.kr/product/321016128_1_1741231570_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
+    },
+    {
+        "pid": "321338986",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 나이키 롱슬리브 L",
+        "price_updates": [
+            {
+                "1741271080": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/321338986_1_1741274351_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "320790450",
@@ -3533,23 +3613,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320790450_1_1740994621_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "320737279",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 피스마이너스원 롱슬리브 긴팔 티셔츠",
-        "price_updates": [
-            {
-                "1740976345": "105000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/320737279_1_1740976345_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "319863509",
@@ -3565,7 +3629,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319863509_1_1740731970_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318746729",
@@ -3581,7 +3645,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318746729_1_1740969368_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "317891847",
@@ -3597,7 +3661,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317891847_1_1740576827_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "320294672",
@@ -3613,7 +3677,7 @@
         "product_image": "https://media.bunjang.co.kr/product/320294672_1_1740915146_w{res}.jpg",
         "status": "3",
         "category_id": "320210500",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318358299",
@@ -3629,7 +3693,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318358299_1_1741324659_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "319985274",
@@ -3645,7 +3709,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319985274_1_1740663012_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "309381756",
@@ -3661,7 +3725,7 @@
         "product_image": "https://media.bunjang.co.kr/product/309381756_1_1740486966_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "319585285",
@@ -3677,7 +3741,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319585285_1_1740472884_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318885377",
@@ -3693,7 +3757,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318885377_1_1740578393_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
+    },
+    {
+        "pid": "320737279",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 롱슬리브 긴팔 티셔츠",
+        "price_updates": [
+            {
+                "1740976345": "105000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/320737279_1_1740976345_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "316370778",
@@ -3709,7 +3789,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316370778_1_1739072007_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318821760",
@@ -3725,7 +3805,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318821760_1_1740126417_w{res}.jpg",
         "status": "3",
         "category_id": "320300300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318915713",
@@ -3741,7 +3821,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318915713_1_1740168000_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "302677499",
@@ -3757,7 +3837,7 @@
         "product_image": "https://media.bunjang.co.kr/product/302677499_1_1740285712_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "319290611",
@@ -3773,7 +3853,7 @@
         "product_image": "https://media.bunjang.co.kr/product/319290611_1_1740497274_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318386734",
@@ -3789,7 +3869,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318386734_1_1740308320_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "316690091",
@@ -3805,7 +3885,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316690091_1_1739191487_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318246370",
@@ -3821,23 +3901,7 @@
         "product_image": "https://media.bunjang.co.kr/product/318246370_1_1740634481_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "318120426",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 피스마이너스원 피마원 롱슬리브 xl",
-        "price_updates": [
-            {
-                "1739800051": "80000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/318120426_1_1740179810_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "303988535",
@@ -3853,7 +3917,23 @@
         "product_image": "https://media.bunjang.co.kr/product/303988535_1_1739640735_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
+    },
+    {
+        "pid": "318120426",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 피마원 롱슬리브 xl",
+        "price_updates": [
+            {
+                "1739800051": "80000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/318120426_1_1740179810_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "296893267",
@@ -3869,23 +3949,7 @@
         "product_image": "https://media.bunjang.co.kr/product/296893267_1_1740453210_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "306699829",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 스웻 팬츠 M",
-        "price_updates": [
-            {
-                "1739596050": "180000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306699829_1_1739612949_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "318947561",
@@ -3901,23 +3965,23 @@
         "product_image": "https://media.bunjang.co.kr/product/318947561_1_1740201512_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
-        "pid": "318912228",
+        "pid": "306699829",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "나이키 x 피스마이너스원 와이드 팬츠 블랙 (DR0096-010)",
+        "name": "피스마이너스원 스웻 팬츠 M",
         "price_updates": [
             {
-                "1740160995": "195000"
+                "1739596050": "180000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/318912228_1_1740161056_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/306699829_1_1739612949_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "252603861",
@@ -3933,23 +3997,23 @@
         "product_image": "https://media.bunjang.co.kr/product/252603861_1_1738103788_w{res}.jpg",
         "status": "3",
         "category_id": "320210400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
-        "pid": "314861609",
+        "pid": "318912228",
         "brands": [
             "피스마이너스원"
         ],
-        "name": "나이키 피스마이너스원 롱슬리브(마지막 가격)",
+        "name": "나이키 x 피스마이너스원 와이드 팬츠 블랙 (DR0096-010)",
         "price_updates": [
             {
-                "1739631699": "70000"
+                "1740160995": "195000"
             }
         ],
-        "product_image": "https://media.bunjang.co.kr/product/314861609_1_1739108118_w{res}.jpg",
+        "product_image": "https://media.bunjang.co.kr/product/318912228_1_1740161056_w{res}.jpg",
         "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "316691518",
@@ -3965,7 +4029,23 @@
         "product_image": "https://media.bunjang.co.kr/product/316691518_1_1739191852_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
+    },
+    {
+        "pid": "314861609",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 피스마이너스원 롱슬리브(마지막 가격)",
+        "price_updates": [
+            {
+                "1739631699": "70000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/314861609_1_1739108118_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "316513476",
@@ -3981,7 +4061,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316513476_1_1739144627_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "314371993",
@@ -3997,7 +4077,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314371993_1_1739268698_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "317574629",
@@ -4013,7 +4093,7 @@
         "product_image": "https://media.bunjang.co.kr/product/317574629_1_1739640171_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:22"
     },
     {
         "pid": "316467636",
@@ -4029,7 +4109,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316467636_1_1739104891_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "315311021",
@@ -4045,7 +4125,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315311021_1_1738994544_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "313786190",
@@ -4061,7 +4141,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313786190_1_1737879948_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "312445336",
@@ -4077,7 +4157,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312445336_1_1738841747_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "304508303",
@@ -4093,7 +4173,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304508303_1_1735981589_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "315210130",
@@ -4109,7 +4189,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315210130_1_1738560369_w{res}.jpg",
         "status": "3",
         "category_id": "320300100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "303535102",
@@ -4125,7 +4205,7 @@
         "product_image": "https://media.bunjang.co.kr/product/303535102_1_1738496361_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "316571773",
@@ -4141,7 +4221,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316571773_1_1739695352_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307657919",
@@ -4157,7 +4237,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307657919_1_1734916855_w{res}.jpg",
         "status": "3",
         "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "311514856",
@@ -4173,7 +4253,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311514856_1_1737958028_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "316737578",
@@ -4189,7 +4269,7 @@
         "product_image": "https://media.bunjang.co.kr/product/316737578_1_1739208380_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "314720248",
@@ -4205,23 +4285,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314720248_1_1739092384_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "315869842",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 x 피스마이너스원 와이드 팬츠 블랙 (DR0096-010)",
-        "price_updates": [
-            {
-                "1738840463": "135000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/315869842_1_1738840463_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "315574142",
@@ -4237,7 +4301,23 @@
         "product_image": "https://media.bunjang.co.kr/product/315574142_1_1738820553_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
+    },
+    {
+        "pid": "315869842",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 x 피스마이너스원 와이드 팬츠 블랙 (DR0096-010)",
+        "price_updates": [
+            {
+                "1738840463": "135000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/315869842_1_1738840463_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "312594826",
@@ -4253,7 +4333,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312594826_1_1737300509_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "313377288",
@@ -4269,7 +4349,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313377288_1_1738581605_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "315138714",
@@ -4285,7 +4365,7 @@
         "product_image": "https://media.bunjang.co.kr/product/315138714_1_1738767060_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "314037108",
@@ -4301,7 +4381,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314037108_1_1738083167_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "312917762",
@@ -4317,7 +4397,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312917762_1_1737729910_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "313130423",
@@ -4333,7 +4413,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313130423_1_1737677656_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "314395612",
@@ -4349,7 +4429,7 @@
         "product_image": "https://media.bunjang.co.kr/product/314395612_1_1738475754_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "312862736",
@@ -4365,7 +4445,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312862736_1_1737556295_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "312943972",
@@ -4381,7 +4461,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312943972_1_1737467043_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "308158548",
@@ -4397,7 +4477,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308158548_1_1736936963_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "313153817",
@@ -4413,7 +4493,7 @@
         "product_image": "https://media.bunjang.co.kr/product/313153817_1_1737566497_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "308961012",
@@ -4429,7 +4509,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308961012_1_1736471371_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "312367224",
@@ -4445,7 +4525,7 @@
         "product_image": "https://media.bunjang.co.kr/product/312367224_1_1737523468_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "311174078",
@@ -4461,23 +4541,7 @@
         "product_image": "https://media.bunjang.co.kr/product/311174078_1_1736821792_w{res}.jpg",
         "status": "3",
         "category_id": "320120600",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "309856798",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 x 피스마이너스원 롱슬리브 티셔츠 블랙 (DR0098-010)",
-        "price_updates": [
-            {
-                "1737581634": "68000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/309856798_1_1736043569_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "303963843",
@@ -4493,7 +4557,23 @@
         "product_image": "https://media.bunjang.co.kr/product/303963843_1_1736431953_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
+    },
+    {
+        "pid": "309856798",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 x 피스마이너스원 롱슬리브 티셔츠 블랙 (DR0098-010)",
+        "price_updates": [
+            {
+                "1737581634": "68000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/309856798_1_1736043569_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "310416320",
@@ -4509,7 +4589,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310416320_1_1736310915_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "308141861",
@@ -4525,7 +4605,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308141861_1_1735184772_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "310674574",
@@ -4541,7 +4621,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310674574_1_1736950339_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "304365527",
@@ -4557,7 +4637,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304365527_1_1736816685_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "207629465",
@@ -4573,7 +4653,7 @@
         "product_image": "https://media.bunjang.co.kr/product/207629465_1_1738841518_w{res}.jpg",
         "status": "3",
         "category_id": "320300500",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307424106",
@@ -4589,7 +4669,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307424106_1_1736768595_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "297368499",
@@ -4605,7 +4685,7 @@
         "product_image": "https://media.bunjang.co.kr/product/297368499_1_1736058634_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "220866189",
@@ -4621,7 +4701,7 @@
         "product_image": "https://media.bunjang.co.kr/product/220866189_1_1736000243_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "310194954",
@@ -4637,7 +4717,7 @@
         "product_image": "https://media.bunjang.co.kr/product/310194954_1_1736181959_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "306622248",
@@ -4653,7 +4733,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306622248_1_1736180615_w{res}.jpg",
         "status": "3",
         "category_id": "320120700",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "304791615",
@@ -4669,7 +4749,7 @@
         "product_image": "https://media.bunjang.co.kr/product/304791615_1_1735400071_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307111153",
@@ -4685,7 +4765,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307111153_1_1734767462_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "306585647",
@@ -4701,7 +4781,7 @@
         "product_image": "https://media.bunjang.co.kr/product/306585647_1_1735056401_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "289576729",
@@ -4717,7 +4797,7 @@
         "product_image": "https://media.bunjang.co.kr/product/289576729_1_1734537519_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307260412",
@@ -4733,7 +4813,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307260412_1_1734788823_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "308108417",
@@ -4749,7 +4829,7 @@
         "product_image": "https://media.bunjang.co.kr/product/308108417_1_1735174400_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307402197",
@@ -4765,7 +4845,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307402197_1_1734789905_w{res}.jpg",
         "status": "3",
         "category_id": "320120100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307454537",
@@ -4781,23 +4861,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307454537_1_1734830987_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "304800646",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 풀오버 후드",
-        "price_updates": [
-            {
-                "1734444926": "385000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/304800646_1_1734444913_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "228565488",
@@ -4813,7 +4877,23 @@
         "product_image": "https://media.bunjang.co.kr/product/228565488_1_1735130520_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
+    },
+    {
+        "pid": "304800646",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "피스마이너스원 풀오버 후드",
+        "price_updates": [
+            {
+                "1734444926": "385000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/304800646_1_1734444913_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210600",
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307488056",
@@ -4829,7 +4909,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307488056_1_1734842723_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "307597096",
@@ -4845,7 +4925,7 @@
         "product_image": "https://media.bunjang.co.kr/product/307597096_1_1734876404_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "239992437",
@@ -4861,55 +4941,7 @@
         "product_image": "https://media.bunjang.co.kr/product/239992437_1_1734771828_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "292987862",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "피스마이너스원 프라그먼트 롱슬리브 프리",
-        "price_updates": [
-            {
-                "1734438179": "290000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/292987862_1_1734360186_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "306871336",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키 x 피스마이너스원 와이드 팬츠 블랙 (DR0096-010)",
-        "price_updates": [
-            {
-                "1734540020": "130000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/306871336_1_1734576398_w{res}.jpg",
-        "status": "3",
-        "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "307785460",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "만원샵 피스마이너스원 손목로고 오버사이즈 롱슬리브 2XL",
-        "price_updates": [
-            {
-                "1734962703": "40000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/307785460_1_1734962703_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "306247581",
@@ -4925,7 +4957,39 @@
         "product_image": "https://media.bunjang.co.kr/product/306247581_1_1734259668_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
+    },
+    {
+        "pid": "306871336",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "나이키 x 피스마이너스원 와이드 팬츠 블랙 (DR0096-010)",
+        "price_updates": [
+            {
+                "1734540020": "130000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/306871336_1_1734576398_w{res}.jpg",
+        "status": "3",
+        "category_id": "320120300",
+        "collected_timestamp": "2025-03-17 06:13:23"
+    },
+    {
+        "pid": "307785460",
+        "brands": [
+            "피스마이너스원"
+        ],
+        "name": "만원샵 피스마이너스원 손목로고 오버사이즈 롱슬리브 2XL",
+        "price_updates": [
+            {
+                "1734962703": "40000"
+            }
+        ],
+        "product_image": "https://media.bunjang.co.kr/product/307785460_1_1734962703_w{res}.jpg",
+        "status": "3",
+        "category_id": "320210200",
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "231854680",
@@ -4941,23 +5005,7 @@
         "product_image": "https://media.bunjang.co.kr/product/231854680_1_1735051507_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "297302267",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "나이키x피스마이너스원 2+1 권도 자켓 L 새상품 마지막 가격",
-        "price_updates": [
-            {
-                "1730512516": "190000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/297302267_1_1730341944_w{res}.jpg",
-        "status": "3",
-        "category_id": "320300400",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "295378552",
@@ -4973,7 +5021,7 @@
         "product_image": "https://media.bunjang.co.kr/product/295378552_1_1736825650_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "288687472",
@@ -4989,7 +5037,7 @@
         "product_image": "https://media.bunjang.co.kr/product/288687472_1_1734540968_w{res}.jpg",
         "status": "3",
         "category_id": "320210100",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "273637367",
@@ -5005,7 +5053,7 @@
         "product_image": "https://media.bunjang.co.kr/product/273637367_1_1718875583_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "242682758",
@@ -5021,7 +5069,7 @@
         "product_image": "https://media.bunjang.co.kr/product/242682758_1_1738684903_w{res}.jpg",
         "status": "3",
         "category_id": "320210200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "236136145",
@@ -5037,7 +5085,7 @@
         "product_image": "https://media.bunjang.co.kr/product/236136145_1_1732032285_w{res}.jpg",
         "status": "3",
         "category_id": "320120300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "222870244",
@@ -5053,7 +5101,7 @@
         "product_image": "https://media.bunjang.co.kr/product/222870244_1_1683031424_w{res}.jpg",
         "status": "3",
         "category_id": "320120999",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "211356503",
@@ -5069,7 +5117,7 @@
         "product_image": "https://media.bunjang.co.kr/product/211356503_1_1673766365_w{res}.jpg",
         "status": "3",
         "category_id": "320300200",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     },
     {
         "pid": "195166925",
@@ -5085,22 +5133,6 @@
         "product_image": "https://media.bunjang.co.kr/product/195166925_1_1659942077_w{res}.jpg",
         "status": "3",
         "category_id": "320210600",
-        "collected_timestamp": "2025-03-16 03:12:40"
-    },
-    {
-        "pid": "183344538",
-        "brands": [
-            "피스마이너스원"
-        ],
-        "name": "[OS] 피스마이너스원 반다나 슬리브리스 블루",
-        "price_updates": [
-            {
-                "1648383775": "230000"
-            }
-        ],
-        "product_image": "https://media.bunjang.co.kr/product/183344538_1_1734356707_w{res}.jpg",
-        "status": "3",
-        "category_id": "320210300",
-        "collected_timestamp": "2025-03-16 03:12:40"
+        "collected_timestamp": "2025-03-17 06:13:23"
     }
 ]

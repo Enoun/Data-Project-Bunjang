@@ -88,7 +88,7 @@ docker-compose up -d
 
 ##### 프로젝트 구조
 
-'''bash
+```bash
 data-pipeline-project/
 └── airflow-project/
     ├── Dockerfile.airflow
@@ -118,3 +118,4 @@ data-pipeline-project/
     │   └── namenode/                      # Hadoop Namenode 관련 파일
     └── spark/                             # Hadoop Spark 관련 파일
         └── spark_etl.py
+```

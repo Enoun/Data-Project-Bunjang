@@ -88,6 +88,7 @@ docker-compose up -d
 
 ##### 프로젝트 구조
 
+'''bash
 data-pipeline-project/
 └── airflow-project/
     ├── Dockerfile.airflow

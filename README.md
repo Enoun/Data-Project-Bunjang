@@ -58,7 +58,7 @@ docker-compose up -d
 
 #### merge:
 
-- 트리거를 받으면 받은 순서대로 데이터베이스를 업데이트합니다. 원래는 HDFS를 사용하였으나, 현재는 Elasticsearch를 이용 중입니다.
+- 트리거를 받으면 받은 순서대로 데이터베이스를 업데이트합니다. 기존에는 HDFS를 사용하였으나, 현재는 Elasticsearch를 이용 중입니다.
 
 #### 데이터 구조 예시
 
@@ -102,7 +102,7 @@ data-pipeline-project/
     │   │   └── merge_release.py
     │   ├── modules/                       # Python 모듈
     │   │   └── bunjang_crawler.py
-    |   └── output/                        # 출력 데이터
+    │   └── output/                        # 출력 데이터
     ├── docker-compose.override.yml       
     ├── docker-compose.yml                 # Docker Compose 파일
     ├── hadoop/                            # Hadoop 관련 파일
